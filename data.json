@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:33:26.625Z",
+  "updated": "2026-07-17T23:14:16.240Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.13,
-      "display": "4.13",
-      "change": -0.04999999999999982,
-      "changePct": -1.196,
-      "date": "2026-07-15",
+      "value": 4.16,
+      "display": "4.16",
+      "change": 0.03000000000000025,
+      "changePct": 0.726,
+      "date": "2026-07-16",
       "spark": [
-        4.05,
         4.08,
         4.05,
         4.17,
@@ -1400,7 +1399,8 @@
         4.21,
         4.26,
         4.18,
-        4.13
+        4.13,
+        4.16
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.55,
-      "display": "4.55",
-      "change": -0.03000000000000025,
-      "changePct": -0.655,
-      "date": "2026-07-15",
+      "value": 4.57,
+      "display": "4.57",
+      "change": 0.020000000000000462,
+      "changePct": 0.44,
+      "date": "2026-07-16",
       "spark": [
-        4.46,
         4.49,
         4.47,
         4.55,
@@ -1443,7 +1442,8 @@
         4.56,
         4.62,
         4.58,
-        4.55
+        4.55,
+        4.57
       ],
       "unit": "",
       "suffix": ""
@@ -1451,22 +1451,28 @@
   },
   "news": [
     {
-      "title": "Gold set for biggest weekly drop in six on inflation, rate-hike worries",
+      "title": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-17T03:34:00.000Z"
+      "publishedAt": "2026-07-17T18:44:30.000Z"
     },
     {
-      "title": "Dollar steady but set for weekly drop on fading US rate hike bets",
+      "title": "Dollar holds steady on safe-haven demand, ends down on the week",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzlGV29IaFlLeXlncnYxUzVfZ25nVGhxSjU0aGtZTjRlODMxa2hMWk5zSUVhZzFCMS1vLUhxTE5oTHpZazA1eDdjQ1dkYzUyZHBNeFN3WGtEODlIbHFHNWRuYW54S1Naa0Qyd2hXYV9taWY1aHZJYnhBSk1QT3Q0TWZqd2dRWGZkeEZjRnJHaUlRRUV5Y0pPZ1lVMlF6VFlERXRYWWxZYkNiQ1E?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-17T12:06:08.000Z"
+      "publishedAt": "2026-07-17T20:10:12.000Z"
     },
     {
-      "title": "Global stocks drop on growing semiconductor rout; oil set for weekly gain",
+      "title": "World stocks fall in semiconductor rout; oil rises on Middle East escalation",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-17T01:16:00.000Z"
+    },
+    {
+      "title": "Fed rate-hike voices swell before July decision, rates still seen on hold",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1g1bEw4cTg3OFRTdGhlT3N3eF9NVklLM204aVQwbkowQ0hvcU1yOHhsZXZlcXZBTXY3Zl9xRTdjSHRCY1NtNnV0TndVRkI4anNtSzVyeEhOT2Vnd0NLaWNvNnlzRkdkMFlLTENvY0pNQTFVTE9JaUlvaXpkeFhmZ0VMQXBVdVpFZ1JPdjNubGVOelFUVUlCdmVKLUFDU25CR2U0MDJOU2QxVXJOSndOOW4td0U?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-17T18:59:42.000Z"
     },
     {
       "title": "Fed's Logan calls for 'modestly higher' interest rates",
@@ -1475,28 +1481,22 @@
       "publishedAt": "2026-07-16T17:19:46.000Z"
     },
     {
+      "title": "'Bloodbath': Analysts react to Asian shares sinking on tech selloff",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVJOZngtYmRxdXlreVFWNDhPaFpsZ254UkJxT0ZhMk9jSlR0RkhWeEtMNHgwZlk1TWk0dG8yaTQ3TVJfaXdoY2lpQ2lLTV9TX0djRVRwUkp1cDFjSzBIOXRIeHozeHZBcl9neWV1T0RQVms2Z2xrV3pHelRjQTVaUDdiWVdLQnFB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-17T07:27:43.000Z"
+    },
+    {
       "title": "Chipmakers put pressure on equity indexes globally, oil dips",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzEtUE5IX0ZhajhxclVEalRCODR4QWpsVTNmWHFYZkpvXy1jTy10ZGJmVEZ4SVFKT1BkSkF2OTdzTXd6WE1tWk5OMEV2ajVLOGhnaUlER3pKbnZ5SHhSdGcxSG83RTVIckFaOUp6Z0x2T1FKUGo2M0V6YzhQRnFOLTlRcw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-16T02:09:00.000Z"
     },
     {
-      "title": "Gold falls 2% as escalating Middle East tensions reinforce US rate-hike bets",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVRHTF9hUEdzeEVCU1g0SGhqcERsYWw1YnlkNUZ3X3hEbmpqN0RMLWM0YjlhSHpKSll3akpfaU5UMHctSERsNmxMMW1nLUgwd1NhSjhvN3kyNklCbGhhLUtyWnZLV1FCMlluTE9uT25wdS04akQxQWQ0VnhSZnFaSk14Tmt1MHRSZXNlZkRMcmJjT3k1LTVpaURWTFNQQlF3YmdDeA?oc=5",
+      "title": "BofA names senior executives to drive AI adoption in global markets-memo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm5GWmRkcjh4Y0ZiMnFJWmdMdG1aWkppb21rYVhnakRMZ2hSdnRuTmx2N2NrZVl3Y3BLd0h2LUlqcUhBX0ZzbFFaQTRybDZUMXBHaVd2Rl8wTnB3WUJKNmR6b2ZsdmE3Z1lrYVdsN1RPOGg0VTloX24zYVBaQlk0UGFPTUhkOTBtS0Y3bGcxN0F1cnZCc243VXNtODMtOGtCTWxRN0g3c0JObUlpRjJLZkFtdDVzaHJBYVIzTWZvUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-16T04:19:00.000Z"
-    },
-    {
-      "title": "Dollar firms as US-Iran tensions renew oil price risk",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmF3R1ZHV3lranY1VmN0b3gxUTJtUnAtVUJSSVFJRnBBX2hnVVBCcXJrOVBiZ09jcEtVS3dYSG03SzJocnZvWXJpRXVLdEp4dTBJcWtLX19aeUstOW9FdzFtVFNQeTF6YU1sc1FvZDVWMG5nSGVlZ2IweHE0YXhqMmVZN3VHblZKZ1FmT2dQYVlXWHoxcGE3bkxGWHd0SjJIQzdjN3BWNy1tenk0RVcyNVFn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-16T01:54:00.000Z"
-    },
-    {
-      "title": "ECB to hold rates now but energy price resurgence points to September hike: Reuters poll",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW80U2Y3bTZFVzNoNnF1QnBMMWxKc3J5X3NNR2ZUSkRjdWhpcHUtN3dvcDhWTWVZZVFydVgtczNSXzRpaGJwYk1lZ2RuM2VaemhaNGtFZ1U1c05Ka1JUWlAzR2V4ZnY1SEJHeXZOOWpJX3ROblR3QnBvMnlvZWc0NDE3eE16MHJKTFE3OTk1NjFFMzJqRnlHYXdKV2lYS3Btd0thR184MzdhN3EtMVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-16T12:40:16.000Z"
+      "publishedAt": "2026-07-17T16:09:51.000Z"
     }
   ]
 }
