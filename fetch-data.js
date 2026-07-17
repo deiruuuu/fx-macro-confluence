@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * FX Macro Confluence — data fetcher & compute engine
+ * FX Macro Confluence - data fetcher & compute engine
  *
  * Sources (as chosen): FRED for all market/economic data, Reuters for news.
  * Runs server-side (GitHub Actions) so API keys stay secret and CORS is a non-issue.
@@ -21,7 +21,7 @@ const path = require("path");
 const FRED_KEY = process.env.FRED_API_KEY;
 const OUT = path.join(__dirname, "data.json");
 
-// ── Series definitions ───────────────────────────────────────────
+// -- Series definitions -------------------------------------------
 const MARKETS = [
   { id: "dxy",   label: "DXY",     series: "DTWEXBGS",         dp: 2, comma: false },
   { id: "sp500", label: "S&P 500", series: "SP500",            dp: 0, comma: true  },
@@ -31,7 +31,7 @@ const MARKETS = [
   { id: "btc",   label: "BTC",     series: "CBBTCUSD",         dp: 0, comma: true  },
 ];
 
-// FX pairs — each maps to one FRED series with the correct orientation.
+// FX pairs - each maps to one FRED series with the correct orientation.
 // DEXUS** = USD per foreign (EUR/GBP/AUD/NZD).  DEX**US = foreign per USD (JPY/CAD/CHF).
 const FX = [
   { sym: "EURUSD", series: "DEXUSEU", dp: 5 },
@@ -63,27 +63,55 @@ const CURVE = [
   { id: "y10", label: "10-Yr", series: "DGS10", dp: 2 },
 ];
 
-// ── FRED fetch (with tiny in-run cache; VIX appears twice) ────────
+// -- FRED fetch (with tiny in-run cache; VIX appears twice) --------
 const _cache = {};
+const sleep = function (ms) { return new Promise(function (r) { setTimeout(r, ms); }); };
+
 async function fredSeries(seriesId) {
   if (_cache[seriesId]) return _cache[seriesId];
   const url =
     "https://api.stlouisfed.org/fred/series/observations" +
     "?series_id=" + seriesId + "&api_key=" + FRED_KEY + "&file_type=json" +
     "&sort_order=desc&limit=400";
-  const res = await fetch(url);
-  if (!res.ok) throw new Error("FRED " + seriesId + " -> HTTP " + res.status);
-  const json = await res.json();
-  const obs = (json.observations || [])
-    .filter(function (o) { return o.value !== "."; })
-    .map(function (o) { return { date: o.date, value: parseFloat(o.value) }; }); // newest-first
-  _cache[seriesId] = obs;
-  return obs;
+
+  // Retry with backoff on transient failures (network/SSL drops, 429, 5xx).
+  // A 4xx like 400 (bad key / bad series) is permanent, so we fail fast on it.
+  const MAX_ATTEMPTS = 3;
+  let lastErr;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) {
+        const retryable = res.status === 429 || res.status >= 500;
+        if (retryable && attempt < MAX_ATTEMPTS) {
+          lastErr = new Error("HTTP " + res.status);
+          await sleep(attempt * 800);
+          continue;
+        }
+        throw new Error("FRED " + seriesId + " -> HTTP " + res.status);
+      }
+      const json = await res.json();
+      const obs = (json.observations || [])
+        .filter(function (o) { return o.value !== "."; })
+        .map(function (o) { return { date: o.date, value: parseFloat(o.value) }; }); // newest-first
+      _cache[seriesId] = obs;
+      return obs;
+    } catch (err) {
+      lastErr = err;
+      // network / SSL error - retry unless it's the permanent HTTP error we threw above
+      if (attempt < MAX_ATTEMPTS && !/-> HTTP/.test(String(err.message))) {
+        await sleep(attempt * 800);
+        continue;
+      }
+      throw lastErr;
+    }
+  }
+  throw lastErr;
 }
 
-// ── Formatting helpers ───────────────────────────────────────────
+// -- Formatting helpers -------------------------------------------
 function fmt(v, dp, comma) {
-  if (v === null || v === undefined || Number.isNaN(v)) return "—";
+  if (v === null || v === undefined || Number.isNaN(v)) return "-";
   const n = Number(v).toFixed(dp);
   if (!comma) return n;
   const parts = n.split(".");
@@ -91,7 +119,7 @@ function fmt(v, dp, comma) {
   return parts[1] ? withC + "." + parts[1] : withC;
 }
 
-// ── Technical indicators (on old->new close arrays) ───────────────
+// -- Technical indicators (on old->new close arrays) ---------------
 function ema(a, period) {
   if (a.length < period) return null;
   const k = 2 / (period + 1);
@@ -247,7 +275,7 @@ async function buildFx() {
   return out;
 }
 
-// Reuters headlines — pulled from Google News' free RSS filtered to reuters.com.
+// Reuters headlines - pulled from Google News' free RSS filtered to reuters.com.
 // No API key required. Markets/economy focused via the query terms.
 function decodeEntities(s) {
   return (s || "")
@@ -274,7 +302,7 @@ async function buildNews() {
         title: t,
         url: link.trim(),
         source: "Reuters",
-        publishedAt: pub ? new Date(pub).toISOString() : null,
+        publishedAt: pub ? new Date(pub).toISOString() : null
       });
       if (out.length >= 8) break;
     }
