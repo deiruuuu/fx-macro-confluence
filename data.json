@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T23:31:54.581Z",
+  "updated": "2026-07-21T15:22:50.056Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2516.55,
-      "display": "2,516.55",
-      "change": 21.75,
-      "changePct": 0.872,
-      "date": "2026-07-17",
+      "value": 2514.14,
+      "display": "2,514.14",
+      "change": -2.4100000000003092,
+      "changePct": -0.096,
+      "date": "2026-07-20",
       "spark": [
-        2887.15,
         2790.34,
         2797.56,
         2756.69,
@@ -125,7 +124,8 @@
         2534.74,
         2536.94,
         2494.8,
-        2516.55
+        2516.55,
+        2514.14
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 18.77,
-      "display": "18.77",
-      "change": 2.039999999999999,
-      "changePct": 12.194,
-      "date": "2026-07-17",
+      "value": 18.65,
+      "display": "18.65",
+      "change": -0.120000000000001,
+      "changePct": -0.639,
+      "date": "2026-07-20",
       "spark": [
-        18.92,
         19.87,
         22.22,
         19.44,
@@ -211,7 +210,8 @@
         16.5,
         15.67,
         16.73,
-        18.77
+        18.77,
+        18.65
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 64571.18,
-      "display": "64,571",
-      "change": -222.58000000000175,
-      "changePct": -0.344,
-      "date": "2026-07-19",
+      "value": 65151.3,
+      "display": "65,151",
+      "change": 580.1200000000026,
+      "changePct": 0.898,
+      "date": "2026-07-20",
       "spark": [
-        64180,
         63321.17,
         63932.91,
         62689.99,
@@ -254,7 +253,8 @@
         63746.78,
         63900.18,
         64793.76,
-        64571.18
+        64571.18,
+        65151.3
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 18.77,
-      "display": "18.77",
-      "change": 2.039999999999999,
-      "changePct": 12.194,
-      "date": "2026-07-17",
+      "value": 18.65,
+      "display": "18.65",
+      "change": -0.120000000000001,
+      "changePct": -0.639,
+      "date": "2026-07-20",
       "spark": [
-        18.92,
         19.87,
         22.22,
         19.44,
@@ -1355,7 +1354,8 @@
         16.5,
         15.67,
         16.73,
-        18.77
+        18.77,
+        18.65
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,12 @@
   },
   "news": [
     {
+      "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-21T12:33:44.000Z"
+    },
+    {
       "title": "Archer, Anduril unveil autonomous aircraft platform for defense, commercial markets",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUp1THdZWmhoVzlGQUNxX3c0emJSTDdZZjFnVktKTThZZk5ZUWhPWmY3WmxyMGZhQzlhaS0zVXE2V3pEa1pqRjFFSG4zSjhDUlpwVm42R2dPTGpnZjgwczhiZmFFekJkVjFWUnJpX1V2R21TQV9WSXZTMHYxa1M1OUQyN3BKMk5vN3dJUl9YTDNFZ1NMTW1USHYwY1FKYmdRVXNSMENoQ1NsZUw0VWxZMHFoY09OLU8zMGUtMWtiOTJVZzhSUGMyQW9pRXFGNVFnTWhTNFdRWQ?oc=5",
       "source": "Reuters",
@@ -1463,40 +1469,34 @@
       "publishedAt": "2026-07-20T01:40:00.000Z"
     },
     {
-      "title": "Dollar gains as US-Iran conflict intensifies; sterling gives back gains",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-19T23:46:00.000Z"
-    },
-    {
-      "title": "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR01HZHVDNUtrR0hhUmxCcmFSdU5ibzN6Q0dQRjFkeWdZMmxEcVE5VXo1YUpZYy1laXJzNVdTNzJFd1kzV0g0LUtYaTlPOEdua20xRFRpbXdZTGJEdjNSU2RqblNDZW8taTdCdXY4bEQzakpNVjYwU3IwN0tRMW1kMGIzbENhdmU4VldKXzFjWWVUMGV4bDdaczFNQlZuZlM1YWxUYzB1NmlKd2VwUV9ubmdqQTEyTUxoMXVQekZEbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-20T05:02:00.000Z"
-    },
-    {
       "title": "Mexico economy to grow less than previously expected on trade concerns",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnMwVU04TFhaaTU3YjRjLUhFNXBuRmc4TlJzcnlrZGVYY3NGTldnR3lnb3hXS1ZqSUV0TjI3QXFlekNUOGl4T0FvdGNUNktKaVRYWUIxbVlaWnJ1dDQ5U05ZT0ZkVWhnOGZCM2dYNG5fb0N0VlZGdTZHVHhRdGpxUEJESTVfU1dONDBaSjBOMkctWGktMUtJNGVublZTblRvY0liU1hZbDNuVUp6aWJrUmhBZE1wZw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-20T14:05:44.000Z"
     },
     {
-      "title": "ECB survey sees moderating wage demands, selling price growth",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFhjdzJHbW5DQTFnZ2FaZHlrTWltc1p0ZUZKbXFFZEZLTU1LbTFTZFg4djQ2VU1vcGtkQUhpM2V4NkJWRmVaaWtITE5iLVFjcUlMSGZuQTRvRkx4SGZKNnUxR2ZaUGhrbF9zTjVicW5lc05PdkNDVzRhYWxqTWY1WER4REhuSnMzbWlSX0pYWHhXanRGcE9Fa1dhVWFpU3doQmpudlZCSXg?oc=5",
+      "title": "Korean stock volatility comes to America. Can Wall Street take the heat?",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXFDQXN1ellDbDE1c3NMb1U5TEFTb3hhd1VYdFlvWGRRMFoyLXM3OV9rd3VkeWhmX3BfbklZaWZXLU9GOVFEYXQtNVlLbElsaGtKVENRZGl6dDhoMUh5LUpjeVdLbnJEaEpHZ1M0TWFyMVEtS2d5aC1GQTNGakFFMDFkd1FwZXNCdTI2a0I1MF8yYlV2NG44ejZqSC1OUTM0dUhNNXd1Qmg0b0V1SmxET2g5eFZTUEtJM0RXalVfWVh1aGx3VTRzeW9WaVY?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-20T09:11:44.000Z"
+      "publishedAt": "2026-07-20T13:18:22.000Z"
     },
     {
-      "title": "Markets price in two ECB rate hikes by early 2027 on inflation concerns",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkowLVJjV21CdV9TQWhVNDFRRXJEeUFFUk0zanFiek94a2ExaGpxM0dNTWpXdFkxYWpZejdkT3Qwd2Exd25QeVNaTlJYQV9VRzdqRElZb01wMkNWNmJNWTB2TzVkUWFSUkxyXzlBUHFwZ1Q2YmVoaXpWNU1EanZTb2hqMnFBMllPZ3prem9kUk1HTTFma2hTV3ZNc3V2UEVmWVVyd1RJeW4?oc=5",
+      "title": "Dollar steady as investors weigh Middle East jitters against softer inflation data",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTNMOHhuSm5hVng5aTF1WUV1emN4ZjdEYlFCWlMtaUhoWWVTRTQ0NzdFNUotQnNIRFI1Sm5tWUlyLWZDZ1NnVGY3endKSktjMTMtVHNXU2E1UEtfS0U2UFZwX1NWbVdoYjhLaWpocVRmalNzLUh3aHI3cWFBVTBRanRIaXdSRzdLbnNEWFUtQS1CWW9hUlhIZUNRR2dCeXpCYVgxOVF5RVpGN0FRU203NTRxZGk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-20T15:24:03.000Z"
+      "publishedAt": "2026-07-21T01:35:00.000Z"
     },
     {
-      "title": "India markets regulator penalises depository over 2022 malware attack",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTVrTTlOMFduamtVazh4UGk5Ym9NTUJaMVVXcHIxNGE0YkcwNGpReWlCc2VweWlVQXNYZzFMNmJVdllYOW5ESHBWOUhMRElveWIxNmVGVEdGaU4yQU5nVGhWYlZxdkJKZXVqWWZiQV9HQlVsOFZJNU1GbC1na2hYalh4bWlOYXctNzNtWUMybkFJZUFad2R6TmJqMFYtQlJNbE5IdTJ5LUNSbFc2WmRjM0NoNktYR0pBTTUtOUJtYw?oc=5",
+      "title": "Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-20T19:26:24.000Z"
+      "publishedAt": "2026-07-19T23:46:00.000Z"
+    },
+    {
+      "title": "Euro zone banks tighten credit access on war fears",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZCTEdpTzdNc3hPTDRkMTIzYUlFcTdVSXJDR0FFM2x3SlZfZko1VkVfUVV2RFpfd0pLUWpwQVBCZXpJSzNTekgyMTNnOUVGUkhhOWpwTjVwS0owQm9ZbnRra0hyUWZiekxpSjk4TTlhUzhGOHJnazRHM1JKQ3Nvc0FFN0R3MGY2VnBydTBmYkNHV1AzT3ptZTlLRjBOLXY5Y2c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-21T08:05:44.000Z"
     }
   ]
 }
