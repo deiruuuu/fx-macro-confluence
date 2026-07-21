@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T15:22:50.056Z",
+  "updated": "2026-07-21T23:29:48.988Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7457.69,
-      "display": "7,458",
-      "change": -76.08000000000084,
-      "changePct": -1.01,
-      "date": "2026-07-17",
+      "value": 7443.28,
+      "display": "7,443",
+      "change": -14.409999999999854,
+      "changePct": -0.193,
+      "date": "2026-07-20",
       "spark": [
-        7584.31,
         7383.74,
         7405.73,
         7386.65,
@@ -82,7 +81,8 @@
         7543.59,
         7572.4,
         7533.77,
-        7457.69
+        7457.69,
+        7443.28
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.18,
-      "display": "4.18",
-      "change": 0.019999999999999574,
-      "changePct": 0.481,
-      "date": "2026-07-17",
+      "value": 4.21,
+      "display": "4.21",
+      "change": 0.03000000000000025,
+      "changePct": 0.718,
+      "date": "2026-07-20",
       "spark": [
-        4.05,
         4.17,
         4.15,
         4.13,
@@ -1400,7 +1399,8 @@
         4.18,
         4.13,
         4.16,
-        4.18
+        4.18,
+        4.21
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.55,
-      "display": "4.55",
-      "change": -0.020000000000000462,
-      "changePct": -0.438,
-      "date": "2026-07-17",
+      "value": 4.6,
+      "display": "4.60",
+      "change": 0.04999999999999982,
+      "changePct": 1.099,
+      "date": "2026-07-20",
       "spark": [
-        4.47,
         4.55,
         4.56,
         4.53,
@@ -1443,7 +1442,8 @@
         4.58,
         4.55,
         4.57,
-        4.55
+        4.55,
+        4.6
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,22 @@
   },
   "news": [
     {
+      "title": "Fed to hold rates this year despite high inflation, but economists cite high chances of a hike: Reuters poll",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbV84YkM0QzhTaXRsOEtPMjNQX3RvVnBaNmZtQ1dTalN2bkRmczlkOTViLVAzRTJRYjVuSi1RNlNXQ2M4dW0tN3FPNk9BRGQxeGtLc3dteklTblBWN3VPemVEQWtOaTVkOVpBRDdNenZBQWtzX1FiQ2lZdkRodWtqamxXTks2eFQzZkMwcW5CejdVem9ESU9HNFQ1YkZrUXBGa2dpX1lKcGx0WXN2STJVanMyUFRvVFNsZWc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-21T12:42:39.000Z"
+    },
+    {
       "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-21T12:33:44.000Z"
+    },
+    {
+      "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTNMOHhuSm5hVng5aTF1WUV1emN4ZjdEYlFCWlMtaUhoWWVTRTQ0NzdFNUotQnNIRFI1Sm5tWUlyLWZDZ1NnVGY3endKSktjMTMtVHNXU2E1UEtfS0U2UFZwX1NWbVdoYjhLaWpocVRmalNzLUh3aHI3cWFBVTBRanRIaXdSRzdLbnNEWFUtQS1CWW9hUlhIZUNRR2dCeXpCYVgxOVF5RVpGN0FRU203NTRxZGk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-21T01:35:00.000Z"
     },
     {
       "title": "Archer, Anduril unveil autonomous aircraft platform for defense, commercial markets",
@@ -1469,34 +1481,22 @@
       "publishedAt": "2026-07-20T01:40:00.000Z"
     },
     {
-      "title": "Mexico economy to grow less than previously expected on trade concerns",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnMwVU04TFhaaTU3YjRjLUhFNXBuRmc4TlJzcnlrZGVYY3NGTldnR3lnb3hXS1ZqSUV0TjI3QXFlekNUOGl4T0FvdGNUNktKaVRYWUIxbVlaWnJ1dDQ5U05ZT0ZkVWhnOGZCM2dYNG5fb0N0VlZGdTZHVHhRdGpxUEJESTVfU1dONDBaSjBOMkctWGktMUtJNGVublZTblRvY0liU1hZbDNuVUp6aWJrUmhBZE1wZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-20T14:05:44.000Z"
-    },
-    {
       "title": "Korean stock volatility comes to America. Can Wall Street take the heat?",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXFDQXN1ellDbDE1c3NMb1U5TEFTb3hhd1VYdFlvWGRRMFoyLXM3OV9rd3VkeWhmX3BfbklZaWZXLU9GOVFEYXQtNVlLbElsaGtKVENRZGl6dDhoMUh5LUpjeVdLbnJEaEpHZ1M0TWFyMVEtS2d5aC1GQTNGakFFMDFkd1FwZXNCdTI2a0I1MF8yYlV2NG44ejZqSC1OUTM0dUhNNXd1Qmg0b0V1SmxET2g5eFZTUEtJM0RXalVfWVh1aGx3VTRzeW9WaVY?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-20T13:18:22.000Z"
     },
     {
-      "title": "Dollar steady as investors weigh Middle East jitters against softer inflation data",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTNMOHhuSm5hVng5aTF1WUV1emN4ZjdEYlFCWlMtaUhoWWVTRTQ0NzdFNUotQnNIRFI1Sm5tWUlyLWZDZ1NnVGY3endKSktjMTMtVHNXU2E1UEtfS0U2UFZwX1NWbVdoYjhLaWpocVRmalNzLUh3aHI3cWFBVTBRanRIaXdSRzdLbnNEWFUtQS1CWW9hUlhIZUNRR2dCeXpCYVgxOVF5RVpGN0FRU203NTRxZGk?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-21T01:35:00.000Z"
-    },
-    {
-      "title": "Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-19T23:46:00.000Z"
-    },
-    {
       "title": "Euro zone banks tighten credit access on war fears",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZCTEdpTzdNc3hPTDRkMTIzYUlFcTdVSXJDR0FFM2x3SlZfZko1VkVfUVV2RFpfd0pLUWpwQVBCZXpJSzNTekgyMTNnOUVGUkhhOWpwTjVwS0owQm9ZbnRra0hyUWZiekxpSjk4TTlhUzhGOHJnazRHM1JKQ3Nvc0FFN0R3MGY2VnBydTBmYkNHV1AzT3ptZTlLRjBOLXY5Y2c?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-21T08:05:44.000Z"
+    },
+    {
+      "title": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzd0Umk1OW1RQU1HR0pWVnZCMy1PeTRnRHBSM3ZlZ09YZnU1NnFBWmE1bm5BcFVXZC1mNFA5UHNTcFJzMmktcVFNYzRuWnhhNHZ2bHhYMEgxdjhIcWdMakFIOVNZUHNWNVJPaTgtR25qMTA3b013UG44aEI3VTI5c1BwVXdka2dlZUcxT1B2M3dzLXR1VWhyTGpZT3NFandWWDdZTHh3ZTUtbXdiWXNUTTFIdXhYNXVRNlpXbE5aQXdOeTY2?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-21T12:12:09.000Z"
     }
   ]
 }
