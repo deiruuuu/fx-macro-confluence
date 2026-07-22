@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T15:20:36.345Z",
+  "updated": "2026-07-22T23:31:17.472Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -133,17 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 79.2,
-      "display": "79.20",
-      "change": 6.75,
-      "changePct": 9.317,
-      "date": "2026-07-13",
+      "value": 84.38,
+      "display": "84.38",
+      "change": 0.9499999999999886,
+      "changePct": 1.139,
+      "date": "2026-07-20",
       "spark": [
-        91.16,
-        95.96,
-        97.47,
-        99.76,
-        96.83,
         94.32,
         95,
         91.9,
@@ -168,7 +163,12 @@
         74.56,
         73.15,
         72.45,
-        79.2
+        79.2,
+        80.44,
+        80.73,
+        80.03,
+        83.43,
+        84.38
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.21,
-      "display": "4.21",
-      "change": 0.03000000000000025,
-      "changePct": 0.718,
-      "date": "2026-07-20",
+      "value": 4.26,
+      "display": "4.26",
+      "change": 0.04999999999999982,
+      "changePct": 1.188,
+      "date": "2026-07-21",
       "spark": [
-        4.17,
         4.15,
         4.13,
         4.13,
@@ -1400,7 +1399,8 @@
         4.13,
         4.16,
         4.18,
-        4.21
+        4.21,
+        4.26
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.6,
-      "display": "4.60",
-      "change": 0.04999999999999982,
-      "changePct": 1.099,
-      "date": "2026-07-20",
+      "value": 4.63,
+      "display": "4.63",
+      "change": 0.03000000000000025,
+      "changePct": 0.652,
+      "date": "2026-07-21",
       "spark": [
-        4.55,
         4.56,
         4.53,
         4.55,
@@ -1443,7 +1442,8 @@
         4.55,
         4.57,
         4.55,
-        4.6
+        4.6,
+        4.63
       ],
       "unit": "",
       "suffix": ""
@@ -1451,7 +1451,7 @@
   },
   "news": [
     {
-      "title": "Gold firms to two-week peak on softer dollar; Fed outlook in focus",
+      "title": "Gold firms to two-week peak on softer dollar, Fed outlook in focus",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhsalF5aHFJNWhKX1N0MFJGc2tUSkUtZnN2Qk43cW5leGhtZkFaenZuWWJ0SDRiZ2xuVDNhMG0teU5JeDZhRGRMV0xNSDFoQlF2akZ5OWlYbmRGRDNIa3VtNElkZlJLVXczWEdLR2ZfRFJCd0kzaDhYU3pMWEhGMnp4S0N5THd0YUZvVkhuNUJJbzgxaTJfRzdSamd3a0gxc2pjUTEyVUZIWGFEdUc4S012RzVaS0U?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-22T01:51:00.000Z"
@@ -1460,7 +1460,13 @@
       "title": "UK inflation slows in temporary boost for new PM Burnham",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-22T13:29:41.000Z"
+      "publishedAt": "2026-07-22T06:03:00.000Z"
+    },
+    {
+      "title": "Dollar edges lower after four-day run of gains, yen stalled near 40-year low",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3RMUXd4M1UyclB5ZTk0NFNtODJrUkNHbTZyNVNjclV6NF9OMng3RmtsVkhNd1EzTnhDUjBFUmFLU2FNQTA1aFlhTWlvWnBfS294eWVJVDRWaHFGa21VSURnd1NWbEp1LWlYcXdFQWhzbS1leTB6SGpRVzR0SVNoaDBCTlpzTDNMUXh2bi02YzhjSEpEbnFDaFJMZw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-22T00:54:00.000Z"
     },
     {
       "title": "Fed to hold rates this year despite high inflation, but economists cite high chances of a hike: Reuters poll",
@@ -1469,34 +1475,28 @@
       "publishedAt": "2026-07-21T12:42:39.000Z"
     },
     {
-      "title": "Yen steadies near 40-year low on rate-hike bets, intervention talks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3RMUXd4M1UyclB5ZTk0NFNtODJrUkNHbTZyNVNjclV6NF9OMng3RmtsVkhNd1EzTnhDUjBFUmFLU2FNQTA1aFlhTWlvWnBfS294eWVJVDRWaHFGa21VSURnd1NWbEp1LWlYcXdFQWhzbS1leTB6SGpRVzR0SVNoaDBCTlpzTDNMUXh2bi02YzhjSEpEbnFDaFJMZw?oc=5",
+      "title": "Treasury's Bessent welcomes Pakistan's reforms, push to return to capital markets",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmotV1o0c19pVUZXODdpTzljcDZmTzZHYi01WGk5MUcwRlZKaEtYOG53SDlTaWNMSnRfV2NrMGZJdG5zall1b2dxMnpOWUY5di1SaktaNFZSdjVxZ0cwaU5TWTAxSkhtbXNqY2JzMkV6c1A3OFU1NkN0RFJXbTA2eXJmUHF5N0JCdWY2OXJLcm5talZPeHhwc25aVXFTVXRZNjRNNmwwWDA1TXFUMU5qZGV1TEZoU3BZQ05RLTZLZWVFOFFUWlE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-22T12:05:41.000Z"
+      "publishedAt": "2026-07-22T21:18:18.000Z"
     },
     {
-      "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTNMOHhuSm5hVng5aTF1WUV1emN4ZjdEYlFCWlMtaUhoWWVTRTQ0NzdFNUotQnNIRFI1Sm5tWUlyLWZDZ1NnVGY3endKSktjMTMtVHNXU2E1UEtfS0U2UFZwX1NWbVdoYjhLaWpocVRmalNzLUh3aHI3cWFBVTBRanRIaXdSRzdLbnNEWFUtQS1CWW9hUlhIZUNRR2dCeXpCYVgxOVF5RVpGN0FRU203NTRxZGk?oc=5",
+      "title": "Escalating Middle East war could slash global growth to 1.3% in 2026, World Bank chief economist says",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFl4WUhRV1FWS2pZbWhhX1RZVm5PQ2pzcWxENjM5dGRYWUZjZEVlMEpac1FFWk9tWkhIZnp6azZiYkI1Ml82VWYzaVBodTZEdHFqYjZWZ01WSnhxNlotUmlObHpocUt1NXdtRGFkRFNodG9MbnJtbkpGWldnQVRVdjI2bnUzaTNETTA0SjBVYU5ueV9MYWpwdzlEQkFEQmpRaDZRRm9FNDFDM3l4Ny1wUFpCT21lWVA5bWpITjFNQV9pTWc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-21T01:35:00.000Z"
+      "publishedAt": "2026-07-22T10:31:38.000Z"
     },
     {
-      "title": "Archer, Anduril unveil autonomous aircraft platform for defense, commercial markets",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUp1THdZWmhoVzlGQUNxX3c0emJSTDdZZjFnVktKTThZZk5ZUWhPWmY3WmxyMGZhQzlhaS0zVXE2V3pEa1pqRjFFSG4zSjhDUlpwVm42R2dPTGpnZjgwczhiZmFFekJkVjFWUnJpX1V2R21TQV9WSXZTMHYxa1M1OUQyN3BKMk5vN3dJUl9YTDNFZ1NMTW1USHYwY1FKYmdRVXNSMENoQ1NsZUw0VWxZMHFoY09OLU8zMGUtMWtiOTJVZzhSUGMyQW9pRXFGNVFnTWhTNFdRWQ?oc=5",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3hPMXk1T0tvYTAyZnFoR3RhYWNfcV9KWTlrbDZEcUIwWXZqVFhxNFdFMEh5NlNLUUQ2UDVJNm9jV2tsZlA5RjhZVEg3RkJxak1OOTJQVGkzQWl0azl2eFJFUHljWE5mdDRDbm9IRGlHUDZwMTJLQUZTNmV4a1hYR09QejhwMG9hRHE1NEZLOVdQckpwRHV2WHNlc2REclItQ2Vld0tyUWhVcUtDQk8tUzZDREpDRmZVS2NVdUw3aTBiTUE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-20T14:31:10.000Z"
+      "publishedAt": "2026-07-22T01:29:00.000Z"
     },
     {
-      "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
+      "title": "Wellington, Vanguard, Blackstone launch funds targeting wealthy investors",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYncyc0xRZmlFNFFBN0ZySkhtNVF2ZWRMQ0ctOTYwWDFITFlzN3M0VkUtUElvdmFKTW5GenUwQ2ZJX3FtQVhkTDE0VDdEemRTUjRJWHA1TmttcUpmcC1UN0picHBPU1FER1dWbTBXM1RTakQzYUctRUVDOTJLbnRVYnJNdXE4MEN2bFNCcm9oTXBITUU3bXp0Wnk0akJoN09HTk1hdWVXVXZDRG5tVmZtSFFEeE9hQlVSWFNISnpRcUdVdzRLREE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-21T12:33:44.000Z"
-    },
-    {
-      "title": "Rising oil prices weigh on US futures ahead of Big Tech results",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-22T01:08:00.000Z"
+      "publishedAt": "2026-07-22T19:26:09.000Z"
     }
   ]
 }
