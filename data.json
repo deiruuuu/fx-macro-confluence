@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T23:29:48.988Z",
+  "updated": "2026-07-22T15:20:36.345Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7443.28,
-      "display": "7,443",
-      "change": -14.409999999999854,
-      "changePct": -0.193,
-      "date": "2026-07-20",
+      "value": 7509.2,
+      "display": "7,509",
+      "change": 65.92000000000007,
+      "changePct": 0.886,
+      "date": "2026-07-21",
       "spark": [
-        7383.74,
         7405.73,
         7386.65,
         7266.99,
@@ -82,7 +81,8 @@
         7572.4,
         7533.77,
         7457.69,
-        7443.28
+        7443.28,
+        7509.2
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2514.14,
-      "display": "2,514.14",
-      "change": -2.4100000000003092,
-      "changePct": -0.096,
-      "date": "2026-07-20",
+      "value": 2555.84,
+      "display": "2,555.84",
+      "change": 41.70000000000027,
+      "changePct": 1.659,
+      "date": "2026-07-21",
       "spark": [
-        2790.34,
         2797.56,
         2756.69,
         2652.79,
@@ -125,7 +124,8 @@
         2536.94,
         2494.8,
         2516.55,
-        2514.14
+        2514.14,
+        2555.84
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 18.65,
-      "display": "18.65",
-      "change": -0.120000000000001,
-      "changePct": -0.639,
-      "date": "2026-07-20",
+      "value": 17.05,
+      "display": "17.05",
+      "change": -1.5999999999999979,
+      "changePct": -8.579,
+      "date": "2026-07-21",
       "spark": [
-        19.87,
         22.22,
         19.44,
         17.68,
@@ -211,7 +210,8 @@
         15.67,
         16.73,
         18.77,
-        18.65
+        18.65,
+        17.05
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 65151.3,
-      "display": "65,151",
-      "change": 580.1200000000026,
-      "changePct": 0.898,
-      "date": "2026-07-20",
+      "value": 66553.73,
+      "display": "66,554",
+      "change": 1402.429999999993,
+      "changePct": 2.153,
+      "date": "2026-07-21",
       "spark": [
-        63321.17,
         63932.91,
         62689.99,
         60950,
@@ -254,7 +253,8 @@
         63900.18,
         64793.76,
         64571.18,
-        65151.3
+        65151.3,
+        66553.73
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 18.65,
-      "display": "18.65",
-      "change": -0.120000000000001,
-      "changePct": -0.639,
-      "date": "2026-07-20",
+      "value": 17.05,
+      "display": "17.05",
+      "change": -1.5999999999999979,
+      "changePct": -8.579,
+      "date": "2026-07-21",
       "spark": [
-        19.87,
         22.22,
         19.44,
         17.68,
@@ -1355,7 +1354,8 @@
         15.67,
         16.73,
         18.77,
-        18.65
+        18.65,
+        17.05
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,28 @@
   },
   "news": [
     {
+      "title": "Gold firms to two-week peak on softer dollar; Fed outlook in focus",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhsalF5aHFJNWhKX1N0MFJGc2tUSkUtZnN2Qk43cW5leGhtZkFaenZuWWJ0SDRiZ2xuVDNhMG0teU5JeDZhRGRMV0xNSDFoQlF2akZ5OWlYbmRGRDNIa3VtNElkZlJLVXczWEdLR2ZfRFJCd0kzaDhYU3pMWEhGMnp4S0N5THd0YUZvVkhuNUJJbzgxaTJfRzdSamd3a0gxc2pjUTEyVUZIWGFEdUc4S012RzVaS0U?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-22T01:51:00.000Z"
+    },
+    {
+      "title": "UK inflation slows in temporary boost for new PM Burnham",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-22T13:29:41.000Z"
+    },
+    {
       "title": "Fed to hold rates this year despite high inflation, but economists cite high chances of a hike: Reuters poll",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbV84YkM0QzhTaXRsOEtPMjNQX3RvVnBaNmZtQ1dTalN2bkRmczlkOTViLVAzRTJRYjVuSi1RNlNXQ2M4dW0tN3FPNk9BRGQxeGtLc3dteklTblBWN3VPemVEQWtOaTVkOVpBRDdNenZBQWtzX1FiQ2lZdkRodWtqamxXTks2eFQzZkMwcW5CejdVem9ESU9HNFQ1YkZrUXBGa2dpX1lKcGx0WXN2STJVanMyUFRvVFNsZWc?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-21T12:42:39.000Z"
     },
     {
-      "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
+      "title": "Yen steadies near 40-year low on rate-hike bets, intervention talks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3RMUXd4M1UyclB5ZTk0NFNtODJrUkNHbTZyNVNjclV6NF9OMng3RmtsVkhNd1EzTnhDUjBFUmFLU2FNQTA1aFlhTWlvWnBfS294eWVJVDRWaHFGa21VSURnd1NWbEp1LWlYcXdFQWhzbS1leTB6SGpRVzR0SVNoaDBCTlpzTDNMUXh2bi02YzhjSEpEbnFDaFJMZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-21T12:33:44.000Z"
+      "publishedAt": "2026-07-22T12:05:41.000Z"
     },
     {
       "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
@@ -1475,28 +1487,16 @@
       "publishedAt": "2026-07-20T14:31:10.000Z"
     },
     {
-      "title": "Gold edges down as US-Iran escalation lifts oil prices, rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhCVlU1TTFYN2VLU1RZSk5va0EtOGxSclUtc2xMM2ZfSTVoSU9LOGVBZzg5NjdfakJNWFUzYUktd3FKX0ptZk5YU2dGWF9BR0xiSm9iS2NMN3pBTkx5RkRHc1BpbUlmQ21WQnVXamd3aFVmZVV3cnVJTjd3MHBmbFhSTmZid3ZZQUx3VWlBODB5TGliVnBma1dJZDl4dGxydTlyWjZB?oc=5",
+      "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-20T01:40:00.000Z"
+      "publishedAt": "2026-07-21T12:33:44.000Z"
     },
     {
-      "title": "Korean stock volatility comes to America. Can Wall Street take the heat?",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXFDQXN1ellDbDE1c3NMb1U5TEFTb3hhd1VYdFlvWGRRMFoyLXM3OV9rd3VkeWhmX3BfbklZaWZXLU9GOVFEYXQtNVlLbElsaGtKVENRZGl6dDhoMUh5LUpjeVdLbnJEaEpHZ1M0TWFyMVEtS2d5aC1GQTNGakFFMDFkd1FwZXNCdTI2a0I1MF8yYlV2NG44ejZqSC1OUTM0dUhNNXd1Qmg0b0V1SmxET2g5eFZTUEtJM0RXalVfWVh1aGx3VTRzeW9WaVY?oc=5",
+      "title": "Rising oil prices weigh on US futures ahead of Big Tech results",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-20T13:18:22.000Z"
-    },
-    {
-      "title": "Euro zone banks tighten credit access on war fears",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZCTEdpTzdNc3hPTDRkMTIzYUlFcTdVSXJDR0FFM2x3SlZfZko1VkVfUVV2RFpfd0pLUWpwQVBCZXpJSzNTekgyMTNnOUVGUkhhOWpwTjVwS0owQm9ZbnRra0hyUWZiekxpSjk4TTlhUzhGOHJnazRHM1JKQ3Nvc0FFN0R3MGY2VnBydTBmYkNHV1AzT3ptZTlLRjBOLXY5Y2c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-21T08:05:44.000Z"
-    },
-    {
-      "title": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzd0Umk1OW1RQU1HR0pWVnZCMy1PeTRnRHBSM3ZlZ09YZnU1NnFBWmE1bm5BcFVXZC1mNFA5UHNTcFJzMmktcVFNYzRuWnhhNHZ2bHhYMEgxdjhIcWdMakFIOVNZUHNWNVJPaTgtR25qMTA3b013UG44aEI3VTI5c1BwVXdka2dlZUcxT1B2M3dzLXR1VWhyTGpZT3NFandWWDdZTHh3ZTUtbXdiWXNUTTFIdXhYNXVRNlpXbE5aQXdOeTY2?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-21T12:12:09.000Z"
+      "publishedAt": "2026-07-22T01:08:00.000Z"
     }
   ]
 }
