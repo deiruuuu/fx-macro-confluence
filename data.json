@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T15:32:03.070Z",
+  "updated": "2026-07-23T23:29:21.616Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.26,
-      "display": "4.26",
+      "value": 4.31,
+      "display": "4.31",
       "change": 0.04999999999999982,
-      "changePct": 1.188,
-      "date": "2026-07-21",
+      "changePct": 1.174,
+      "date": "2026-07-22",
       "spark": [
-        4.15,
         4.13,
         4.13,
         4.05,
@@ -1400,7 +1399,8 @@
         4.16,
         4.18,
         4.21,
-        4.26
+        4.26,
+        4.31
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.63,
-      "display": "4.63",
-      "change": 0.03000000000000025,
-      "changePct": 0.652,
-      "date": "2026-07-21",
+      "value": 4.67,
+      "display": "4.67",
+      "change": 0.040000000000000036,
+      "changePct": 0.864,
+      "date": "2026-07-22",
       "spark": [
-        4.56,
         4.53,
         4.55,
         4.45,
@@ -1443,7 +1442,8 @@
         4.57,
         4.55,
         4.6,
-        4.63
+        4.63,
+        4.67
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,16 @@
   },
   "news": [
     {
+      "title": "EXCLUSIVE: ECB considering several options to mitigate losses, sources say",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYk9vY0NUUGYweEVnendkdlZkMFp2NlRyM184T1FlQzMyRGZLS2RKS0xleHNIZldZVVFxMGZnVnpWUXUySGtReG16cFFIcFgzVS14YWt3T0RGX2k0VTNNWk1uVGhZVkZ3X3pJSnpKSWhwenZCVV9sYXkwa0pCQk1sR19wbzNKSTNlZk1lOGVMbmF0TExfMmpvT3Y4dWhjQ3RkaXNOemtKRDROYktlYUJyUElR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-23T21:23:39.000Z"
+    },
+    {
       "title": "US investors rethink bonds' role as inflation reshapes portfolios",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2VkQ29FZDhPUURWVUZMOUEzWVhTMlBtd3pwZENYa1phWjFNakI4RDRNMVRGbTBReVhhQUREOXhPbTM2NG9rLWdDM0FxNjJCOExOUGhaSWxuMEFSaVNlV3BLajdyOFg2WDJmQlZ4c3dWNnhRYk5adVQ5T0ZvM1BHVDQ3Z2s3Y09oTWYyalN4Wjd3cTM2YlhVeGgxMWNhWmlEYllVTXY3MURka0l4VHBZOGRn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-23T12:24:22.000Z"
+      "publishedAt": "2026-07-23T16:29:47.000Z"
     },
     {
       "title": "Britain's new prime minister hands pubs business rates cut",
@@ -1463,40 +1469,34 @@
       "publishedAt": "2026-07-23T05:16:00.000Z"
     },
     {
-      "title": "Morning Bid: Can markets handle more strait talk?",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIM0RMcy1oWG5LLXp2NHQ1MEpGX0xqWU5peGxCekhzQ1dXUjN3WU5PSXBweXFybDE2RkxlY21VbDBWZUtSbzAteVVsZkR0aUNyS3Y2SW5JZUxBTjV4WG5IdWk4eVpuRVZOdVF3UWRDeXMwQW95ME1YX3VHckpFZVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-23T04:32:00.000Z"
-    },
-    {
       "title": "Stocks sink on Big Tech cash burn; oil hits $100 for first time since May",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01ZXA2WXo2VDZMLUZycUVJVDJ3bTlRSnpyUFg0VnRDUkU1OGVtNGVwQTlSYWgwbjlRRE1NS3RJWE0xTlJrekNsZnJEeHAyZlpGSkJCM2R5LU5uMmFTY2gtS3dmVHBhMGRnZ083S3pycEl0OS1jd2g5SngxQQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-23T01:43:00.000Z"
     },
     {
+      "title": "Morning Bid: Can markets handle more strait talk?",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIM0RMcy1oWG5LLXp2NHQ1MEpGX0xqWU5peGxCekhzQ1dXUjN3WU5PSXBweXFybDE2RkxlY21VbDBWZUtSbzAteVVsZkR0aUNyS3Y2SW5JZUxBTjV4WG5IdWk4eVpuRVZOdVF3UWRDeXMwQW95ME1YX3VHckpFZVE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-23T04:32:00.000Z"
+    },
+    {
       "title": "Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWJ5a0ZfS2ZuNnZ1WEpFWWFfTV9YLWJZT0hmOEhiUFl5OXYtR0UzNEh6UUFSSHFiNURJaHk2dXE1Rmg1V3NRTzlfbGpvQVpoLWVKR1ZjRlprNDJMWFk5SllRRlc1bTkzeFlNM3QyaFZSR2FSRTdIaVo2SWFLbnZqQmJlcTUtV1JOaXVySHNKNGF6TlgxTi1QRnZMeDBHeG9pQlE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-23T01:38:00.000Z"
+      "publishedAt": "2026-07-23T18:36:55.000Z"
     },
     {
-      "title": "Dollar hits fresh 40-year high versus yen, edges higher against euro",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
+      "title": "VIEW ECB leaves rates on hold, but keeps door open to further rate hikes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVdUcy1wVFRLY0tqb3pnRzM1WWFxcTNpUVpjRkZNZnlvdTZrTVp2M25tSzRTcWlVZVFHNVVxT0dEWFBKc2o2NUNMMm1yeEoybldsQUVudy1LYmRqUkhsVzdLWlRwMGFSejFhX3NWdzBEMDVTc2hFaVlOd0xtdmZxNGtWRmNWU2lyYnE4S2hqbDV2MW9rOGpvVWVPNlhpZnltYURONzNtQ2MxZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-23T00:50:00.000Z"
+      "publishedAt": "2026-07-23T12:56:31.000Z"
     },
     {
-      "title": "ECB keeps rates unchanged but September hike stays in play",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlVwWWR4ZHRJQnVaQjNuTEJYWmt6UkF1LWRDREFISGh0UDB3NjVBMkdaMmhaX2pTZkJYRk9aNTRLSjN5Skp3bWJLVFdObjJIMlZxM1ViRVhUZ09qS2Fuc2tPWVhUenBWOS14eVVOYVBDbXBYVVFHUmRhTkEtUUsydlJuQkZpTHh6cGpyOWtFM2Y4UU5UbEpocjREQjE?oc=5",
+      "title": "ECB keeps rates on hold, leaves room for more hikes",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1lBOFNYVWVRdVpiTVRFNEd6T0lSUlhpYWs4b05jblY1Vk9QMVZlZzQ0MUljSHdYTDNCRXVEM2VnQXlmM1pOWGNoYnN6SVhWRW1zYWxwUDhEdFlmYkR2cHpLNDRxMTFaYS1kMXJKU2NGcUttdjRjMl8tVHZyWmJjdUdXQjBROVhuSzI2c2JlSVpVWk9jSUpJTjVJMVA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-22T22:01:00.000Z"
-    },
-    {
-      "title": "Japan finance minister repeats readiness for decisive action on forex",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclhxdVJ3Zk9VSWpoVzdOdU84M1NwaTJnMVQyLTY1bUw1UERFTGNsWTdoTzhDRm1ZQXI5TngybDhGMHotMHl2WFVRSmJwcGpWbEQ3Y1ZGVHpiWmRPX2ZDcEZ2WEdCNk56TU92RTREb1lLbkVWT0F5dXh4LUFaVEN4NHBtbnZKWHJYQUV5ZTFYR1pZVkoxNHpYS0hnZHNJaG1MN2lXRTk4U0JIeGJfM1I2cmhYZGctTWJo?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-23T02:12:03.000Z"
+      "publishedAt": "2026-07-23T12:21:43.000Z"
     }
   ]
 }
