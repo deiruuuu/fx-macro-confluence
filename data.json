@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T15:13:31.476Z",
+  "updated": "2026-07-24T23:34:04.316Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.31,
-      "display": "4.31",
-      "change": 0.04999999999999982,
-      "changePct": 1.174,
-      "date": "2026-07-22",
+      "value": 4.37,
+      "display": "4.37",
+      "change": 0.0600000000000005,
+      "changePct": 1.392,
+      "date": "2026-07-23",
       "spark": [
-        4.13,
         4.13,
         4.05,
         4.09,
@@ -1400,7 +1399,8 @@
         4.18,
         4.21,
         4.26,
-        4.31
+        4.31,
+        4.37
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.67,
-      "display": "4.67",
+      "value": 4.71,
+      "display": "4.71",
       "change": 0.040000000000000036,
-      "changePct": 0.864,
-      "date": "2026-07-22",
+      "changePct": 0.857,
+      "date": "2026-07-23",
       "spark": [
-        4.53,
         4.55,
         4.45,
         4.48,
@@ -1443,7 +1442,8 @@
         4.55,
         4.6,
         4.63,
-        4.67
+        4.67,
+        4.71
       ],
       "unit": "",
       "suffix": ""
@@ -1451,22 +1451,10 @@
   },
   "news": [
     {
-      "title": "Fed Chairman Warsh faces cruel summer as bond yields spike",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVRCMXNDaHJWRk9ET3BLVEJzU0loSnRRM3hNcTAxQ1pXT1VoWlA1MUJxelBHYlFyRVVGQkZUZkFNc0NfMFNYbE1KN3pXYzRWYnIwN0JTeDVXaEdfOEpaN0pJSU91aEppRURTR1JSSld2cVl5b3Bval8wb3N0MWI4ZlBBcXlUbDA0Q0MtdFcxa3dRMzFXWkZzdC1WTGJRbW02NkE?oc=5",
+      "title": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2sxSU8tYWxDd255TmpTUGFBeWY3M3VUWlBJb3ZybDdnWm8tM2tGT25XbUZQZmkwX1NlU3BjZl9pcUVHWTBQWDBpTEZrQmFTSVNXaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-24T11:09:44.000Z"
-    },
-    {
-      "title": "Stagflation talk returns to rattle markets as oil rebounds to $100",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGV3WEFzTUlYVHd1OGNRbDBDZEtVWmRKb0p6NEVjOUFPQTZacThBczNFemNrVWxfclViZHdOOGw3cU4tLVdxSkRBM3RVLUZ3Z212Qm96a1JBUHNkLWN3V1dHNnd2eDJNUms1d3R1ZTN5dGItcmtWWjc1cGtTcTRvaVlfWGpoODJuQ3Y3MFc1ZGhpa2FyVlE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-24T08:05:02.000Z"
-    },
-    {
-      "title": "Gold holds steady as investors eye Middle East developments ahead of Fed rate decision",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkFxM3hTSjdVaTVBREZMazRNOUhabGlBTUdxdk9fSklYbzliUC1Lc0FLX1dOWmlhM1NsQkhoZVowTVE3ZHNJLWQxbVNoMXVvVFc1VG5NTEQwYThjMnhUMVI3TTRUNmJhMGhrTm95WFM1LTY0VEp4c1ZDcXdqaVhZQnVMYkM0SWliSFF3bHJBWXFFUTJLVVRxLTNfdnA5QQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-24T03:48:00.000Z"
+      "publishedAt": "2026-07-24T20:16:10.000Z"
     },
     {
       "title": "EXCLUSIVE: BOJ likely to keep inflation warning but expect no big build-up in risks, sources say",
@@ -1475,7 +1463,19 @@
       "publishedAt": "2026-07-24T02:49:00.000Z"
     },
     {
-      "title": "Yen heads for biggest weekly drop since May despite Tokyo's support pledges",
+      "title": "Gold edges up as Brent eases, Mideast developments in focus ahead of Fed meet",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkFxM3hTSjdVaTVBREZMazRNOUhabGlBTUdxdk9fSklYbzliUC1Lc0FLX1dOWmlhM1NsQkhoZVowTVE3ZHNJLWQxbVNoMXVvVFc1VG5NTEQwYThjMnhUMVI3TTRUNmJhMGhrTm95WFM1LTY0VEp4c1ZDcXdqaVhZQnVMYkM0SWliSFF3bHJBWXFFUTJLVVRxLTNfdnA5QQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-24T03:48:00.000Z"
+    },
+    {
+      "title": "Fed Chairman Warsh faces cruel summer as bond yields spike",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVRCMXNDaHJWRk9ET3BLVEJzU0loSnRRM3hNcTAxQ1pXT1VoWlA1MUJxelBHYlFyRVVGQkZUZkFNc0NfMFNYbE1KN3pXYzRWYnIwN0JTeDVXaEdfOEpaN0pJSU91aEppRURTR1JSSld2cVl5b3Bval8wb3N0MWI4ZlBBcXlUbDA0Q0MtdFcxa3dRMzFXWkZzdC1WTGJRbW02NkE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-24T18:04:48.000Z"
+    },
+    {
+      "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1d1UDB3eEFoN2xlaHVUc19mMFZjSzJBRFVvXzVhVTBXZ3VmSEFNSktSejlPMzk5N1NWVEsyTGRsX200Z3h1RXVENjRuQ3g2UnRzYndRT3lEWE9TU1FXOUdQTzhFU3plM3RQTmVuX0xhZ2JIZjU1eWRnV1ZELUVxTVVyOGN0WjlZbHczbGxUSDNmYkEwSjZmU2ZwODQyMVlfTkp2WVBuOG1FWmJVTHJYVEtoU1Yza2huYUU2NWxTUUJVdDA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-24T00:52:00.000Z"
@@ -1487,7 +1487,7 @@
       "publishedAt": "2026-07-23T18:14:00.000Z"
     },
     {
-      "title": "Stocks little changed as oil prices pause climb but yields still near highs",
+      "title": "Stocks edge back up as oil prices pause climb but yields hover near highs",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVSb2tZRUVrYzhLQ0hCcVk1clVDQ1hjaGFPVElvd0JKZ0RVeGFTQ2JBVlVwRFNLbUxHOGZKTnl3WGEyeU5PQzEtTnBmVjBRdVVVUHBaSzJXY1pRT2ZFenczR0d2emszLWpGZDItNEcxd29RSGdWSDhVOEM5RjZRRXc0VQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-24T01:20:00.000Z"
