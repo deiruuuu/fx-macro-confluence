@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T15:42:57.598Z",
+  "updated": "2026-07-28T23:31:38.016Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1062,42 +1062,42 @@
     "m2": {
       "label": "M2 MONEY",
       "series": "M2SL",
-      "value": 23052.3,
-      "display": "23,052",
-      "change": 247.79999999999927,
-      "changePct": 1.087,
-      "date": "2026-05-01",
+      "value": 23155.2,
+      "display": "23,155",
+      "change": 99.60000000000218,
+      "changePct": 0.432,
+      "date": "2026-06-01",
       "spark": [
-        20777.9,
-        20843.7,
-        20926.7,
-        20973.4,
-        20959.6,
-        21020.6,
-        21068.4,
-        21095.3,
-        21186.7,
-        21269.5,
-        21331.9,
-        21452.2,
-        21485.8,
-        21548.1,
-        21613.4,
-        21693.6,
-        21775.8,
-        21833.9,
-        21938.7,
-        22020.4,
-        22087.1,
-        22170.4,
-        22245.1,
-        22277.3,
-        22353.4,
-        22429.3,
-        22626.9,
-        22686.2,
-        22804.5,
-        23052.3
+        20835.5,
+        20921.7,
+        20965.9,
+        20955.5,
+        21021.7,
+        21070.7,
+        21098.8,
+        21191.9,
+        21275.5,
+        21336.7,
+        21454.8,
+        21487.6,
+        21539.2,
+        21607.2,
+        21684.1,
+        21770.9,
+        21836.2,
+        21942.7,
+        22025.5,
+        22092.5,
+        22176.1,
+        22249.8,
+        22279.8,
+        22355.3,
+        22420.1,
+        22620.3,
+        22676.1,
+        22799.9,
+        23055.6,
+        23155.2
       ],
       "unit": "B",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.33,
-      "display": "4.33",
-      "change": -0.040000000000000036,
-      "changePct": -0.915,
-      "date": "2026-07-24",
+      "value": 4.31,
+      "display": "4.31",
+      "change": -0.020000000000000462,
+      "changePct": -0.462,
+      "date": "2026-07-27",
       "spark": [
-        4.05,
         4.09,
         4.07,
         4.05,
@@ -1400,7 +1399,8 @@
         4.26,
         4.31,
         4.37,
-        4.33
+        4.33,
+        4.31
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.69,
-      "display": "4.69",
-      "change": -0.019999999999999574,
-      "changePct": -0.425,
-      "date": "2026-07-24",
+      "value": 4.65,
+      "display": "4.65",
+      "change": -0.040000000000000036,
+      "changePct": -0.853,
+      "date": "2026-07-27",
       "spark": [
-        4.45,
         4.48,
         4.47,
         4.43,
@@ -1443,7 +1442,8 @@
         4.63,
         4.67,
         4.71,
-        4.69
+        4.69,
+        4.65
       ],
       "unit": "",
       "suffix": ""
@@ -1460,37 +1460,37 @@
       "title": "Market warning signals flare again as tech, inflation fears intensify",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTRKUUZyZl8zTERTSjZLZUdKQ0NBbWN6dGI0QnJtX2xvYXRUMkxNOEROYi1rOU14YkYtUFVnNGdTYlpHNHdXZXV5c3FCTk5VUFNBenZJZkxlVkpEdlVwY3M3ekhlaUYySlFqaXZ5dkRlbzVYQmNlSlRPeEZNTkNndE1vSmJ2Si1oREE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T13:27:44.000Z"
+      "publishedAt": "2026-07-28T18:21:19.000Z"
     },
     {
-      "title": "World stocks hit one-month low as chip rout worsens",
+      "title": "US stocks mixed ahead key tech earnings, Fed",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUF6MHN4NmxzbUxRX0JpZGFFTlliRjB0WW1DQ3NvVUpQVFJ3aFNoUFJ6cG0tNGx2anJ3OFFTWXk3VUdQQVowWHdoRnVzZTZsZV9KdTR1cWxDeFpXTTFidGxCR25jc2ZYUXp1Z2lYRzJwZDcweHNJalJfamhJT0lvTXRKWQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-28T02:30:00.000Z"
     },
     {
-      "title": "Gold falls as dollar hovers near one-month peak; Fed meet in focus",
+      "title": "Gold falls as dollar hovers near one-month peak, Fed meet in focus",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTNuUzRtNFl5cnZ3Ry1lQ3V6Rm5kUjBaLTZmazdmSTR6Y0g1dGJVZ1FHbmU2LXJ4MURzeGxSckdOSXhWaTRqelhBVVl3ZnZMb3Bib3JjNldqZGpVZUxBdGttSnBscVVCT25UMl9RNFUzRzFsbk5vNWh1WndrZVpkdHVVYVlWNTlCVWhtZWY3OWE2bENySXcwdEtqWUhUU3VOMFhV?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-28T01:27:00.000Z"
     },
     {
-      "title": "Dollar firms to one-month high as markets mull Fed hike odds",
+      "title": "Dollar eases as markets await Fed decision",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVNBcUd0dURQNWZPam9LcTlYQ2xPQXBXSWR4SUxHWGRKZDNGdmxDSUlBa2dHUVVhRk4zc2JSMlRVQzc4akxza2NqZ3BXRjJzOGwwWEJqSmpJa1Q5VUhGam8xQ0RVRElkRlp0THZyMWRTbzFtRzA1dUZqdGtXWXFKWVVyUVJ1NDRJMjYzWHd3bGtnT2hkVUlrR3pIM0dPb1lpSjB3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-28T00:36:00.000Z"
-    },
-    {
-      "title": "Judge blocks Minnesota's first-in-nation prediction markets ban",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1xcElVYlY3d0FHbE5GQTVqeUdVUFJNQ0lLY0haLVAzTGRUSXdMVmRlZmhaQm92bk9VMXE1bFVtdzJfcEZla25UcmhkMDRfSWxxWGtxYVdaNWNvOHV6aE1qTEVSd0YxV2ZaSnpvUFU1VjZ5azhuc1lubmFWUmk4d0ZaT3Jxc3dyaWhCbkpJLVNYRzl0aW1BSDBMN3hMUmYyMjJIVUFQMi1FZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-27T21:00:00.000Z"
     },
     {
       "title": "Australia's sudden housing chill seeps into economy",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa05lZUJTaG8wYTlVT0lram5HbXFDNFp4dHJzY0VJVnRsQWp4VnNlTnV3TU1EWWZEYjg4QW9ld2x1NTk5SFB2c2pieUVSam52a1l4cmRTRjRaOEVkdnhLM2VFQlVqQVg3VTlZVDZBVnZfR09qMnYtc3JIWUpPUGtxWnBoemZlZUhyaEdFQkFNUmZYaWRaQ2cyRDNSSzI3VFFHTEFqOGhJVW0?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-28T05:09:00.000Z"
+    },
+    {
+      "title": "Judge blocks Minnesota's first-in-nation prediction markets ban",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1xcElVYlY3d0FHbE5GQTVqeUdVUFJNQ0lLY0haLVAzTGRUSXdMVmRlZmhaQm92bk9VMXE1bFVtdzJfcEZla25UcmhkMDRfSWxxWGtxYVdaNWNvOHV6aE1qTEVSd0YxV2ZaSnpvUFU1VjZ5azhuc1lubmFWUmk4d0ZaT3Jxc3dyaWhCbkpJLVNYRzl0aW1BSDBMN3hMUmYyMjJIVUFQMi1FZw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-27T21:00:00.000Z"
     },
     {
       "title": "Trump says Fed should lower interest rates",
