@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T15:31:43.525Z",
+  "updated": "2026-07-29T23:31:33.038Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -133,17 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 84.38,
-      "display": "84.38",
-      "change": 0.9499999999999886,
-      "changePct": 1.139,
-      "date": "2026-07-20",
+      "value": 84.25,
+      "display": "84.25",
+      "change": -7.489999999999995,
+      "changePct": -8.164,
+      "date": "2026-07-27",
       "spark": [
-        94.32,
-        95,
-        91.9,
-        93.68,
-        91.58,
         88.62,
         84.65,
         79.8,
@@ -168,7 +163,12 @@
         80.73,
         80.03,
         83.43,
-        84.38
+        84.38,
+        86.04,
+        87.66,
+        93.08,
+        91.74,
+        84.25
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.31,
-      "display": "4.31",
-      "change": -0.020000000000000462,
-      "changePct": -0.462,
-      "date": "2026-07-27",
+      "value": 4.26,
+      "display": "4.26",
+      "change": -0.04999999999999982,
+      "changePct": -1.16,
+      "date": "2026-07-28",
       "spark": [
-        4.09,
         4.07,
         4.05,
         4.2,
@@ -1400,7 +1399,8 @@
         4.31,
         4.37,
         4.33,
-        4.31
+        4.31,
+        4.26
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.65,
-      "display": "4.65",
+      "value": 4.61,
+      "display": "4.61",
       "change": -0.040000000000000036,
-      "changePct": -0.853,
-      "date": "2026-07-27",
+      "changePct": -0.86,
+      "date": "2026-07-28",
       "spark": [
-        4.48,
         4.47,
         4.43,
         4.49,
@@ -1443,7 +1442,8 @@
         4.67,
         4.71,
         4.69,
-        4.65
+        4.65,
+        4.61
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Uncertainty creeps into Fed's rate decision as Warsh keeps his cards hidden",
+      "title": "Trump stands by his 'brilliant' Fed pick despite no rate cuts - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUc4UERsbnluclh5aFVubEtfSFdnNTg0U0xYdUNXcDhrU0ZZdHpMTFJmQ0dfelFScjl1b3FvRzk0Zkx1ZVU3WnpCRzZjdWxOTDJzSUFDWmJGQnBiN1poM1VTLXF5Z0xXcEQzWERoVGt6WmVVTFZRbjMwNU1RZldTajhEY25uLW1Nd0NXWGhPalFLeFc2Q0dtelhEcUpnbWZuQkJ4VUVuWQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-29T22:27:37.000Z"
+    },
+    {
+      "title": "VIEW Fed holds rates steady as three policymakers dissent for a hike - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTZRdS1qU1NyM2NYeEoyTVBCdUFERzRDa3ZmelhwYkstWUNlMkc3S2tsUXRHcnhOUnAzMDdHXzY3TXdWa3JFbTE4TWZBeEJBSlRWSWFzSnZxX1VBVTE4ZklGV1JJSlJVTXNyN2VJMV9WWWJ0alNfeFZMZWNYTnJrVUk1SG5rczF0ekk1NXhRZFZQSE40RGx2UGROWlE1YVR3aWZUaVRxbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-29T19:15:01.000Z"
+    },
+    {
+      "title": "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unchanged - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-29T14:35:05.000Z"
+      "publishedAt": "2026-07-29T21:00:56.000Z"
     },
     {
-      "title": "Wall St falls before Fed verdict; chip stocks wobble",
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-29T14:27:01.000Z"
+      "publishedAt": "2026-07-29T22:56:36.000Z"
     },
     {
-      "title": "Japan PM's political doom loop worsens her fight with markets",
+      "title": "Japan PM's political doom loop worsens her fight with markets - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDJQcXVZWGc3ejlIbjZ4XzYwRENoYjhjTm5uY185Q3lXUHJ2VjJqQkl5SnJIOXJ3RUM0T2hUaG1oOE43RmJxaHRnZjlva0ZkMFZURG80amotSGJMVjlYNWZvUzBweFdJWHRiZXZCMTRKYTZ2aW03akJuLVphX2hUMC11ZFlrWWV0ZWlDdW05cDBXWlg0TW5tTHVZUWJBc3BUNTF5ZXU3SVFXY2J4eE5oa1NaekNXQQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-29T07:09:19.000Z"
     },
     {
-      "title": "Gold edges down as dollar, yields rise ahead of Fed rate decision, Warsh remarks",
+      "title": "Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmpPZkdUdEJHY2hvRUZxbzItX3lCN3IxR0o0V3dXQnJoYi1xakZBT2xzVFVIZjdnVGZya2pFWDRUb0k1NUpWTjZyYnoyUWJNNzJLekRZcDNNeXhZcXpOeGdnenVPZGtVMlY4Wll5YUVSQklMYktHb0FYckJ5ZkNRajZOT0V6M2hjeUJTMVhZbHoyZlRJcnZxZ1ZyeFlCNzVKU29ETFFFc3o?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-29T01:14:00.000Z"
     },
     {
-      "title": "Stocks muted as investors count down to Fed verdict, tech earnings",
+      "title": "US stocks, dollar slip after Fed leaves rates unchanged - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-29T01:25:00.000Z"
     },
     {
-      "title": "Dollar firms near one-month highs ahead of Fed decision",
+      "title": "Dollar slips as Fed holds rates steady - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnFXZFd5UzNzZ1RRdnZ3aFRNT2N6YU1hdVB6UHNzcU9RdUVMRk5MSkEyUGoxY3FnSnM4OHlpdWoyalJwWEl4bWh3YkcteTNieGF1cm8zVzJHenF4ZERNbGVfSURTaFF4bUVhUC1paUFwMk5XZVFNZzRLOFp2aWQ1aktad1d2WVg0QkNhY215bHpRYlBxVldycg?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-29T00:37:00.000Z"
-    },
-    {
-      "title": "Indian shares buck AI carnage in Asia as IT stocks lead gains",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1c1Zm9NaVFZdlY3aF9iZzZYR0R6SUxiakZBNktNdG9sbmRmVTNRdHZxY09RaXY5WU9hblpEaGQwZGRLZlVXNTVGeURVZHp3Y2tDVE5LMXU3VWNrZ2JydFJydVdFY2MtbFZVNjdPNlNNdEo0ZjN6a09PTi1mczZzN0dEVG1EWWdMT0tJcVZjQm01OHk1NEtz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-29T02:28:00.000Z"
-    },
-    {
-      "title": "Persistently high inflation to nag global economy, say economists: Reuters poll",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEo2VHZ0SXF4SFdaOU1LQ2pOaTRfUzBmUUJ0V0wxakdjbE03bkRzWmVMQU5VNXo4SzhrbGZnN3hSdm5vR1dLM2kxTU5NZi1aYVhlejVfQXlrZm5menB6VjE1TElMQUVpSmZyS0FnUWo3VDJScTFiTmJkQWFLcG1KTjZZZFBvbmU2SHM5U3UtbTVJYjhkS29HUHVpQjlwMlVUU3loQmRFQVFCNDV2Z0pLWDQtRHVlSzVpZzRqbHh3RQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-28T12:28:09.000Z"
     }
   ]
 }
