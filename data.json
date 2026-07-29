@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:31:38.016Z",
+  "updated": "2026-07-29T15:31:43.525Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7413.18,
-      "display": "7,413",
-      "change": 1.2000000000007276,
-      "changePct": 0.016,
-      "date": "2026-07-27",
+      "value": 7428.78,
+      "display": "7,429",
+      "change": 15.599999999999454,
+      "changePct": 0.21,
+      "date": "2026-07-28",
       "spark": [
-        7431.46,
         7554.29,
         7511.35,
         7420.1,
@@ -82,7 +81,8 @@
         7498.96,
         7408.3,
         7411.98,
-        7413.18
+        7413.18,
+        7428.78
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2560.19,
-      "display": "2,560.19",
-      "change": 17.950000000000273,
-      "changePct": 0.706,
-      "date": "2026-07-27",
+      "value": 2529.72,
+      "display": "2,529.72",
+      "change": -30.470000000000255,
+      "changePct": -1.19,
+      "date": "2026-07-28",
       "spark": [
-        2629.92,
         2682.78,
         2691.82,
         2642.38,
@@ -125,7 +124,8 @@
         2577.8,
         2538.57,
         2542.24,
-        2560.19
+        2560.19,
+        2529.72
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 18.67,
-      "display": "18.67",
-      "change": 0.09000000000000341,
-      "changePct": 0.484,
-      "date": "2026-07-27",
+      "value": 18.21,
+      "display": "18.21",
+      "change": -0.46000000000000085,
+      "changePct": -2.464,
+      "date": "2026-07-28",
       "spark": [
-        16.41,
         18.44,
         16.4,
         16.78,
@@ -211,7 +210,8 @@
         16.64,
         18.7,
         18.58,
-        18.67
+        18.67,
+        18.21
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 63692.68,
-      "display": "63,693",
-      "change": -1550.6299999999974,
-      "changePct": -2.377,
-      "date": "2026-07-27",
+      "value": 63945.6,
+      "display": "63,946",
+      "change": 252.91999999999825,
+      "changePct": 0.397,
+      "date": "2026-07-28",
       "spark": [
-        59367.05,
         60128.09,
         58585.96,
         59881.98,
@@ -254,7 +253,8 @@
         64108.38,
         64319.9,
         65243.31,
-        63692.68
+        63692.68,
+        63945.6
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 18.67,
-      "display": "18.67",
-      "change": 0.09000000000000341,
-      "changePct": 0.484,
-      "date": "2026-07-27",
+      "value": 18.21,
+      "display": "18.21",
+      "change": -0.46000000000000085,
+      "changePct": -2.464,
+      "date": "2026-07-28",
       "spark": [
-        16.41,
         18.44,
         16.4,
         16.78,
@@ -1355,7 +1354,8 @@
         16.64,
         18.7,
         18.58,
-        18.67
+        18.67,
+        18.21
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Bar to Fed rate hike this week remains high even as markets see a chance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRE5uc1NXMlVkdDgwWjJzNVpnMTRMUFlyUllXQk82SXRTWXRiT1NYdmhZc2hLMWRoZDZvT1ZudFU0V2NobWYxWXMxNTFYeFByakoyTVc2cHVzUGljb254a285MnZaeGN4LVIzRWhJQTcxdHIwMUxzYkZfNUMwUHFDMDlONFVlUldtc0Zxa1FHMGg0ZGU3RktDT0JueWRZU2xoY2h5YzYtTGg1M2pwNUE?oc=5",
+      "title": "Uncertainty creeps into Fed's rate decision as Warsh keeps his cards hidden",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T10:23:44.000Z"
+      "publishedAt": "2026-07-29T14:35:05.000Z"
     },
     {
-      "title": "Market warning signals flare again as tech, inflation fears intensify",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTRKUUZyZl8zTERTSjZLZUdKQ0NBbWN6dGI0QnJtX2xvYXRUMkxNOEROYi1rOU14YkYtUFVnNGdTYlpHNHdXZXV5c3FCTk5VUFNBenZJZkxlVkpEdlVwY3M3ekhlaUYySlFqaXZ5dkRlbzVYQmNlSlRPeEZNTkNndE1vSmJ2Si1oREE?oc=5",
+      "title": "Wall St falls before Fed verdict; chip stocks wobble",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T18:21:19.000Z"
+      "publishedAt": "2026-07-29T14:27:01.000Z"
     },
     {
-      "title": "US stocks mixed ahead key tech earnings, Fed",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUF6MHN4NmxzbUxRX0JpZGFFTlliRjB0WW1DQ3NvVUpQVFJ3aFNoUFJ6cG0tNGx2anJ3OFFTWXk3VUdQQVowWHdoRnVzZTZsZV9KdTR1cWxDeFpXTTFidGxCR25jc2ZYUXp1Z2lYRzJwZDcweHNJalJfamhJT0lvTXRKWQ?oc=5",
+      "title": "Japan PM's political doom loop worsens her fight with markets",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDJQcXVZWGc3ejlIbjZ4XzYwRENoYjhjTm5uY185Q3lXUHJ2VjJqQkl5SnJIOXJ3RUM0T2hUaG1oOE43RmJxaHRnZjlva0ZkMFZURG80amotSGJMVjlYNWZvUzBweFdJWHRiZXZCMTRKYTZ2aW03akJuLVphX2hUMC11ZFlrWWV0ZWlDdW05cDBXWlg0TW5tTHVZUWJBc3BUNTF5ZXU3SVFXY2J4eE5oa1NaekNXQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T02:30:00.000Z"
+      "publishedAt": "2026-07-29T07:09:19.000Z"
     },
     {
-      "title": "Gold falls as dollar hovers near one-month peak, Fed meet in focus",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTNuUzRtNFl5cnZ3Ry1lQ3V6Rm5kUjBaLTZmazdmSTR6Y0g1dGJVZ1FHbmU2LXJ4MURzeGxSckdOSXhWaTRqelhBVVl3ZnZMb3Bib3JjNldqZGpVZUxBdGttSnBscVVCT25UMl9RNFUzRzFsbk5vNWh1WndrZVpkdHVVYVlWNTlCVWhtZWY3OWE2bENySXcwdEtqWUhUU3VOMFhV?oc=5",
+      "title": "Gold edges down as dollar, yields rise ahead of Fed rate decision, Warsh remarks",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmpPZkdUdEJHY2hvRUZxbzItX3lCN3IxR0o0V3dXQnJoYi1xakZBT2xzVFVIZjdnVGZya2pFWDRUb0k1NUpWTjZyYnoyUWJNNzJLekRZcDNNeXhZcXpOeGdnenVPZGtVMlY4Wll5YUVSQklMYktHb0FYckJ5ZkNRajZOT0V6M2hjeUJTMVhZbHoyZlRJcnZxZ1ZyeFlCNzVKU29ETFFFc3o?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T01:27:00.000Z"
+      "publishedAt": "2026-07-29T01:14:00.000Z"
     },
     {
-      "title": "Dollar eases as markets await Fed decision",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVNBcUd0dURQNWZPam9LcTlYQ2xPQXBXSWR4SUxHWGRKZDNGdmxDSUlBa2dHUVVhRk4zc2JSMlRVQzc4akxza2NqZ3BXRjJzOGwwWEJqSmpJa1Q5VUhGam8xQ0RVRElkRlp0THZyMWRTbzFtRzA1dUZqdGtXWXFKWVVyUVJ1NDRJMjYzWHd3bGtnT2hkVUlrR3pIM0dPb1lpSjB3?oc=5",
+      "title": "Stocks muted as investors count down to Fed verdict, tech earnings",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T00:36:00.000Z"
+      "publishedAt": "2026-07-29T01:25:00.000Z"
     },
     {
-      "title": "Australia's sudden housing chill seeps into economy",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa05lZUJTaG8wYTlVT0lram5HbXFDNFp4dHJzY0VJVnRsQWp4VnNlTnV3TU1EWWZEYjg4QW9ld2x1NTk5SFB2c2pieUVSam52a1l4cmRTRjRaOEVkdnhLM2VFQlVqQVg3VTlZVDZBVnZfR09qMnYtc3JIWUpPUGtxWnBoemZlZUhyaEdFQkFNUmZYaWRaQ2cyRDNSSzI3VFFHTEFqOGhJVW0?oc=5",
+      "title": "Dollar firms near one-month highs ahead of Fed decision",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnFXZFd5UzNzZ1RRdnZ3aFRNT2N6YU1hdVB6UHNzcU9RdUVMRk5MSkEyUGoxY3FnSnM4OHlpdWoyalJwWEl4bWh3YkcteTNieGF1cm8zVzJHenF4ZERNbGVfSURTaFF4bUVhUC1paUFwMk5XZVFNZzRLOFp2aWQ1aktad1d2WVg0QkNhY215bHpRYlBxVldycg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-28T05:09:00.000Z"
+      "publishedAt": "2026-07-29T00:37:00.000Z"
     },
     {
-      "title": "Judge blocks Minnesota's first-in-nation prediction markets ban",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1xcElVYlY3d0FHbE5GQTVqeUdVUFJNQ0lLY0haLVAzTGRUSXdMVmRlZmhaQm92bk9VMXE1bFVtdzJfcEZla25UcmhkMDRfSWxxWGtxYVdaNWNvOHV6aE1qTEVSd0YxV2ZaSnpvUFU1VjZ5azhuc1lubmFWUmk4d0ZaT3Jxc3dyaWhCbkpJLVNYRzl0aW1BSDBMN3hMUmYyMjJIVUFQMi1FZw?oc=5",
+      "title": "Indian shares buck AI carnage in Asia as IT stocks lead gains",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1c1Zm9NaVFZdlY3aF9iZzZYR0R6SUxiakZBNktNdG9sbmRmVTNRdHZxY09RaXY5WU9hblpEaGQwZGRLZlVXNTVGeURVZHp3Y2tDVE5LMXU3VWNrZ2JydFJydVdFY2MtbFZVNjdPNlNNdEo0ZjN6a09PTi1mczZzN0dEVG1EWWdMT0tJcVZjQm01OHk1NEtz?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-27T21:00:00.000Z"
+      "publishedAt": "2026-07-29T02:28:00.000Z"
     },
     {
-      "title": "Trump says Fed should lower interest rates",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlpWNk9HMDBFMndqTlZjSnJiZFNRNGdELUFkNC1tX0NiV1ZubmYwenRmOGRLdzdTYmtGcV8tNXU0YlNMby1MNnc2WmNlWS1fN1RIN3NMeVcwRUZXd1pxMFBLSUNhd0wyTGxTajRiRXpCLUJBRDMxU05TeU1HREZtY3g4MUpNTGtMOWtKWTJNYjE?oc=5",
+      "title": "Persistently high inflation to nag global economy, say economists: Reuters poll",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEo2VHZ0SXF4SFdaOU1LQ2pOaTRfUzBmUUJ0V0wxakdjbE03bkRzWmVMQU5VNXo4SzhrbGZnN3hSdm5vR1dLM2kxTU5NZi1aYVhlejVfQXlrZm5menB6VjE1TElMQUVpSmZyS0FnUWo3VDJScTFiTmJkQWFLcG1KTjZZZFBvbmU2SHM5U3UtbTVJYjhkS29HUHVpQjlwMlVUU3loQmRFQVFCNDV2Z0pLWDQtRHVlSzVpZzRqbHh3RQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-27T21:19:01.000Z"
+      "publishedAt": "2026-07-28T12:28:09.000Z"
     }
   ]
 }
