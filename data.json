@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T15:37:49.371Z",
+  "updated": "2026-07-31T23:32:06.166Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7316.15,
-      "display": "7,316",
-      "change": -112.63000000000011,
-      "changePct": -1.516,
-      "date": "2026-07-29",
+      "value": 7437.63,
+      "display": "7,438",
+      "change": 121.48000000000047,
+      "changePct": 1.66,
+      "date": "2026-07-30",
       "spark": [
-        7511.35,
         7420.1,
         7500.58,
         7472.79,
@@ -82,7 +81,8 @@
         7411.98,
         7413.18,
         7428.78,
-        7316.15
+        7316.15,
+        7437.63
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.22,
-      "display": "4.22",
-      "change": -0.040000000000000036,
-      "changePct": -0.939,
-      "date": "2026-07-29",
+      "value": 4.23,
+      "display": "4.23",
+      "change": 0.010000000000000675,
+      "changePct": 0.237,
+      "date": "2026-07-30",
       "spark": [
-        4.05,
         4.2,
         4.19,
         4.24,
@@ -1400,7 +1399,8 @@
         4.33,
         4.31,
         4.26,
-        4.22
+        4.22,
+        4.23
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.67,
-      "display": "4.67",
-      "change": 0.05999999999999961,
-      "changePct": 1.302,
-      "date": "2026-07-29",
+      "value": 4.68,
+      "display": "4.68",
+      "change": 0.009999999999999787,
+      "changePct": 0.214,
+      "date": "2026-07-30",
       "spark": [
-        4.43,
         4.49,
         4.46,
         4.51,
@@ -1443,7 +1442,8 @@
         4.69,
         4.65,
         4.61,
-        4.67
+        4.67,
+        4.68
       ],
       "unit": "",
       "suffix": ""
@@ -1451,49 +1451,49 @@
   },
   "news": [
     {
-      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
+      "title": "Canadian economy set for best quarterly growth in more than three years - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0FzQll1aTFYRm5WUmtXcG9QVUVwNzJ6UF81Y1hCU0x2UHhrZC1zaTI3RkcwTzZjaUoxa3R3eEZMZHdkeEhmSFZXZjNnQTJSdndvck8xN3JtOE5hbGZ0ZE85SEZPa1FrdXg1cXZzd21wQ1ExTTZRamlLNUpzaWNjU0NramZTSVl2cTd1bXlIM0lVUG1fVm9CRWNwT3dLNjhrVFlkZ240SQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-31T10:14:12.000Z"
+      "publishedAt": "2026-07-31T13:35:00.000Z"
     },
     {
-      "title": "US Treasury informed banks that it may intervene in Japan's yen, source says",
+      "title": "US Treasury informed banks that it may intervene in Japan's yen, source says - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-31T14:38:16.000Z"
+      "publishedAt": "2026-07-31T16:14:09.000Z"
     },
     {
-      "title": "Gold slips as US dollar regains footing; heads for first monthly gain in five",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2tTZWFrV1E2TTVkdXlnRkRoZ1ZyZlJaUE5IQmREM1BWNWdKa2JWWHpuQm91NkltbXRaWWllTHNiWDJQQWRiYVBqd2xWN1FKdUxrQ0tucTE4S0VkcjhfcktHZEdvcTdJbVlvNnh2dDVURkU2OE9tbC1weWkxN2NFcFJrQ1JwT2xKNkhFZUF6NFhTQmFrR2M3cld6aGNYOXlLMmt2aVVSTjAyTUk?oc=5",
+      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-31T01:25:00.000Z"
+      "publishedAt": "2026-07-31T17:56:01.000Z"
     },
     {
-      "title": "New York sues Kalshi, says its prediction markets are illegal gambling",
+      "title": "US Treasury yield curve 'twist' reflects view Fed may not hike again - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYV9RSEpUbFlMdVRmTnBZamJ5d3I2MlNGYkNUVTlKRFhPVGxjZHp1NElVdFdFdXNDVEc4N3F1bF9MRzBpeER2cTk1a01pdWUxUUVnVlVfcllveE03UHNKaDM3N3dZeGVHYVJjLWtGUXh2dzhReUhZUmxsdUg3VGpScFpuQWcyMEphSG9mRkJnMjQ0Ry1oanktYWlSOUxwOHp3Y1NtZXhrTzhnQ2YyMXh6aA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-07-31T12:54:23.000Z"
+    },
+    {
+      "title": "New York sues Kalshi, says its prediction markets are illegal gambling - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnNJcUllRGYxM2JsZ2JCa1F3dmNRbkt3SWI4eE54U0dhblllSzBBc216dmVHYU9xSkpBV3ZaQktFTWZ2RXVlbThDVGdGaTVKWDl4cXhidmNwelJNNjRRd2NyUGdiTXNVM3lVcUJoSHBEdkJCd0xxVGxmRDl0eTlEQlFPUHRLd3lJcnByNHFsaGx4YnhCRnhTSW93Yw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-31T04:10:00.000Z"
     },
     {
-      "title": "Rare Japan-Korea joint intervention sends strong message to markets",
+      "title": "Rare joint currency intervention sends strong message to markets - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakNEam12bmtyQWRfdFVMZXBJSmc1N2Z0WUM5RHVVMDM4ZEkzNndTeVlCNXdzUXBjUS14NUUwaFliRDk3MThnNC04enZ2MWxfXzBYUTdYbDd6TDNVdlBrN0dRWXMtdGZQb1RJWTBnaUFfbXBRZVZQbms3amtBMmFGZThHOHNpVXhCMlJHNHZRQXZxa2ZHVWoyaEV4WXNzNE9qSGt6RmtlYXpsUQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-31T03:48:00.000Z"
     },
     {
-      "title": "BOJ nods to chance of early rate hike as Tokyo props up yen",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdSMlpsa05VVUNyNjVfNnI0YVljYmwzcW9scnZPZTN3b3lRSl9VeXZid2ZaS0F4QVEyUmxpUVh2ZTExdUxac2Z1c1Z1MlBTem9qNW8tbFc0djBIMmVDLUxVRy02ZndXZ1BYQmk2TW5seE1IUnNjMzVhOWZzZWFoNEI5S0d5QmJvOXc3MnJENU11c0ducmIxYzhnNS1HTTk5cW5oOVd5ODZpV0dwYUVsZnU4Uzh5Ukw0NjUtbGRR?oc=5",
+      "title": "Gold retreats but poised to end best month since February - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2tTZWFrV1E2TTVkdXlnRkRoZ1ZyZlJaUE5IQmREM1BWNWdKa2JWWHpuQm91NkltbXRaWWllTHNiWDJQQWRiYVBqd2xWN1FKdUxrQ0tucTE4S0VkcjhfcktHZEdvcTdJbVlvNnh2dDVURkU2OE9tbC1weWkxN2NFcFJrQ1JwT2xKNkhFZUF6NFhTQmFrR2M3cld6aGNYOXlLMmt2aVVSTjAyTUk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-07-30T21:02:00.000Z"
+      "publishedAt": "2026-07-31T01:25:00.000Z"
     },
     {
-      "title": "Stocks climb as strong tech results reignite AI trade, yen swings",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlVXYXdFRjZLcGRvZUdsRkVNc0ZwYUJzNE1rcHdzN3VQOC00WF90TVNOdXhudGZVY3BqWlJ5ZUVTUDZYLVVhd2VEekFRX25rdnZwck13QThNMUhLOEpuVUZHUDhMV3d5ZmlKbDJOTmJmRDQ2Y29uTDBONzZSZ2d5aGtNZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-31T01:31:00.000Z"
-    },
-    {
-      "title": "Yen steady as traders remain alert to intervention risks",
+      "title": "Dollar slips against yen as intervention risks drag - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-07-31T00:29:00.000Z"
