@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T23:33:47.920Z",
+  "updated": "2026-08-05T15:39:09.264Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7600.5,
-      "display": "7,601",
-      "change": 110.77999999999975,
-      "changePct": 1.479,
-      "date": "2026-08-03",
+      "value": 7736.52,
+      "display": "7,737",
+      "change": 136.02000000000044,
+      "changePct": 1.79,
+      "date": "2026-08-04",
       "spark": [
-        7472.79,
         7365.46,
         7358.22,
         7357.49,
@@ -82,7 +81,8 @@
         7316.15,
         7437.63,
         7489.72,
-        7600.5
+        7600.5,
+        7736.52
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2548.38,
-      "display": "2,548.38",
-      "change": 2.849999999999909,
-      "changePct": 0.112,
-      "date": "2026-08-03",
+      "value": 2562.36,
+      "display": "2,562.36",
+      "change": 13.980000000000018,
+      "changePct": 0.549,
+      "date": "2026-08-04",
       "spark": [
-        2628.9,
         2584.01,
         2508.81,
         2532.64,
@@ -125,7 +124,8 @@
         2539.35,
         2573.79,
         2545.53,
-        2548.38
+        2548.38,
+        2562.36
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.86,
-      "display": "15.86",
-      "change": -0.13000000000000078,
-      "changePct": -0.813,
-      "date": "2026-08-03",
+      "value": 16.5,
+      "display": "16.50",
+      "change": 0.6400000000000006,
+      "changePct": 4.035,
+      "date": "2026-08-04",
       "spark": [
-        19.49,
         18.63,
         18.89,
         18.41,
@@ -211,7 +210,8 @@
         20.66,
         17.09,
         15.99,
-        15.86
+        15.86,
+        16.5
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 63503.04,
-      "display": "63,503",
-      "change": 59.11000000000058,
-      "changePct": 0.093,
-      "date": "2026-08-03",
+      "value": 64023.39,
+      "display": "64,023",
+      "change": 520.3499999999985,
+      "changePct": 0.819,
+      "date": "2026-08-04",
       "spark": [
-        63577.07,
         63980.01,
         63367.99,
         62168.43,
@@ -254,7 +253,8 @@
         62886.64,
         62835,
         63443.93,
-        63503.04
+        63503.04,
+        64023.39
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.86,
-      "display": "15.86",
-      "change": -0.13000000000000078,
-      "changePct": -0.813,
-      "date": "2026-08-03",
+      "value": 16.5,
+      "display": "16.50",
+      "change": 0.6400000000000006,
+      "changePct": 4.035,
+      "date": "2026-08-04",
       "spark": [
-        19.49,
         18.63,
         18.89,
         18.41,
@@ -1355,7 +1354,8 @@
         20.66,
         17.09,
         15.99,
-        15.86
+        15.86,
+        16.5
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "Gold scales one-month peak as US-Iran peace hopes ease inflation worries",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-05T01:01:00.000Z"
+    },
+    {
+      "title": "Yen drifts after intervention whirlwind; Iran optimism dents dollar",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-05T01:36:00.000Z"
+    },
+    {
+      "title": "VIEW India's central bank holds rates as expected",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekdGNDA0d1FoYU9lc3oydF9oQ1V1a2R5RFVUMFAxaDZDZ3pmZTNXaEFlZy1wSEtDVi1jUzE0c0cxbU9vX002bDQxWjN3LVpHeHU1Ry03cjFSNHhCZGZ3MWFMYWdXLUZ0dnRDemV6SDZycnFhaWRPRFlURU8zdGtsRWx2SGlJQllqTUhyb1pNZFRpVmUxbG9pZA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-05T04:55:00.000Z"
+    },
+    {
+      "title": "US yen intervention signals perfect storm rising in FX and bond markets",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVhFamJnNjNYd1piUGFvMUR6WV9tSWVOdkdaa1lsYmd2UEp3blppbXVKYnZma2E5YjBHQWV1MlJoQjNSZFlQMW04RWRMSEQ3Ykl6Um9DNzJOTFBvSkxuMTVNSC1xWlpzbmtJZFpRMm5NWkxSUFZZRGlpcmpXYjBrNmJHR19UendSQUJzRElnZEtBal94dUUtVlhjN1pacWZNZE10Vlp3Qjk3ZTZzd3ZlZG5FWDROSkUybHNUZE1LamlkYm1heFFFNEhTVEF4UQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-04T23:30:25.000Z"
+    },
+    {
       "title": "US economy is overstimulated — and bond markets fear it",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEZFQkFyNE41ZEZVYjFwVVdyeV9WaGtIalV3LUhpUDUxald1WDFnQm05WmxPN2pTbk9iaUlnSzJNUGplbDJScnNSMU9XdTVzcWFsVVFXZXlMS0Y5dWc4Z0FCQUJKOF82ZWJGVDZXZFFzSGxEVURGSkNwUjkxbDVQSTJfWHRxYm13VDZKeHZDR2JRNVI0WDQwa05pZHRCbVh1NGIydm9sSzg4Z2RIOUc5NWxiRFRXSnVtSXc?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-04T06:00:00.000Z"
     },
     {
+      "title": "Fed's Schmid calls for tighter monetary policy to tamp down on 'too high' inflation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlcwQjJOOFUxZkF5MGdiaHZmeldYOEF6VVZ5UGlBTU9va0pET0E2bUdSOFdxV1hiemlUZTZTZlpoVGtlV1FtZDNqeExGMXlWU0NMSUxvTi1zNWVnemdPeUd1ZHJlN1J6cUhlY292Wl93NU1HMnQ0dVN5UVRhUlhQZ3dRcTlYeDlLUE11ZEdZVi1LWG5icDNEWmFiUVhDVy1ucUduTnBOMXJQNjhtTjhGQUJB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-05T00:18:00.000Z"
+    },
+    {
+      "title": "Stocks get AI boost; investors on tenterhooks over Mideast peace talks",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-05T01:37:00.000Z"
+    },
+    {
       "title": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-04T01:05:00.000Z"
-    },
-    {
-      "title": "US yen intervention signals perfect storm rising in FX and bond markets",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVhFamJnNjNYd1piUGFvMUR6WV9tSWVOdkdaa1lsYmd2UEp3blppbXVKYnZma2E5YjBHQWV1MlJoQjNSZFlQMW04RWRMSEQ3Ykl6Um9DNzJOTFBvSkxuMTVNSC1xWlpzbmtJZFpRMm5NWkxSUFZZRGlpcmpXYjBrNmJHR19UendSQUJzRElnZEtBal94dUUtVlhjN1pacWZNZE10Vlp3Qjk3ZTZzd3ZlZG5FWDROSkUybHNUZE1LamlkYm1heFFFNEhTVEF4UQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-04T13:05:34.000Z"
-    },
-    {
-      "title": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-03T20:18:00.000Z"
-    },
-    {
-      "title": "South Korea inflation cools, but back-to-back rate hike not ruled out",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGg4aDNTNlNfWkE1QWVhb0xFMWU2Q3pkbFhfeHNyZXZwZjdER21qRk9DTklyTXMtYklOZ0tKczM5T0t3YUx0X3NjZVBzcGZqM2hEcGdpakdHdkNpWVBYZ1MtbnYwMTBGWWx5X0JOWVVORHVsSjItOVVQZ3BQUmVfeTBVWTVOWjlGZldvc3d3aWd5cWwxaWRhNHN0NXdQUzlnLVpHdW1tcnlTcmlT?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-03T23:04:00.000Z"
-    },
-    {
-      "title": "EXCLUSIVE: Fed's Williams expects inflation to ease, says Fed will act if it doesn't",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW5GWU1oN1VmZjRKVjJXb2p0NENaV2VXcEU5a094OWJwTy1HbGk5UHZRNl9hT2UwVU01bnhJMDg1RS1YWTM0Z1F6SFp0RmttanY3dVprbENuMGlnQndRNWh0VmEzTEp4Tm9pOHJNQlMxbktWN1dLeThZWEhVSVpTRkdTRFozaDJ1Zmx0R2dxTnhaaXdmaHJ0WHR3cHpmcHVoeTN2QjBzYjhtemVocWFvQmln?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-03T10:20:30.000Z"
-    },
-    {
-      "title": "Yen holds most gains as intervention keeps speculators on edge",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3VzRDl6d2tuSmN4M2xWZ080QWhfVWFjRGw4MjRwakpXMndBZ25zUWZzdXRwbmJVQ3ViYVJjS1hPdlFJR3MxX00xLW92YnZXak1HYi1nQ0phY3Y3amRKWjBKZ243Nm9YaEplbnBPVUNibG5jeTYtM0x0cmtNM3ctYzN4UjEyUk8xSnhhelZFNnlBZWQxQmR0dDlHWThJVGJTbGo4b09FalJmSVhI?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-04T01:02:00.000Z"
-    },
-    {
-      "title": "FULL TEXT Transcript of Reuters interview with NY Fed President Williams",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU1jeGRidDZGNnBmU1MxVVgyTzFUZjJIUWgwUHRiVWNzUE0zOGZtV2luREdPaVU0bTJURlI3WVdBX3VLT1l4U25yd2pmQnBUclQtMmJSa1hORzVFX0ZKUHJBTGpFbVZpVm9TdDJEcGZCeXRvY1E4azdMaDJqQ1NiNnRiVmI0c0E3UGU3cTNjLW5YdFhILWRMUjNZOUVNN2QzRnZpdHlnYUtQbExFZUdzWUhRaTk?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-03T10:05:59.000Z"
     }
   ]
 }
