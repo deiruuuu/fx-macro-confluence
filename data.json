@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T01:37:09.476Z",
+  "updated": "2026-08-07T14:32:57.389Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2635.95,
-      "display": "2,635.95",
-      "change": 73.58999999999969,
-      "changePct": 2.872,
-      "date": "2026-08-05",
+      "value": 2641.25,
+      "display": "2,641.25",
+      "change": 5.300000000000182,
+      "changePct": 0.201,
+      "date": "2026-08-06",
       "spark": [
-        2508.81,
         2532.64,
         2561.64,
         2528.87,
@@ -125,7 +124,8 @@
         2545.53,
         2548.38,
         2562.36,
-        2635.95
+        2635.95,
+        2641.25
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.81,
-      "display": "15.81",
-      "change": -0.6899999999999995,
-      "changePct": -4.182,
-      "date": "2026-08-05",
+      "value": 15.15,
+      "display": "15.15",
+      "change": -0.6600000000000001,
+      "changePct": -4.175,
+      "date": "2026-08-06",
       "spark": [
-        18.89,
         18.41,
         17.65,
         16.45,
@@ -211,7 +210,8 @@
         15.99,
         15.86,
         16.5,
-        15.81
+        15.81,
+        15.15
       ],
       "unit": "",
       "suffix": ""
@@ -933,13 +933,12 @@
     "unemploy": {
       "label": "UNEMPLOY",
       "series": "UNRATE",
-      "value": 4.2,
-      "display": "4.2",
-      "change": -0.09999999999999964,
-      "changePct": -2.326,
-      "date": "2026-06-01",
+      "value": 4.1,
+      "display": "4.1",
+      "change": -0.10000000000000053,
+      "changePct": -2.381,
+      "date": "2026-07-01",
       "spark": [
-        3.8,
         3.7,
         3.9,
         3.9,
@@ -968,7 +967,8 @@
         4.3,
         4.3,
         4.3,
-        4.2
+        4.2,
+        4.1
       ],
       "unit": "",
       "suffix": "%"
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.81,
-      "display": "15.81",
-      "change": -0.6899999999999995,
-      "changePct": -4.182,
-      "date": "2026-08-05",
+      "value": 15.15,
+      "display": "15.15",
+      "change": -0.6600000000000001,
+      "changePct": -4.175,
+      "date": "2026-08-06",
       "spark": [
-        18.89,
         18.41,
         17.65,
         16.45,
@@ -1355,7 +1354,8 @@
         15.99,
         15.86,
         16.5,
-        15.81
+        15.81,
+        15.15
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1lYeDhMVGR3MWxnLVFXeE8yMmstOGEyZGRNOUJQVThCdnQwQkh0ZExXc0NOWFVlVVdwTG9YWjNWR0llLTIxaGJDbTNrampsWFBNaHVmbjUzV1ZYN1lUbnFXanlaZDJoWkJ1a1lBYURMMVVEbmZjQS1INExZeC11SUNiQmE0YVhWRzZzVkV2ZDBvZ2JyUVRfd1oxbTlrbGZwYzd0ZWdrMVNtUjRWdWJudWdrUjdMZEk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-07T13:07:44.000Z"
+    },
+    {
+      "title": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-07T04:33:00.000Z"
+    },
+    {
+      "title": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0lCZ3FXZlNiSGlGZ1RQcVdEWE9qTXJHUkc5RS03d0hhZ3lQVGMzV2FQS0NBMGxkbG9tTjZNNUFqUjN4SjYyeGxyWEZTZWk0?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-07T05:04:00.000Z"
+    },
+    {
+      "title": "Dollar falls against yen after weak US jobs data",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-07T02:05:00.000Z"
+    },
+    {
+      "title": "Europe's getting hotter, markets are taking note",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGVzcGFNZ1c5WlpIeXI4dWlKLUNPWmNUYXFCbWxCazFPV2swT3dyR0ZvUW54X2Nnb3ZsMWh5NmtoUHpUb3B4V1l2dV9aTGd6V2tlbTQ1aGNrUEIzdWZ3YkhWNW81dDFGdVhmdnM4N3dka1lYTy1ZZFZaSGE4RzZBTVJCTm8wb21CUGN0aTd0MU5NMFNjd2lUV2k4dTRsNG9XWWhFdmtB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-07T04:02:00.000Z"
+    },
+    {
+      "title": "US stocks, bonds rally after soft jobs report; yen bounces back",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-07T02:16:00.000Z"
+    },
+    {
       "title": "Furious pace of AI investment on some Fed officials' radar now",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-06T19:13:26.000Z"
     },
     {
-      "title": "Emerging markets get a hard lesson in tech hype",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUhlRWJfTW1lZGw0WmUtTlUtbFc5bUNGSEVjdldCVGszSEFCSlZXZ2plek8wa2tNYzFybE5ELWxDRDNKUE8welloeUtLVURDMUdpUDVfZkMzZWVJRVlLdFV3SnRsdTZ6bzdxWVl1M2JoZmhOeml6S3dWaEJCc3E5cEhlSDFQdndxUWxMbkdzMEIyN3RMRERpOXlHdw?oc=5",
+      "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-06T05:37:50.000Z"
-    },
-    {
-      "title": "Brazil cuts rates by 25 bps again, September rate cut in play",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU5ZelBrN3dWTm4xVGk0ZzVIV1lhZVM3aHl1aGdseDFlb2NVSXY1YXZvQ1QwVHZwYVV1Z093MXc1Y2ZZdlY4WjhtZjFTWTFiWUhkamlKSHI0dDNUazNBOWFzTUVFT19IR1RpWWd3V0R1VGFxT29NcmNCaloydkUtVUZXNURKMG4zVjJiX213TGVKOEthbGxHV3dLekp2ZFBBWlpEOVlxYWxLVW11T2txYmE4bC1xZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-05T23:06:12.000Z"
-    },
-    {
-      "title": "Fed's Cook ready to raise rates if inflation doesn't start easing",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDd0Vlp2NlhIcHd6bEhrdmVCeU9GSzdZM01JeXJ4MElkaG83Z0Nva0dLbzNya1pPUjlSQTJyS3pqRnoxWlY1c0lnSUlFVjJGcHEtSlZ1VXc4REhNODBFMzZ6eko5MmZWdVNSY25ERUM2X3VwZFNHaFE3WHlfRlF1X3hHYUhZR2VWcE5kSmNlbEtNTC1uRTBxZDBNLUtUOGROWTZ3cHlSLWRtdmN1N2FZ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-05T20:55:01.000Z"
-    },
-    {
-      "title": "US dollar to retain strength, yen intervention no game changer: Reuters poll",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2FKTmY2Z2JOWjExZ1Zxc0lGQmVPWjhSblNWRUFqXzdZcUltQ2MxOFVfbVNwMTR1b0xsQ2dFalgxUWs1M1dkdlowbHdjQlVLT2J1dURaMl9ibXROY0xlYmlnUWQ2WUhRWUh2Y18ycnVwX0QxdHVIbDhUWGYwNUh6a0UzN0VjaFo1dmhBaGhpaldXbHpCN1V3OHdaX21QLUNLZTZmUEtGd1RHa0RPVWJGLWdIcw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-05T14:37:51.000Z"
-    },
-    {
-      "title": "Dollar ticks up as markets await Iran deal news, look towards payrolls",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VsMnRGWG5QTmNmeVNLM21MZHV1dkdiRnBOWnNrZUdicjNhZTB3M3JjLTdJVGk0VTc4VjhEUkxtdUpGZ0J5bV9BMklYVWhSb1lMQkFlWk1JRm5SY3BmcU1tUkhUbWNaRGZDUHhNcW42RU1QZ0Y0ODdxWXZSa1l4OWxfSVlhMEx1ODdCZUI5UlJRUUpmMEJ4Z3lFOERXVWFXRGRjV3h1MjRlQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-06T02:01:00.000Z"
-    },
-    {
-      "title": "Fed's Daly says central bank was right to hold rates steady at July policy meeting",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjE5TDg2cVg0SncyZzdfUXVndHYzYlltdVJ2ZldwcEVfOHZmeWM2WXlXeWk0RDB0T2JYZmhtWXgtWUpHWUE3aklHWk8ySXVfaDlMYV9ZRnQ1RHNSVjFCY1YwSjh4ZEFwS2l6eEZ2QlZrVmxLdUUzbmlkN3hRU2FxTmpVektub0xCTFhRcTkxNG9KRFYxMmhMWk5PVW9GRUMwTzN1MDZmSlBkMXNoV1B5Wi1JYWFocE9KZ1AyZA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-06T01:46:12.000Z"
-    },
-    {
-      "title": "Lower bonds yields, Iran talks set gold on track for largest daily growth since February",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-05T01:01:00.000Z"
+      "publishedAt": "2026-08-07T10:03:45.000Z"
     }
   ]
 }
