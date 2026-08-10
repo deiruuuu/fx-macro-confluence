@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:07:07.732Z",
+  "updated": "2026-08-10T14:36:57.232Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7709.96,
-      "display": "7,710",
-      "change": -13.590000000000146,
-      "changePct": -0.176,
-      "date": "2026-08-06",
+      "value": 7757.64,
+      "display": "7,758",
+      "change": 47.68000000000029,
+      "changePct": 0.618,
+      "date": "2026-08-07",
       "spark": [
-        7357.49,
         7354.02,
         7440.43,
         7499.36,
@@ -82,7 +81,8 @@
         7600.5,
         7736.52,
         7723.55,
-        7709.96
+        7709.96,
+        7757.64
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2641.25,
-      "display": "2,641.25",
-      "change": 5.300000000000182,
-      "changePct": 0.201,
-      "date": "2026-08-06",
+      "value": 2671.27,
+      "display": "2,671.27",
+      "change": 30.019999999999982,
+      "changePct": 1.137,
+      "date": "2026-08-07",
       "spark": [
-        2532.64,
         2561.64,
         2528.87,
         2527.55,
@@ -125,7 +124,8 @@
         2548.38,
         2562.36,
         2635.95,
-        2641.25
+        2641.25,
+        2671.27
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.15,
-      "display": "15.15",
-      "change": -0.6600000000000001,
-      "changePct": -4.175,
-      "date": "2026-08-06",
+      "value": 14.9,
+      "display": "14.90",
+      "change": -0.25,
+      "changePct": -1.65,
+      "date": "2026-08-07",
       "spark": [
-        18.41,
         17.65,
         16.45,
         16.59,
@@ -211,7 +210,8 @@
         15.86,
         16.5,
         15.81,
-        15.15
+        15.15,
+        14.9
       ],
       "unit": "",
       "suffix": ""
@@ -219,15 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 64291.84,
-      "display": "64,292",
-      "change": -263.6100000000006,
-      "changePct": -0.408,
-      "date": "2026-08-06",
+      "value": 64855.5,
+      "display": "64,856",
+      "change": -54.62000000000262,
+      "changePct": -0.084,
+      "date": "2026-08-09",
       "spark": [
-        62168.43,
-        63156.18,
-        64057.01,
         63831.03,
         63809.21,
         62233.29,
@@ -254,7 +251,10 @@
         63503.04,
         64023.39,
         64555.45,
-        64291.84
+        64291.84,
+        64877.34,
+        64910.12,
+        64855.5
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-07",
+      "date": "2026-08-10",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.15,
-      "display": "15.15",
-      "change": -0.6600000000000001,
-      "changePct": -4.175,
-      "date": "2026-08-06",
+      "value": 14.9,
+      "display": "14.90",
+      "change": -0.25,
+      "changePct": -1.65,
+      "date": "2026-08-07",
       "spark": [
-        18.41,
         17.65,
         16.45,
         16.59,
@@ -1355,7 +1354,8 @@
         15.86,
         16.5,
         15.81,
-        15.15
+        15.15,
+        14.9
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Trump renews effort to fire Fed's Cook, continuing attacks on central bank",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUlRc0EybG1QTjhRc0F1OUxpNjVwQjdnVHZ4VWwxWEllQkp1Q0lKdHREWkxJRGl2T2l4QTZObW5VajVxbDYzQm5RbWxuV3FBbmJ0WXh0Yk5xbkx0UzNvbE4zQzBqN0FwTUZJa3VfTVl1aGxiTEowLTRIT1pYOXZxNXV0Y0MwamNqLTJrNkR5LXN5WEJDX29TMmpoY25fMUxsS01fMGRDVkVrZlRidEkxV0FXT2R2M3dnc3B2WU5BczZSQQ?oc=5",
+      "title": "Morning Bid: Fed's Cook grilled again",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkd1ZWpqb1ZsTDVxRTkyWlNpMlVKOVZxT2FreW8ydG5oeFZCMUtuUF9PTWtOYkd5elpBQ0FhLXhjeFFCeFd4cllSeFA2eUVNM3FnNFpWZEUtVHRKVmljNmlOaWx2cE85RWc5bmMzSkk4U2hpRWpCeGdlTGN5SDdJSkhSSm1DTnRXRUFBNWNNOEVOX3VqVzFr?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T21:51:36.000Z"
+      "publishedAt": "2026-08-10T10:42:51.000Z"
     },
     {
-      "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
+      "title": "How the hard reality of climate change hit Europe's economy this summer",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFOeHJsTmtMNUdzeWw0WnhwY2xRQlJvOURPczNwdjNtVXk4Z2x6dDFYVS0xdFJDQ3JMOEpla19XMmdRVU52V2xMalotMmdvRGtodFJSdEN2RHlxdjVsbDlQYkk2ZmlVajV1blVlTDYtQko3UGZtbXlrM3hndm1aX2dYcnl1LXpHZjdlSDhWcF9qMUVQZlVzOE9NOEU2RlBzcGRqbjllbWdEM1NpV3FrRmVSczduMy1EN0h6ag?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T18:26:42.000Z"
+      "publishedAt": "2026-08-10T06:44:39.000Z"
     },
     {
-      "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+      "title": "Gold eases on firm dollar; Markets eye US inflation data for Fed policy clues",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T18:11:39.000Z"
+      "publishedAt": "2026-08-10T02:22:00.000Z"
     },
     {
-      "title": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1lYeDhMVGR3MWxnLVFXeE8yMmstOGEyZGRNOUJQVThCdnQwQkh0ZExXc0NOWFVlVVdwTG9YWjNWR0llLTIxaGJDbTNrampsWFBNaHVmbjUzV1ZYN1lUbnFXanlaZDJoWkJ1a1lBYURMMVVEbmZjQS1INExZeC11SUNiQmE0YVhWRzZzVkV2ZDBvZ2JyUVRfd1oxbTlrbGZwYzd0ZWdrMVNtUjRWdWJudWdrUjdMZEk?oc=5",
+      "title": "Wall St opens flat as markets monitor Hormuz situation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T13:31:56.000Z"
+      "publishedAt": "2026-08-10T13:54:04.000Z"
     },
     {
-      "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+      "title": "Dollar steadies after payrolls drop, yen falls",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T20:41:09.000Z"
+      "publishedAt": "2026-08-10T11:14:40.000Z"
     },
     {
-      "title": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5",
+      "title": "Global stocks tick up with Hormuz and inflation in focus",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T04:33:00.000Z"
+      "publishedAt": "2026-08-10T00:25:00.000Z"
     },
     {
-      "title": "Dollar drops as weak US jobs data pushes out Fed hike expectations",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
+      "title": "Indian rupee, bonds to track oil prices; local and US inflation data in focus",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkJmQ3gzN0huY0ozZUo2SGlsN1BlYzhESmlzSXA4SENqTlZBYXNaT0c1cU5HOXZwOGQxME90VUhTT0hES09NcnFGZ0JVOHZWbjdHUlhMQkJ4SnFncTlzVzBZdHNreHZaTkExM0UtVktIazNnMEVhQXJHbnIwc1hHS3pLV0JaVXVQdW4xQ1RxM2pNeG10OUotd21SMF9icjlDWkcyNjZ2cG4wZUNRbUlCRFllRQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T20:16:31.000Z"
+      "publishedAt": "2026-08-10T01:36:00.000Z"
     },
     {
-      "title": "US stocks, bonds rally after soft jobs report; yen bounces back",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+      "title": "BOJ's debate on faster hikes bolsters September rate move odds",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXVtVGpwdGZEbmVoVV9vdDFFM1RuNE94YUJyTnNwV1ZlR2lpUGhPWFM0eGhFRjRiSW9hMU9wbEROcHJkemNoZ3RqWTA3cER0T3JVYUlpVC04a0tlLWhBdUtBVkRuT1U5a0M5RnFSbkJhNWtpbkF4ekdzcE05ZHQ5MFJHSm8xQ0FzRk54elpwMkpsMlE2MTJ5cVBMd0dQUURoa3FiNV9vR2tjc0RvRkJNenhaTQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-07T02:16:00.000Z"
+      "publishedAt": "2026-08-10T00:49:00.000Z"
     }
   ]
 }
