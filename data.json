@@ -1,20 +1,15 @@
 {
-  "updated": "2026-08-10T14:36:57.232Z",
+  "updated": "2026-08-10T23:07:23.284Z",
   "markets": {
     "dxy": {
       "label": "DXY",
       "series": "DTWEXBGS",
-      "value": 119.7034,
-      "display": "119.70",
-      "change": 0.028100000000009118,
-      "changePct": 0.023,
-      "date": "2026-07-31",
+      "value": 119.0649,
+      "display": "119.06",
+      "change": -0.44640000000001123,
+      "changePct": -0.374,
+      "date": "2026-08-07",
       "spark": [
-        120.3958,
-        120.5463,
-        121.0552,
-        121.412,
-        121.0559,
         120.8866,
         120.9525,
         120.9248,
@@ -39,7 +34,12 @@
         120.6247,
         120.7892,
         119.6753,
-        119.7034
+        119.7034,
+        120.7739,
+        119.5977,
+        119.3881,
+        119.5113,
+        119.0649
       ],
       "unit": "",
       "suffix": ""
@@ -263,17 +263,12 @@
   "fx": {
     "EURUSD": {
       "series": "DEXUSEU",
-      "price": 1.1519,
-      "display": "1.15190",
-      "change": -0.0003,
-      "changePct": -0.026,
-      "date": "2026-07-31",
+      "price": 1.1559,
+      "display": "1.15590",
+      "change": 0.0038,
+      "changePct": 0.33,
+      "date": "2026-08-07",
       "spark": [
-        1.147,
-        1.1432,
-        1.1383,
-        1.1348,
-        1.1385,
         1.1403,
         1.1425,
         1.1417,
@@ -298,65 +293,65 @@
         1.1401,
         1.1384,
         1.1522,
-        1.1519
+        1.1519,
+        1.1376,
+        1.1527,
+        1.1547,
+        1.1521,
+        1.1559
       ],
       "confluence": {
-        "score": 50,
-        "label": "Neutral confluence",
+        "score": 78,
+        "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": -0.03,
-            "bull": false
+            "pct": 0.33,
+            "bull": true
           },
           "rsi": {
-            "value": 59.94,
+            "value": 58.63,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": -0.83,
+            "value": -0.51,
             "bull": false
           }
         },
         "sr": [
           {
-            "level": "1.18980",
+            "level": "1.18220",
             "strength": "Strong",
-            "distPct": 3.29
+            "distPct": 2.28
           },
           {
-            "level": "1.16706",
+            "level": "1.16642",
             "strength": "Moderate",
-            "distPct": 1.32
+            "distPct": 0.91
           },
           {
-            "level": "1.14506",
+            "level": "1.14746",
             "strength": "Moderate",
-            "distPct": -0.59
+            "distPct": -0.73
           },
           {
             "level": "1.13480",
             "strength": "Strong",
-            "distPct": -1.48
+            "distPct": -1.83
           }
         ]
       }
     },
     "GBPUSD": {
       "series": "DEXUSUK",
-      "price": 1.347,
-      "display": "1.34700",
-      "change": 0.0007,
-      "changePct": 0.052,
-      "date": "2026-07-31",
+      "price": 1.3498,
+      "display": "1.34980",
+      "change": 0.0042,
+      "changePct": 0.312,
+      "date": "2026-08-07",
       "spark": [
-        1.3228,
-        1.3249,
-        1.3192,
-        1.316,
-        1.3216,
         1.3223,
         1.3255,
         1.3259,
@@ -381,65 +376,65 @@
         1.3311,
         1.3288,
         1.3463,
-        1.347
+        1.347,
+        1.3304,
+        1.3456,
+        1.3462,
+        1.3456,
+        1.3498
       ],
       "confluence": {
-        "score": 88,
+        "score": 89,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.05,
+            "pct": 0.31,
             "bull": true
           },
           "rsi": {
-            "value": 59.07,
+            "value": 58.04,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 0.47,
+            "value": 0.65,
             "bull": true
           }
         },
         "sr": [
           {
-            "level": "1.36640",
+            "level": "1.36510",
             "strength": "Strong",
-            "distPct": 1.44
+            "distPct": 1.13
           },
           {
-            "level": "1.35476",
+            "level": "1.35592",
             "strength": "Moderate",
-            "distPct": 0.58
+            "distPct": 0.45
           },
           {
-            "level": "1.33460",
+            "level": "1.33628",
             "strength": "Moderate",
-            "distPct": -0.92
+            "distPct": -1
           },
           {
             "level": "1.31600",
             "strength": "Strong",
-            "distPct": -2.3
+            "distPct": -2.5
           }
         ]
       }
     },
     "USDJPY": {
       "series": "DEXJPUS",
-      "price": 159.16,
-      "display": "159.160",
-      "change": -0.31,
-      "changePct": -0.194,
-      "date": "2026-07-31",
+      "price": 157.54,
+      "display": "157.540",
+      "change": -0.91,
+      "changePct": -0.574,
+      "date": "2026-08-07",
       "spark": [
-        161.37,
-        161.51,
-        161.55,
-        161.76,
-        161.67,
         161.67,
         161.93,
         162.61,
@@ -464,65 +459,65 @@
         163.65,
         163.86,
         159.47,
-        159.16
+        159.16,
+        163.71,
+        157.44,
+        157.63,
+        158.45,
+        157.54
       ],
       "confluence": {
-        "score": 17,
+        "score": 14,
         "label": "Bearish confluence",
         "signals": {
           "momentum": {
-            "pct": -0.19,
+            "pct": -0.57,
             "bull": false
           },
           "rsi": {
-            "value": 31.73,
+            "value": 38.37,
             "bull": false
           },
           "ema": {
             "above": false
           },
           "zscore": {
-            "value": 0.5,
-            "bull": true
+            "value": -0.12,
+            "bull": false
           }
         },
         "sr": [
           {
             "level": "163.860",
             "strength": "Strong",
-            "distPct": 2.95
+            "distPct": 4.01
           },
           {
-            "level": "161.040",
+            "level": "160.068",
             "strength": "Moderate",
-            "distPct": 1.18
+            "distPct": 1.6
           },
           {
-            "level": "156.552",
+            "level": "156.244",
             "strength": "Moderate",
-            "distPct": -1.64
+            "distPct": -0.82
           },
           {
-            "level": "152.640",
+            "level": "154.300",
             "strength": "Strong",
-            "distPct": -4.1
+            "distPct": -2.06
           }
         ]
       }
     },
     "USDCAD": {
       "series": "DEXCAUS",
-      "price": 1.4028,
-      "display": "1.40280",
-      "change": 0.0025,
-      "changePct": 0.179,
-      "date": "2026-07-31",
+      "price": 1.3933,
+      "display": "1.39330",
+      "change": -0.0096,
+      "changePct": -0.684,
+      "date": "2026-08-07",
       "spark": [
-        1.4142,
-        1.4167,
-        1.4198,
-        1.4237,
-        1.4191,
         1.4182,
         1.421,
         1.4205,
@@ -547,25 +542,30 @@
         1.4091,
         1.4086,
         1.4003,
-        1.4028
+        1.4028,
+        1.411,
+        1.4071,
+        1.4018,
+        1.4029,
+        1.3933
       ],
       "confluence": {
-        "score": 83,
-        "label": "Bullish confluence",
+        "score": 19,
+        "label": "Bearish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.18,
-            "bull": true
+            "pct": -0.68,
+            "bull": false
           },
           "rsi": {
-            "value": 43.89,
+            "value": 36.79,
             "bull": false
           },
           "ema": {
-            "above": true
+            "above": false
           },
           "zscore": {
-            "value": 0.94,
+            "value": 0.42,
             "bull": true
           }
         },
@@ -573,39 +573,34 @@
           {
             "level": "1.42370",
             "strength": "Strong",
-            "distPct": 1.49
+            "distPct": 2.18
           },
           {
-            "level": "1.41116",
+            "level": "1.40546",
             "strength": "Moderate",
-            "distPct": 0.6
+            "distPct": 0.87
           },
           {
-            "level": "1.38300",
+            "level": "1.37846",
             "strength": "Moderate",
-            "distPct": -1.41
+            "distPct": -1.07
           },
           {
-            "level": "1.35330",
+            "level": "1.35620",
             "strength": "Strong",
-            "distPct": -3.53
+            "distPct": -2.66
           }
         ]
       }
     },
     "AUDUSD": {
       "series": "DEXUSAL",
-      "price": 0.7026,
-      "display": "0.70260",
-      "change": 0.0004,
-      "changePct": 0.057,
-      "date": "2026-07-31",
+      "price": 0.7064,
+      "display": "0.70640",
+      "change": 0.0036,
+      "changePct": 0.512,
+      "date": "2026-08-07",
       "spark": [
-        0.7019,
-        0.7,
-        0.6926,
-        0.6895,
-        0.6922,
         0.6907,
         0.6885,
         0.6915,
@@ -630,25 +625,30 @@
         0.6984,
         0.693,
         0.7022,
-        0.7026
+        0.7026,
+        0.6993,
+        0.7038,
+        0.7051,
+        0.7028,
+        0.7064
       ],
       "confluence": {
-        "score": 86,
+        "score": 89,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.06,
+            "pct": 0.51,
             "bull": true
           },
           "rsi": {
-            "value": 55.39,
+            "value": 58.52,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 0.54,
+            "value": 0.67,
             "bull": true
           }
         },
@@ -656,39 +656,34 @@
           {
             "level": "0.72630",
             "strength": "Strong",
-            "distPct": 3.37
+            "distPct": 2.82
           },
           {
-            "level": "0.71208",
+            "level": "0.71436",
             "strength": "Moderate",
-            "distPct": 1.35
+            "distPct": 1.13
           },
           {
-            "level": "0.69576",
+            "level": "0.69804",
             "strength": "Moderate",
-            "distPct": -0.97
+            "distPct": -1.18
           },
           {
             "level": "0.68550",
             "strength": "Strong",
-            "distPct": -2.43
+            "distPct": -2.96
           }
         ]
       }
     },
     "USDCHF": {
       "series": "DEXSZUS",
-      "price": 0.8081,
-      "display": "0.80810",
-      "change": 0.0025,
-      "changePct": 0.31,
-      "date": "2026-07-31",
+      "price": 0.8078,
+      "display": "0.80780",
+      "change": -0.0051,
+      "changePct": -0.627,
+      "date": "2026-08-07",
       "spark": [
-        0.804,
-        0.8091,
-        0.8097,
-        0.8126,
-        0.8093,
         0.8082,
         0.8081,
         0.8082,
@@ -713,25 +708,30 @@
         0.817,
         0.8199,
         0.8056,
-        0.8081
+        0.8081,
+        0.8187,
+        0.8092,
+        0.8075,
+        0.8129,
+        0.8078
       ],
       "confluence": {
-        "score": 89,
+        "score": 63,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.31,
-            "bull": true
+            "pct": -0.63,
+            "bull": false
           },
           "rsi": {
-            "value": 48.82,
+            "value": 48.27,
             "bull": false
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 1.25,
+            "value": 1.16,
             "bull": true
           }
         },
@@ -739,39 +739,34 @@
           {
             "level": "0.81990",
             "strength": "Strong",
-            "distPct": 1.46
+            "distPct": 1.5
           },
           {
-            "level": "0.81282",
+            "level": "0.81264",
             "strength": "Moderate",
-            "distPct": 0.58
+            "distPct": 0.6
           },
           {
-            "level": "0.79158",
+            "level": "0.79212",
             "strength": "Moderate",
-            "distPct": -2.04
+            "distPct": -1.94
           },
           {
-            "level": "0.76680",
+            "level": "0.76860",
             "strength": "Strong",
-            "distPct": -5.11
+            "distPct": -4.85
           }
         ]
       }
     },
     "NZDUSD": {
       "series": "DEXUSNZ",
-      "price": 0.5879,
-      "display": "0.58790",
-      "change": 0.0003,
-      "changePct": 0.051,
-      "date": "2026-07-31",
+      "price": 0.5892,
+      "display": "0.58920",
+      "change": 0.0025,
+      "changePct": 0.426,
+      "date": "2026-08-07",
       "spark": [
-        0.5758,
-        0.5721,
-        0.5672,
-        0.5646,
-        0.5659,
         0.5651,
         0.565,
         0.5676,
@@ -796,48 +791,53 @@
         0.5798,
         0.5769,
         0.5876,
-        0.5879
+        0.5879,
+        0.578,
+        0.5889,
+        0.588,
+        0.5867,
+        0.5892
       ],
       "confluence": {
-        "score": 90,
+        "score": 89,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.05,
+            "pct": 0.43,
             "bull": true
           },
           "rsi": {
-            "value": 61.88,
+            "value": 58.6,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 0.5,
+            "value": 0.6,
             "bull": true
           }
         },
         "sr": [
           {
-            "level": "0.60570",
+            "level": "0.60000",
             "strength": "Strong",
-            "distPct": 3.03
+            "distPct": 1.83
           },
           {
-            "level": "0.59502",
+            "level": "0.59352",
             "strength": "Moderate",
-            "distPct": 1.21
+            "distPct": 0.73
           },
           {
-            "level": "0.57858",
+            "level": "0.57936",
             "strength": "Moderate",
-            "distPct": -1.59
+            "distPct": -1.67
           },
           {
             "level": "0.56460",
             "strength": "Strong",
-            "distPct": -3.96
+            "distPct": -4.18
           }
         ]
       }
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.25,
-      "display": "4.25",
-      "change": 0.07000000000000028,
-      "changePct": 1.675,
-      "date": "2026-08-06",
+      "value": 4.19,
+      "display": "4.19",
+      "change": -0.05999999999999961,
+      "changePct": -1.412,
+      "date": "2026-08-07",
       "spark": [
-        4.09,
         4.07,
         4.1,
         4.14,
@@ -1400,7 +1399,8 @@
         4.25,
         4.2,
         4.18,
-        4.25
+        4.25,
+        4.19
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.69,
-      "display": "4.69",
-      "change": 0.0600000000000005,
-      "changePct": 1.296,
-      "date": "2026-08-06",
+      "value": 4.65,
+      "display": "4.65",
+      "change": -0.040000000000000036,
+      "changePct": -0.853,
+      "date": "2026-08-07",
       "spark": [
-        4.4,
         4.38,
         4.38,
         4.44,
@@ -1443,7 +1442,8 @@
         4.7,
         4.63,
         4.63,
-        4.69
+        4.69,
+        4.65
       ],
       "unit": "",
       "suffix": ""
@@ -1451,40 +1451,34 @@
   },
   "news": [
     {
-      "title": "Morning Bid: Fed's Cook grilled again",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkd1ZWpqb1ZsTDVxRTkyWlNpMlVKOVZxT2FreW8ydG5oeFZCMUtuUF9PTWtOYkd5elpBQ0FhLXhjeFFCeFd4cllSeFA2eUVNM3FnNFpWZEUtVHRKVmljNmlOaWx2cE85RWc5bmMzSkk4U2hpRWpCeGdlTGN5SDdJSkhSSm1DTnRXRUFBNWNNOEVOX3VqVzFr?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-10T10:42:51.000Z"
-    },
-    {
       "title": "How the hard reality of climate change hit Europe's economy this summer",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFOeHJsTmtMNUdzeWw0WnhwY2xRQlJvOURPczNwdjNtVXk4Z2x6dDFYVS0xdFJDQ3JMOEpla19XMmdRVU52V2xMalotMmdvRGtodFJSdEN2RHlxdjVsbDlQYkk2ZmlVajV1blVlTDYtQko3UGZtbXlrM3hndm1aX2dYcnl1LXpHZjdlSDhWcF9qMUVQZlVzOE9NOEU2RlBzcGRqbjllbWdEM1NpV3FrRmVSczduMy1EN0h6ag?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-10T06:44:39.000Z"
+      "publishedAt": "2026-08-10T05:02:00.000Z"
     },
     {
-      "title": "Gold eases on firm dollar; Markets eye US inflation data for Fed policy clues",
+      "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-10T02:22:00.000Z"
     },
     {
-      "title": "Wall St opens flat as markets monitor Hormuz situation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-10T13:54:04.000Z"
-    },
-    {
-      "title": "Dollar steadies after payrolls drop, yen falls",
+      "title": "Dollar gains, yen weakens as markets eye US CPI",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-10T11:14:40.000Z"
+      "publishedAt": "2026-08-10T01:31:00.000Z"
     },
     {
-      "title": "Global stocks tick up with Hormuz and inflation in focus",
+      "title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-10T00:25:00.000Z"
+    },
+    {
+      "title": "Wall Street ends down as expectations of Hormuz deal fade",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-10T21:27:27.000Z"
     },
     {
       "title": "Indian rupee, bonds to track oil prices; local and US inflation data in focus",
@@ -1493,10 +1487,16 @@
       "publishedAt": "2026-08-10T01:36:00.000Z"
     },
     {
-      "title": "BOJ's debate on faster hikes bolsters September rate move odds",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXVtVGpwdGZEbmVoVV9vdDFFM1RuNE94YUJyTnNwV1ZlR2lpUGhPWFM0eGhFRjRiSW9hMU9wbEROcHJkemNoZ3RqWTA3cER0T3JVYUlpVC04a0tlLWhBdUtBVkRuT1U5a0M5RnFSbkJhNWtpbkF4ekdzcE05ZHQ5MFJHSm8xQ0FzRk54elpwMkpsMlE2MTJ5cVBMd0dQUURoa3FiNV9vR2tjc0RvRkJNenhaTQ?oc=5",
+      "title": "Morning Bid: Fed's Cook grilled again",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkd1ZWpqb1ZsTDVxRTkyWlNpMlVKOVZxT2FreW8ydG5oeFZCMUtuUF9PTWtOYkd5elpBQ0FhLXhjeFFCeFd4cllSeFA2eUVNM3FnNFpWZEUtVHRKVmljNmlOaWx2cE85RWc5bmMzSkk4U2hpRWpCeGdlTGN5SDdJSkhSSm1DTnRXRUFBNWNNOEVOX3VqVzFr?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-10T00:49:00.000Z"
+      "publishedAt": "2026-08-10T10:42:51.000Z"
+    },
+    {
+      "title": "China July factory-gate inflation eases to 3-month low, CPI slows",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNBcVdFSHViUm10d0NJVTdNYVJOdDgwZ3FvTy1JbFVwTVVlWmN1a1B3UjRaTWdYOG5VRm0yZWZXUWVKMEtLVzk4azgwcHVuX1Y3LWFrMGhnam0zRFU1dnRFQlBaSmpEOUVzM0sxUVYybml4QkIwNlVIck1LNE5wQTBEcWUtaFhZMGdCTFpnS0R5QTNDLWJheUNGT3VINWtSRzBFek13?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-09T01:43:00.000Z"
     }
   ]
 }
