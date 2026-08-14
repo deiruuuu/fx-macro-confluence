@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:32:07.368Z",
+  "updated": "2026-08-14T22:50:53.499Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.2,
-      "display": "4.20",
-      "change": -0.019999999999999574,
-      "changePct": -0.474,
-      "date": "2026-08-12",
+      "value": 4.15,
+      "display": "4.15",
+      "change": -0.04999999999999982,
+      "changePct": -1.19,
+      "date": "2026-08-13",
       "spark": [
-        4.17,
         4.14,
         4.13,
         4.19,
@@ -1400,7 +1399,8 @@
         4.19,
         4.25,
         4.22,
-        4.2
+        4.2,
+        4.15
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.68,
-      "display": "4.68",
-      "change": -0.020000000000000462,
-      "changePct": -0.426,
-      "date": "2026-08-12",
+      "value": 4.63,
+      "display": "4.63",
+      "change": -0.04999999999999982,
+      "changePct": -1.068,
+      "date": "2026-08-13",
       "spark": [
-        4.48,
         4.49,
         4.48,
         4.55,
@@ -1443,7 +1442,8 @@
         4.65,
         4.72,
         4.7,
-        4.68
+        4.68,
+        4.63
       ],
       "unit": "",
       "suffix": ""
@@ -1451,34 +1451,40 @@
   },
   "news": [
     {
-      "title": "Gold firms on weaker dollar as inflation data cements rate hold bets",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-14T04:02:00.000Z"
-    },
-    {
       "title": "AI-driven surge in bond yields could be next risk for markets and growth",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-14T04:10:00.000Z"
     },
     {
-      "title": "Stocks nudge at record highs; cooler US inflation eclipses oil rally",
+      "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-14T04:02:00.000Z"
+    },
+    {
+      "title": "Oil prices rally, US data dents chances of Fed rate hike",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-14T02:32:00.000Z"
     },
     {
-      "title": "Fed should raise rates to restrain growth and inflation, Hammack says",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
+      "title": "BOJ eyeing September rate hike, faster pace of tightening, sources say",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHVuTnFNU0ZEVXdoQWJXd212Z3Bxd21Nc05LWV9KaS1oa1JmU2puVDJUQzk4b08xaUZSTGlZRFQxUjI1NEpCaUdLVkllYlR2MVZ4djJ5RzJ2LXlMN2xUWHRIVnBKdzhReXhDM05BblZQdWs3UmlNbVFlNVdEYUotNjBOTHJ3dHVnNWt0S1JmeFU2UzcwV3lyMzZxRl9kWDROcU5zUVdWNFRvNUJnMkpQRUZLZlpqWk1PZXpTMw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-13T21:24:49.000Z"
+      "publishedAt": "2026-08-14T05:42:00.000Z"
     },
     {
-      "title": "S&P 500 notches record-high close as rate-hike worries ease",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
+      "title": "Dollar falls on surprise drop in US retail sales",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-13T23:35:02.000Z"
+      "publishedAt": "2026-08-14T01:47:00.000Z"
+    },
+    {
+      "title": "Trump touts drop in US crime rates with an eye on midterms",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk9IZmVHa2pyN0FTUF95d1RMVzQ0Z1hUZDlrTW90aFlEQTg2amQ3Q3hLRm5IcTFiMjJQelUtVkhSR1FkektFNkRyV2Jqd3dSNVd3YTA5ODJmajRsa3dyZjVENFAtLUdGSEVRSXl0RGhHWG5zd19fa1p2YnZSb3RMZ2R6NUdLT2M5XzBGdjEza1RJTDY1dGswTnR3aEpWQUFGTl9jT2ZBWQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-14T22:06:09.000Z"
     },
     {
       "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
@@ -1491,12 +1497,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-13T23:01:10.000Z"
-    },
-    {
-      "title": "BOJ eyeing September rate hike, faster pace of tightening, sources say",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHVuTnFNU0ZEVXdoQWJXd212Z3Bxd21Nc05LWV9KaS1oa1JmU2puVDJUQzk4b08xaUZSTGlZRFQxUjI1NEpCaUdLVkllYlR2MVZ4djJ5RzJ2LXlMN2xUWHRIVnBKdzhReXhDM05BblZQdWs3UmlNbVFlNVdEYUotNjBOTHJ3dHVnNWt0S1JmeFU2UzcwV3lyMzZxRl9kWDROcU5zUVdWNFRvNUJnMkpQRUZLZlpqWk1PZXpTMw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-14T05:42:00.000Z"
     }
   ]
 }
