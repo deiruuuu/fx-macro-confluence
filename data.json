@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T22:50:53.499Z",
+  "updated": "2026-08-17T14:03:26.743Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7798.99,
-      "display": "7,799",
-      "change": 50.48999999999978,
-      "changePct": 0.652,
-      "date": "2026-08-13",
+      "value": 7785.76,
+      "display": "7,786",
+      "change": -13.229999999999563,
+      "changePct": -0.17,
+      "date": "2026-08-14",
       "spark": [
-        7483.24,
         7537.43,
         7503.85,
         7482.71,
@@ -82,7 +81,8 @@
         7753.11,
         7728.2,
         7748.5,
-        7798.99
+        7798.99,
+        7785.76
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2680.98,
-      "display": "2,680.98",
-      "change": -14.509999999999764,
-      "changePct": -0.538,
-      "date": "2026-08-13",
+      "value": 2692.28,
+      "display": "2,692.28",
+      "change": 11.300000000000182,
+      "changePct": 0.421,
+      "date": "2026-08-14",
       "spark": [
-        2593.52,
         2621.23,
         2589.84,
         2569.93,
@@ -125,7 +124,8 @@
         2678.71,
         2681.37,
         2695.49,
-        2680.98
+        2680.98,
+        2692.28
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.63,
-      "display": "14.63",
-      "change": 0.08000000000000007,
-      "changePct": 0.55,
-      "date": "2026-08-13",
+      "value": 14.25,
+      "display": "14.25",
+      "change": -0.3800000000000008,
+      "changePct": -2.597,
+      "date": "2026-08-14",
       "spark": [
-        15.81,
         15.57,
         16.13,
         16.9,
@@ -211,7 +210,8 @@
         15.46,
         15.28,
         14.55,
-        14.63
+        14.63,
+        14.25
       ],
       "unit": "",
       "suffix": ""
@@ -219,15 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 63387.81,
-      "display": "63,388",
-      "change": -14.680000000000291,
-      "changePct": -0.023,
-      "date": "2026-08-13",
+      "value": 62859.47,
+      "display": "62,859",
+      "change": -139.54000000000087,
+      "changePct": -0.221,
+      "date": "2026-08-16",
       "spark": [
-        64755.57,
-        63746.78,
-        63900.18,
         64793.76,
         64571.18,
         65151.3,
@@ -254,7 +251,10 @@
         63876.26,
         63528.48,
         63402.49,
-        63387.81
+        63387.81,
+        62968.43,
+        62999.01,
+        62859.47
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-14",
+      "date": "2026-08-17",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.63,
-      "display": "14.63",
-      "change": 0.08000000000000007,
-      "changePct": 0.55,
-      "date": "2026-08-13",
+      "value": 14.25,
+      "display": "14.25",
+      "change": -0.3800000000000008,
+      "changePct": -2.597,
+      "date": "2026-08-14",
       "spark": [
-        15.81,
         15.57,
         16.13,
         16.9,
@@ -1355,7 +1354,8 @@
         15.46,
         15.28,
         14.55,
-        14.63
+        14.63,
+        14.25
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
+      "title": "AI market correction is coming, ECB blog predicts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T04:10:00.000Z"
+      "publishedAt": "2026-08-17T09:18:51.000Z"
     },
     {
-      "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+      "title": "Gold rises on softer dollar, fading Fed hike expectations",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGRscVZvWDlqZGtZZlM5alpGTkhTa1BPQ3JYYTdueEduSU5KbFNZQjVyVDQ2VDA5WHdxUjZQRjNTSHNwZ3RWUnVLREJrenpWakw5LXFOSlZjU081YXhYcURKM1BqZUxIQll3R3VxM0YweEFIMzhpN1hhSG5tOXQ2bm1yQmVjYUdaQm5VZXBPYzdTVHl5Skd4aFpSaVU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T04:02:00.000Z"
+      "publishedAt": "2026-08-17T03:23:00.000Z"
     },
     {
-      "title": "Oil prices rally, US data dents chances of Fed rate hike",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
+      "title": "Emerging markets march out of 'valley of tears' as investors diversify",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T02:32:00.000Z"
+      "publishedAt": "2026-08-17T06:04:00.000Z"
     },
     {
-      "title": "BOJ eyeing September rate hike, faster pace of tightening, sources say",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHVuTnFNU0ZEVXdoQWJXd212Z3Bxd21Nc05LWV9KaS1oa1JmU2puVDJUQzk4b08xaUZSTGlZRFQxUjI1NEpCaUdLVkllYlR2MVZ4djJ5RzJ2LXlMN2xUWHRIVnBKdzhReXhDM05BblZQdWs3UmlNbVFlNVdEYUotNjBOTHJ3dHVnNWt0S1JmeFU2UzcwV3lyMzZxRl9kWDROcU5zUVdWNFRvNUJnMkpQRUZLZlpqWk1PZXpTMw?oc=5",
+      "title": "China surprises oil markets again with a return to stockpiling in July",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T05:42:00.000Z"
+      "publishedAt": "2026-08-17T13:30:45.000Z"
     },
     {
-      "title": "Dollar falls on surprise drop in US retail sales",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5",
+      "title": "Dollar slips to lowest since early June as rate hike bets fade",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T01:47:00.000Z"
+      "publishedAt": "2026-08-17T00:41:00.000Z"
     },
     {
-      "title": "Trump touts drop in US crime rates with an eye on midterms",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk9IZmVHa2pyN0FTUF95d1RMVzQ0Z1hUZDlrTW90aFlEQTg2amQ3Q3hLRm5IcTFiMjJQelUtVkhSR1FkektFNkRyV2Jqd3dSNVd3YTA5ODJmajRsa3dyZjVENFAtLUdGSEVRSXl0RGhHWG5zd19fa1p2YnZSb3RMZ2R6NUdLT2M5XzBGdjEza1RJTDY1dGswTnR3aEpWQUFGTl9jT2ZBWQ?oc=5",
+      "title": "Shares steady, dollar slips as markets pare Fed rate risks",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T22:06:09.000Z"
+      "publishedAt": "2026-08-17T01:17:00.000Z"
     },
     {
-      "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
+      "title": "Morning Bid: Could consumers keep the Fed on hold, while Japan hikes?",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QjFXTkNfYUJXRHlnbUdLZWF4QlVSSTB1NFVSZUxkdHFtbUxfbmdTLWNSTkJ0NkZqTkpPM05uT0QtUmJVcEpONTB4ZkZUczlIdU11bURvbGFpa2NEdl9mQTllampqcDN3bUw2SDNKVGhZUGlSNTN1RFZZOFdSOHc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-14T10:59:51.000Z"
+      "publishedAt": "2026-08-17T04:31:00.000Z"
     },
     {
-      "title": "US producer prices unchanged in July, further dimming rate hike odds",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5",
+      "title": "Japan Q2 growth misses forecasts on weaker spending, investment",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-13T23:01:10.000Z"
+      "publishedAt": "2026-08-17T00:19:00.000Z"
     }
   ]
 }
