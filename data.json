@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T22:51:37.970Z",
+  "updated": "2026-08-18T14:06:58.817Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7785.76,
-      "display": "7,786",
-      "change": -13.229999999999563,
-      "changePct": -0.17,
-      "date": "2026-08-14",
+      "value": 7745.06,
+      "display": "7,745",
+      "change": -40.69999999999982,
+      "changePct": -0.523,
+      "date": "2026-08-17",
       "spark": [
-        7537.43,
         7503.85,
         7482.71,
         7543.64,
@@ -82,7 +81,8 @@
         7728.2,
         7748.5,
         7798.99,
-        7785.76
+        7785.76,
+        7745.06
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2692.28,
-      "display": "2,692.28",
-      "change": 11.300000000000182,
-      "changePct": 0.421,
-      "date": "2026-08-14",
+      "value": 2673.11,
+      "display": "2,673.11",
+      "change": -19.170000000000073,
+      "changePct": -0.712,
+      "date": "2026-08-17",
       "spark": [
-        2621.23,
         2589.84,
         2569.93,
         2593.55,
@@ -125,7 +124,8 @@
         2681.37,
         2695.49,
         2680.98,
-        2692.28
+        2692.28,
+        2673.11
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.25,
-      "display": "14.25",
-      "change": -0.3800000000000008,
-      "changePct": -2.597,
-      "date": "2026-08-14",
+      "value": 15.19,
+      "display": "15.19",
+      "change": 0.9399999999999995,
+      "changePct": 6.596,
+      "date": "2026-08-17",
       "spark": [
-        15.57,
         16.13,
         16.9,
         15.84,
@@ -211,7 +210,8 @@
         15.28,
         14.55,
         14.63,
-        14.25
+        14.25,
+        15.19
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 62859.47,
-      "display": "62,859",
-      "change": -139.54000000000087,
-      "changePct": -0.221,
-      "date": "2026-08-16",
+      "value": 64423.92,
+      "display": "64,424",
+      "change": 1564.449999999997,
+      "changePct": 2.489,
+      "date": "2026-08-17",
       "spark": [
-        64793.76,
         64571.18,
         65151.3,
         66553.73,
@@ -254,7 +253,8 @@
         63387.81,
         62968.43,
         62999.01,
-        62859.47
+        62859.47,
+        64423.92
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.25,
-      "display": "14.25",
-      "change": -0.3800000000000008,
-      "changePct": -2.597,
-      "date": "2026-08-14",
+      "value": 15.19,
+      "display": "15.19",
+      "change": 0.9399999999999995,
+      "changePct": 6.596,
+      "date": "2026-08-17",
       "spark": [
-        15.57,
         16.13,
         16.9,
         15.84,
@@ -1355,7 +1354,8 @@
         15.28,
         14.55,
         14.63,
-        14.25
+        14.25,
+        15.19
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,30 @@
   },
   "news": [
     {
+      "title": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-18T12:16:15.000Z"
+    },
+    {
+      "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-18T01:51:00.000Z"
+    },
+    {
+      "title": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-18T01:05:00.000Z"
+    },
+    {
+      "title": "Japan's 10-year yield hits three-decade peak on inflation worries",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGphSEpLMFlQdUZtSmxzQnBheU8tcVVQR0FhRzVJVFRTRXhDNlBDTzhTcEVQeU1pVy1WUmdFeWNLZGFtNnBBRWJHTHFLWGZPVnFZcklUanlLVWZCdzhEek1KLTJhbTJtaXFlcTkydlNFYmxCVzlrTTBjUEtwLThyY3hiaDdyVUJOdWM4WjNtNFIzb3FoNnJocDNpS0ZkajI5X2xWSzZjZWtzbHYxdXN6Ykg5bTBfUQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-18T00:16:00.000Z"
+    },
+    {
       "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2VTTU9IU0Fsc3VucUZNVm9zM1N3RUdpc0gzdk5zOGV3bzNROUlXaXdvZFdoR2tId0N6bHJyUTZlUmp0MzJXRQ?oc=5",
       "source": "Reuters",
@@ -1463,40 +1487,16 @@
       "publishedAt": "2026-08-17T09:18:51.000Z"
     },
     {
-      "title": "Indian banks fast-track dollar fundraising after RBI moves FX swap window deadline",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFc4cHg1RGFYUFh6WHh6T0YtLU5IdUFObUhmYkR5YkVoRjR5UkJOMzk0N05sTi1aVF90a1p4aWxjUlVLbWN4YWFEb1FrMTRzRHl1MVpQdmJwRkVtV29wQXMtMW5KeVl3R0x6S056eDFQSzVHZ3hnc1FDRjMyV2xVbklLNHFtM1F6MUJFMG0tdUZlZXhiM3FVVi1oSW1VZHJnYURVQzA5QTZjSW5Bci1iWHdkNElFZUxVYmo0LTB3?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-17T11:27:43.000Z"
-    },
-    {
-      "title": "Emerging markets march out of 'valley of tears' as investors diversify",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-17T06:04:00.000Z"
-    },
-    {
       "title": "China surprises oil markets again with a return to stockpiling in July",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-17T00:07:37.000Z"
+      "publishedAt": "2026-08-18T07:28:43.000Z"
     },
     {
-      "title": "Gold climbs on weaker dollar, easing Fed rate hike concerns",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGRscVZvWDlqZGtZZlM5alpGTkhTa1BPQ3JYYTdueEduSU5KbFNZQjVyVDQ2VDA5WHdxUjZQRjNTSHNwZ3RWUnVLREJrenpWakw5LXFOSlZjU081YXhYcURKM1BqZUxIQll3R3VxM0YweEFIMzhpN1hhSG5tOXQ2bm1yQmVjYUdaQm5VZXBPYzdTVHl5Skd4aFpSaVU?oc=5",
+      "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-17T03:23:00.000Z"
-    },
-    {
-      "title": "Stocks mixed, dollar falls on Fed rate bets, yields rise",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-17T01:17:00.000Z"
-    },
-    {
-      "title": "Dollar edges lower against euro as markets trim rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-17T00:41:00.000Z"
+      "publishedAt": "2026-08-18T12:17:29.000Z"
     }
   ]
 }
