@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T14:08:40.230Z",
+  "updated": "2026-08-20T22:56:34.441Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1369,9 +1369,8 @@
       "display": "4.19",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "spark": [
-        4.21,
         4.16,
         4.21,
         4.26,
@@ -1400,6 +1399,7 @@
         4.15,
         4.17,
         4.19,
+        4.19,
         4.19
       ],
       "unit": "",
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.71,
-      "display": "4.71",
-      "change": -0.009999999999999787,
-      "changePct": -0.212,
-      "date": "2026-08-18",
+      "value": 4.65,
+      "display": "4.65",
+      "change": -0.05999999999999961,
+      "changePct": -1.274,
+      "date": "2026-08-19",
       "spark": [
-        4.56,
         4.54,
         4.56,
         4.62,
@@ -1443,7 +1442,8 @@
         4.63,
         4.68,
         4.72,
-        4.71
+        4.71,
+        4.65
       ],
       "unit": "",
       "suffix": ""
@@ -1457,22 +1457,10 @@
       "publishedAt": "2026-08-20T05:01:00.000Z"
     },
     {
-      "title": "Dollar at three-month low as Treasury moves to soothe bond jitters",
+      "title": "Dollar rebounds from losses sparked by Treasury buyback plan",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-20T00:53:00.000Z"
-    },
-    {
-      "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-19T19:00:35.000Z"
-    },
-    {
-      "title": "Gold pulls back after two-month high as oil, hawkish Fed outlook weigh",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T01:07:00.000Z"
     },
     {
       "title": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
@@ -1481,22 +1469,34 @@
       "publishedAt": "2026-08-20T01:25:00.000Z"
     },
     {
+      "title": "Gold steadies as inflation concerns balance hopes of lower real rates",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-20T01:07:00.000Z"
+    },
+    {
+      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-20T22:19:11.000Z"
+    },
+    {
+      "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-19T19:00:35.000Z"
+    },
+    {
       "title": "Indian shares snap losing run led by IT, financials as bond markets steady",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnQ4RVFidUcyM0dVbno3aFNDamNsblQya0tEbEVKQVhJZEhDSngxNGVfV2JUVzQ0SU9yeVRTNWJuZjlGdlRUSUJod1BNbEpLc1ZjWVV4b1lCa0czTEMyVFVMTG82TERxX1A3aUVBdzh6bHVyWTZ3U1dobmx1TzY5MWFHQkd3dy1GV0ozS2JCVl9LSlU4TzNFUnlaclhhWldZSmVVcmp6Zw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-20T02:32:00.000Z"
     },
     {
-      "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5",
+      "title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWowTDhsUGNUOXVDQ1Q0STlaemFrQ2tRQUFsUVo0Z3VaYURVQnV3U1VhUV9oTmthdm9PM2xFaUhzRlhGQ2JyNGJYMjVIX1FrT0Z5R0RjXzhsWUVSMXRGWGg4eHd5VlhRQjUtTS1id0YzTXhpdE9GN2hCVHFVQi0wNkFsd3NBUFEyc0pyRVBZcnB1OTZBQ0RDdlpQSzk3NHVTdHRRVjB4T1FpeVJ0ODBQbjZn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-20T02:06:00.000Z"
-    },
-    {
-      "title": "Wall St set for lower open as bond yields climb; Walmart falls",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T13:12:15.000Z"
+      "publishedAt": "2026-08-19T20:25:43.000Z"
     }
   ]
 }
