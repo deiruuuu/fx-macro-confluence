@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T14:06:50.006Z",
+  "updated": "2026-08-21T22:52:19.709Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -1369,9 +1369,8 @@
       "display": "4.19",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "spark": [
-        4.16,
         4.21,
         4.26,
         4.18,
@@ -1400,6 +1399,7 @@
         4.17,
         4.19,
         4.19,
+        4.19,
         4.19
       ],
       "unit": "",
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.65,
-      "display": "4.65",
-      "change": -0.05999999999999961,
-      "changePct": -1.274,
-      "date": "2026-08-19",
+      "value": 4.69,
+      "display": "4.69",
+      "change": 0.040000000000000036,
+      "changePct": 0.86,
+      "date": "2026-08-20",
       "spark": [
-        4.54,
         4.56,
         4.62,
         4.58,
@@ -1443,7 +1442,8 @@
         4.68,
         4.72,
         4.71,
-        4.65
+        4.65,
+        4.69
       ],
       "unit": "",
       "suffix": ""
@@ -1451,25 +1451,43 @@
   },
   "news": [
     {
+      "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T15:55:43.000Z"
+    },
+    {
+      "title": "UK economy hands Burnham surprise boost before first budget",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3pWU0pKVmc3QXhCVjNkRmJYekk0T2FTZmdZb2daUFZqYkZtV2pOYVk3TjAyNXNSRGZvNGdvQmlUSWc3cGJ3Y2ZCV3FoNzlHMEVpR2EzLTJURkxQTE5SV3BsNW5KUTRRMUxKaXNYdVNTdVpDR1hiamF3dXp0VjRyRWlRQnYxeFdXbmlQb0xGZ0JLanFzUXdrcmtZVmJUYWtnQnhmX0JUcw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T14:41:44.000Z"
+    },
+    {
+      "title": "India's forex pile rises to six-month peak on sustained capital inflows",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T12:07:44.000Z"
+    },
+    {
       "title": "Treasury buyback renews dollar-debasement fears",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkkwenhydmpyZmx1Z0lxTjNQN0NXRDJtbjd4UEFkLVllcks3M05JM1VlQnJ5WDNmRDJTbHhValJwSmt0SnpFdllKYnRUcGNyY3lDNDBYZ1ZTWWtDaklOeDgzVUFqbzZyeWRLQ05waUV1aUd3LTRyRGlqc1FYaHNvNm1SZE83S0ZOYXNrejRwNXZ2N19BRWNka2FuTzB6ay01OUNuREtR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T05:04:00.000Z"
+      "publishedAt": "2026-08-21T14:03:54.000Z"
     },
     {
       "title": "War-hit European markets are far from down and out",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T04:01:00.000Z"
+      "publishedAt": "2026-08-21T04:16:24.000Z"
     },
     {
-      "title": "Dollar wobbles as Treasury's bond market buybacks raise fresh concerns",
+      "title": "Dollar falls to three-month low on Treasury buyback worries",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-21T01:36:00.000Z"
     },
     {
-      "title": "Gold rallies to 3-month high as frail dollar, technicals support",
+      "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-21T00:58:00.000Z"
@@ -1479,24 +1497,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXktTWZPYTBCX0ZTeGd1cF9QUGhHRDYwaVBDZFlZN3RiWVhrdTE3b1d6dUw2dDBKNG1kczJzMWVmOHV2b1huMWd2bUJxWC1KS0V6Ym5MZVhoVnRmUkVoUDdyczlHM1pFc3ZMZnI4endxYWRuZlF3bUFzS2MxU1ZpVFJfSGpaaGRxT1pSVi1oMDMyeXFjU0ZEN0ZHR0t4NERwNGhPUGpvVXBnaEoyQkVlOVJGRjlOYzBL?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-20T23:42:00.000Z"
-    },
-    {
-      "title": "Global stocks set for biggest weekly fall since mid-July, dollar on the defensive",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-21T12:27:09.000Z"
-    },
-    {
-      "title": "Treasury's Bessent says upsized bond buybacks could increase further",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWc4bVJ0eEl6MmpreFhiWU9RajRyM05KRDVuNU01TkZnY3UxRTdHSkFBTEwtWVV3dHJfczQyS0dNcW9uR2s4cXRDUmN6Y1FjaUZULWpxejJGMUdRWHlnQi1rekZjN2hyQXJmUXZlMGJocGFkaVQwOUtQMWFNYUVyZG9WQnBtYUlEQVdvdnp0dnE1aTlRNUZ1Q1d6OFUyb2IyTEluOXB6Y0RIU0JOSzhmS1l3?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T15:25:00.000Z"
-    },
-    {
-      "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T05:01:00.000Z"
     }
   ]
 }
