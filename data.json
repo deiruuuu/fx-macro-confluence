@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T22:56:34.441Z",
+  "updated": "2026-08-21T14:06:50.006Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7707.98,
-      "display": "7,708",
-      "change": 16.219999999999345,
-      "changePct": 0.211,
-      "date": "2026-08-19",
+      "value": 7641.16,
+      "display": "7,641",
+      "change": -66.81999999999971,
+      "changePct": -0.867,
+      "date": "2026-08-20",
       "spark": [
-        7543.64,
         7575.39,
         7515.34,
         7543.59,
@@ -82,7 +81,8 @@
         7785.76,
         7745.06,
         7691.76,
-        7707.98
+        7707.98,
+        7641.16
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2701.18,
-      "display": "2,701.18",
-      "change": 54.429999999999836,
-      "changePct": 2.056,
-      "date": "2026-08-19",
+      "value": 2705.44,
+      "display": "2,705.44",
+      "change": 4.260000000000218,
+      "changePct": 0.158,
+      "date": "2026-08-20",
       "spark": [
-        2593.55,
         2588.79,
         2503.69,
         2534.74,
@@ -125,7 +124,8 @@
         2692.28,
         2673.11,
         2646.75,
-        2701.18
+        2701.18,
+        2705.44
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.89,
-      "display": "14.89",
-      "change": -0.9499999999999993,
-      "changePct": -5.997,
-      "date": "2026-08-19",
+      "value": 16.01,
+      "display": "16.01",
+      "change": 1.120000000000001,
+      "changePct": 7.522,
+      "date": "2026-08-20",
       "spark": [
-        15.84,
         15.03,
         17.16,
         16.5,
@@ -211,7 +210,8 @@
         14.25,
         15.19,
         15.84,
-        14.89
+        14.89,
+        16.01
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 69487.6,
-      "display": "69,488",
-      "change": 4862.200000000004,
-      "changePct": 7.524,
-      "date": "2026-08-19",
+      "value": 73086.97,
+      "display": "73,087",
+      "change": 3599.3699999999953,
+      "changePct": 5.18,
+      "date": "2026-08-20",
       "spark": [
-        66553.73,
         66063.67,
         65000.99,
         64108.38,
@@ -254,7 +253,8 @@
         62859.47,
         64423.92,
         64625.4,
-        69487.6
+        69487.6,
+        73086.97
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.89,
-      "display": "14.89",
-      "change": -0.9499999999999993,
-      "changePct": -5.997,
-      "date": "2026-08-19",
+      "value": 16.01,
+      "display": "16.01",
+      "change": 1.120000000000001,
+      "changePct": 7.522,
+      "date": "2026-08-20",
       "spark": [
-        15.84,
         15.03,
         17.16,
         16.5,
@@ -1355,7 +1354,8 @@
         14.25,
         15.19,
         15.84,
-        14.89
+        14.89,
+        16.01
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "Treasury buyback renews dollar-debasement fears",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkkwenhydmpyZmx1Z0lxTjNQN0NXRDJtbjd4UEFkLVllcks3M05JM1VlQnJ5WDNmRDJTbHhValJwSmt0SnpFdllKYnRUcGNyY3lDNDBYZ1ZTWWtDaklOeDgzVUFqbzZyeWRLQ05waUV1aUd3LTRyRGlqc1FYaHNvNm1SZE83S0ZOYXNrejRwNXZ2N19BRWNka2FuTzB6ay01OUNuREtR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T05:04:00.000Z"
+    },
+    {
+      "title": "War-hit European markets are far from down and out",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T04:01:00.000Z"
+    },
+    {
+      "title": "Dollar wobbles as Treasury's bond market buybacks raise fresh concerns",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T01:36:00.000Z"
+    },
+    {
+      "title": "Gold rallies to 3-month high as frail dollar, technicals support",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T00:58:00.000Z"
+    },
+    {
+      "title": "Japan's core inflation accelerates in July, bolsters case for rate hike",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXktTWZPYTBCX0ZTeGd1cF9QUGhHRDYwaVBDZFlZN3RiWVhrdTE3b1d6dUw2dDBKNG1kczJzMWVmOHV2b1huMWd2bUJxWC1KS0V6Ym5MZVhoVnRmUkVoUDdyczlHM1pFc3ZMZnI4endxYWRuZlF3bUFzS2MxU1ZpVFJfSGpaaGRxT1pSVi1oMDMyeXFjU0ZEN0ZHR0t4NERwNGhPUGpvVXBnaEoyQkVlOVJGRjlOYzBL?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-20T23:42:00.000Z"
+    },
+    {
+      "title": "Global stocks set for biggest weekly fall since mid-July, dollar on the defensive",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-21T12:27:09.000Z"
+    },
+    {
+      "title": "Treasury's Bessent says upsized bond buybacks could increase further",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWc4bVJ0eEl6MmpreFhiWU9RajRyM05KRDVuNU01TkZnY3UxRTdHSkFBTEwtWVV3dHJfczQyS0dNcW9uR2s4cXRDUmN6Y1FjaUZULWpxejJGMUdRWHlnQi1rekZjN2hyQXJmUXZlMGJocGFkaVQwOUtQMWFNYUVyZG9WQnBtYUlEQVdvdnp0dnE1aTlRNUZ1Q1d6OFUyb2IyTEluOXB6Y0RIU0JOSzhmS1l3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-20T15:25:00.000Z"
+    },
+    {
       "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-20T05:01:00.000Z"
-    },
-    {
-      "title": "Dollar rebounds from losses sparked by Treasury buyback plan",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T00:53:00.000Z"
-    },
-    {
-      "title": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NlakpDYU5qTWhFZm0wLUEtbmR3akx4YmNsV25UX0ZiRWdDaThaSkpBeUg3blJNUS0wZFFLLUhyaWdGVklzZElzdWV0UHl6bkM1Y3RqZGJhRndHT25WYThIWUhpTkZhSmpwS0MySmpuQmptQm5MY2ZfMU9aN3Q1bkdyTQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T01:25:00.000Z"
-    },
-    {
-      "title": "Gold steadies as inflation concerns balance hopes of lower real rates",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T01:07:00.000Z"
-    },
-    {
-      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T22:19:11.000Z"
-    },
-    {
-      "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-19T19:00:35.000Z"
-    },
-    {
-      "title": "Indian shares snap losing run led by IT, financials as bond markets steady",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnQ4RVFidUcyM0dVbno3aFNDamNsblQya0tEbEVKQVhJZEhDSngxNGVfV2JUVzQ0SU9yeVRTNWJuZjlGdlRUSUJod1BNbEpLc1ZjWVV4b1lCa0czTEMyVFVMTG82TERxX1A3aUVBdzh6bHVyWTZ3U1dobmx1TzY5MWFHQkd3dy1GV0ozS2JCVl9LSlU4TzNFUnlaclhhWldZSmVVcmp6Zw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T02:32:00.000Z"
-    },
-    {
-      "title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWowTDhsUGNUOXVDQ1Q0STlaemFrQ2tRQUFsUVo0Z3VaYURVQnV3U1VhUV9oTmthdm9PM2xFaUhzRlhGQ2JyNGJYMjVIX1FrT0Z5R0RjXzhsWUVSMXRGWGg4eHd5VlhRQjUtTS1id0YzTXhpdE9GN2hCVHFVQi0wNkFsd3NBUFEyc0pyRVBZcnB1OTZBQ0RDdlpQSzk3NHVTdHRRVjB4T1FpeVJ0ODBQbjZn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-19T20:25:43.000Z"
     }
   ]
 }
