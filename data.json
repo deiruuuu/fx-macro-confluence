@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T22:52:19.709Z",
+  "updated": "2026-08-24T14:11:13.615Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7641.16,
-      "display": "7,641",
-      "change": -66.81999999999971,
-      "changePct": -0.867,
-      "date": "2026-08-20",
+      "value": 7674.37,
+      "display": "7,674",
+      "change": 33.210000000000036,
+      "changePct": 0.435,
+      "date": "2026-08-21",
       "spark": [
-        7575.39,
         7515.34,
         7543.59,
         7572.4,
@@ -82,7 +81,8 @@
         7745.06,
         7691.76,
         7707.98,
-        7641.16
+        7641.16,
+        7674.37
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2705.44,
-      "display": "2,705.44",
-      "change": 4.260000000000218,
-      "changePct": 0.158,
-      "date": "2026-08-20",
+      "value": 2727.89,
+      "display": "2,727.89",
+      "change": 22.449999999999818,
+      "changePct": 0.83,
+      "date": "2026-08-21",
       "spark": [
-        2588.79,
         2503.69,
         2534.74,
         2536.94,
@@ -125,7 +124,8 @@
         2673.11,
         2646.75,
         2701.18,
-        2705.44
+        2705.44,
+        2727.89
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.01,
-      "display": "16.01",
-      "change": 1.120000000000001,
-      "changePct": 7.522,
-      "date": "2026-08-20",
+      "value": 15.13,
+      "display": "15.13",
+      "change": -0.8800000000000008,
+      "changePct": -5.497,
+      "date": "2026-08-21",
       "spark": [
-        15.03,
         17.16,
         16.5,
         15.67,
@@ -211,7 +210,8 @@
         15.19,
         15.84,
         14.89,
-        16.01
+        16.01,
+        15.13
       ],
       "unit": "",
       "suffix": ""
@@ -219,15 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 73086.97,
-      "display": "73,087",
-      "change": 3599.3699999999953,
-      "changePct": 5.18,
-      "date": "2026-08-20",
+      "value": 77637.69,
+      "display": "77,638",
+      "change": 519.9600000000064,
+      "changePct": 0.674,
+      "date": "2026-08-23",
       "spark": [
-        66063.67,
-        65000.99,
-        64108.38,
         64319.9,
         65243.31,
         63692.68,
@@ -254,7 +251,10 @@
         64423.92,
         64625.4,
         69487.6,
-        73086.97
+        73086.97,
+        78126.63,
+        77117.73,
+        77637.69
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-21",
+      "date": "2026-08-24",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.01,
-      "display": "16.01",
-      "change": 1.120000000000001,
-      "changePct": 7.522,
-      "date": "2026-08-20",
+      "value": 15.13,
+      "display": "15.13",
+      "change": -0.8800000000000008,
+      "changePct": -5.497,
+      "date": "2026-08-21",
       "spark": [
-        15.03,
         17.16,
         16.5,
         15.67,
@@ -1355,7 +1354,8 @@
         15.19,
         15.84,
         14.89,
-        16.01
+        16.01,
+        15.13
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5",
+      "title": "Wall Street opens lower as high-stakes Iran, inflation tests loom",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T15:55:43.000Z"
+      "publishedAt": "2026-08-24T13:35:44.000Z"
     },
     {
-      "title": "UK economy hands Burnham surprise boost before first budget",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3pWU0pKVmc3QXhCVjNkRmJYekk0T2FTZmdZb2daUFZqYkZtV2pOYVk3TjAyNXNSRGZvNGdvQmlUSWc3cGJ3Y2ZCV3FoNzlHMEVpR2EzLTJURkxQTE5SV3BsNW5KUTRRMUxKaXNYdVNTdVpDR1hiamF3dXp0VjRyRWlRQnYxeFdXbmlQb0xGZ0JLanFzUXdrcmtZVmJUYWtnQnhmX0JUcw?oc=5",
+      "title": "Gold climbs to more than three-month high as markets await US inflation data",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T14:41:44.000Z"
+      "publishedAt": "2026-08-24T10:14:18.000Z"
     },
     {
-      "title": "India's forex pile rises to six-month peak on sustained capital inflows",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5",
+      "title": "Dollar hovers near multi-month lows as debt nerves unnerve investors",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T12:07:44.000Z"
+      "publishedAt": "2026-08-24T11:33:26.000Z"
     },
     {
-      "title": "Treasury buyback renews dollar-debasement fears",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkkwenhydmpyZmx1Z0lxTjNQN0NXRDJtbjd4UEFkLVllcks3M05JM1VlQnJ5WDNmRDJTbHhValJwSmt0SnpFdllKYnRUcGNyY3lDNDBYZ1ZTWWtDaklOeDgzVUFqbzZyeWRLQ05waUV1aUd3LTRyRGlqc1FYaHNvNm1SZE83S0ZOYXNrejRwNXZ2N19BRWNka2FuTzB6ay01OUNuREtR?oc=5",
+      "title": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T14:03:54.000Z"
+      "publishedAt": "2026-08-24T12:21:07.000Z"
     },
     {
-      "title": "War-hit European markets are far from down and out",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
+      "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T04:16:24.000Z"
+      "publishedAt": "2026-08-23T08:38:55.000Z"
     },
     {
-      "title": "Dollar falls to three-month low on Treasury buyback worries",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
+      "title": "Gulf markets rise as oil gains lift sentiment",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T01:36:00.000Z"
+      "publishedAt": "2026-08-23T13:13:45.000Z"
     },
     {
-      "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
+      "title": "Shares, oil dip as US sanctions on Iran loom",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-21T00:58:00.000Z"
+      "publishedAt": "2026-08-24T00:49:00.000Z"
     },
     {
-      "title": "Japan's core inflation accelerates in July, bolsters case for rate hike",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXktTWZPYTBCX0ZTeGd1cF9QUGhHRDYwaVBDZFlZN3RiWVhrdTE3b1d6dUw2dDBKNG1kczJzMWVmOHV2b1huMWd2bUJxWC1KS0V6Ym5MZVhoVnRmUkVoUDdyczlHM1pFc3ZMZnI4endxYWRuZlF3bUFzS2MxU1ZpVFJfSGpaaGRxT1pSVi1oMDMyeXFjU0ZEN0ZHR0t4NERwNGhPUGpvVXBnaEoyQkVlOVJGRjlOYzBL?oc=5",
+      "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-20T23:42:00.000Z"
+      "publishedAt": "2026-08-22T15:39:00.000Z"
     }
   ]
 }
