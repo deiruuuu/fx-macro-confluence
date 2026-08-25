@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:54:37.267Z",
+  "updated": "2026-08-25T14:14:57.579Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7674.37,
-      "display": "7,674",
-      "change": 33.210000000000036,
-      "changePct": 0.435,
-      "date": "2026-08-21",
+      "value": 7652.86,
+      "display": "7,653",
+      "change": -21.51000000000022,
+      "changePct": -0.28,
+      "date": "2026-08-24",
       "spark": [
-        7515.34,
         7543.59,
         7572.4,
         7533.77,
@@ -82,7 +81,8 @@
         7691.76,
         7707.98,
         7641.16,
-        7674.37
+        7674.37,
+        7652.86
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2727.89,
-      "display": "2,727.89",
-      "change": 22.449999999999818,
-      "changePct": 0.83,
-      "date": "2026-08-21",
+      "value": 2737.83,
+      "display": "2,737.83",
+      "change": 9.940000000000055,
+      "changePct": 0.364,
+      "date": "2026-08-24",
       "spark": [
-        2503.69,
         2534.74,
         2536.94,
         2494.8,
@@ -125,7 +124,8 @@
         2646.75,
         2701.18,
         2705.44,
-        2727.89
+        2727.89,
+        2737.83
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.13,
-      "display": "15.13",
-      "change": -0.8800000000000008,
-      "changePct": -5.497,
-      "date": "2026-08-21",
+      "value": 15.85,
+      "display": "15.85",
+      "change": 0.7199999999999989,
+      "changePct": 4.759,
+      "date": "2026-08-24",
       "spark": [
-        17.16,
         16.5,
         15.67,
         16.73,
@@ -211,7 +210,8 @@
         15.84,
         14.89,
         16.01,
-        15.13
+        15.13,
+        15.85
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77637.69,
-      "display": "77,638",
-      "change": 519.9600000000064,
-      "changePct": 0.674,
-      "date": "2026-08-23",
+      "value": 78981.39,
+      "display": "78,981",
+      "change": 1343.699999999997,
+      "changePct": 1.731,
+      "date": "2026-08-24",
       "spark": [
-        64319.9,
         65243.31,
         63692.68,
         63945.6,
@@ -254,7 +253,8 @@
         73086.97,
         78126.63,
         77117.73,
-        77637.69
+        77637.69,
+        78981.39
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.13,
-      "display": "15.13",
-      "change": -0.8800000000000008,
-      "changePct": -5.497,
-      "date": "2026-08-21",
+      "value": 15.85,
+      "display": "15.85",
+      "change": 0.7199999999999989,
+      "changePct": 4.759,
+      "date": "2026-08-24",
       "spark": [
-        17.16,
         16.5,
         15.67,
         16.73,
@@ -1355,7 +1354,8 @@
         15.84,
         14.89,
         16.01,
-        15.13
+        15.13,
+        15.85
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,42 @@
   },
   "news": [
     {
+      "title": "India's Yes Bank, two other peers withdraw dollar debt plan, bankers say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzNJY3I2Rl9qTnE1dzdnQ3JYNW1lT3plRVlvbmxZeFMtcjIyR3FvZVpVMng2Q1RwbHcxeU0tMDVQSEs5bEJ1SWNIMkdBblJjbm1uUkNsa1dieWt1UURWVUtRSlU3c0RUN3Vaa1p4S2dvVE1XTjUxc05UeTFOVnZZazdGbFRXNGxzYUxJQUJjQTlvRjE5SU5SMzZwMlZNbWM4bS1NTWk1VHU4Vkh1bHFJMUFGOWNSZEgz?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T09:34:51.000Z"
+    },
+    {
+      "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A3ZDBwNm85VE41dmUyZGMzWUdmTHJMb3JMYkl4V21XdG9PTHNOZnFnLXhPR2VpSWtsbDNla1pna3I2WHNSRzU2TkhERE9oMnRNZGluNDNHMlFOWnlmSUEtT1dwNGxqVnRrQ1pJemRCTzlDa3A3b3hJV0pNSGJPSFpYbktMemhOblpRZW1QekkwT3F0VEY5TkNQaFZhdlZjejFTU1JjTjVKZ01SNjZMQ195YWlZOVA2NG1fTVFMaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T05:19:00.000Z"
+    },
+    {
+      "title": "Wall St opens higher as tech stocks rebound before Nvidia results, data",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T13:35:43.000Z"
+    },
+    {
+      "title": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T01:31:00.000Z"
+    },
+    {
+      "title": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVRRRXpGLTQzSUFSbHE2c1c0RGxGTGRhOWpneHlwRTI5WlBDQWY1UWJBOWFITHFyZkxGQ2xGYzkxT1ZZLWtCM0ZRbVhncEUyeTM3aG05Y0gtekpwNE1vdjdkNjNUc1BiOUw1cDljM1gtX0p3Yi16elh6UTNYeGJlNXRiVlZRU0diWnlnVkVOVnVuY2JITnNKVHgzRnJGVzRsTW5jRXNB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T09:08:55.000Z"
+    },
+    {
+      "title": "Australia central bank debated rate hike in August, with board divided",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0Q4MFVjWFVDUG5qMVdKLTJfaDlfbnk3X1FHM1JmWVRZTHp5dXJPZUV4SGVxQktYY29hdjJsanU1MVoxTElnZGhFb0JtQjN5YUFGMFRzQVN4bXoyNHotelNNajIzanpSb2h4M1Q2TmtyZUluM3ZEZGx5ZHFRZjVhOVdaVUlJYTdUYjNpSTh5WWxNM05BZWxNMzZBaWh0SmtUMDNCNDRnMWdqcXJId0pfUVVQc1owOVdTVUZObXB3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T01:35:00.000Z"
+    },
+    {
       "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
       "source": "Reuters",
@@ -1460,43 +1496,7 @@
       "title": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-24T21:07:43.000Z"
-    },
-    {
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-24T22:26:01.000Z"
-    },
-    {
-      "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-24T01:48:00.000Z"
-    },
-    {
-      "title": "Shares dip with pressure from technology, yields and oil fall",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-24T00:49:00.000Z"
-    },
-    {
-      "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-23T08:38:55.000Z"
-    },
-    {
-      "title": "European stocks flat as markets weigh Iran tensions, await economic data",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFOcHRycnRBVzJHNi1CM1o1TWo5dHJha2xIcmFFbEQyTy1PQ2x1WWFSdkpWYjQtQ1RxcW5TYlhJbXE3TGE5S3RqazhrT0dMRjdVbW5rMEdPUk5BUWNrMkJqY0NILVpTNkhQeEJhcjBkc0NwS1ZkVDUyM1BSZkhrakNPUERDNk54LS1kd1BxLWRuVWRiQ084SHhQOG1GVW9GNm1EckhR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-24T16:46:23.000Z"
-    },
-    {
-      "title": "Gulf markets rise as oil gains lift sentiment",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-23T13:13:45.000Z"
+      "publishedAt": "2026-08-24T10:02:00.000Z"
     }
   ]
 }
