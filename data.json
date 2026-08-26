@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:56:28.108Z",
+  "updated": "2026-08-26T14:12:10.984Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7652.86,
-      "display": "7,653",
-      "change": -21.51000000000022,
-      "changePct": -0.28,
-      "date": "2026-08-24",
+      "value": 7677.28,
+      "display": "7,677",
+      "change": 24.420000000000073,
+      "changePct": 0.319,
+      "date": "2026-08-25",
       "spark": [
-        7543.59,
         7572.4,
         7533.77,
         7457.69,
@@ -82,7 +81,8 @@
         7707.98,
         7641.16,
         7674.37,
-        7652.86
+        7652.86,
+        7677.28
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2737.83,
-      "display": "2,737.83",
-      "change": 9.940000000000055,
-      "changePct": 0.364,
-      "date": "2026-08-24",
+      "value": 2743.97,
+      "display": "2,743.97",
+      "change": 6.139999999999873,
+      "changePct": 0.224,
+      "date": "2026-08-25",
       "spark": [
-        2534.74,
         2536.94,
         2494.8,
         2516.55,
@@ -125,7 +124,8 @@
         2701.18,
         2705.44,
         2727.89,
-        2737.83
+        2737.83,
+        2743.97
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.85,
-      "display": "15.85",
-      "change": 0.7199999999999989,
-      "changePct": 4.759,
-      "date": "2026-08-24",
+      "value": 15.45,
+      "display": "15.45",
+      "change": -0.40000000000000036,
+      "changePct": -2.524,
+      "date": "2026-08-25",
       "spark": [
-        16.5,
         15.67,
         16.73,
         18.77,
@@ -211,7 +210,8 @@
         14.89,
         16.01,
         15.13,
-        15.85
+        15.85,
+        15.45
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78981.39,
-      "display": "78,981",
-      "change": 1343.699999999997,
-      "changePct": 1.731,
-      "date": "2026-08-24",
+      "value": 78510.95,
+      "display": "78,511",
+      "change": -470.4400000000023,
+      "changePct": -0.596,
+      "date": "2026-08-25",
       "spark": [
-        65243.31,
         63692.68,
         63945.6,
         63896.15,
@@ -254,7 +253,8 @@
         78126.63,
         77117.73,
         77637.69,
-        78981.39
+        78981.39,
+        78510.95
       ],
       "unit": "",
       "suffix": ""
@@ -976,10 +976,10 @@
     "gdp": {
       "label": "GDP",
       "series": "GDP",
-      "value": 32475.21,
-      "display": "32,475",
-      "change": 609.4889999999978,
-      "changePct": 1.913,
+      "value": 32486.066,
+      "display": "32,486",
+      "change": 620.3449999999975,
+      "changePct": 1.947,
       "date": "2026-04-01",
       "spark": [
         21111.6,
@@ -1011,7 +1011,7 @@
         31098.027,
         31422.526,
         31865.721,
-        32475.21
+        32486.066
       ],
       "unit": "B",
       "suffix": ""
@@ -1019,13 +1019,12 @@
     "pce": {
       "label": "PCE INDEX",
       "series": "PCEPI",
-      "value": 131.392,
-      "display": "131.4",
-      "change": -0.14300000000000068,
-      "changePct": -0.109,
-      "date": "2026-06-01",
+      "value": 131.659,
+      "display": "131.7",
+      "change": 0.20499999999998408,
+      "changePct": 0.156,
+      "date": "2026-07-01",
       "spark": [
-        122.23,
         122.598,
         123.038,
         123.341,
@@ -1052,9 +1051,10 @@
         129.023,
         129.539,
         130.403,
-        130.932,
-        131.535,
-        131.392
+        130.946,
+        131.576,
+        131.454,
+        131.659
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.85,
-      "display": "15.85",
-      "change": 0.7199999999999989,
-      "changePct": 4.759,
-      "date": "2026-08-24",
+      "value": 15.45,
+      "display": "15.45",
+      "change": -0.40000000000000036,
+      "changePct": -2.524,
+      "date": "2026-08-25",
       "spark": [
-        16.5,
         15.67,
         16.73,
         18.77,
@@ -1355,7 +1354,8 @@
         14.89,
         16.01,
         15.13,
-        15.85
+        15.85,
+        15.45
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "Wall St slips at open after inflation data; Nvidia in focus",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T13:36:09.000Z"
+    },
+    {
+      "title": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T05:44:00.000Z"
+    },
+    {
+      "title": "Morning Bid: Markets are waiting '9 to 5'",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T04:53:00.000Z"
+    },
+    {
+      "title": "Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T01:51:00.000Z"
+    },
+    {
+      "title": "Gold drops 1% after in-line U.S. inflation data",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T00:30:00.000Z"
+    },
+    {
+      "title": "Australia inflation runs hot in July, markets reprice rate hike risk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWdkYmdqYURTcGlVajFleGJIS1J6NUNmRG1tTkJubnhWT1NtamZUX1lTSkhsOFB1eTMzd3dQMUFYUVZlRTdnWkE4d0NrWXFmRjVkM0xfTHRNbDJLM0w5RTVMMUY5OXVIZGNJcTI1Skp2QkxyaDUzVmsxMkpIbzdBdnVCelI1dWFkS3VjZkZRWW1JT2dudGpuOUdfZTZUWGpfQ2RGZS1FeTBvVXl4b3c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T01:42:00.000Z"
+    },
+    {
+      "title": "ECB set for September rate hike with no appetite to signal more, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1YSEQ1R25MRlpTOGV2WjhEVjJMc1N3MjhGMnhCcUF0WGpMSTh1UTVUTGxIam1MNjh0dURNUWQtdGd5MGZpRTBIcUVuS0dobGhhNlY2UDN5OTYxZzJPTnp4Y0FVWUlzMUN2bGxQQWtnTUVMNENlbXI0bkdFSnFjaDZOdG12VGZLcFdUZUJHWElaVElqMmF0dmpCNTdNejM1UTdISUdGaVYwWW9kSUN4TVUzbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-25T19:22:00.000Z"
+    },
+    {
       "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTVDMFZMTDZGMDAxNEtoSVNSU01oel8ybnRNblR5VXVWTUJNb0xBR2R2QVFCY3FkelBPSDdyUURZcEM0cl9SVV9jWVZSRjJVQWh1WExNanllMmM0U3ZqeGR0S2RFbUhaRTlMTFBWVlJGTl9XRWVnSWF2bVd2WWUzOWlJTl9mRnJfVklYd3ptUlBFbHNfZXZZRGZBVVMzaXVXczJGSDRHQVVxV0xwME5uZFRmdDdKanNNdF9aSGs5Z0RrbDA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-25T15:07:43.000Z"
-    },
-    {
-      "title": "Wall Street ends higher as tech rebounds before Nvidia results",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T20:29:41.000Z"
-    },
-    {
-      "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A3ZDBwNm85VE41dmUyZGMzWUdmTHJMb3JMYkl4V21XdG9PTHNOZnFnLXhPR2VpSWtsbDNla1pna3I2WHNSRzU2TkhERE9oMnRNZGluNDNHMlFOWnlmSUEtT1dwNGxqVnRrQ1pJemRCTzlDa3A3b3hJV0pNSGJPSFpYbktMemhOblpRZW1QekkwT3F0VEY5TkNQaFZhdlZjejFTU1JjTjVKZ01SNjZMQ195YWlZOVA2NG1fTVFMaw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T05:19:00.000Z"
-    },
-    {
-      "title": "Gold steadies after hitting over 3-month peak ahead of US inflation data",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T02:10:00.000Z"
-    },
-    {
-      "title": "Explainer: The super peso is back — and it's starting to hurt",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T17:37:07.000Z"
-    },
-    {
-      "title": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T01:31:00.000Z"
-    },
-    {
-      "title": "Why the bond market may be resetting expectations about the US",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T21:29:02.000Z"
-    },
-    {
-      "title": "Australia central bank debated rate hike in August, with board divided",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0Q4MFVjWFVDUG5qMVdKLTJfaDlfbnk3X1FHM1JmWVRZTHp5dXJPZUV4SGVxQktYY29hdjJsanU1MVoxTElnZGhFb0JtQjN5YUFGMFRzQVN4bXoyNHotelNNajIzanpSb2h4M1Q2TmtyZUluM3ZEZGx5ZHFRZjVhOVdaVUlJYTdUYjNpSTh5WWxNM05BZWxNMzZBaWh0SmtUMDNCNDRnMWdqcXJId0pfUVVQc1owOVdTVUZObXB3?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T01:35:00.000Z"
+      "publishedAt": "2026-08-25T15:06:00.000Z"
     }
   ]
 }
