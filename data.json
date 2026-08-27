@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:12:10.984Z",
+  "updated": "2026-08-27T03:28:32.688Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7677.28,
-      "display": "7,677",
-      "change": 24.420000000000073,
-      "changePct": 0.319,
-      "date": "2026-08-25",
+      "value": 7675.7,
+      "display": "7,676",
+      "change": -1.5799999999999272,
+      "changePct": -0.021,
+      "date": "2026-08-26",
       "spark": [
-        7572.4,
         7533.77,
         7457.69,
         7443.28,
@@ -82,7 +81,8 @@
         7641.16,
         7674.37,
         7652.86,
-        7677.28
+        7677.28,
+        7675.7
       ],
       "unit": "",
       "suffix": ""
@@ -133,17 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 86.48,
-      "display": "86.48",
-      "change": 0.4399999999999977,
-      "changePct": 0.511,
-      "date": "2026-08-18",
+      "value": 83.9,
+      "display": "83.90",
+      "change": -2.4399999999999977,
+      "changePct": -2.826,
+      "date": "2026-08-25",
       "spark": [
-        74.56,
-        73.15,
-        72.45,
-        79.2,
-        80.44,
         80.73,
         80.03,
         83.43,
@@ -168,7 +163,12 @@
         82.77,
         83.99,
         86.04,
-        86.48
+        86.48,
+        87.28,
+        89.75,
+        87.21,
+        86.34,
+        83.9
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78510.95,
-      "display": "78,511",
-      "change": -470.4400000000023,
-      "changePct": -0.596,
-      "date": "2026-08-25",
+      "value": 78961.93,
+      "display": "78,962",
+      "change": 450.9799999999959,
+      "changePct": 0.574,
+      "date": "2026-08-26",
       "spark": [
-        63692.68,
         63945.6,
         63896.15,
         64817.71,
@@ -254,7 +253,8 @@
         77117.73,
         77637.69,
         78981.39,
-        78510.95
+        78510.95,
+        78961.93
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.24,
-      "display": "4.24",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-08-24",
+      "value": 4.17,
+      "display": "4.17",
+      "change": -0.07000000000000028,
+      "changePct": -1.651,
+      "date": "2026-08-25",
       "spark": [
-        4.18,
         4.13,
         4.16,
         4.18,
@@ -1400,7 +1399,8 @@
         4.19,
         4.19,
         4.24,
-        4.24
+        4.24,
+        4.17
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.7,
-      "display": "4.70",
-      "change": -0.040000000000000036,
-      "changePct": -0.844,
-      "date": "2026-08-24",
+      "value": 4.64,
+      "display": "4.64",
+      "change": -0.0600000000000005,
+      "changePct": -1.277,
+      "date": "2026-08-25",
       "spark": [
-        4.58,
         4.55,
         4.57,
         4.55,
@@ -1443,7 +1442,8 @@
         4.65,
         4.69,
         4.74,
-        4.7
+        4.7,
+        4.64
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,40 @@
   },
   "news": [
     {
-      "title": "Wall St slips at open after inflation data; Nvidia in focus",
+      "title": "Dollar steady before Jackson Hole, yen little changed after BOJ's Himino speech",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFJtdUFWcVo1Rmx3WlU5cUtCY0FHZENhNlJ0bmY1bVRFbVA5ZFZ5MGRFMVRYTGtJanhiTlVQMGFOd0JlSmZHVms0UVg3RkJPbGdIc29Wa1pnQUF4SDV3Q3kxOC1jRkdsVXBUZmtGVHY0VGZ4c3lMWTJxS3FHdkt1NER0eW14Y1pONU1HQi1BYXFPLTBBejRtNm9zMlhOZl92MUNfNw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-27T00:09:00.000Z"
+    },
+    {
+      "title": "Lawyer for Fed's Cook, targeted by Trump, says there are no grounds for dismissal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODA2VVdpOTRHa29OS3pHeW9HR2RBUkJ4a0RaNTNmb1UzRzhsVE1obnRaMEc2WklJdFJyUlowcTlXVmo2UmRIZTZIUk9WSkVZVUtEdWJPTGkwQmlKeXVOTjU3Rm9uZHFFSW84em9GREtYYUk0c3dUSVFRVzFVb01YNy1BaHpLZ2xyQlk1LV9oSTRzV3NyU0hPVUVBVndMUUlqRWVzNDFrcTFvTF9vQS1YWlpvN2tpRXU5RXB1YnBFRQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T23:30:00.000Z"
+    },
+    {
+      "title": "US inflation remains elevated as GDP growth outlook brightens",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T20:27:43.000Z"
+    },
+    {
+      "title": "Fed seen a bit more likely to hike after inflation data",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanFlNHU1aU9hbFVoM2VlS21qMXlfNzBLVU1HM3VrdnhQUHJka2pfUThVeUx5dk9ubGEwU01NWml0VWNzcVMyTDRzdFVLMW5BWXA2QkFweUtPcXNObVFNQUFGcUx4WnQ4b2RtRFBjZ0hnb3FMdWVGQUpWVXoyNXVwN1lSMDRPSFVoWVFBM1BSQ0psQWdrb1pWYzJzMA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T22:06:27.000Z"
+    },
+    {
+      "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-26T13:36:09.000Z"
+      "publishedAt": "2026-08-26T22:50:54.000Z"
+    },
+    {
+      "title": "Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWZ3MGJLTko3T21vNS15UFBYZkktczAwVEwtNGV6WDEyN1MyTXpZMzhPVG9qYU5SdDVzMUYwWUVFcUh4VDlWY1F0TzF0dUkzWEtjcml1eGppZThOUV9TNE5lWjBic0FtX3BLTmdSeUJVamhNSm80eGI2T3EtazQyaGJlZ2p4YldqNHE2a0NDYXg4LTdLbjVpT2RHV2x4cW5pVGN5eWZUNA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-26T21:37:52.000Z"
     },
     {
       "title": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg",
@@ -1463,40 +1493,10 @@
       "publishedAt": "2026-08-26T05:44:00.000Z"
     },
     {
-      "title": "Morning Bid: Markets are waiting '9 to 5'",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-26T04:53:00.000Z"
-    },
-    {
-      "title": "Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets",
+      "title": "US data buoys dollar as Fed hike expectations nudged higher",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-26T01:51:00.000Z"
-    },
-    {
-      "title": "Gold drops 1% after in-line U.S. inflation data",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-26T00:30:00.000Z"
-    },
-    {
-      "title": "Australia inflation runs hot in July, markets reprice rate hike risk",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWdkYmdqYURTcGlVajFleGJIS1J6NUNmRG1tTkJubnhWT1NtamZUX1lTSkhsOFB1eTMzd3dQMUFYUVZlRTdnWkE4d0NrWXFmRjVkM0xfTHRNbDJLM0w5RTVMMUY5OXVIZGNJcTI1Skp2QkxyaDUzVmsxMkpIbzdBdnVCelI1dWFkS3VjZkZRWW1JT2dudGpuOUdfZTZUWGpfQ2RGZS1FeTBvVXl4b3c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-26T01:42:00.000Z"
-    },
-    {
-      "title": "ECB set for September rate hike with no appetite to signal more, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1YSEQ1R25MRlpTOGV2WjhEVjJMc1N3MjhGMnhCcUF0WGpMSTh1UTVUTGxIam1MNjh0dURNUWQtdGd5MGZpRTBIcUVuS0dobGhhNlY2UDN5OTYxZzJPTnp4Y0FVWUlzMUN2bGxQQWtnTUVMNENlbXI0bkdFSnFjaDZOdG12VGZLcFdUZUJHWElaVElqMmF0dmpCNTdNejM1UTdISUdGaVYwWW9kSUN4TVUzbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T19:22:00.000Z"
-    },
-    {
-      "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTVDMFZMTDZGMDAxNEtoSVNSU01oel8ybnRNblR5VXVWTUJNb0xBR2R2QVFCY3FkelBPSDdyUURZcEM0cl9SVV9jWVZSRjJVQWh1WExNanllMmM0U3ZqeGR0S2RFbUhaRTlMTFBWVlJGTl9XRWVnSWF2bVd2WWUzOWlJTl9mRnJfVklYd3ptUlBFbHNfZXZZRGZBVVMzaXVXczJGSDRHQVVxV0xwME5uZFRmdDdKanNNdF9aSGs5Z0RrbDA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-25T15:06:00.000Z"
     }
   ]
 }
