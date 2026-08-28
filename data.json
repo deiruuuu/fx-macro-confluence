@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T06:14:27.072Z",
+  "updated": "2026-08-28T23:09:17.435Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.21,
-      "display": "15.21",
-      "change": -0.23999999999999844,
-      "changePct": -1.553,
-      "date": "2026-08-26",
+      "value": 14.51,
+      "display": "14.51",
+      "change": -0.7000000000000011,
+      "changePct": -4.602,
+      "date": "2026-08-27",
       "spark": [
-        16.73,
         18.77,
         18.65,
         17.05,
@@ -211,7 +210,8 @@
         15.13,
         15.85,
         15.45,
-        15.21
+        15.21,
+        14.51
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.21,
-      "display": "15.21",
-      "change": -0.23999999999999844,
-      "changePct": -1.553,
-      "date": "2026-08-26",
+      "value": 14.51,
+      "display": "14.51",
+      "change": -0.7000000000000011,
+      "changePct": -4.602,
+      "date": "2026-08-27",
       "spark": [
-        16.73,
         18.77,
         18.65,
         17.05,
@@ -1355,7 +1354,8 @@
         15.13,
         15.85,
         15.45,
-        15.21
+        15.21,
+        14.51
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.19,
-      "display": "4.19",
-      "change": 0.020000000000000462,
-      "changePct": 0.48,
-      "date": "2026-08-26",
+      "value": 4.2,
+      "display": "4.20",
+      "change": 0.009999999999999787,
+      "changePct": 0.239,
+      "date": "2026-08-27",
       "spark": [
-        4.16,
         4.18,
         4.21,
         4.26,
@@ -1400,7 +1399,8 @@
         4.24,
         4.24,
         4.17,
-        4.19
+        4.19,
+        4.2
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.66,
-      "display": "4.66",
-      "change": 0.020000000000000462,
-      "changePct": 0.431,
-      "date": "2026-08-26",
+      "value": 4.67,
+      "display": "4.67",
+      "change": 0.009999999999999787,
+      "changePct": 0.215,
+      "date": "2026-08-27",
       "spark": [
-        4.57,
         4.55,
         4.6,
         4.63,
@@ -1443,7 +1442,8 @@
         4.74,
         4.7,
         4.64,
-        4.66
+        4.66,
+        4.67
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Gold slips as Fed chief Warsh's Jackson Hole speech looms",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+      "title": "Warsh's 'quieter Fed' now includes a smidgen of guidance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjdvUDdhMzh1TFphU1hNRUdCWk1jcjA3TmFnN2lJRmN3c1N4eHZlZk8xaER2UHZudjNjdmhCQTZpTk1ERnA2MUVMQS1WdERqbTFkb1h2NWR5VWUwR2lEWk9NZUtDZnd1ZzNhSWljZ2JLdmxnZHJaRUZIWHpqMUJkV1RpVkVfRDhQRkw5TU05UXROWUxoNjZqOFVERHV0dndBRFRB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T02:20:00.000Z"
+      "publishedAt": "2026-08-28T21:10:16.000Z"
     },
     {
-      "title": "IT leads Indian shares higher after recent drop; Fed chair speech, closing volatility in focus",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWw0d09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5",
+      "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLW9HOXdFRGd4QWlJUHhlT0hzZEpqekl3UllCWkU2cW1BNmlzd0E4TGxSZVpIek5Vci1BM3RXNndHcGk4RWt3ZXVGV2NnMDBTQTJPNkNMUm1QVnpMdHRydXhwTFZqbTh2SDllNzdETEgydEhhWG1TVy1adWp5VDNDZEVMbWZnWWpxTGlLdEcxcm1oQ2YwenBaVy1KRUlsX1hVWS1BS0lhR21UNl93WFM4dVhWNEtHNHFZVWgtOGpUdUFITnBudmZhRA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T02:37:00.000Z"
+      "publishedAt": "2026-08-28T19:17:14.000Z"
     },
     {
-      "title": "As Jackson Hole conference kicks off, three Fed officials issue inflation warnings",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2dmdW1ZbC1FdlZnZmloZUhxOFAyaGtNT3dOZzBlMVEwWEhKODBzREpxZElwaFNMM1RhNjQySHE0eS1lTENCbk1ob0ZUb2RzbzRiaDhDYXdLaE05dEt5dWpBYWs5RF93XzU5MW84OS1kX3ctdURqdTh6a2RlYXVJU0tkSGNrRU5rSldCZ092ZFhITGxPSWtaSGJFR3U5RmpGR2NiUExZcnNPVjdPX056OXF2RHRwSEp6?oc=5",
+      "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T18:54:48.000Z"
+      "publishedAt": "2026-08-28T21:25:44.000Z"
     },
     {
-      "title": "Fed's Warsh faces challenge whether inflation is a problem or not",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ZsanZDSzJVV2VrSjFWbXF5ekhONEFsQkg1ZjJERUVsQTJUV3NtUHU5MUVVNjNfRG14WEtFM25TMUxOX2EyRW5MRzRweUFORWJuY201MWZmVG10amNxOFQ4b0FiT0lnejV6Q3UxNGJ5RXZTQnhSWVpwd1A3bHV3QnM0U1NSWEpWSGN0RUFLd3JFTjdFR1VtTEZTNU5PMHRDMHlqaVllREMxRDg?oc=5",
+      "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzFyYzlRYWJwQ1RBUnBoUHlUdm1tUEN2VndhbkR2Q2hKNjdXN3M1V1B1bGxvczdHOUtwaUp6QkJOMktBMkNhR3JqY0ZYYXR4ckJ6Z1YzVGx1TUVyUEtkSmZKb0JxSGhKaTl3cHI3NERBSXlVcmU2dTR0Y1lLZWFCbEJnUFlxM09xa1FJaDhEWXZJRDE1aW5NQ29uTy12VDMtTURGMzMwREhEWVJXbFVXV1ZnSV9valo1WmMtaWdMU09kdXpqRzluTGgyUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T11:02:00.000Z"
+      "publishedAt": "2026-08-28T14:00:14.000Z"
     },
     {
-      "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRZaFZxX1ZxcFJfZUs5OTl0c3lTVDJDWm55NWlHVG9CUmloOU9DWF91QXV1MGxVbTlGSTM2Zmp5MHlyUkJ4YjBiRHVMZGZLemlRcTV4N1ZiZ2Y1V0ZYelpGd3lROUNQSXYxNGFMYWoyWVFVMDQtWmt0RDgyemVtNm5lTDlXUVI4WGxzRWVxbmEtMXptWC02dWllNF9wRFR0anFYbG55TFhXVjRGSlRuQ0xJNFNvMXVDaVdMd09hdGg3VFpsMFE?oc=5",
+      "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T02:36:00.000Z"
+      "publishedAt": "2026-08-28T21:28:52.000Z"
     },
     {
-      "title": "Gold ticks up on weaker dollar, Warsh's Jackson Hole speech in focus",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0xCdWt3R3VfbVdKX2hPT3dhM3Y1czNyaUpReTV5UWpSdXdFNDlsSE05WFlaTVBmbjZuamY3aG9NU3drM2FKalc5V25GVWctQ1EyekgtRUFoeHJBblcyNENiaExoTzBkYTQ2ZnFTU2U0djBVdnoyX29mR3p0YmFOU050cS1KamxEZ0M1OTNIZWpBSkZUX0J0RWtjb0VvQQ?oc=5",
+      "title": "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T18:13:35.000Z"
+      "publishedAt": "2026-08-28T17:10:34.000Z"
     },
     {
-      "title": "Six months of war: How the Middle East conflict has shaped financial markets",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZPbXZOMTI2d1doSndZUnZ4VTVxV2hlUzFvRmJyUHpXRnlTNUV2bk13WS1rVTNnYmRLbzE4VkN0RlpiUG1MakRKUUpRNkNkYVg3d2s4aXhBaWpUb3ZYd0poN1BlRndYTVk5enNRckZmWS1lQklIRWtTMFBUdW5raDJUWTRzeUdCQTBCRDBpTkhVcDBnMlo4dTFPVXJqT3ExcTQ0aFUzV1pjak1YSzNYdkJDZ0h1UjhKRG91Qw?oc=5",
+      "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZzBPdElUODB3ZXZsUG96Q1U0Mkp0bVhQcURGaFRQMWtDenpTSFZlU1NRd2F4RWdxRXZYejVZVXM2UDA1Q1BFaFRxd0hQMkgwLVIxME9LMmc5VjlQbk9HbGIyVkZDcnF1clU4TWd1UlE3dl9nUVVzY0tZcGhWYmtGOWpIMXVUZTlSZk9zSlNVMGh5di1COVYxeGdGXzF3MkJyZTE4dU9wRG9xbEk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T06:06:00.000Z"
+      "publishedAt": "2026-08-28T05:03:00.000Z"
     },
     {
-      "title": "Stock indexes gain as Nvidia boost offsets caution on Fed event",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Eb3kxVTFIckZUendTYkNLcXZNLWM4MWVtWjJoTGRYYXBCYmFKTnZ2UU5BM0UzTC12LVNtdkFfU0RIaklTZi0ySjh2MGhWNXBEaXhnUHNwZXg3VlhrSVRoZGM1djdpWFhkaEh5RTFCbmJSOEI5a243MnNHQQ?oc=5",
+      "title": "September risks are stacking up hard and fast for world markets",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T01:59:00.000Z"
+      "publishedAt": "2026-08-28T05:38:00.000Z"
     }
   ]
 }
