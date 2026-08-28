@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T23:02:21.972Z",
+  "updated": "2026-08-28T06:14:27.072Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7675.7,
-      "display": "7,676",
-      "change": -1.5799999999999272,
-      "changePct": -0.021,
-      "date": "2026-08-26",
+      "value": 7730.99,
+      "display": "7,731",
+      "change": 55.289999999999964,
+      "changePct": 0.72,
+      "date": "2026-08-27",
       "spark": [
-        7533.77,
         7457.69,
         7443.28,
         7509.2,
@@ -82,7 +81,8 @@
         7674.37,
         7652.86,
         7677.28,
-        7675.7
+        7675.7,
+        7730.99
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2732.25,
-      "display": "2,732.25",
-      "change": -11.7199999999998,
-      "changePct": -0.427,
-      "date": "2026-08-26",
+      "value": 2739.22,
+      "display": "2,739.22",
+      "change": 6.9699999999998,
+      "changePct": 0.255,
+      "date": "2026-08-27",
       "spark": [
-        2494.8,
         2516.55,
         2514.14,
         2555.84,
@@ -125,7 +124,8 @@
         2727.89,
         2737.83,
         2743.97,
-        2732.25
+        2732.25,
+        2739.22
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78961.93,
-      "display": "78,962",
-      "change": 450.9799999999959,
-      "changePct": 0.574,
-      "date": "2026-08-26",
+      "value": 80209.61,
+      "display": "80,210",
+      "change": 1247.6800000000076,
+      "changePct": 1.58,
+      "date": "2026-08-27",
       "spark": [
-        63945.6,
         63896.15,
         64817.71,
         62886.64,
@@ -254,7 +253,8 @@
         77637.69,
         78981.39,
         78510.95,
-        78961.93
+        78961.93,
+        80209.61
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,18 @@
   },
   "news": [
     {
+      "title": "Gold slips as Fed chief Warsh's Jackson Hole speech looms",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-28T02:20:00.000Z"
+    },
+    {
+      "title": "IT leads Indian shares higher after recent drop; Fed chair speech, closing volatility in focus",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWw0d09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-28T02:37:00.000Z"
+    },
+    {
       "title": "As Jackson Hole conference kicks off, three Fed officials issue inflation warnings",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2dmdW1ZbC1FdlZnZmloZUhxOFAyaGtNT3dOZzBlMVEwWEhKODBzREpxZElwaFNMM1RhNjQySHE0eS1lTENCbk1ob0ZUb2RzbzRiaDhDYXdLaE05dEt5dWpBYWs5RF93XzU5MW84OS1kX3ctdURqdTh6a2RlYXVJU0tkSGNrRU5rSldCZ092ZFhITGxPSWtaSGJFR3U5RmpGR2NiUExZcnNPVjdPX056OXF2RHRwSEp6?oc=5",
       "source": "Reuters",
@@ -1460,13 +1472,13 @@
       "title": "Fed's Warsh faces challenge whether inflation is a problem or not",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ZsanZDSzJVV2VrSjFWbXF5ekhONEFsQkg1ZjJERUVsQTJUV3NtUHU5MUVVNjNfRG14WEtFM25TMUxOX2EyRW5MRzRweUFORWJuY201MWZmVG10amNxOFQ4b0FiT0lnejV6Q3UxNGJ5RXZTQnhSWVpwd1A3bHV3QnM0U1NSWEpWSGN0RUFLd3JFTjdFR1VtTEZTNU5PMHRDMHlqaVllREMxRDg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T15:14:10.000Z"
+      "publishedAt": "2026-08-27T11:02:00.000Z"
     },
     {
-      "title": "Nasdaq, S&P 500 lifted by Nvidia's forecast; investors eye speech by Fed's Warsh",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjFsZE5oMDdHNmpjOTd5V0dmUHItLXFIbzQyblhZQ3Bfa0tGcmFDM3ZHS2ZJRlJEZzhDMXk2b2syeVRZNndVNzZvSnNVSnRFalZXUXJhUm5aZGVUVHVSZVQ0VzllN09IcWtOZENfRmV5eW9fOGU3Mi1JN1VNWGJ4RE1aY0gycWJfRjRrLXpzTmdoSXlSMW9vVHVtdTNJVmdhS0tXT2FwS2dGbGM2?oc=5",
+      "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRZaFZxX1ZxcFJfZUs5OTl0c3lTVDJDWm55NWlHVG9CUmloOU9DWF91QXV1MGxVbTlGSTM2Zmp5MHlyUkJ4YjBiRHVMZGZLemlRcTV4N1ZiZ2Y1V0ZYelpGd3lROUNQSXYxNGFMYWoyWVFVMDQtWmt0RDgyemVtNm5lTDlXUVI4WGxzRWVxbmEtMXptWC02dWllNF9wRFR0anFYbG55TFhXVjRGSlRuQ0xJNFNvMXVDaVdMd09hdGg3VFpsMFE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T21:03:37.000Z"
+      "publishedAt": "2026-08-28T02:36:00.000Z"
     },
     {
       "title": "Gold ticks up on weaker dollar, Warsh's Jackson Hole speech in focus",
@@ -1475,28 +1487,16 @@
       "publishedAt": "2026-08-27T18:13:35.000Z"
     },
     {
-      "title": "Stock indexes gain as Nvidia boost offsets caution on Middle East, Fed events",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Eb3kxVTFIckZUendTYkNLcXZNLWM4MWVtWjJoTGRYYXBCYmFKTnZ2UU5BM0UzTC12LVNtdkFfU0RIaklTZi0ySjh2MGhWNXBEaXhnUHNwZXg3VlhrSVRoZGM1djdpWFhkaEh5RTFCbmJSOEI5a243MnNHQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-27T01:59:00.000Z"
-    },
-    {
-      "title": "Dollar flat after data as focus shifts to Jackson Hole",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFJtdUFWcVo1Rmx3WlU5cUtCY0FHZENhNlJ0bmY1bVRFbVA5ZFZ5MGRFMVRYTGtJanhiTlVQMGFOd0JlSmZHVms0UVg3RkJPbGdIc29Wa1pnQUF4SDV3Q3kxOC1jRkdsVXBUZmtGVHY0VGZ4c3lMWTJxS3FHdkt1NER0eW14Y1pONU1HQi1BYXFPLTBBejRtNm9zMlhOZl92MUNfNw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-27T00:09:00.000Z"
-    },
-    {
       "title": "Six months of war: How the Middle East conflict has shaped financial markets",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZPbXZOMTI2d1doSndZUnZ4VTVxV2hlUzFvRmJyUHpXRnlTNUV2bk13WS1rVTNnYmRLbzE4VkN0RlpiUG1MakRKUUpRNkNkYVg3d2s4aXhBaWpUb3ZYd0poN1BlRndYTVk5enNRckZmWS1lQklIRWtTMFBUdW5raDJUWTRzeUdCQTBCRDBpTkhVcDBnMlo4dTFPVXJqT3ExcTQ0aFUzV1pjak1YSzNYdkJDZ0h1UjhKRG91Qw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-27T06:06:00.000Z"
     },
     {
-      "title": "BOJ deputy chief calls for timely rate hike, focus on inflation risk",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2UxUVdQRlV6eUpYY0hhLUFuWXhkNnhEWDYzY2RjeFBzTi1iYkx0RThmMnFydWF4NjM1c1kwTjBRVkJyWk9Ybzg4aXhkLWtCTktNSVV6SHRnRkNTYXVBcUpuTWVCMTlGclhnbDJrbzE1b0x0RHBZdlUzVmhVRk00QW41MGcwVEJWeTQwRzhHR29EX2tic2tBaHljQXNibDFPNlRnMXBkVQ?oc=5",
+      "title": "Stock indexes gain as Nvidia boost offsets caution on Fed event",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Eb3kxVTFIckZUendTYkNLcXZNLWM4MWVtWjJoTGRYYXBCYmFKTnZ2UU5BM0UzTC12LVNtdkFfU0RIaklTZi0ySjh2MGhWNXBEaXhnUHNwZXg3VlhrSVRoZGM1djdpWFhkaEh5RTFCbmJSOEI5a243MnNHQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-27T02:02:00.000Z"
+      "publishedAt": "2026-08-27T01:59:00.000Z"
     }
   ]
 }
