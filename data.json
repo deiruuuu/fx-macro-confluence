@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T23:09:17.435Z",
+  "updated": "2026-08-29T03:48:30.515Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7730.99,
-      "display": "7,731",
-      "change": 55.289999999999964,
-      "changePct": 0.72,
-      "date": "2026-08-27",
+      "value": 7711.76,
+      "display": "7,712",
+      "change": -19.229999999999563,
+      "changePct": -0.249,
+      "date": "2026-08-28",
       "spark": [
-        7457.69,
         7443.28,
         7509.2,
         7498.96,
@@ -82,7 +81,8 @@
         7652.86,
         7677.28,
         7675.7,
-        7730.99
+        7730.99,
+        7711.76
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2739.22,
-      "display": "2,739.22",
-      "change": 6.9699999999998,
-      "changePct": 0.255,
-      "date": "2026-08-27",
+      "value": 2702.33,
+      "display": "2,702.33",
+      "change": -36.88999999999987,
+      "changePct": -1.347,
+      "date": "2026-08-28",
       "spark": [
-        2516.55,
         2514.14,
         2555.84,
         2577.8,
@@ -125,7 +124,8 @@
         2737.83,
         2743.97,
         2732.25,
-        2739.22
+        2739.22,
+        2702.33
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 80209.61,
-      "display": "80,210",
-      "change": 1247.6800000000076,
-      "changePct": 1.58,
-      "date": "2026-08-27",
+      "value": 77838.65,
+      "display": "77,839",
+      "change": -2370.9600000000064,
+      "changePct": -2.956,
+      "date": "2026-08-28",
       "spark": [
-        63896.15,
         64817.71,
         62886.64,
         62835,
@@ -254,7 +253,8 @@
         78981.39,
         78510.95,
         78961.93,
-        80209.61
+        80209.61,
+        77838.65
       ],
       "unit": "",
       "suffix": ""
@@ -1469,16 +1469,10 @@
       "publishedAt": "2026-08-28T21:25:44.000Z"
     },
     {
-      "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzFyYzlRYWJwQ1RBUnBoUHlUdm1tUEN2VndhbkR2Q2hKNjdXN3M1V1B1bGxvczdHOUtwaUp6QkJOMktBMkNhR3JqY0ZYYXR4ckJ6Z1YzVGx1TUVyUEtkSmZKb0JxSGhKaTl3cHI3NERBSXlVcmU2dTR0Y1lLZWFCbEJnUFlxM09xa1FJaDhEWXZJRDE1aW5NQ29uTy12VDMtTURGMzMwREhEWVJXbFVXV1ZnSV9valo1WmMtaWdMU09kdXpqRzluTGgyUQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-28T14:00:14.000Z"
-    },
-    {
       "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T21:28:52.000Z"
+      "publishedAt": "2026-08-28T23:21:06.000Z"
     },
     {
       "title": "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
@@ -1496,7 +1490,13 @@
       "title": "September risks are stacking up hard and fast for world markets",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T05:38:00.000Z"
+      "publishedAt": "2026-08-28T05:39:44.000Z"
+    },
+    {
+      "title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-28T02:20:00.000Z"
     }
   ]
 }
