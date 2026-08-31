@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T03:48:30.515Z",
+  "updated": "2026-08-31T19:34:16.256Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.51,
-      "display": "14.51",
-      "change": -0.7000000000000011,
-      "changePct": -4.602,
-      "date": "2026-08-27",
+      "value": 14.43,
+      "display": "14.43",
+      "change": -0.08000000000000007,
+      "changePct": -0.551,
+      "date": "2026-08-28",
       "spark": [
-        18.77,
         18.65,
         17.05,
         16.64,
@@ -211,7 +210,8 @@
         15.85,
         15.45,
         15.21,
-        14.51
+        14.51,
+        14.43
       ],
       "unit": "",
       "suffix": ""
@@ -219,14 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77838.65,
-      "display": "77,839",
-      "change": -2370.9600000000064,
-      "changePct": -2.956,
-      "date": "2026-08-28",
+      "value": 77757.98,
+      "display": "77,758",
+      "change": -457.0200000000041,
+      "changePct": -0.584,
+      "date": "2026-08-30",
       "spark": [
-        64817.71,
-        62886.64,
         62835,
         63443.93,
         63503.04,
@@ -254,7 +252,9 @@
         78510.95,
         78961.93,
         80209.61,
-        77838.65
+        77838.65,
+        78215,
+        77757.98
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-08-28",
+      "date": "2026-08-31",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.51,
-      "display": "14.51",
-      "change": -0.7000000000000011,
-      "changePct": -4.602,
-      "date": "2026-08-27",
+      "value": 14.43,
+      "display": "14.43",
+      "change": -0.08000000000000007,
+      "changePct": -0.551,
+      "date": "2026-08-28",
       "spark": [
-        18.77,
         18.65,
         17.05,
         16.64,
@@ -1355,7 +1354,8 @@
         15.85,
         15.45,
         15.21,
-        14.51
+        14.51,
+        14.43
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Warsh's 'quieter Fed' now includes a smidgen of guidance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjdvUDdhMzh1TFphU1hNRUdCWk1jcjA3TmFnN2lJRmN3c1N4eHZlZk8xaER2UHZudjNjdmhCQTZpTk1ERnA2MUVMQS1WdERqbTFkb1h2NWR5VWUwR2lEWk9NZUtDZnd1ZzNhSWljZ2JLdmxnZHJaRUZIWHpqMUJkV1RpVkVfRDhQRkw5TU05UXROWUxoNjZqOFVERHV0dndBRFRB?oc=5",
+      "title": "Gold slips to near two-week low on Fed rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RWUzI1UllwOTY2MWljS0syQ3hHRHQtZlVTV2g0WlNzalQ1eVdqSlVZb285NEZhck1VS1czbU1KUlF2azBfMkZ4X1JUdlNaZkNZdkF4bnczbS1jR0hVX01iaW1RZzRINkhjZDNuelJIa1JUY2pVWkFnMzlGRzh5Y1p1MUhEdlJ5N2lseVZ3X2RzV1Y3eUQ4YUtJN2NFQnNJVS1R?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T21:10:16.000Z"
+      "publishedAt": "2026-08-31T18:05:17.000Z"
     },
     {
-      "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLW9HOXdFRGd4QWlJUHhlT0hzZEpqekl3UllCWkU2cW1BNmlzd0E4TGxSZVpIek5Vci1BM3RXNndHcGk4RWt3ZXVGV2NnMDBTQTJPNkNMUm1QVnpMdHRydXhwTFZqbTh2SDllNzdETEgydEhhWG1TVy1adWp5VDNDZEVMbWZnWWpxTGlLdEcxcm1oQ2YwenBaVy1KRUlsX1hVWS1BS0lhR21UNl93WFM4dVhWNEtHNHFZVWgtOGpUdUFITnBudmZhRA?oc=5",
+      "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T19:17:14.000Z"
+      "publishedAt": "2026-08-31T04:29:00.000Z"
     },
     {
-      "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5",
+      "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T21:25:44.000Z"
+      "publishedAt": "2026-08-31T18:29:35.000Z"
     },
     {
-      "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+      "title": "Dollar slips ahead of US jobs data",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzZFV05UVTZLQjh4TGh6S2xxU0xMU0w3c2lXNUd0am8tak9EV3p6NV84cVV0NDM2aXFrUkFpQUpVZ3dmdGNkYS1OaXRQbGhybm9lcHBfU2lLaVRwVGxiaXJKNnFRZW9ndFppTmp1TlhxeDJ2emxQLU5YWnVraXJFYzFHbldSU0pmVEtjeHFLdHJlUERTWjlkMmp0d25FSE1Wa3Q3SHpKbG1uNXBGa3FDRTg1cGxFX2VQZUkydHoxaWdHZUxER2c?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T23:21:06.000Z"
+      "publishedAt": "2026-08-31T01:32:00.000Z"
     },
     {
-      "title": "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
+      "title": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T17:10:34.000Z"
+      "publishedAt": "2026-08-31T00:38:00.000Z"
     },
     {
-      "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZzBPdElUODB3ZXZsUG96Q1U0Mkp0bVhQcURGaFRQMWtDenpTSFZlU1NRd2F4RWdxRXZYejVZVXM2UDA1Q1BFaFRxd0hQMkgwLVIxME9LMmc5VjlQbk9HbGIyVkZDcnF1clU4TWd1UlE3dl9nUVVzY0tZcGhWYmtGOWpIMXVUZTlSZk9zSlNVMGh5di1COVYxeGdGXzF3MkJyZTE4dU9wRG9xbEk?oc=5",
+      "title": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJ2YTFRQ3gwdmJPd1FmLXZUSi16TlpBb0lENndWMkI5elBMMzBrejRDUkhVd3pqb0xjRy1ZdWZGZk9yZEFWSzVaZWtpdTJiWVJ6QkR6QVIzZ1JnQUZGak9RMnpGSzVYZVZXcXowV1VUS1RUTDQ3T0lJcnJMSFRHSUNIeEIyOEd5cmVIOW5sSVEzV1B4QUFYYnRRVFk0aWFUOGVza0hmU0VZUUp5dnNB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T05:03:00.000Z"
+      "publishedAt": "2026-08-31T01:33:00.000Z"
     },
     {
-      "title": "September risks are stacking up hard and fast for world markets",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5",
+      "title": "Republican committees ask US Supreme Court to preserve access to cheaper ad rates",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUkJaeFpKX193M1NieXByZXduVkE5S2N3b3oxTUREaG1BVXdPdDNULTJDYzJ4ampvN3ozUzNQcTIzMF9iMDNrZGNSdWRsTXRCZVZ3N2JPYzZfTlZ2UDZQX3NUWklhVFZpUHN5UnhidGdlcjB6Ui0weW85eGNpb1FTMWxvQzBpZzNWRDhiMkpZZ2pxYkpSdC1XcXlOX25zUUFkSzRCekRPbGZyVFhSdHAtcUtVeTVBdVBtUng4a1Nicl96NTdvcUhn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T05:39:44.000Z"
+      "publishedAt": "2026-08-31T16:47:39.000Z"
     },
     {
-      "title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+      "title": "India rupee hits near four-week high on equity-related flows, RBI support; logs monthly rise",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEFscm9ibG1XX3ZKcFdiTUZheGctLWxuUDR3NFR6Z2h3MWRBYTZ1VWctNjVLUE9JcWVnd1VqVkJtUFpRRDF1LVNRZHEwdGE1Ym1wR3Bwb3haR3QzdnEyS205VGN2VUt6ckdvNnI5aU14OS1XVXJYV2RYSTdSSnZhMWQ0WU5ZQXdBNGE4SmdMUWxZa1B3eW0wc0RfenJGS0MwYWRReg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-28T02:20:00.000Z"
+      "publishedAt": "2026-08-31T02:14:00.000Z"
     }
   ]
 }
