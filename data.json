@@ -1,20 +1,15 @@
 {
-  "updated": "2026-08-31T19:34:16.256Z",
+  "updated": "2026-09-01T01:21:57.142Z",
   "markets": {
     "dxy": {
       "label": "DXY",
       "series": "DTWEXBGS",
-      "value": 118.0628,
-      "display": "118.06",
-      "change": -0.19200000000000728,
-      "changePct": -0.162,
-      "date": "2026-08-21",
+      "value": 118.7479,
+      "display": "118.75",
+      "change": 0.3896000000000015,
+      "changePct": 0.329,
+      "date": "2026-08-28",
       "spark": [
-        120.7413,
-        120.4728,
-        120.3088,
-        120.331,
-        120.5315,
         120.5401,
         120.5779,
         120.5736,
@@ -39,7 +34,12 @@
         118.9831,
         118.3328,
         118.2548,
-        118.0628
+        118.0628,
+        118.3195,
+        118.2283,
+        118.4461,
+        118.3583,
+        118.7479
       ],
       "unit": "",
       "suffix": ""
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7711.76,
-      "display": "7,712",
-      "change": -19.229999999999563,
-      "changePct": -0.249,
-      "date": "2026-08-28",
+      "value": 7686.14,
+      "display": "7,686",
+      "change": -25.61999999999989,
+      "changePct": -0.332,
+      "date": "2026-08-31",
       "spark": [
-        7443.28,
         7509.2,
         7498.96,
         7408.3,
@@ -82,7 +81,8 @@
         7677.28,
         7675.7,
         7730.99,
-        7711.76
+        7711.76,
+        7686.14
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77757.98,
-      "display": "77,758",
-      "change": -457.0200000000041,
-      "changePct": -0.584,
-      "date": "2026-08-30",
+      "value": 78603.02,
+      "display": "78,603",
+      "change": 845.0400000000081,
+      "changePct": 1.087,
+      "date": "2026-08-31",
       "spark": [
-        62835,
         63443.93,
         63503.04,
         64023.39,
@@ -254,7 +253,8 @@
         80209.61,
         77838.65,
         78215,
-        77757.98
+        77757.98,
+        78603.02
       ],
       "unit": "",
       "suffix": ""
@@ -263,17 +263,12 @@
   "fx": {
     "EURUSD": {
       "series": "DEXUSEU",
-      "price": 1.1684,
-      "display": "1.16840",
-      "change": 0.0005,
-      "changePct": 0.043,
-      "date": "2026-08-21",
+      "price": 1.1598,
+      "display": "1.15980",
+      "change": -0.0056,
+      "changePct": -0.481,
+      "date": "2026-08-28",
       "spark": [
-        1.1402,
-        1.1428,
-        1.1436,
-        1.1447,
-        1.144,
         1.1411,
         1.1408,
         1.1414,
@@ -298,65 +293,65 @@
         1.158,
         1.1664,
         1.1679,
-        1.1684
+        1.1684,
+        1.1665,
+        1.1673,
+        1.1651,
+        1.1654,
+        1.1598
       ],
       "confluence": {
-        "score": 95,
-        "label": "Bullish confluence",
+        "score": 52,
+        "label": "Neutral confluence",
         "signals": {
           "momentum": {
-            "pct": 0.04,
-            "bull": true
+            "pct": -0.48,
+            "bull": false
           },
           "rsi": {
-            "value": 72.59,
+            "value": 53.84,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 0.41,
-            "bull": true
+            "value": -0.25,
+            "bull": false
           }
         },
         "sr": [
           {
             "level": "1.18010",
             "strength": "Strong",
-            "distPct": 1
+            "distPct": 1.75
           },
           {
-            "level": "1.17308",
+            "level": "1.16792",
             "strength": "Moderate",
-            "distPct": 0.4
+            "distPct": 0.7
           },
           {
-            "level": "1.15496",
+            "level": "1.14980",
             "strength": "Moderate",
-            "distPct": -1.15
+            "distPct": -0.86
           },
           {
             "level": "1.13480",
             "strength": "Strong",
-            "distPct": -2.88
+            "distPct": -2.16
           }
         ]
       }
     },
     "GBPUSD": {
       "series": "DEXUSUK",
-      "price": 1.3644,
-      "display": "1.36440",
-      "change": 0.0005,
-      "changePct": 0.037,
-      "date": "2026-08-21",
+      "price": 1.3555,
+      "display": "1.35550",
+      "change": -0.0045,
+      "changePct": -0.331,
+      "date": "2026-08-28",
       "spark": [
-        1.3382,
-        1.3383,
-        1.3497,
-        1.3485,
-        1.3446,
         1.342,
         1.3374,
         1.3378,
@@ -381,25 +376,30 @@
         1.3543,
         1.3608,
         1.3639,
-        1.3644
+        1.3644,
+        1.3631,
+        1.3644,
+        1.3595,
+        1.36,
+        1.3555
       ],
       "confluence": {
-        "score": 100,
+        "score": 64,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.04,
-            "bull": true
+            "pct": -0.33,
+            "bull": false
           },
           "rsi": {
-            "value": 69.85,
+            "value": 54.07,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 1.53,
+            "value": 0.88,
             "bull": true
           }
         },
@@ -407,39 +407,34 @@
           {
             "level": "1.36510",
             "strength": "Strong",
-            "distPct": 0.05
+            "distPct": 0.71
           },
           {
-            "level": "1.36468",
+            "level": "1.35934",
             "strength": "Moderate",
-            "distPct": 0.02
+            "distPct": 0.28
           },
           {
-            "level": "1.34504",
+            "level": "1.33970",
             "strength": "Moderate",
-            "distPct": -1.42
+            "distPct": -1.17
           },
           {
             "level": "1.31600",
             "strength": "Strong",
-            "distPct": -3.55
+            "distPct": -2.91
           }
         ]
       }
     },
     "USDJPY": {
       "series": "DEXJPUS",
-      "price": 158.91,
-      "display": "158.910",
-      "change": 0.06,
-      "changePct": 0.038,
-      "date": "2026-08-21",
+      "price": 159.97,
+      "display": "159.970",
+      "change": 0.71,
+      "changePct": 0.446,
+      "date": "2026-08-28",
       "spark": [
-        162.32,
-        162.14,
-        162.13,
-        162.42,
-        162.43,
         162.59,
         163.01,
         163.08,
@@ -464,25 +459,30 @@
         159.58,
         158.45,
         158.85,
-        158.91
+        158.91,
+        159.17,
+        159.21,
+        159.36,
+        159.26,
+        159.97
       ],
       "confluence": {
-        "score": 46,
+        "score": 56,
         "label": "Neutral confluence",
         "signals": {
           "momentum": {
-            "pct": 0.04,
+            "pct": 0.45,
             "bull": true
           },
           "rsi": {
-            "value": 43.33,
-            "bull": false
+            "value": 52.39,
+            "bull": true
           },
           "ema": {
             "above": false
           },
           "zscore": {
-            "value": 0.3,
+            "value": 0.69,
             "bull": true
           }
         },
@@ -490,39 +490,34 @@
           {
             "level": "163.860",
             "strength": "Strong",
-            "distPct": 3.11
+            "distPct": 2.43
           },
           {
-            "level": "160.890",
+            "level": "161.526",
             "strength": "Moderate",
-            "distPct": 1.25
+            "distPct": 0.97
           },
           {
-            "level": "157.922",
+            "level": "158.558",
             "strength": "Moderate",
-            "distPct": -0.62
+            "distPct": -0.88
           },
           {
             "level": "156.440",
             "strength": "Strong",
-            "distPct": -1.55
+            "distPct": -2.21
           }
         ]
       }
     },
     "USDCAD": {
       "series": "DEXCAUS",
-      "price": 1.3765,
-      "display": "1.37650",
-      "change": -0.0015,
-      "changePct": -0.109,
-      "date": "2026-08-21",
+      "price": 1.3895,
+      "display": "1.38950",
+      "change": 0.0041,
+      "changePct": 0.296,
+      "date": "2026-08-28",
       "spark": [
-        1.4138,
-        1.4067,
-        1.4047,
-        1.4033,
-        1.4014,
         1.4059,
         1.4097,
         1.4084,
@@ -547,65 +542,65 @@
         1.3889,
         1.3821,
         1.378,
-        1.3765
+        1.3765,
+        1.384,
+        1.3833,
+        1.3876,
+        1.3854,
+        1.3895
       ],
       "confluence": {
-        "score": 3,
-        "label": "Bearish confluence",
+        "score": 48,
+        "label": "Neutral confluence",
         "signals": {
           "momentum": {
-            "pct": -0.11,
-            "bull": false
+            "pct": 0.3,
+            "bull": true
           },
           "rsi": {
-            "value": 25.35,
+            "value": 46.53,
             "bull": false
           },
           "ema": {
             "above": false
           },
           "zscore": {
-            "value": -0.46,
-            "bull": false
+            "value": 0.29,
+            "bull": true
           }
         },
         "sr": [
           {
             "level": "1.42370",
             "strength": "Strong",
-            "distPct": 3.43
+            "distPct": 2.46
           },
           {
-            "level": "1.39538",
+            "level": "1.40318",
             "strength": "Moderate",
-            "distPct": 1.37
+            "distPct": 0.98
           },
           {
-            "level": "1.36838",
+            "level": "1.37670",
             "strength": "Moderate",
-            "distPct": -0.59
+            "distPct": -0.92
           },
           {
-            "level": "1.35620",
+            "level": "1.35750",
             "strength": "Strong",
-            "distPct": -1.47
+            "distPct": -2.3
           }
         ]
       }
     },
     "AUDUSD": {
       "series": "DEXUSAL",
-      "price": 0.7178,
-      "display": "0.71780",
-      "change": 0.0058,
-      "changePct": 0.815,
-      "date": "2026-08-21",
+      "price": 0.7166,
+      "display": "0.71660",
+      "change": -0.0032,
+      "changePct": -0.445,
+      "date": "2026-08-28",
       "spark": [
-        0.6935,
-        0.6974,
-        0.6999,
-        0.7004,
-        0.6985,
         0.7004,
         0.7008,
         0.7,
@@ -630,25 +625,30 @@
         0.7097,
         0.7123,
         0.712,
-        0.7178
+        0.7178,
+        0.7151,
+        0.716,
+        0.7169,
+        0.7198,
+        0.7166
       ],
       "confluence": {
-        "score": 100,
+        "score": 70,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.81,
-            "bull": true
+            "pct": -0.44,
+            "bull": false
           },
           "rsi": {
-            "value": 70.11,
+            "value": 62.55,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 1.11,
+            "value": 1.02,
             "bull": true
           }
         },
@@ -656,39 +656,34 @@
           {
             "level": "0.72630",
             "strength": "Strong",
-            "distPct": 1.18
+            "distPct": 1.35
           },
           {
-            "level": "0.72120",
+            "level": "0.72048",
             "strength": "Moderate",
-            "distPct": 0.47
+            "distPct": 0.54
           },
           {
-            "level": "0.70488",
+            "level": "0.70416",
             "strength": "Moderate",
-            "distPct": -1.8
+            "distPct": -1.74
           },
           {
             "level": "0.68550",
             "strength": "Strong",
-            "distPct": -4.5
+            "distPct": -4.34
           }
         ]
       }
     },
     "USDCHF": {
       "series": "DEXSZUS",
-      "price": 0.8008,
-      "display": "0.80080",
-      "change": 0.001,
-      "changePct": 0.125,
-      "date": "2026-08-21",
+      "price": 0.8085,
+      "display": "0.80850",
+      "change": 0.0049,
+      "changePct": 0.61,
+      "date": "2026-08-28",
       "spark": [
-        0.8123,
-        0.8091,
-        0.8067,
-        0.8079,
-        0.8069,
         0.8104,
         0.8122,
         0.8134,
@@ -713,25 +708,30 @@
         0.8121,
         0.7998,
         0.7998,
-        0.8008
+        0.8008,
+        0.8024,
+        0.8024,
+        0.8054,
+        0.8036,
+        0.8085
       ],
       "confluence": {
-        "score": 47,
-        "label": "Neutral confluence",
+        "score": 90,
+        "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.13,
+            "pct": 0.61,
             "bull": true
           },
           "rsi": {
-            "value": 40.35,
-            "bull": false
+            "value": 52.11,
+            "bull": true
           },
           "ema": {
-            "above": false
+            "above": true
           },
           "zscore": {
-            "value": 0.56,
+            "value": 1.16,
             "bull": true
           }
         },
@@ -739,39 +739,34 @@
           {
             "level": "0.81990",
             "strength": "Strong",
-            "distPct": 2.39
+            "distPct": 1.41
           },
           {
-            "level": "0.80844",
+            "level": "0.81306",
             "strength": "Moderate",
-            "distPct": 0.95
+            "distPct": 0.56
           },
           {
-            "level": "0.79060",
+            "level": "0.79602",
             "strength": "Moderate",
-            "distPct": -1.27
+            "distPct": -1.54
           },
           {
-            "level": "0.77530",
+            "level": "0.77730",
             "strength": "Strong",
-            "distPct": -3.18
+            "distPct": -3.86
           }
         ]
       }
     },
     "NZDUSD": {
       "series": "DEXUSNZ",
-      "price": 0.5983,
-      "display": "0.59830",
-      "change": 0.0034,
-      "changePct": 0.572,
-      "date": "2026-08-21",
+      "price": 0.5915,
+      "display": "0.59150",
+      "change": -0.0038,
+      "changePct": -0.638,
+      "date": "2026-08-28",
       "spark": [
-        0.5771,
-        0.5808,
-        0.5839,
-        0.5845,
-        0.5848,
         0.5847,
         0.5832,
         0.5823,
@@ -796,25 +791,30 @@
         0.588,
         0.593,
         0.5949,
-        0.5983
+        0.5983,
+        0.5957,
+        0.5972,
+        0.5938,
+        0.5953,
+        0.5915
       ],
       "confluence": {
-        "score": 100,
+        "score": 61,
         "label": "Bullish confluence",
         "signals": {
           "momentum": {
-            "pct": 0.57,
-            "bull": true
+            "pct": -0.64,
+            "bull": false
           },
           "rsi": {
-            "value": 67.93,
+            "value": 53.44,
             "bull": true
           },
           "ema": {
             "above": true
           },
           "zscore": {
-            "value": 1.36,
+            "value": 0.68,
             "bull": true
           }
         },
@@ -822,22 +822,22 @@
           {
             "level": "0.59920",
             "strength": "Strong",
-            "distPct": 0.15
+            "distPct": 1.3
           },
           {
-            "level": "0.59866",
+            "level": "0.59458",
             "strength": "Moderate",
-            "distPct": 0.06
+            "distPct": 0.52
           },
           {
-            "level": "0.58482",
+            "level": "0.58074",
             "strength": "Moderate",
-            "distPct": -2.25
+            "distPct": -1.82
           },
           {
             "level": "0.56460",
             "strength": "Strong",
-            "distPct": -5.63
+            "distPct": -4.55
           }
         ]
       }
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.2,
-      "display": "4.20",
-      "change": 0.009999999999999787,
-      "changePct": 0.239,
-      "date": "2026-08-27",
+      "value": 4.34,
+      "display": "4.34",
+      "change": 0.13999999999999968,
+      "changePct": 3.333,
+      "date": "2026-08-28",
       "spark": [
-        4.18,
         4.21,
         4.26,
         4.31,
@@ -1400,7 +1399,8 @@
         4.24,
         4.17,
         4.19,
-        4.2
+        4.2,
+        4.34
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.67,
-      "display": "4.67",
-      "change": 0.009999999999999787,
-      "changePct": 0.215,
-      "date": "2026-08-27",
+      "value": 4.73,
+      "display": "4.73",
+      "change": 0.0600000000000005,
+      "changePct": 1.285,
+      "date": "2026-08-28",
       "spark": [
-        4.55,
         4.6,
         4.63,
         4.67,
@@ -1443,7 +1442,8 @@
         4.7,
         4.64,
         4.66,
-        4.67
+        4.67,
+        4.73
       ],
       "unit": "",
       "suffix": ""
@@ -1451,34 +1451,40 @@
   },
   "news": [
     {
+      "title": "US to announce sharply lower vehicle fuel economy requirements",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1htMVc1bmhkTjVTNFFVQjRDa0FzREFBR05JbVRrU2dYT3h4a3ZVUnQzYXlxRk9hcXRxY2szMXNNRmw2aHNRbktYVjF5Yk1Ha25qcHR5OWJ5RWNzOEdKNURrNnFwaVluX05iTC1nVWM0OUdmVEV3b2FoOUJFUFZTc0JONFVIaHhkQXJSSU10NmF2RHZlUWhsdVhGMkZXV3pUaTF3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-31T22:06:42.000Z"
+    },
+    {
+      "title": "Fed's Warsh says past global savings glut is turning into investment surge",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1zcHNfcVRRSzFXS0FDQi1DeVRraC1uYXdwRXBMVnNtbHBjeklnaktpYlR3YWxsSXZOTV9vZ19sUUZxM3JjS2tsWFJrNG9EekxpaGZQMzRuQ2t5TzUzcDBrLUdGaThiMnM4b2ZKVjF6RlU5aTFHWTRRN0NtUlpKd1NreXltRzdPQ3NyQXZELVVOcjhBckNyLUJYYklhallNcnBkQXdhTGsxMHlDVHp2TW42Yzd5M1Zzd2JwS21Qd0J3OXRR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-31T19:01:43.000Z"
+    },
+    {
       "title": "Gold slips to near two-week low on Fed rate hike bets",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RWUzI1UllwOTY2MWljS0syQ3hHRHQtZlVTV2g0WlNzalQ1eVdqSlVZb285NEZhck1VS1czbU1KUlF2azBfMkZ4X1JUdlNaZkNZdkF4bnczbS1jR0hVX01iaW1RZzRINkhjZDNuelJIa1JUY2pVWkFnMzlGRzh5Y1p1MUhEdlJ5N2lseVZ3X2RzV1Y3eUQ4YUtJN2NFQnNJVS1R?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-31T18:05:17.000Z"
     },
     {
+      "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-08-31T22:55:47.000Z"
+    },
+    {
       "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-31T04:29:00.000Z"
+      "publishedAt": "2026-08-31T04:30:10.000Z"
     },
     {
-      "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-31T18:29:35.000Z"
-    },
-    {
-      "title": "Dollar slips ahead of US jobs data",
+      "title": "Dollar slips, with traders already eyeing Friday jobs data",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzZFV05UVTZLQjh4TGh6S2xxU0xMU0w3c2lXNUd0am8tak9EV3p6NV84cVV0NDM2aXFrUkFpQUpVZ3dmdGNkYS1OaXRQbGhybm9lcHBfU2lLaVRwVGxiaXJKNnFRZW9ndFppTmp1TlhxeDJ2emxQLU5YWnVraXJFYzFHbldSU0pmVEtjeHFLdHJlUERTWjlkMmp0d25FSE1Wa3Q3SHpKbG1uNXBGa3FDRTg1cGxFX2VQZUkydHoxaWdHZUxER2c?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-08-31T01:32:00.000Z"
-    },
-    {
-      "title": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-31T00:38:00.000Z"
     },
     {
       "title": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff",
@@ -1487,16 +1493,10 @@
       "publishedAt": "2026-08-31T01:33:00.000Z"
     },
     {
-      "title": "Republican committees ask US Supreme Court to preserve access to cheaper ad rates",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUkJaeFpKX193M1NieXByZXduVkE5S2N3b3oxTUREaG1BVXdPdDNULTJDYzJ4ampvN3ozUzNQcTIzMF9iMDNrZGNSdWRsTXRCZVZ3N2JPYzZfTlZ2UDZQX3NUWklhVFZpUHN5UnhidGdlcjB6Ui0weW85eGNpb1FTMWxvQzBpZzNWRDhiMkpZZ2pxYkpSdC1XcXlOX25zUUFkSzRCekRPbGZyVFhSdHAtcUtVeTVBdVBtUng4a1Nicl96NTdvcUhn?oc=5",
+      "title": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-08-31T16:47:39.000Z"
-    },
-    {
-      "title": "India rupee hits near four-week high on equity-related flows, RBI support; logs monthly rise",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEFscm9ibG1XX3ZKcFdiTUZheGctLWxuUDR3NFR6Z2h3MWRBYTZ1VWctNjVLUE9JcWVnd1VqVkJtUFpRRDF1LVNRZHEwdGE1Ym1wR3Bwb3haR3QzdnEyS205VGN2VUt6ckdvNnI5aU14OS1XVXJYV2RYSTdSSnZhMWQ0WU5ZQXdBNGE4SmdMUWxZa1B3eW0wc0RfenJGS0MwYWRReg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-08-31T02:14:00.000Z"
+      "publishedAt": "2026-08-31T17:21:20.000Z"
     }
   ]
 }
