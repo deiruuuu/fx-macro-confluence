@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T17:23:15.123Z",
+  "updated": "2026-09-02T00:25:37.293Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7686.14,
-      "display": "7,686",
-      "change": -25.61999999999989,
-      "changePct": -0.332,
-      "date": "2026-08-31",
+      "value": 7631.47,
+      "display": "7,631",
+      "change": -54.67000000000007,
+      "changePct": -0.711,
+      "date": "2026-09-01",
       "spark": [
-        7509.2,
         7498.96,
         7408.3,
         7411.98,
@@ -82,7 +81,8 @@
         7675.7,
         7730.99,
         7711.76,
-        7686.14
+        7686.14,
+        7631.47
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78603.02,
-      "display": "78,603",
-      "change": 845.0400000000081,
-      "changePct": 1.087,
-      "date": "2026-08-31",
+      "value": 77392.65,
+      "display": "77,393",
+      "change": -1210.37000000001,
+      "changePct": -1.54,
+      "date": "2026-09-01",
       "spark": [
-        63443.93,
         63503.04,
         64023.39,
         64555.45,
@@ -254,7 +253,8 @@
         77838.65,
         78215,
         77757.98,
-        78603.02
+        78603.02,
+        77392.65
       ],
       "unit": "",
       "suffix": ""
@@ -851,9 +851,8 @@
       "display": "3.63",
       "change": 0,
       "changePct": 0,
-      "date": "2026-07-01",
+      "date": "2026-08-01",
       "spark": [
-        5.33,
         5.33,
         5.33,
         5.33,
@@ -880,6 +879,7 @@
         3.64,
         3.64,
         3.64,
+        3.63,
         3.63,
         3.63,
         3.63
@@ -1367,11 +1367,10 @@
       "series": "DGS2",
       "value": 4.34,
       "display": "4.34",
-      "change": 0.13999999999999968,
-      "changePct": 3.333,
-      "date": "2026-08-28",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-08-31",
       "spark": [
-        4.21,
         4.26,
         4.31,
         4.37,
@@ -1400,6 +1399,7 @@
         4.17,
         4.19,
         4.2,
+        4.34,
         4.34
       ],
       "unit": "",
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.73,
-      "display": "4.73",
-      "change": 0.0600000000000005,
-      "changePct": 1.285,
-      "date": "2026-08-28",
+      "value": 4.75,
+      "display": "4.75",
+      "change": 0.019999999999999574,
+      "changePct": 0.423,
+      "date": "2026-08-31",
       "spark": [
-        4.6,
         4.63,
         4.67,
         4.71,
@@ -1443,7 +1442,8 @@
         4.64,
         4.66,
         4.67,
-        4.73
+        4.73,
+        4.75
       ],
       "unit": "",
       "suffix": ""
@@ -1451,34 +1451,28 @@
   },
   "news": [
     {
+      "title": "Explainer: What's behind the selloff in world bond markets?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN01sQ1RpX1dfMlY5bzVSbjc5RnMxb3I4RnZZQW1BZnJBM3R2S0Zkdk95dGNnWFNQOXo1Y0FqSlprVHZ5czZ5ZHdQMGtzM1FqUHpaUjV2bnBaVlYtdW9CRk9iT3hEYnFqc1VzbmFmZ3FUY2lXZnNoSFM2c0s3dGtOcXBmbnFfTUtULUk5WHhDbGY4THBfOVBZ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-01T17:50:36.000Z"
+    },
+    {
       "title": "Putin envoy warns of Russian economy going 'berserk' on war footing",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUNUYWRsV3FBcnZsLVk1ZVltRW9wZGxhV2wxcGJfRWNoS18tby1ZSDBya19Oci12aEdNOEMwRDJYNjN1TGxXR1JQM0d1OUJ6cWU3aDBMZmxXeFNmUE1sOWxRb05oUGpmQTZ4dGJRanNkM3hnZ2RPYkprMmFvNTNTaWM5VkFWY2psRUh5RHZFQ25wN3loVW5VZ2tmQjlmaXFISXZJekI4WQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-01T14:05:27.000Z"
     },
     {
-      "title": "What's behind the selloff in world bond markets?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN01sQ1RpX1dfMlY5bzVSbjc5RnMxb3I4RnZZQW1BZnJBM3R2S0Zkdk95dGNnWFNQOXo1Y0FqSlprVHZ5czZ5ZHdQMGtzM1FqUHpaUjV2bnBaVlYtdW9CRk9iT3hEYnFqc1VzbmFmZ3FUY2lXZnNoSFM2c0s3dGtOcXBmbnFfTUtULUk5WHhDbGY4THBfOVBZ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-01T16:09:04.000Z"
-    },
-    {
       "title": "Goldman Sachs, BofA and others plan to issue dollar stablecoin together in 2027",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN01yNnpGbk1CVXJyS00tY0swX3JKTldjOER3SlY1clItcU5Nbk1XYzZFNEJDR1BIZ2NaSXk5Z0VTRGZJdDd4cUk2YnBLWGNSVVJGS3VTbFRNUlMtcnd6Y1FiU3lfSUU1V3lhSjNfSEhjMjdubTlfOEFEWXZwZUJWVHVxNVBHT0s3TzJfLWRSYTJzNHRtVTVqZEgtcFZER3ZRV0VnRk9jTm40RURvTksyTFA1d29Fem1TMGctaXJB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-01T15:11:43.000Z"
+      "publishedAt": "2026-09-01T17:23:40.000Z"
     },
     {
       "title": "Euro zone inflation rises above 3%, cementing ECB rate hike bets",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlU0ZGJQMWt6NVhpVng4SW1jUk1SM3NXZWlRZzliNnV5emhYeDRaVF9FYnA1aWNDUVphdW1hQTcwRWVOVGR1YjBfdm9sOUlWcFpCSnFwOVNubkh6VnZrTjRyMERVTWRKaXYzZHNaVjBZZ2hYT015OHgzb2o5S25uaG1OaFNGVzRpZk1XSDZMMVhhUUM1V19VbWktVnRmXy1YbEFUS3JxeGEtY0E?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-01T10:15:30.000Z"
-    },
-    {
-      "title": "Bond yields rise as oil prices fan inflation fears; stocks slip",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-01T01:46:00.000Z"
+      "publishedAt": "2026-09-01T18:04:38.000Z"
     },
     {
       "title": "COMMENTARY: Morning Bid: September storm",
@@ -1487,16 +1481,22 @@
       "publishedAt": "2026-09-01T11:12:46.000Z"
     },
     {
-      "title": "Dollar gains as oil, yield increases revive inflation fears",
+      "title": "Dollar gains as oil, rising bond yields stoke inflation fears",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzR4b3dnajg5QUJSRUN0VHJXQkhXQWpUX2lLVU91dWgtZWJSNGNKcXRLSUpramxQeER0NHliVWZ2LU9xSjJYV25IRGpUMWlDODcxc2g4d0d1S3ZkSFhMLUxEdWlEV1NwNDZmaUhENDZVT1RpUFlQci1UUGlvWlVlX0xObzRJdlFFT09GMWtXQmNGN0xKM0xWUTd1TDBwQzdQaHRyTTJvRnM5TmpMQ0tSZVR3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-01T01:24:00.000Z"
     },
     {
-      "title": "Government borrowing costs rise again in fresh headache for global policymakers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
+      "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2Jmek11RFVUTTRvVFR1dmQ0cUVicVZGM2pxS3FzME8zN0pJUmpGMGtPcU1DeHp1aHUxaU1VeDEtMy00anM2WUthdjRrTHl0aWR6V3ZKSVVLM3M2Q09IVk1kV1JEMXl0YWE3ZWt4VDdya1BQMFlTVTlxUHhEdFdPSTM3NURaVmlLYktsSkdBWERjYkJMbnlaM0oweFZ5ZUZNaDFmT2tLOHliZUNKaHhZ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-01T16:47:36.000Z"
+      "publishedAt": "2026-09-01T02:56:00.000Z"
+    },
+    {
+      "title": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-01T22:22:20.000Z"
     }
   ]
 }
