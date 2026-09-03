@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:15:50.210Z",
+  "updated": "2026-09-03T00:31:53.891Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7631.47,
-      "display": "7,631",
-      "change": -54.67000000000007,
-      "changePct": -0.711,
-      "date": "2026-09-01",
+      "value": 7666.6,
+      "display": "7,667",
+      "change": 35.13000000000011,
+      "changePct": 0.46,
+      "date": "2026-09-02",
       "spark": [
-        7498.96,
         7408.3,
         7411.98,
         7413.18,
@@ -82,7 +81,8 @@
         7730.99,
         7711.76,
         7686.14,
-        7631.47
+        7631.47,
+        7666.6
       ],
       "unit": "",
       "suffix": ""
@@ -133,17 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 83.9,
-      "display": "83.90",
-      "change": -2.4399999999999977,
-      "changePct": -2.826,
-      "date": "2026-08-25",
+      "value": 91.48,
+      "display": "91.48",
+      "change": 4.450000000000003,
+      "changePct": 5.113,
+      "date": "2026-09-01",
       "spark": [
-        80.73,
-        80.03,
-        83.43,
-        84.38,
-        86.04,
         87.66,
         93.08,
         91.74,
@@ -168,7 +163,12 @@
         89.75,
         87.21,
         86.34,
-        83.9
+        83.9,
+        83.46,
+        84.81,
+        84.57,
+        87.03,
+        91.48
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77392.65,
-      "display": "77,393",
-      "change": -1210.37000000001,
-      "changePct": -1.54,
-      "date": "2026-09-01",
+      "value": 77330.23,
+      "display": "77,330",
+      "change": -62.419999999998254,
+      "changePct": -0.081,
+      "date": "2026-09-02",
       "spark": [
-        63503.04,
         64023.39,
         64555.45,
         64291.84,
@@ -254,7 +253,8 @@
         78215,
         77757.98,
         78603.02,
-        77392.65
+        77392.65,
+        77330.23
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.34,
-      "display": "4.34",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-08-31",
+      "value": 4.39,
+      "display": "4.39",
+      "change": 0.04999999999999982,
+      "changePct": 1.152,
+      "date": "2026-09-01",
       "spark": [
-        4.26,
         4.31,
         4.37,
         4.33,
@@ -1400,7 +1399,8 @@
         4.19,
         4.2,
         4.34,
-        4.34
+        4.34,
+        4.39
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.75,
-      "display": "4.75",
-      "change": 0.019999999999999574,
-      "changePct": 0.423,
-      "date": "2026-08-31",
+      "value": 4.79,
+      "display": "4.79",
+      "change": 0.040000000000000036,
+      "changePct": 0.842,
+      "date": "2026-09-01",
       "spark": [
-        4.63,
         4.67,
         4.71,
         4.69,
@@ -1443,7 +1442,8 @@
         4.66,
         4.67,
         4.73,
-        4.75
+        4.75,
+        4.79
       ],
       "unit": "",
       "suffix": ""
@@ -1463,40 +1463,40 @@
       "publishedAt": "2026-09-02T10:31:28.000Z"
     },
     {
+      "title": "Bank of Canada holds key rate, says multiple hikes might be needed",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHFOOThCcFh0NUJwMnBRVmpuWi1wQ3pXU1c5ejZ6ci1MT3VJOEpsaEgyRURodEVsd2FKaGRQTjhWdUtLai1IZHQwaDQ5Z2JGbTg1b1pra2REcHNWdjg3U3I4TndveUMxemI2VVBiS1BfZ0FCakh2LTR3aHJzSXNrS0NaUlk0WTBDd1g3Q1NxTU04M015SE5feklvWVc0N3R2d3lOSEMyNnRyVDZNSVhkelJCTlNDLTA5?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-02T16:43:35.000Z"
+    },
+    {
       "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-02T03:11:00.000Z"
+      "publishedAt": "2026-09-02T21:33:47.000Z"
+    },
+    {
+      "title": "Gold rebounds over 1% as US dollar, yields pull back from highs",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-02T02:18:00.000Z"
+    },
+    {
+      "title": "Yen gains sharply, dollar eases from two-week high",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-02T01:03:00.000Z"
+    },
+    {
+      "title": "Stocks climb and US yields ease; yen jumps against dollar",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-02T22:01:50.000Z"
     },
     {
       "title": "COMMENTARY: Morning Bid: Bonds boil",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGpDVWZIa0U1VExDTExaZ1ZyYlBjV2ZBLWtIYUtBX2lfcUNxQ1ZkQWxqR3NQNVRKcFVWU2g0RDNXSkJyU2pwUEMwS0tJcnYxRG9ucUlVMUxFMDl6TjlOSWE1VGJXZ3lFZEh4Z0FvaXFpalVfcXBPa01LSGxTS0lfOGJVY09xYlJxZi1pTG52M2F2aEprZ1Zn?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-02T10:43:45.000Z"
-    },
-    {
-      "title": "Yen gains sharply, dollar eases from two-week high",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T15:58:46.000Z"
-    },
-    {
-      "title": "Gold rebounds over 1% as US dollar, yields pull back from highs",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T14:39:12.000Z"
-    },
-    {
-      "title": "RBI backstop keeps Indian rupee stable, blunting importer dollar demand impact",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNldSQ0lyMXA4emh5cjBKR1lvcDg3ZXl1OGNoV3ItYTNJem4wQ0gycGtGd0lMdnFhNUtNTDR3czBPenBIbmItcEFtSlBib1hEQlpoR1ZBYlVYNTF4Tkx5VVdVM1BJZHNOWWVCaldmel9ha3FPOEppRUU1eFY3TUhIV2RBTUthWHhUeXFaZHR0TFdjNk93aks0OERPcE16cl90TFE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T03:05:00.000Z"
-    },
-    {
-      "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T00:43:00.000Z"
     }
   ]
 }
