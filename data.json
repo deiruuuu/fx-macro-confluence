@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T00:31:53.891Z",
+  "updated": "2026-09-03T17:06:54.449Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2649.3,
-      "display": "2,649.30",
-      "change": -57.029999999999745,
-      "changePct": -2.107,
-      "date": "2026-09-01",
+      "value": 2678.82,
+      "display": "2,678.82",
+      "change": 29.519999999999982,
+      "changePct": 1.114,
+      "date": "2026-09-02",
       "spark": [
-        2577.8,
         2538.57,
         2542.24,
         2560.19,
@@ -125,7 +124,8 @@
         2739.22,
         2702.33,
         2706.33,
-        2649.3
+        2649.3,
+        2678.82
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.34,
-      "display": "16.34",
-      "change": 1.42,
-      "changePct": 9.517,
-      "date": "2026-09-01",
+      "value": 15.2,
+      "display": "15.20",
+      "change": -1.1400000000000006,
+      "changePct": -6.977,
+      "date": "2026-09-02",
       "spark": [
-        16.64,
         18.7,
         18.58,
         18.67,
@@ -211,7 +210,8 @@
         14.51,
         14.43,
         14.92,
-        16.34
+        16.34,
+        15.2
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.34,
-      "display": "16.34",
-      "change": 1.42,
-      "changePct": 9.517,
-      "date": "2026-09-01",
+      "value": 15.2,
+      "display": "15.20",
+      "change": -1.1400000000000006,
+      "changePct": -6.977,
+      "date": "2026-09-02",
       "spark": [
-        16.64,
         18.7,
         18.58,
         18.67,
@@ -1355,7 +1354,8 @@
         14.51,
         14.43,
         14.92,
-        16.34
+        16.34,
+        15.2
       ],
       "unit": "",
       "suffix": ""
@@ -1449,54 +1449,5 @@
       "suffix": ""
     }
   },
-  "news": [
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T16:23:48.000Z"
-    },
-    {
-      "title": "Warsh's Jackson Hole encore may put Trump's inflation record under a microscope",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1R1MzRzd281NmluU3cyRUNUV1VRY2h0UFFKbU40ZVExWWVXdGIwNGltaEwyUXJ4UWVzU3owNXlsd3FFbTBYVTRxMW1SQlBvLTRpT1dSeE9TRG5qbmUwUmJSa3NYZ29IRGxFRmZLVzBKdjNpZXFPZGhEamJOWmRiX3VQNlBmNDJMM0ZTS0xBSks3Z2NfOUJURGZPU1pWWGJrVGRMT2o5dFczNXhxdVhCSXpBZ1VGT1FCazgzcg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T10:31:28.000Z"
-    },
-    {
-      "title": "Bank of Canada holds key rate, says multiple hikes might be needed",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHFOOThCcFh0NUJwMnBRVmpuWi1wQ3pXU1c5ejZ6ci1MT3VJOEpsaEgyRURodEVsd2FKaGRQTjhWdUtLai1IZHQwaDQ5Z2JGbTg1b1pra2REcHNWdjg3U3I4TndveUMxemI2VVBiS1BfZ0FCakh2LTR3aHJzSXNrS0NaUlk0WTBDd1g3Q1NxTU04M015SE5feklvWVc0N3R2d3lOSEMyNnRyVDZNSVhkelJCTlNDLTA5?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T16:43:35.000Z"
-    },
-    {
-      "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T21:33:47.000Z"
-    },
-    {
-      "title": "Gold rebounds over 1% as US dollar, yields pull back from highs",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T02:18:00.000Z"
-    },
-    {
-      "title": "Yen gains sharply, dollar eases from two-week high",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T01:03:00.000Z"
-    },
-    {
-      "title": "Stocks climb and US yields ease; yen jumps against dollar",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T22:01:50.000Z"
-    },
-    {
-      "title": "COMMENTARY: Morning Bid: Bonds boil",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGpDVWZIa0U1VExDTExaZ1ZyYlBjV2ZBLWtIYUtBX2lfcUNxQ1ZkQWxqR3NQNVRKcFVWU2g0RDNXSkJyU2pwUEMwS0tJcnYxRG9ucUlVMUxFMDl6TjlOSWE1VGJXZ3lFZEh4Z0FvaXFpalVfcXBPa01LSGxTS0lfOGJVY09xYlJxZi1pTG52M2F2aEprZ1Zn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T10:43:45.000Z"
-    }
-  ]
+  "news": []
 }
