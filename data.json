@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T00:17:02.194Z",
+  "updated": "2026-09-04T16:57:18.880Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2678.82,
-      "display": "2,678.82",
-      "change": 29.519999999999982,
-      "changePct": 1.114,
-      "date": "2026-09-02",
+      "value": 2710.95,
+      "display": "2,710.95",
+      "change": 32.129999999999654,
+      "changePct": 1.199,
+      "date": "2026-09-03",
       "spark": [
-        2538.57,
         2542.24,
         2560.19,
         2529.72,
@@ -125,7 +124,8 @@
         2702.33,
         2706.33,
         2649.3,
-        2678.82
+        2678.82,
+        2710.95
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.2,
-      "display": "15.20",
-      "change": -1.1400000000000006,
-      "changePct": -6.977,
-      "date": "2026-09-02",
+      "value": 14.32,
+      "display": "14.32",
+      "change": -0.879999999999999,
+      "changePct": -5.789,
+      "date": "2026-09-03",
       "spark": [
-        18.7,
         18.58,
         18.67,
         18.21,
@@ -211,7 +210,8 @@
         14.43,
         14.92,
         16.34,
-        15.2
+        15.2,
+        14.32
       ],
       "unit": "",
       "suffix": ""
@@ -935,11 +935,10 @@
       "series": "UNRATE",
       "value": 4.1,
       "display": "4.1",
-      "change": -0.10000000000000053,
-      "changePct": -2.381,
-      "date": "2026-07-01",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-08-01",
       "spark": [
-        3.7,
         3.9,
         3.9,
         3.9,
@@ -968,6 +967,7 @@
         4.3,
         4.3,
         4.2,
+        4.1,
         4.1
       ],
       "unit": "",
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.2,
-      "display": "15.20",
-      "change": -1.1400000000000006,
-      "changePct": -6.977,
-      "date": "2026-09-02",
+      "value": 14.32,
+      "display": "14.32",
+      "change": -0.879999999999999,
+      "changePct": -5.789,
+      "date": "2026-09-03",
       "spark": [
-        18.7,
         18.58,
         18.67,
         18.21,
@@ -1355,7 +1354,8 @@
         14.43,
         14.92,
         16.34,
-        15.2
+        15.2,
+        14.32
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance'",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJjV3EyRTlHeFIwYWxSa0EtRkM1YzFQOExsR0cwaFRrVEo0MUlXWTMtdHhpam5seDNOQWJYQ0NYVGJkVDJNMkR4NHFsX2RJTkxPM1dDd1Z4T2s3R1ZZaFdoQV9CXzE1WUw3YXNZdnpFZFJBZnVGWnkxbVpUeVdoRk11eTdHWHBLVjIwREZldUNmYzQ4TFd0WWlKWXhNYm50MW5hYkpnUE5PaHdaUHhVUUlQWnN4UTE1U21jamtTVQ?oc=5",
+      "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T18:11:10.000Z"
+      "publishedAt": "2026-09-04T14:16:03.000Z"
     },
     {
-      "title": "ECB to raise rates a second time in September, but then done, say economists: Reuters poll",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT185b0pjNmp2TVlHNnRrRW9GMDh5YmVmU2VfelMzQ0Z5VXVyTGNCZHlsM252N0pGOEF1bWtqaWh3bE5yTUp3eEQ1U0JHR001Q3FEZ2RrLXhKaTVHZUd4Q054V1VhSVJYV2h1X3ZFZVJtWUUxUHdGSW9QOUcyUGZDV0RpUEhUOHRpb1l0MG15Sl9RSmM4cTdFY1lnZHpSRFRSd3ZGOGdDOA?oc=5",
+      "title": "Fed rate hike back in focus after strong jobs report",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T11:07:52.000Z"
+      "publishedAt": "2026-09-04T15:37:01.000Z"
     },
     {
-      "title": "US labor market remains stable; services input price rises point to elevated inflation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVlveWxoLTJTR0EyQmo2Sm9PLS0tR1hFUlc3bFdPenBsQmhNZG41S250UlNkaGF5cXNIbV9NS2xXckRSTGJFRjg1eTFqOUdyRTVyQUR0SUFKM2RLT0F4QmZDaWVlRVY4UnZzU0hORWNKVkhhdXN1T19uTXFXRlRWb19ETlZiWVdWRHhpOGtXWHlQZ0FmcVg1WEZPYnNfbThpOEsyMnhQLWVzZzk1OVdzeXBmeXJ0NEtGY053ZGFRZllyZw?oc=5",
+      "title": "PODCAST: Waller's inflation signal",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXk3bDJVV2ViYy1VSWZUWFlmc1NXSnFrVks2V3lFY20xRGRrWTRJNEdudVFwQUdsbk5ja3RnLUFjY1I1OEZsS0R3WnFyRDlqMFN3TkJsSHpVQU92M0FQR3hhY1ZQN2FSd2NwY0h6VnIySFVhM1hjWElTZWJRckZKZlgzV2hoNkRGN05vV1IyUU4zRjA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T18:40:44.000Z"
+      "publishedAt": "2026-09-04T14:08:14.000Z"
     },
     {
-      "title": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
+      "title": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9McUNSanBsYWhzUDNIQUk5Y2VEOE55RjNQQzZFdW00cFpIZFN3bERyUE1Hcm9qMjVEYzhPbVlUbHdEd2pnSHRmcGt0cy1YaWplbFBnZnJRT1hjcWlsUU9BQU53SmZoRXBDUWtqWGgtMDA5d0pvclFyUTJTRjBCZVRRNEFzVDdabzR4d1RTV05RUEV3dHVEUUtHRzVjMndMMzExRTdKeDQ2d0pjZ1NjWEw3ZG5Ddw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T22:58:24.000Z"
+      "publishedAt": "2026-09-04T07:36:39.000Z"
     },
     {
-      "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
+      "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T22:48:22.000Z"
+      "publishedAt": "2026-09-04T16:25:46.000Z"
     },
     {
-      "title": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
+      "title": "Dollar bounces on job gains, then pares ahead of CPI",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T01:03:00.000Z"
+      "publishedAt": "2026-09-04T01:35:00.000Z"
     },
     {
-      "title": "Fed's Waller says safety premium for Treasuries is gone, pushing neutral rate higher",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVFaVFFacUdlWTV3R2pKeGRYSjR5WDlmQ1d1aTlPVmVEVTZVamxTa0gwMVdvUnJWRkY5MjczVTUxaTEwZHdtTHBqdk1fa1FTRHFnaTFVRWlKRk1EVUJGZzhxV1gxS0ZmdV9oNWVhZXI1eGg3VE80czNCUVdBYnY4ay1UTGNYWlg2bHRocUpUbUNhT2pQQlljUzhPdjBxOXg5OTVVamdSNWN2Z3RxdmJZSUlSN3BxQ2R1YmVGR3pkNWk?oc=5",
+      "title": "Yields rise, stocks mostly ease after solid U.S. jobs report",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T17:47:44.000Z"
+      "publishedAt": "2026-09-04T02:34:00.000Z"
     },
     {
-      "title": "India's $136 billion dollar haul aids rupee but raises future risks",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMk85MmIyN2lmb0h4UDlRMDM0Ym1DaTkxdndhUW0tTUEtQ0Fmb1MtQi1QWEhSTDNKZ2d6TTd6NEQ2dmtJSWJxVGtsTmQ3bFhtU0pqS1ljbUpOS2hYRERrRDh4WWhiSkRST2oyUTNDcVB1ZUZSXzNtQlFmU1RJVWs1Qm9Kc2Z5RU1aU2JfYnZlbW43eEVya1U4RzNQMFJKXzRzaW00LTl3SnBmV2NVN0VCWTVvZE5MLUVERGl6YlZCMDh1dC04dVFB?oc=5",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VBUFZ5YXQ5YV9zTnNwblR3V1JxbUlMVjM5Q3pNQi1TdmRhdFFtalYxVTNfMHk4N0ZEcWNTU0U4bzExYm1iRmQ1TG5IVkNlY3lBZV9ESDJwa1NmNUtydmtoRVZ0ajNoM2RqZW9vaEF2blpfbGRIWWFuWVZRclF6MkdjYUo3bmNXcXFURDY4VWdQNTlTZ1lJRmdac3hkSmVXRHJialdGVHdwQ0hSX3BQV002dUdyQ294X0tlVFQ4ZUR6QQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-03T11:24:25.000Z"
+      "publishedAt": "2026-09-04T12:22:27.000Z"
     }
   ]
 }
