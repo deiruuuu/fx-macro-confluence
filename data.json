@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:06:54.449Z",
+  "updated": "2026-09-04T00:17:02.194Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7666.6,
-      "display": "7,667",
-      "change": 35.13000000000011,
-      "changePct": 0.46,
-      "date": "2026-09-02",
+      "value": 7747.71,
+      "display": "7,748",
+      "change": 81.10999999999967,
+      "changePct": 1.058,
+      "date": "2026-09-03",
       "spark": [
-        7408.3,
         7411.98,
         7413.18,
         7428.78,
@@ -82,7 +81,8 @@
         7711.76,
         7686.14,
         7631.47,
-        7666.6
+        7666.6,
+        7747.71
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77330.23,
-      "display": "77,330",
-      "change": -62.419999999998254,
-      "changePct": -0.081,
-      "date": "2026-09-02",
+      "value": 81129.19,
+      "display": "81,129",
+      "change": 3798.9600000000064,
+      "changePct": 4.913,
+      "date": "2026-09-03",
       "spark": [
-        64023.39,
         64555.45,
         64291.84,
         64877.34,
@@ -254,7 +253,8 @@
         77757.98,
         78603.02,
         77392.65,
-        77330.23
+        77330.23,
+        81129.19
       ],
       "unit": "",
       "suffix": ""
@@ -1367,11 +1367,10 @@
       "series": "DGS2",
       "value": 4.39,
       "display": "4.39",
-      "change": 0.04999999999999982,
-      "changePct": 1.152,
-      "date": "2026-09-01",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-09-02",
       "spark": [
-        4.31,
         4.37,
         4.33,
         4.31,
@@ -1400,6 +1399,7 @@
         4.2,
         4.34,
         4.34,
+        4.39,
         4.39
       ],
       "unit": "",
@@ -1410,11 +1410,10 @@
       "series": "DGS10",
       "value": 4.79,
       "display": "4.79",
-      "change": 0.040000000000000036,
-      "changePct": 0.842,
-      "date": "2026-09-01",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-09-02",
       "spark": [
-        4.67,
         4.71,
         4.69,
         4.65,
@@ -1443,11 +1442,61 @@
         4.67,
         4.73,
         4.75,
+        4.79,
         4.79
       ],
       "unit": "",
       "suffix": ""
     }
   },
-  "news": []
+  "news": [
+    {
+      "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance'",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJjV3EyRTlHeFIwYWxSa0EtRkM1YzFQOExsR0cwaFRrVEo0MUlXWTMtdHhpam5seDNOQWJYQ0NYVGJkVDJNMkR4NHFsX2RJTkxPM1dDd1Z4T2s3R1ZZaFdoQV9CXzE1WUw3YXNZdnpFZFJBZnVGWnkxbVpUeVdoRk11eTdHWHBLVjIwREZldUNmYzQ4TFd0WWlKWXhNYm50MW5hYkpnUE5PaHdaUHhVUUlQWnN4UTE1U21jamtTVQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T18:11:10.000Z"
+    },
+    {
+      "title": "ECB to raise rates a second time in September, but then done, say economists: Reuters poll",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT185b0pjNmp2TVlHNnRrRW9GMDh5YmVmU2VfelMzQ0Z5VXVyTGNCZHlsM252N0pGOEF1bWtqaWh3bE5yTUp3eEQ1U0JHR001Q3FEZ2RrLXhKaTVHZUd4Q054V1VhSVJYV2h1X3ZFZVJtWUUxUHdGSW9QOUcyUGZDV0RpUEhUOHRpb1l0MG15Sl9RSmM4cTdFY1lnZHpSRFRSd3ZGOGdDOA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T11:07:52.000Z"
+    },
+    {
+      "title": "US labor market remains stable; services input price rises point to elevated inflation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVlveWxoLTJTR0EyQmo2Sm9PLS0tR1hFUlc3bFdPenBsQmhNZG41S250UlNkaGF5cXNIbV9NS2xXckRSTGJFRjg1eTFqOUdyRTVyQUR0SUFKM2RLT0F4QmZDaWVlRVY4UnZzU0hORWNKVkhhdXN1T19uTXFXRlRWb19ETlZiWVdWRHhpOGtXWHlQZ0FmcVg1WEZPYnNfbThpOEsyMnhQLWVzZzk1OVdzeXBmeXJ0NEtGY053ZGFRZllyZw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T18:40:44.000Z"
+    },
+    {
+      "title": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T22:58:24.000Z"
+    },
+    {
+      "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T22:48:22.000Z"
+    },
+    {
+      "title": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T01:03:00.000Z"
+    },
+    {
+      "title": "Fed's Waller says safety premium for Treasuries is gone, pushing neutral rate higher",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVFaVFFacUdlWTV3R2pKeGRYSjR5WDlmQ1d1aTlPVmVEVTZVamxTa0gwMVdvUnJWRkY5MjczVTUxaTEwZHdtTHBqdk1fa1FTRHFnaTFVRWlKRk1EVUJGZzhxV1gxS0ZmdV9oNWVhZXI1eGg3VE80czNCUVdBYnY4ay1UTGNYWlg2bHRocUpUbUNhT2pQQlljUzhPdjBxOXg5OTVVamdSNWN2Z3RxdmJZSUlSN3BxQ2R1YmVGR3pkNWk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T17:47:44.000Z"
+    },
+    {
+      "title": "India's $136 billion dollar haul aids rupee but raises future risks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMk85MmIyN2lmb0h4UDlRMDM0Ym1DaTkxdndhUW0tTUEtQ0Fmb1MtQi1QWEhSTDNKZ2d6TTd6NEQ2dmtJSWJxVGtsTmQ3bFhtU0pqS1ljbUpOS2hYRERrRDh4WWhiSkRST2oyUTNDcVB1ZUZSXzNtQlFmU1RJVWs1Qm9Kc2Z5RU1aU2JfYnZlbW43eEVya1U4RzNQMFJKXzRzaW00LTl3SnBmV2NVN0VCWTVvZE5MLUVERGl6YlZCMDh1dC04dVFB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-03T11:24:25.000Z"
+    }
+  ]
 }
