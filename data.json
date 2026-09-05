@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:57:18.880Z",
+  "updated": "2026-09-05T00:17:30.870Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7747.71,
-      "display": "7,748",
-      "change": 81.10999999999967,
-      "changePct": 1.058,
-      "date": "2026-09-03",
+      "value": 7718.6,
+      "display": "7,719",
+      "change": -29.109999999999673,
+      "changePct": -0.376,
+      "date": "2026-09-04",
       "spark": [
-        7411.98,
         7413.18,
         7428.78,
         7316.15,
@@ -82,7 +81,8 @@
         7686.14,
         7631.47,
         7666.6,
-        7747.71
+        7747.71,
+        7718.6
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81129.19,
-      "display": "81,129",
-      "change": 3798.9600000000064,
-      "changePct": 4.913,
-      "date": "2026-09-03",
+      "value": 79658.55,
+      "display": "79,659",
+      "change": -1470.6399999999994,
+      "changePct": -1.813,
+      "date": "2026-09-04",
       "spark": [
-        64555.45,
         64291.84,
         64877.34,
         64910.12,
@@ -254,7 +253,8 @@
         78603.02,
         77392.65,
         77330.23,
-        81129.19
+        81129.19,
+        79658.55
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.39,
-      "display": "4.39",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-09-02",
+      "value": 4.34,
+      "display": "4.34",
+      "change": -0.04999999999999982,
+      "changePct": -1.139,
+      "date": "2026-09-03",
       "spark": [
-        4.37,
         4.33,
         4.31,
         4.26,
@@ -1400,7 +1399,8 @@
         4.34,
         4.34,
         4.39,
-        4.39
+        4.39,
+        4.34
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.79,
-      "display": "4.79",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-09-02",
+      "value": 4.77,
+      "display": "4.77",
+      "change": -0.020000000000000462,
+      "changePct": -0.418,
+      "date": "2026-09-03",
       "spark": [
-        4.71,
         4.69,
         4.65,
         4.61,
@@ -1443,7 +1442,8 @@
         4.73,
         4.75,
         4.79,
-        4.79
+        4.79,
+        4.77
       ],
       "unit": "",
       "suffix": ""
@@ -1454,13 +1454,13 @@
       "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T14:16:03.000Z"
+      "publishedAt": "2026-09-04T16:03:43.000Z"
     },
     {
-      "title": "Fed rate hike back in focus after strong jobs report",
+      "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T15:37:01.000Z"
+      "publishedAt": "2026-09-04T22:26:00.000Z"
     },
     {
       "title": "PODCAST: Waller's inflation signal",
@@ -1469,22 +1469,22 @@
       "publishedAt": "2026-09-04T14:08:14.000Z"
     },
     {
+      "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-04T22:57:36.000Z"
+    },
+    {
       "title": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9McUNSanBsYWhzUDNIQUk5Y2VEOE55RjNQQzZFdW00cFpIZFN3bERyUE1Hcm9qMjVEYzhPbVlUbHdEd2pnSHRmcGt0cy1YaWplbFBnZnJRT1hjcWlsUU9BQU53SmZoRXBDUWtqWGgtMDA5d0pvclFyUTJTRjBCZVRRNEFzVDdabzR4d1RTV05RUEV3dHVEUUtHRzVjMndMMzExRTdKeDQ2d0pjZ1NjWEw3ZG5Ddw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-04T07:36:39.000Z"
     },
     {
-      "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-04T16:25:46.000Z"
-    },
-    {
       "title": "Dollar bounces on job gains, then pares ahead of CPI",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T01:35:00.000Z"
+      "publishedAt": "2026-09-04T19:17:28.000Z"
     },
     {
       "title": "Yields rise, stocks mostly ease after solid U.S. jobs report",
@@ -1493,10 +1493,10 @@
       "publishedAt": "2026-09-04T02:34:00.000Z"
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VBUFZ5YXQ5YV9zTnNwblR3V1JxbUlMVjM5Q3pNQi1TdmRhdFFtalYxVTNfMHk4N0ZEcWNTU0U4bzExYm1iRmQ1TG5IVkNlY3lBZV9ESDJwa1NmNUtydmtoRVZ0ajNoM2RqZW9vaEF2blpfbGRIWWFuWVZRclF6MkdjYUo3bmNXcXFURDY4VWdQNTlTZ1lJRmdac3hkSmVXRHJialdGVHdwQ0hSX3BQV002dUdyQ294X0tlVFQ4ZUR6QQ?oc=5",
+      "title": "Take Five: Good evening, Mr Bond",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0steE9LaDhWRWV0MjJBYTNGcWJTVldmOXNsekxXZWw2b1Y2NzBTU1VWVE11elpWbGVwcTZlZ2lkSldqMUtkNXh4c2RSc0FKeW5CcjRrdjFqRnhJcG00OE5wdVR1UVctcWZuMVpKZ2ZyM245UGVjZElNRlUwNTBZVWxn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T12:22:27.000Z"
+      "publishedAt": "2026-09-04T13:06:10.000Z"
     }
   ]
 }
