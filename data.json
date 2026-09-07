@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T00:17:30.870Z",
+  "updated": "2026-09-07T18:20:09.081Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2710.95,
-      "display": "2,710.95",
-      "change": 32.129999999999654,
-      "changePct": 1.199,
-      "date": "2026-09-03",
+      "value": 2700.71,
+      "display": "2,700.71",
+      "change": -10.239999999999782,
+      "changePct": -0.378,
+      "date": "2026-09-04",
       "spark": [
-        2542.24,
         2560.19,
         2529.72,
         2539.35,
@@ -125,7 +124,8 @@
         2706.33,
         2649.3,
         2678.82,
-        2710.95
+        2710.95,
+        2700.71
       ],
       "unit": "",
       "suffix": ""
@@ -219,14 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 79658.55,
-      "display": "79,659",
-      "change": -1470.6399999999994,
-      "changePct": -1.813,
-      "date": "2026-09-04",
+      "value": 80309.06,
+      "display": "80,309",
+      "change": 429.81999999999243,
+      "changePct": 0.538,
+      "date": "2026-09-06",
       "spark": [
-        64291.84,
-        64877.34,
         64910.12,
         64855.5,
         63876.26,
@@ -254,7 +252,9 @@
         77392.65,
         77330.23,
         81129.19,
-        79658.55
+        79658.55,
+        79879.24,
+        80309.06
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-04",
+      "date": "2026-09-07",
       "spark": [
         2.25,
         2.25,
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
+      "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXNXbFhiR0xaOTliU21YN051SmZxSndRR1d0WkFHUEFBbHRsSS1EdE1zMUJ6ZlQ2NFRwNFZFWVlSMGx5WUc5RFVhYmE0WnNpTWJfbXRraUVTemlyU0U3ZFMzSGxwZDdMWVloTERkSkdfa2NiX3N2cThqbkRIUzhSVGNaRl9wak9YZVV2YXg0UVVZRWtXaG9PYUllRnl6dnNoY0NIQlZwNkRwVEpDOHIw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T16:03:43.000Z"
+      "publishedAt": "2026-09-07T09:07:43.000Z"
     },
     {
-      "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+      "title": "Novo Nordisk says semaglutide cut obesity rates in young children in trial",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU1lrLUNXcjU5bHFWSGphdUl6aTlGT0FlYWF4ZUlZNDlabHdUNi1sMVBBRjhPQk41cTA1YlFXbEJEek9uQUVMYmlTTkZPZ3J0NzVDeVZsNmFDRW5YZloyc1Z2dkp5em55ZUVNLXNkcWRhalhMclU1bWYxM1h6a0ZCNTJGdjVtaHZFQnlLSDA4MGVhNjBleGRsdVJpUWxOemtBcmFqQi1ycm5RNU8yNGFKa1ZGamljSktPeDJrYUU0RS1TUU5nVU95aldJMVZxMFhMVVBEd2Uxbw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T22:26:00.000Z"
+      "publishedAt": "2026-09-07T11:03:35.000Z"
     },
     {
-      "title": "PODCAST: Waller's inflation signal",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXk3bDJVV2ViYy1VSWZUWFlmc1NXSnFrVks2V3lFY20xRGRrWTRJNEdudVFwQUdsbk5ja3RnLUFjY1I1OEZsS0R3WnFyRDlqMFN3TkJsSHpVQU92M0FQR3hhY1ZQN2FSd2NwY0h6VnIySFVhM1hjWElTZWJRckZKZlgzV2hoNkRGN05vV1IyUU4zRjA?oc=5",
+      "title": "Gold eases as strong US jobs data boosts Fed rate-hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGNES0hoVGlPMVZfR041a2MwVUNQOUI5dzBweW04UlNvWjNJUnJYUEdGMkkyb1I1MWdRcUp5SDJybUV4YlRTWEZ5aFd4M3NaTnE5clF1Y200Tk9oNFoxd3lncVkzbjFNdTVKazRLNVpSSloteGRvakNZWmxwLW5uUWo5V0U2dDc2TFE0Nkg4VWVOU1dpdE5tNUhzOWtXcUNjTUZQMmF3T2ZOQkpWRURmX20wSFlvam9UV1Yw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T14:08:14.000Z"
+      "publishedAt": "2026-09-07T02:36:00.000Z"
     },
     {
-      "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
+      "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0p6Q2VESkl4T251Z2lzT0UyVXRwRW1MWHRxeHlTV3hISkZPM3R0c1J1ZVljMnRlOEdHNHFpcHdUUFllby1JbzhFWm9KdXc2ZXZuYW9URVQzSExpMGtzeExtRXVmd3IwZ2F6ZUFXZmVzZUtObkNSQy1ZQ1d5SzhqM2lhYm9nbm1vankxRk9ubXB1RHBLWTNOeVFYTlFNYnlGeVhNdEFqQXI2UQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T22:57:36.000Z"
+      "publishedAt": "2026-09-07T01:20:00.000Z"
     },
     {
-      "title": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9McUNSanBsYWhzUDNIQUk5Y2VEOE55RjNQQzZFdW00cFpIZFN3bERyUE1Hcm9qMjVEYzhPbVlUbHdEd2pnSHRmcGt0cy1YaWplbFBnZnJRT1hjcWlsUU9BQU53SmZoRXBDUWtqWGgtMDA5d0pvclFyUTJTRjBCZVRRNEFzVDdabzR4d1RTV05RUEV3dHVEUUtHRzVjMndMMzExRTdKeDQ2d0pjZ1NjWEw3ZG5Ddw?oc=5",
+      "title": "Morning Bid: Diesel the real spoiler for US inflation doves",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVEpMZWxDcWdjVkVYRGdtakVZSGxsWVZfR2N5eFR4UTBRTzZWTmxMZXF3REFZeHBkelU2YXJQb21JZEtGNVNqQld1eTYxV3VpLXFzT1VEVEtQVUNxa3VQTW5mdE1OQ2JocmNrdW80bktWQWxfY2w2SmoxV2dfOWs?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T07:36:39.000Z"
+      "publishedAt": "2026-09-07T04:34:00.000Z"
     },
     {
-      "title": "Dollar bounces on job gains, then pares ahead of CPI",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
+      "title": "Stocks dented by inflation risk from rising oil, dicey geopolitics",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0pobHhGSWlxLVNZa2htLURrNldPaHUyOGVyQXVBeGtJOWJDUXpqMXFSTDBCaHNkeFI5Q0Y2NUdFNlJoWUZlVGQwR2pGZk5oc1R5TzFLbUdFMU1aY3NGTXVhOGFTeFZOenRpbUlNc0ZiTjQtMnNaRVUtTVNrWEpLeGprbw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T19:17:28.000Z"
+      "publishedAt": "2026-09-07T01:06:00.000Z"
     },
     {
-      "title": "Yields rise, stocks mostly ease after solid U.S. jobs report",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5",
+      "title": "Japan's August foreign reserves post largest-ever drop after record intervention",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanBTRWJCMTNGZkYzeS01WDVnOUlYSTdIWU1zdm82WjE3TGxBdlI0ZTlpc1BQTXExdE5ESmExaXFrN2JpOEhJYU0zUGVGdnUyalhqeU5wX0VobHU0bExWLUJLZW5Yc1RjMTdSY1lqaWplSFZOc0JHQ05Rek04RXVSdmc0NG1jZGNQeF9oQnpoTkJOQV9IejkyeUxYdlFtTUM4MnFfQXBoOE1haVNjUFFWdFVOcjhrRTU1c3lqSlB2SzVwdjlPb0RWOEkyZHpYTWM?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T02:34:00.000Z"
+      "publishedAt": "2026-09-07T00:28:00.000Z"
     },
     {
-      "title": "Take Five: Good evening, Mr Bond",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0steE9LaDhWRWV0MjJBYTNGcWJTVldmOXNsekxXZWw2b1Y2NzBTU1VWVE11elpWbGVwcTZlZ2lkSldqMUtkNXh4c2RSc0FKeW5CcjRrdjFqRnhJcG00OE5wdVR1UVctcWZuMVpKZ2ZyM245UGVjZElNRlUwNTBZVWxn?oc=5",
+      "title": "Another rate hike, just for insurance: Five questions for the ECB",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-04T13:06:10.000Z"
+      "publishedAt": "2026-09-07T04:03:00.000Z"
     }
   ]
 }
