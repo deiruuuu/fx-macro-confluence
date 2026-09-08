@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T18:20:09.081Z",
+  "updated": "2026-09-08T00:36:49.980Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 80309.06,
-      "display": "80,309",
-      "change": 429.81999999999243,
-      "changePct": 0.538,
-      "date": "2026-09-06",
+      "value": 79067.23,
+      "display": "79,067",
+      "change": -1241.8300000000017,
+      "changePct": -1.546,
+      "date": "2026-09-07",
       "spark": [
-        64910.12,
         64855.5,
         63876.26,
         63528.48,
@@ -254,7 +253,8 @@
         81129.19,
         79658.55,
         79879.24,
-        80309.06
+        80309.06,
+        79067.23
       ],
       "unit": "",
       "suffix": ""
@@ -1457,10 +1457,10 @@
       "publishedAt": "2026-09-07T09:07:43.000Z"
     },
     {
-      "title": "Novo Nordisk says semaglutide cut obesity rates in young children in trial",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU1lrLUNXcjU5bHFWSGphdUl6aTlGT0FlYWF4ZUlZNDlabHdUNi1sMVBBRjhPQk41cTA1YlFXbEJEek9uQUVMYmlTTkZPZ3J0NzVDeVZsNmFDRW5YZloyc1Z2dkp5em55ZUVNLXNkcWRhalhMclU1bWYxM1h6a0ZCNTJGdjVtaHZFQnlLSDA4MGVhNjBleGRsdVJpUWxOemtBcmFqQi1ycm5RNU8yNGFKa1ZGamljSktPeDJrYUU0RS1TUU5nVU95aldJMVZxMFhMVVBEd2Uxbw?oc=5",
+      "title": "Another rate hike, just for insurance: Five questions for the ECB",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-07T11:03:35.000Z"
+      "publishedAt": "2026-09-07T04:03:00.000Z"
     },
     {
       "title": "Gold eases as strong US jobs data boosts Fed rate-hike bets",
@@ -1487,16 +1487,16 @@
       "publishedAt": "2026-09-07T01:06:00.000Z"
     },
     {
+      "title": "Novo Nordisk says semaglutide cut obesity rates in young children in trial",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU1lrLUNXcjU5bHFWSGphdUl6aTlGT0FlYWF4ZUlZNDlabHdUNi1sMVBBRjhPQk41cTA1YlFXbEJEek9uQUVMYmlTTkZPZ3J0NzVDeVZsNmFDRW5YZloyc1Z2dkp5em55ZUVNLXNkcWRhalhMclU1bWYxM1h6a0ZCNTJGdjVtaHZFQnlLSDA4MGVhNjBleGRsdVJpUWxOemtBcmFqQi1ycm5RNU8yNGFKa1ZGamljSktPeDJrYUU0RS1TUU5nVU95aldJMVZxMFhMVVBEd2Uxbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-07T11:03:35.000Z"
+    },
+    {
       "title": "Japan's August foreign reserves post largest-ever drop after record intervention",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanBTRWJCMTNGZkYzeS01WDVnOUlYSTdIWU1zdm82WjE3TGxBdlI0ZTlpc1BQTXExdE5ESmExaXFrN2JpOEhJYU0zUGVGdnUyalhqeU5wX0VobHU0bExWLUJLZW5Yc1RjMTdSY1lqaWplSFZOc0JHQ05Rek04RXVSdmc0NG1jZGNQeF9oQnpoTkJOQV9IejkyeUxYdlFtTUM4MnFfQXBoOE1haVNjUFFWdFVOcjhrRTU1c3lqSlB2SzVwdjlPb0RWOEkyZHpYTWM?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-07T00:28:00.000Z"
-    },
-    {
-      "title": "Another rate hike, just for insurance: Five questions for the ECB",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T04:03:00.000Z"
     }
   ]
 }
