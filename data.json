@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T00:36:49.980Z",
+  "updated": "2026-09-08T17:20:53.707Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -176,14 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.32,
-      "display": "14.32",
-      "change": -0.879999999999999,
-      "changePct": -5.789,
-      "date": "2026-09-03",
+      "value": 15.3,
+      "display": "15.30",
+      "change": 0.7700000000000014,
+      "changePct": 5.299,
+      "date": "2026-09-07",
       "spark": [
-        18.58,
-        18.67,
         18.21,
         20.66,
         17.09,
@@ -211,7 +209,9 @@
         14.92,
         16.34,
         15.2,
-        14.32
+        14.32,
+        14.53,
+        15.3
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "spark": [
         2.25,
         2.25,
@@ -1320,14 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.32,
-      "display": "14.32",
-      "change": -0.879999999999999,
-      "changePct": -5.789,
-      "date": "2026-09-03",
+      "value": 15.3,
+      "display": "15.30",
+      "change": 0.7700000000000014,
+      "changePct": 5.299,
+      "date": "2026-09-07",
       "spark": [
-        18.58,
-        18.67,
         18.21,
         20.66,
         17.09,
@@ -1355,7 +1353,9 @@
         14.92,
         16.34,
         15.2,
-        14.32
+        14.32,
+        14.53,
+        15.3
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "Wall St slips as steep oil prices stoke inflation concerns ahead of CPI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjZqc0tNY1VPMHZtRldqOUxwQzJYN0JtWEpoUVNoNGw4U3I5UnVCYXVjd0ZEUUw1SnZhc1JkWnFoTmFoYlVrZ0R3ZlFaQVQ3cmR6ZDVURG1vU1VoR09EcXI4Sl8wemY1RlU2WFJOQ1h6TXpSbUIzdS1WTDhXZnRONzFjRlI0UGIwQTVkeUxWN3YyMkhHeHd6ag?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-08T16:51:41.000Z"
+    },
+    {
+      "title": "Gold lackluster ahead of inflation data as oil prices climb",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-08T02:28:00.000Z"
+    },
+    {
+      "title": "Yen hovers near seven-month high, dollar steadies",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzJTNlNmRkk4ZlAxN0diYXoyblUyaE41UTRRRFpZbURGSk9pZGlTVDc5QkpJSHpqWlRWY0ZjR1M1ZW1sdU5KNmJqUGZ6eTRleGRfektFaDFlMmprZW14T2RodGJMcVlfNG5fMmZTbFhqNERNeGZvVW1CcHQ5MUZ4R0pGbTF3WllEN2hqQkpTVUZrUmVlUnh2UWIwOTJSQU5IZ2pxRGJNelRPdU8wd0dYS0Q4QXB0bWNRSnc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-08T00:56:00.000Z"
+    },
+    {
+      "title": "Stocks fall as yen firms; Gulf attacks send oil towards $100 a barrel",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-08T01:48:00.000Z"
+    },
+    {
+      "title": "BoE's Bailey pushes back against idea of rate hike being inevitable",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk5ZbUFqcWNQcktCOExEaGVxMVVya3JQc0dBdE50NE1NN2hHQzEtcTRGaThDMERRZk9CWlBLRW9EM0QtUWxoeFdsY3BXdkExMDBvZ2E3VDFlWHJXc1FoM1N2Q2x2N0Itbk5yNlA0V2dubWFlUXotY0VpVzlEem5wT2owa3hyd012RVJYNEwwN08xUDhfajlodUJ1ZkJwTFVfRDRYZGd3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-08T15:59:56.000Z"
+    },
+    {
+      "title": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJyMEZjMzY1WGZkdzZwdlJ3c0NYc1RBOU9yZkRYb1FpNjBCUElLSWU1ejVfemROSmhWOVBUWkhGV1VNWU1XTVlJd3VNcmlXdDZfc01taXJVTnppazFSS05iQ1A4Smw0OVNPS3l0VWNZenBVT1JONkg4U2RsaUozR2xWR3ZubUo3XzVlZXptNEhJOHZGelJtRl92aWRhLS1sSXplRm5TdUQ3Mk1SMnlpdHRiT3JXTk5IMDREWll0dGlsanlNQ1VNTA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-08T06:00:00.000Z"
+    },
+    {
       "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXNXbFhiR0xaOTliU21YN051SmZxSndRR1d0WkFHUEFBbHRsSS1EdE1zMUJ6ZlQ2NFRwNFZFWVlSMGx5WUc5RFVhYmE0WnNpTWJfbXRraUVTemlyU0U3ZFMzSGxwZDdMWVloTERkSkdfa2NiX3N2cThqbkRIUzhSVGNaRl9wak9YZVV2YXg0UVVZRWtXaG9PYUllRnl6dnNoY0NIQlZwNkRwVEpDOHIw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-07T09:07:43.000Z"
     },
     {
-      "title": "Another rate hike, just for insurance: Five questions for the ECB",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T04:03:00.000Z"
-    },
-    {
       "title": "Gold eases as strong US jobs data boosts Fed rate-hike bets",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGNES0hoVGlPMVZfR041a2MwVUNQOUI5dzBweW04UlNvWjNJUnJYUEdGMkkyb1I1MWdRcUp5SDJybUV4YlRTWEZ5aFd4M3NaTnE5clF1Y200Tk9oNFoxd3lncVkzbjFNdTVKazRLNVpSSloteGRvakNZWmxwLW5uUWo5V0U2dDc2TFE0Nkg4VWVOU1dpdE5tNUhzOWtXcUNjTUZQMmF3T2ZOQkpWRURmX20wSFlvam9UV1Yw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-07T02:36:00.000Z"
-    },
-    {
-      "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0p6Q2VESkl4T251Z2lzT0UyVXRwRW1MWHRxeHlTV3hISkZPM3R0c1J1ZVljMnRlOEdHNHFpcHdUUFllby1JbzhFWm9KdXc2ZXZuYW9URVQzSExpMGtzeExtRXVmd3IwZ2F6ZUFXZmVzZUtObkNSQy1ZQ1d5SzhqM2lhYm9nbm1vankxRk9ubXB1RHBLWTNOeVFYTlFNYnlGeVhNdEFqQXI2UQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T01:20:00.000Z"
-    },
-    {
-      "title": "Morning Bid: Diesel the real spoiler for US inflation doves",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVEpMZWxDcWdjVkVYRGdtakVZSGxsWVZfR2N5eFR4UTBRTzZWTmxMZXF3REFZeHBkelU2YXJQb21JZEtGNVNqQld1eTYxV3VpLXFzT1VEVEtQVUNxa3VQTW5mdE1OQ2JocmNrdW80bktWQWxfY2w2SmoxV2dfOWs?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T04:34:00.000Z"
-    },
-    {
-      "title": "Stocks dented by inflation risk from rising oil, dicey geopolitics",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0pobHhGSWlxLVNZa2htLURrNldPaHUyOGVyQXVBeGtJOWJDUXpqMXFSTDBCaHNkeFI5Q0Y2NUdFNlJoWUZlVGQwR2pGZk5oc1R5TzFLbUdFMU1aY3NGTXVhOGFTeFZOenRpbUlNc0ZiTjQtMnNaRVUtTVNrWEpLeGprbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T01:06:00.000Z"
-    },
-    {
-      "title": "Novo Nordisk says semaglutide cut obesity rates in young children in trial",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU1lrLUNXcjU5bHFWSGphdUl6aTlGT0FlYWF4ZUlZNDlabHdUNi1sMVBBRjhPQk41cTA1YlFXbEJEek9uQUVMYmlTTkZPZ3J0NzVDeVZsNmFDRW5YZloyc1Z2dkp5em55ZUVNLXNkcWRhalhMclU1bWYxM1h6a0ZCNTJGdjVtaHZFQnlLSDA4MGVhNjBleGRsdVJpUWxOemtBcmFqQi1ycm5RNU8yNGFKa1ZGamljSktPeDJrYUU0RS1TUU5nVU95aldJMVZxMFhMVVBEd2Uxbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T11:03:35.000Z"
-    },
-    {
-      "title": "Japan's August foreign reserves post largest-ever drop after record intervention",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanBTRWJCMTNGZkYzeS01WDVnOUlYSTdIWU1zdm82WjE3TGxBdlI0ZTlpc1BQTXExdE5ESmExaXFrN2JpOEhJYU0zUGVGdnUyalhqeU5wX0VobHU0bExWLUJLZW5Yc1RjMTdSY1lqaWplSFZOc0JHQ05Rek04RXVSdmc0NG1jZGNQeF9oQnpoTkJOQV9IejkyeUxYdlFtTUM4MnFfQXBoOE1haVNjUFFWdFVOcjhrRTU1c3lqSlB2SzVwdjlPb0RWOEkyZHpYTWM?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-07T00:28:00.000Z"
     }
   ]
 }
