@@ -89,11 +89,11 @@
     },
     "gold": {
       "label": "GOLD",
-      "series": "NASDAQQGLDI",
-      "value": 2667.82,
-      "display": "2,667.82",
-      "change": -32.88999999999987,
-      "changePct": -1.218,
+      "series": "XAUUSD",
+      "value": 4364,
+      "display": "4,364.00",
+      "change": 0,
+      "changePct": 0,
       "date": "2026-09-08",
       "spark": [
         2529.72,
