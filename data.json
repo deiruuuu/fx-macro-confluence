@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T17:13:41.920Z",
+  "updated": "2026-09-10T00:27:07.310Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7673.52,
-      "display": "7,674",
-      "change": -45.07999999999993,
-      "changePct": -0.584,
-      "date": "2026-09-08",
+      "value": 7636.36,
+      "display": "7,636",
+      "change": -37.160000000000764,
+      "changePct": -0.484,
+      "date": "2026-09-09",
       "spark": [
-        7428.78,
         7316.15,
         7437.63,
         7489.72,
@@ -82,7 +81,8 @@
         7666.6,
         7747.71,
         7718.6,
-        7673.52
+        7673.52,
+        7636.36
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78548.91,
-      "display": "78,549",
-      "change": -518.3199999999924,
-      "changePct": -0.656,
-      "date": "2026-09-08",
+      "value": 78303.59,
+      "display": "78,304",
+      "change": -245.32000000000698,
+      "changePct": -0.312,
+      "date": "2026-09-09",
       "spark": [
-        63876.26,
         63528.48,
         63402.49,
         63387.81,
@@ -254,7 +253,8 @@
         79879.24,
         80309.06,
         79067.23,
-        78548.91
+        78548.91,
+        78303.59
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.37,
-      "display": "4.37",
-      "change": 0.03000000000000025,
-      "changePct": 0.691,
-      "date": "2026-09-04",
+      "value": 4.39,
+      "display": "4.39",
+      "change": 0.019999999999999574,
+      "changePct": 0.458,
+      "date": "2026-09-08",
       "spark": [
-        4.31,
         4.26,
         4.22,
         4.23,
@@ -1400,7 +1399,8 @@
         4.39,
         4.39,
         4.34,
-        4.37
+        4.37,
+        4.39
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.78,
-      "display": "4.78",
-      "change": 0.010000000000000675,
-      "changePct": 0.21,
-      "date": "2026-09-04",
+      "value": 4.8,
+      "display": "4.80",
+      "change": 0.019999999999999574,
+      "changePct": 0.418,
+      "date": "2026-09-08",
       "spark": [
-        4.65,
         4.61,
         4.67,
         4.68,
@@ -1443,7 +1442,8 @@
         4.79,
         4.79,
         4.77,
-        4.78
+        4.78,
+        4.8
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,28 @@
   },
   "news": [
     {
+      "title": "Gold climbs on subdued US dollar as inflation data awaited amid oil rally",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZnRkUxTUlfT1ZLS0tEcVFtTGFLZ2VmSElSal8tdTM3eTg2ZDI4TEJWYVV2eG1Xelc2ZVBmcE9fOThpM295OEtsQ1VWcURQNU1PSFVLa3BILVpqdXFFakdlRU5QeERQTEVpalRreE9tM3djQ1lrcl9fdm4zNWFOdFhjbHFwTWUyTHpuaDliVFZ3enpUYTlqSE5tWHUwQlpkdW9sMUZIakk1T2tjb1FXdE9yaWp4dw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-09T19:01:45.000Z"
+    },
+    {
       "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-09T13:29:11.000Z"
+    },
+    {
+      "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEotZFlXVDdDeG05cmdnOVhQN0xrYXBpeUhaNDg2ZkQxNkdEZ0k2aVp6ZThfRWMwaHk4TUVPcTh1NHJ2S2VmQk1hZWdqM1Y2cXpqeGwtdHgxN291b0F2OGc3SGZMV0F2RUktY2g3RE1uVzhLSXVQMWc1OE9hSXhjNmxSTktoY2o3Uy01SjRYUVg1NjUxVHRPMndmODlpWW5OdEpPaUFpQjd3MHhfcmIxWGpZWFFhRnBSeEtIRFdDTTI?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-09T01:59:00.000Z"
+    },
+    {
+      "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-09T02:27:00.000Z"
     },
     {
       "title": "Rising energy costs lift China's producer, consumer inflation in August",
@@ -1463,10 +1481,10 @@
       "publishedAt": "2026-09-09T01:43:00.000Z"
     },
     {
-      "title": "Japanese yen rallies; dollar rattled by oil topping $100",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEotZFlXVDdDeG05cmdnOVhQN0xrYXBpeUhaNDg2ZkQxNkdEZ0k2aVp6ZThfRWMwaHk4TUVPcTh1NHJ2S2VmQk1hZWdqM1Y2cXpqeGwtdHgxN291b0F2OGc3SGZMV0F2RUktY2g3RE1uVzhLSXVQMWc1OE9hSXhjNmxSTktoY2o3Uy01SjRYUVg1NjUxVHRPMndmODlpWW5OdEpPaUFpQjd3MHhfcmIxWGpZWFFhRnBSeEtIRFdDTTI?oc=5",
+      "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZExCdjRUZTV3SXBlS3pmdE81QndXdmxLbGpXVDdKOEVVNVJfUF9xTDB2T3pWMlFDR3hsMi1TaGJaN1FUMXhWZkExbEd2Q19jdmNiLS0wR3RzSzg5MHNmRURCNVZpLVhsd0FQQjFwUjRRc0ZTbER0THlSY2tnYVU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-09T12:02:04.000Z"
+      "publishedAt": "2026-09-09T04:32:00.000Z"
     },
     {
       "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
@@ -1479,24 +1497,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk5ZbUFqcWNQcktCOExEaGVxMVVya3JQc0dBdE50NE1NN2hHQzEtcTRGaThDMERRZk9CWlBLRW9EM0QtUWxoeFdsY3BXdkExMDBvZ2E3VDFlWHJXc1FoM1N2Q2x2N0Itbk5yNlA0V2dubWFlUXotY0VpVzlEem5wT2owa3hyd012RVJYNEwwN08xUDhfajlodUJ1ZkJwTFVfRDRYZGd3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-08T15:59:56.000Z"
-    },
-    {
-      "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZExCdjRUZTV3SXBlS3pmdE81QndXdmxLbGpXVDdKOEVVNVJfUF9xTDB2T3pWMlFDR3hsMi1TaGJaN1FUMXhWZkExbEd2Q19jdmNiLS0wR3RzSzg5MHNmRURCNVZpLVhsd0FQQjFwUjRRc0ZTbER0THlSY2tnYVU?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-09T04:32:00.000Z"
-    },
-    {
-      "title": "Middle East tensions drive oil over $100, Wall Street drops",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-09T02:27:00.000Z"
-    },
-    {
-      "title": "Gold lackluster ahead of inflation data as oil prices rise",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-08T02:28:00.000Z"
     }
   ]
 }
