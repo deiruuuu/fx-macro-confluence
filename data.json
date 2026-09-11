@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T17:05:03.306Z",
+  "updated": "2026-09-11T00:23:33.339Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7636.36,
-      "display": "7,636",
-      "change": -37.160000000000764,
-      "changePct": -0.484,
-      "date": "2026-09-09",
+      "value": 7591.7,
+      "display": "7,592",
+      "change": -44.659999999999854,
+      "changePct": -0.585,
+      "date": "2026-09-10",
       "spark": [
-        7316.15,
         7437.63,
         7489.72,
         7600.5,
@@ -82,7 +81,8 @@
         7747.71,
         7718.6,
         7673.52,
-        7636.36
+        7636.36,
+        7591.7
       ],
       "unit": "",
       "suffix": ""
@@ -133,17 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 91.48,
-      "display": "91.48",
-      "change": 4.450000000000003,
-      "changePct": 5.113,
-      "date": "2026-09-01",
+      "value": 97.26,
+      "display": "97.26",
+      "change": 3.0500000000000114,
+      "changePct": 3.237,
+      "date": "2026-09-09",
       "spark": [
-        87.66,
-        93.08,
-        91.74,
-        84.25,
-        80.91,
         86.08,
         85.15,
         86.16,
@@ -168,7 +163,12 @@
         84.81,
         84.57,
         87.03,
-        91.48
+        91.48,
+        92.15,
+        92.55,
+        92.69,
+        94.21,
+        97.26
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78303.59,
-      "display": "78,304",
-      "change": -245.32000000000698,
-      "changePct": -0.312,
-      "date": "2026-09-09",
+      "value": 76664.89,
+      "display": "76,665",
+      "change": -1638.699999999997,
+      "changePct": -2.093,
+      "date": "2026-09-10",
       "spark": [
-        63528.48,
         63402.49,
         63387.81,
         62968.43,
@@ -254,7 +253,8 @@
         80309.06,
         79067.23,
         78548.91,
-        78303.59
+        78303.59,
+        76664.89
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.39,
-      "display": "4.39",
-      "change": 0.019999999999999574,
-      "changePct": 0.458,
-      "date": "2026-09-08",
+      "value": 4.43,
+      "display": "4.43",
+      "change": 0.040000000000000036,
+      "changePct": 0.911,
+      "date": "2026-09-09",
       "spark": [
-        4.26,
         4.22,
         4.23,
         4.28,
@@ -1400,7 +1399,8 @@
         4.39,
         4.34,
         4.37,
-        4.39
+        4.39,
+        4.43
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.8,
-      "display": "4.80",
-      "change": 0.019999999999999574,
-      "changePct": 0.418,
-      "date": "2026-09-08",
+      "value": 4.83,
+      "display": "4.83",
+      "change": 0.03000000000000025,
+      "changePct": 0.625,
+      "date": "2026-09-09",
       "spark": [
-        4.61,
         4.67,
         4.68,
         4.75,
@@ -1443,7 +1442,8 @@
         4.79,
         4.77,
         4.78,
-        4.8
+        4.8,
+        4.83
       ],
       "unit": "",
       "suffix": ""
@@ -1451,22 +1451,28 @@
   },
   "news": [
     {
+      "title": "Fed, eyeing inflation data, may lean toward a hike, traders bet",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2l2aklZZV9FVlF3OFZCeDU5UzBIZXdXVkhTRDR3VVZsZV9seEJRT3dVa29MUFd4eTdlcHNnMnBfZFhQVUVqcnloVXJ5VFRkd3VhYlRMeVVCMS05NFlJSU00bXd1UmEtTjlYSHFIVHJzT1ZtTHlUVEFIQzlFaWFsNTQxeDl2dTdPR0pXTVZCTV8yOVNUeDJzOHhMQTdRRWtkakdjR0oxSG8?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-10T21:18:51.000Z"
+    },
+    {
       "title": "Lagarde comments at ECB press conference",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXpTVnllTXpGQU5QaWxJdnVicjV3MnV2VGVFU2IwXzJiWXBrdDdyc0F3a0NRVkl2ZUNxbWdjLXB0YU41QlRvcmFfUW5lSmhWNTJEX2M1Qjc3bVVfN3p5S1RZSFcyU2dRcTNPdU9GeVYwRl9kdHpYZHZ5aUFoY1dScGlpRUJYRGt5SzlOMQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-10T14:49:20.000Z"
     },
     {
-      "title": "Wall St slips after hotter-than-expected producer inflation data",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+      "title": "Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFpuTDFaWjFEOW82UlRWWm1NY0RjNkdBZS1EOWFvb21UbkxZUWxZN3ZwZEJ2R25wZC1ZVEF1WmkzNFVXN3VUNVdpSXk3RGUyTmNtRUh1VDFEMnFMNDN2ekpnSzdWTzFNUkh2ZUdMcngta1lzVm1jb1VNZnR6cjhVUEkzQi1kUzREY2FXbGd5eGtCWEJ3YzRGRFJXdF9BVm1MQVRCN2dPcDQ3aE42a1hZVUQxR1JRZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-10T16:17:34.000Z"
+      "publishedAt": "2026-09-10T15:54:41.000Z"
     },
     {
-      "title": "EXCLUSIVE: How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?oc=5",
+      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-10T06:37:27.000Z"
+      "publishedAt": "2026-09-10T22:55:15.000Z"
     },
     {
       "title": "ECB raises interest rates to fight off inflation jump",
@@ -1475,28 +1481,22 @@
       "publishedAt": "2026-09-10T15:13:37.000Z"
     },
     {
-      "title": "Gold falls over 1% as U.S. inflation data boosts Fed hike bets",
+      "title": "EXCLUSIVE: How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-10T06:05:00.000Z"
+    },
+    {
+      "title": "US producer prices increase as expected in August; but key details firmer",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSllzbWpfQ2xZcDA5eExQYUxKdVRwdEdUdFFpMzJPWW1ib29Ocm85Z3ZDaVFpMkZGQnpUQ1Z2Zy1pelQ5Tk5TY0lKSUJ5RlZiUDhoeU5jWHpRX3dZQzFqcWtfT3J2UTM3Q2doaTdRUHEtczI1TDVkOE5jN2V1b2h1S01fYktSLV9yTERENnpxeHVLdw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-10T17:13:00.000Z"
+    },
+    {
+      "title": "Gold falls over 1% as US inflation data boosts Fed hike bets",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU00zRjlwdjRLNzNsRDluVS1Rc0hCVmhNSTc0TThXMVUtMVgyYU1Mc3FVY1p4YlVIX0p2NzhYbEFCSkVUMEhHR2MtTlFRUHZlbXVGNkxINUVSc1FZNVB5S2hGOXdIUzMydEhHSllEcVVqbWM0VHlOajEzeHBQMlY4UW5nUnRNMm5NS1lvR3RYN2E5M1dIV3NMd3VuZDJOZDg2U0cxa1JR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-10T02:56:00.000Z"
-    },
-    {
-      "title": "Wall Street dips, oil continues climb ahead of US inflation data",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ydjJlYXlTVHhNV0k4Z3ZMb19VVFdUR2taM2lOVHhOUTN6enJSZVVhODdiSm04TnhTNGFJMDVOUjN4eVhsdGZtcFQ2RVloaFNFZzh4TkpvaUtfQTRFUXFkRmctMjFiRHFnWFE2VlBvQm4yZk5NMmdUZkNOdw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-10T02:06:00.000Z"
-    },
-    {
-      "title": "Nestle CEO says Middle East conflict driving inflation, higher supplier costs",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcEJYc1FjQUxNUWpRQlZwX1JhRzNyTTZvUUZwTXB1Zm9VZVBIOXphcnU5M0YtMTRIcWFfY05wZTB4Zmc4SGlhdjk1RGd5d0Y2aXhORHB1Q1BKM2hNbDJqdWNuSGZOc2JwQW9mVTBtZERGYnVERDRESnMwT1Y1NU83VEtWYUt4dWdNNXJpUnJKTUJ0Wjl3ZXV5SVU1SzZWdGtmOUZJX0JoVWpiYWp1T2NWUE1xVUh1QmJqQzAxdERteGFWY0VXeEZmbnBaVlVKWTM2UlRN?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-10T13:27:44.000Z"
-    },
-    {
-      "title": "European stocks tread water as ECB decision looms",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzVPR1RxVzdqb0FKVHRJTW1SSXpyME5FTzRoV2JJVUt0SFBqZDlwdWgxb0JQaDl0MGJkcWlVOU5Pa2hVTWF2cEtuQUctZ0ZDeGJYMkNWb3hsMEVFRF95cVBXOS1sR1p3YllPQ0lQT3I5bzV2MnpHMG4yVWdGSk5ldXVLcVFpdTZsU2F3YkJkNmtsWjhEWVM0NGpyUUFWOGtxNW9zejVaZE8?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-10T09:10:23.000Z"
     }
   ]
 }
