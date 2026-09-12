@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T17:05:23.442Z",
+  "updated": "2026-09-12T00:30:39.602Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7591.7,
-      "display": "7,592",
-      "change": -44.659999999999854,
-      "changePct": -0.585,
-      "date": "2026-09-10",
+      "value": 7656.98,
+      "display": "7,657",
+      "change": 65.27999999999975,
+      "changePct": 0.86,
+      "date": "2026-09-11",
       "spark": [
-        7437.63,
         7489.72,
         7600.5,
         7736.52,
@@ -82,7 +81,8 @@
         7718.6,
         7673.52,
         7636.36,
-        7591.7
+        7591.7,
+        7656.98
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 76664.89,
-      "display": "76,665",
-      "change": -1638.699999999997,
-      "changePct": -2.093,
-      "date": "2026-09-10",
+      "value": 77276.5,
+      "display": "77,277",
+      "change": 611.6100000000006,
+      "changePct": 0.798,
+      "date": "2026-09-11",
       "spark": [
-        63402.49,
         63387.81,
         62968.43,
         62999.01,
@@ -254,7 +253,8 @@
         79067.23,
         78548.91,
         78303.59,
-        76664.89
+        76664.89,
+        77276.5
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.43,
-      "display": "4.43",
-      "change": 0.040000000000000036,
-      "changePct": 0.911,
-      "date": "2026-09-09",
+      "value": 4.56,
+      "display": "4.56",
+      "change": 0.1299999999999999,
+      "changePct": 2.935,
+      "date": "2026-09-10",
       "spark": [
-        4.22,
         4.23,
         4.28,
         4.25,
@@ -1400,7 +1399,8 @@
         4.34,
         4.37,
         4.39,
-        4.43
+        4.43,
+        4.56
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.83,
-      "display": "4.83",
-      "change": 0.03000000000000025,
-      "changePct": 0.625,
-      "date": "2026-09-09",
+      "value": 4.95,
+      "display": "4.95",
+      "change": 0.1200000000000001,
+      "changePct": 2.484,
+      "date": "2026-09-10",
       "spark": [
-        4.67,
         4.68,
         4.75,
         4.7,
@@ -1443,7 +1442,8 @@
         4.77,
         4.78,
         4.8,
-        4.83
+        4.83,
+        4.95
       ],
       "unit": "",
       "suffix": ""
@@ -1457,43 +1457,43 @@
       "publishedAt": "2026-09-11T15:18:42.000Z"
     },
     {
-      "title": "VIEW Stocks, bonds rally after August inflation report",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-11T13:33:08.000Z"
-    },
-    {
-      "title": "US consumer inflation picks up in August",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-11T14:28:15.000Z"
-    },
-    {
       "title": "Oil tanker rates hit record highs following Iran, US shipping attacks",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-11T14:37:33.000Z"
     },
     {
+      "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-11T20:08:57.000Z"
+    },
+    {
+      "title": "VIEW Stocks, bonds rally after August inflation report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-11T13:33:08.000Z"
+    },
+    {
+      "title": "S&P 500 ends higher as strong inflation data cements rate-hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-11T23:19:28.000Z"
+    },
+    {
       "title": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-11T15:33:42.000Z"
+      "publishedAt": "2026-09-11T21:58:56.000Z"
     },
     {
-      "title": "Wall St bounces as oil cools, inflation risks keeps Fed in focus",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
+      "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVpPVm1GTGZXZ1NwRXpVRUdGdVBzdms1UFdvdVV1M3BvWjM1WG8wU0lFZkwzalJUaHNxQkhjS09SU1kwN2p0R2h1ZU50QzE4azQ3OWQyOUNmUmFSeXZzenVXMFpTQzRDc2tuLWVTRmRLUDBnSUo2dE02MnJoOHVPQ0V6N3IzUEJlbGY1aTZDMi1NeGZNTDdDWXpNbllTdm5VRUsxdDZLN1hYRmdNUmZncUlRcUphWER0?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-11T16:30:05.000Z"
+      "publishedAt": "2026-09-11T17:42:45.000Z"
     },
     {
-      "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHpxa1Z6T2xUUTFNS05nT2xPOVZIUWV3NGt1cm44OWZJVzZGZ2FqNXFyNG5IenQ5NFZHbXpqWThqaTZsR2JVZVIxOHJCVFRrMlFEVS11SXNfTVJVNWV0X19mc2FZeWFCZVJMby1PRHVPMVUwaGRFT29tUEdCblE5UGRR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-11T10:22:31.000Z"
-    },
-    {
-      "title": "Gold climbs on dip buying, Fed hike bets rise after US inflation data",
+      "title": "Gold rises on dip-buying even as Fed rate hike bets rise after US inflation data",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk9xQnh0dkJvU0VUbjhfa0E5ZHhmb21sU1k4RWktNC0tdERMUlFyb05jamhUa0p0dUEwejVJbHlUaWp6VnZuUEJrc0ZmYzBMM1RwaUp0SUdWWXBiU2pRVUF4ZlRsQk1fVmY2MUlTcTFFV3RjSnQzSE5UUHdKWHJYcV9YaUVmZ01PVnVUWHI0MzU4dnJja25CTmpxc3N4STVOb1E?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-11T02:36:00.000Z"
