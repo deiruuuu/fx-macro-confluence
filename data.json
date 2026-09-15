@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T00:49:11.477Z",
+  "updated": "2026-09-15T17:43:41.615Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2670.31,
-      "display": "2,670.31",
-      "change": 19.549999999999727,
-      "changePct": 0.738,
-      "date": "2026-09-11",
+      "value": 2593.49,
+      "display": "2,593.49",
+      "change": -76.82000000000016,
+      "changePct": -2.877,
+      "date": "2026-09-14",
       "spark": [
-        2545.53,
         2548.38,
         2562.36,
         2635.95,
@@ -125,7 +124,8 @@
         2667.82,
         2685.25,
         2650.76,
-        2670.31
+        2670.31,
+        2593.49
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.84,
-      "display": "15.84",
-      "change": -2,
-      "changePct": -11.211,
-      "date": "2026-09-11",
+      "value": 17.1,
+      "display": "17.10",
+      "change": 1.2600000000000016,
+      "changePct": 7.955,
+      "date": "2026-09-14",
       "spark": [
-        15.86,
         16.5,
         15.81,
         15.15,
@@ -211,7 +210,8 @@
         15.72,
         16.46,
         17.84,
-        15.84
+        15.84,
+        17.1
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.25",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "spark": [
         2.25,
         2.25,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.84,
-      "display": "15.84",
-      "change": -2,
-      "changePct": -11.211,
-      "date": "2026-09-11",
+      "value": 17.1,
+      "display": "17.10",
+      "change": 1.2600000000000016,
+      "changePct": 7.955,
+      "date": "2026-09-14",
       "spark": [
-        15.86,
         16.5,
         15.81,
         15.15,
@@ -1355,7 +1354,8 @@
         15.72,
         16.46,
         17.84,
-        15.84
+        15.84,
+        17.1
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Fed's table is set for a rate hike, a first under Warsh",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
+      "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFQ1MVJra3B6cl9vekF2dms4dko3bnJUQ0dMcGxrSEVqYkxhZWF4aFlnWUhrVllxUGdsZ09KUFdUakJuVlpMdFpfXy04UFpzd0o2aElUd2FDQzJaLWlxRW95Y1hQSmpnVGYzQmpYRVM1ZDQtV0FScklVOHBlQXJfeHdMa1B2MXhJb0trem4weEl4aF9yREpJRGt5Ukh4ZzBwc3A2TV9sYU1GazI5OFBtdQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T18:25:51.000Z"
+      "publishedAt": "2026-09-15T07:41:56.000Z"
     },
     {
-      "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
+      "title": "Gold edges down as oil-driven inflation fears lift rate-hike bets",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtaVGZLb1VLWXI1QlhvSGNHeThxbkxfa3NIdk1SZFA3LWZta2JmdnBUTEtKV0dUSGg4OGVQSHYyV0w5RGY1QXEwaG02OVVoVlJmRG9xc3VwQ2RZSFh2V25neWVqS01jVm9pTFg0U29TcXdueHBXbnRuTmRuOFA0TzlyNEppVUJldE9KVFE4c3FlS04zRXRsaXNCQWhqQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T12:32:28.000Z"
+      "publishedAt": "2026-09-15T05:29:00.000Z"
     },
     {
-      "title": "India inflation rises to 4.82% in August, strengthening case for rate hike",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjkzaUlTSVF5ekc4elYyR2p6NXNFYXJSVzFGdkhoTWxNTmlVRnBpV012SlRiVG5wUlY3aTRZUmpkQ1I0cmJvYWtlVHRZTnlwaUVvVVNMVk5YWFU2dVY3VnlDMmNuWFM3RTFwdzc1dkVBUDhtUGx1eE9YVGhRaFo3T1ZtNEVLMkVyUW5YSDhGNEZfVXdX?oc=5",
+      "title": "EXCLUSIVE: Vietnam considering first sovereign dollar bond sale since 2014, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHRBeVl4dlUxcmFXUDhOVC1FOURnamdvdGxyd3pIXzY4TWVuSnVqMkxwa092TlF2TFBmd192Z09IRmE2M1RLbVgxTk9JYTFucUxZUm5KWjZEV3NoeEFyb0ZSYlRQSXhYYnc0a0l1cDNadlBMVXpueWQ2THY4NjJKWktvelZMNWFKeFNpcVhGNkZJdzExUENJMU9zclRpNWE5dVR4UFJNblhKUDhvOHNicU1DUGlTeUg0VHdxa0VPb0RJQ1JwSE9JSzVR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T12:05:37.000Z"
+      "publishedAt": "2026-09-15T04:30:00.000Z"
     },
     {
-      "title": "Bitcoin's late summer rally set to face off against the Fed, Congress",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
+      "title": "Dollar ticks up as oil prices climb, Fed rate hike chances firm",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T15:45:30.000Z"
+      "publishedAt": "2026-09-15T11:51:25.000Z"
     },
     {
-      "title": "Biggest risk for sinking bond market is Fed standing pat",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZhcnB0a2xLd1ZoRXVlOGYtZ2prLUR4OWZLVXZfSkZKNFdhUGZ2d1ZXd2pGeUNSZE9sNkx1RTN3SlpzejVKVkhIVnFzbUNHSUd0T2NNY29nMENnRWxCUjBOUjJydXFXcWx4ZW10TkZzMFpScVhZbHdkUnU1bUM3bGFfZ3RfZ1FpcGpHZF9pczdNYUZ1QjZoa3dRR0Z2M3hKQlZhSnU0LU0?oc=5",
+      "title": "Global bond yields hit fresh highs, raising stakes for big borrowers",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T10:54:16.000Z"
+      "publishedAt": "2026-09-15T15:52:59.000Z"
     },
     {
-      "title": "Gold falls to over one-month low as oil rally, inflation data boost rate-hike bets",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmx1T0lGQjE3MEJmVkdNRXl5eXpxRzNrQk0zQUJzdGNqcXhEWTA3TW5iZVFIVDBuTVZ3ZU5EWHVRektNVVlXUFpfV29tNmlPcHZtVXQzOF9Oa055ZEloY3p6UEpvMTAtNWtHekV1MTVUbzNnZVhqU25aZjQ2aW1UZDB4aktQdjI0MGlZRnZueUN4eGRJWEdreWJXdF9fMTNhTVNOVTdKQ1JKQQ?oc=5",
+      "title": "Yen rally faces moment of truth as BOJ risks disappointing markets",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHRDcVNPazNUNW5RQTRlNnVrcjRMekZJb3VBbWJFcFdJcDlrcFNtNFFPaV9VS0s0a3Y3YnpNXzczU0hMTGN6ZkNYU2VxZEVwSUtmZjI5dEw5dUNqSU1GMGZXaEJfbnB6LVEtT242MjVCUDVaaHhOcUhzT2JheHZIckRXclZzaUVBLUhqRW1zN21tY3Y4Z0Nua2FYdDlFWl92SGVQU3NPWElmT0pkZjNJSEl4V2VEdw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T03:48:00.000Z"
+      "publishedAt": "2026-09-15T06:43:17.000Z"
     },
     {
-      "title": "Global banks coalesce around Fed hike call after inflation surprises",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnlqS1c0ZUI3VGExTWl4c3VCbXVLUi1NMFZZNUNaMmdLYzR2RnRDZjFPbGhPVG83M2ZBSms4YTc0b04wMUtNTG9GWmJnM29BU1ZzOWpHTjVxWXhjNHd6TmhndFV0VWJEc2ZkVm45OWtTMEktQ2NBMEdsd3J0XzNTWE1SNXVUQ3hKWFQ1WUJKLVc1bjRVWlg5NnFyaw?oc=5",
+      "title": "Indian rupee, bonds eye Fed decision, rate outlook",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVlScl92S19PTzRxcUZnRjVUcTU2dUJ5a1FZQjY1dVlhRkt0Uk1MOXJjU0ZvblpLX2tqemFDMGhIbEZkMnRHMGtzanNzdjFTSF9CaE9IQkNsb1BXQ0VuT01oOXBoOEtHNmJZamhXb0xnaDBhMW5CaS1lUVU1NXd6YjFaczdpNDRpZmxqUlhiMXhpWm5VbmR3cU9XUUs?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T02:49:00.000Z"
+      "publishedAt": "2026-09-15T01:31:00.000Z"
     },
     {
-      "title": "BIS says global market AI momentum showing signs of vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iVGdCTGR3X3hDMmJFazVFVkhGT1hxalMyYVJ6VUh4ODB4ZFFZdl9qcWtldzZGeGNGcXk0RGo3aTd5a3MwbEFSaG55elRyQlVoWG1RZW12dkJRVi1BM2U3TVRzWGFXakpJNzNoSTc1QTdxZmpxT3R4ODN2SVFDZw?oc=5",
+      "title": "Global shares fall as Treasury yields scale fresh peaks",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-14T11:05:21.000Z"
+      "publishedAt": "2026-09-15T01:44:00.000Z"
     }
   ]
 }
