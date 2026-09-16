@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T17:43:41.615Z",
+  "updated": "2026-09-16T00:41:27.741Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7619.98,
-      "display": "7,620",
-      "change": -37,
-      "changePct": -0.483,
-      "date": "2026-09-14",
+      "value": 7585.73,
+      "display": "7,586",
+      "change": -34.25,
+      "changePct": -0.449,
+      "date": "2026-09-15",
       "spark": [
-        7600.5,
         7736.52,
         7723.55,
         7709.96,
@@ -82,7 +81,8 @@
         7636.36,
         7591.7,
         7656.98,
-        7619.98
+        7619.98,
+        7585.73
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78200.38,
-      "display": "78,200",
-      "change": 1395.4600000000064,
-      "changePct": 1.817,
-      "date": "2026-09-14",
+      "value": 75656.09,
+      "display": "75,656",
+      "change": -2544.290000000008,
+      "changePct": -3.254,
+      "date": "2026-09-15",
       "spark": [
-        62859.47,
         64423.92,
         64625.4,
         69487.6,
@@ -254,7 +253,8 @@
         77276.5,
         77270.73,
         76804.92,
-        78200.38
+        78200.38,
+        75656.09
       ],
       "unit": "",
       "suffix": ""
@@ -1234,14 +1234,12 @@
     "boj_rate": {
       "label": "BOJ RATE",
       "series": "IRSTCI01JPM156N",
-      "value": 0.841,
-      "display": "0.84",
-      "change": 0.11399999999999999,
-      "changePct": 15.681,
-      "date": "2026-06-01",
+      "value": 0.977,
+      "display": "0.98",
+      "change": -0.0010000000000000009,
+      "changePct": -0.102,
+      "date": "2026-08-01",
       "spark": [
-        -0.014,
-        -0.006,
         0.022,
         0.077,
         0.077,
@@ -1269,7 +1267,9 @@
         0.728,
         0.727,
         0.727,
-        0.841
+        0.841,
+        0.978,
+        0.977
       ],
       "unit": "",
       "suffix": "%"
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.63,
-      "display": "4.63",
-      "change": 0.07000000000000028,
-      "changePct": 1.535,
-      "date": "2026-09-11",
+      "value": 4.65,
+      "display": "4.65",
+      "change": 0.020000000000000462,
+      "changePct": 0.432,
+      "date": "2026-09-14",
       "spark": [
-        4.28,
         4.25,
         4.2,
         4.18,
@@ -1400,7 +1399,8 @@
         4.39,
         4.43,
         4.56,
-        4.63
+        4.63,
+        4.65
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.96,
-      "display": "4.96",
+      "value": 4.97,
+      "display": "4.97",
       "change": 0.009999999999999787,
       "changePct": 0.202,
-      "date": "2026-09-11",
+      "date": "2026-09-14",
       "spark": [
-        4.75,
         4.7,
         4.63,
         4.63,
@@ -1443,7 +1442,8 @@
         4.8,
         4.83,
         4.95,
-        4.96
+        4.96,
+        4.97
       ],
       "unit": "",
       "suffix": ""
@@ -1463,40 +1463,40 @@
       "publishedAt": "2026-09-15T05:29:00.000Z"
     },
     {
-      "title": "EXCLUSIVE: Vietnam considering first sovereign dollar bond sale since 2014, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHRBeVl4dlUxcmFXUDhOVC1FOURnamdvdGxyd3pIXzY4TWVuSnVqMkxwa092TlF2TFBmd192Z09IRmE2M1RLbVgxTk9JYTFucUxZUm5KWjZEV3NoeEFyb0ZSYlRQSXhYYnc0a0l1cDNadlBMVXpueWQ2THY4NjJKWktvelZMNWFKeFNpcVhGNkZJdzExUENJMU9zclRpNWE5dVR4UFJNblhKUDhvOHNicU1DUGlTeUg0VHdxa0VPb0RJQ1JwSE9JSzVR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-15T04:30:00.000Z"
-    },
-    {
-      "title": "Dollar ticks up as oil prices climb, Fed rate hike chances firm",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-15T11:51:25.000Z"
-    },
-    {
       "title": "Global bond yields hit fresh highs, raising stakes for big borrowers",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-15T15:52:59.000Z"
     },
     {
+      "title": "EXCLUSIVE: Vietnam considering first sovereign dollar bond sale since 2014, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHRBeVl4dlUxcmFXUDhOVC1FOURnamdvdGxyd3pIXzY4TWVuSnVqMkxwa092TlF2TFBmd192Z09IRmE2M1RLbVgxTk9JYTFucUxZUm5KWjZEV3NoeEFyb0ZSYlRQSXhYYnc0a0l1cDNadlBMVXpueWQ2THY4NjJKWktvelZMNWFKeFNpcVhGNkZJdzExUENJMU9zclRpNWE5dVR4UFJNblhKUDhvOHNicU1DUGlTeUg0VHdxa0VPb0RJQ1JwSE9JSzVR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-15T04:30:00.000Z"
+    },
+    {
+      "title": "Dollar higher as oil lifts yields and Fed hike looms",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-15T01:58:00.000Z"
+    },
+    {
       "title": "Yen rally faces moment of truth as BOJ risks disappointing markets",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHRDcVNPazNUNW5RQTRlNnVrcjRMekZJb3VBbWJFcFdJcDlrcFNtNFFPaV9VS0s0a3Y3YnpNXzczU0hMTGN6ZkNYU2VxZEVwSUtmZjI5dEw5dUNqSU1GMGZXaEJfbnB6LVEtT242MjVCUDVaaHhOcUhzT2JheHZIckRXclZzaUVBLUhqRW1zN21tY3Y4Z0Nua2FYdDlFWl92SGVQU3NPWElmT0pkZjNJSEl4V2VEdw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-15T06:43:17.000Z"
+      "publishedAt": "2026-09-15T06:03:00.000Z"
+    },
+    {
+      "title": "Key candidates to replace ECB President Lagarde",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTlRSjM2NFVuQVh4Mk9BMDkycnZXTEgwaHA1cFlWbG9fUS1lUW1MYkpHRWd4dnVZQVRsSXpLNlN5U2puOG9JTVRtMnRXbm82WTBEU2VMRkpyQmI5VDlTMlk5TDhpRVZKanBLVjhiWTU0ME5TWkJTRGJLN3BScmZMV2FEcjN4cFhydUIwRkNobVg4VmhSbVIwd0w2ems1dw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-15T16:32:14.000Z"
     },
     {
       "title": "Indian rupee, bonds eye Fed decision, rate outlook",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVlScl92S19PTzRxcUZnRjVUcTU2dUJ5a1FZQjY1dVlhRkt0Uk1MOXJjU0ZvblpLX2tqemFDMGhIbEZkMnRHMGtzanNzdjFTSF9CaE9IQkNsb1BXQ0VuT01oOXBoOEtHNmJZamhXb0xnaDBhMW5CaS1lUVU1NXd6YjFaczdpNDRpZmxqUlhiMXhpWm5VbmR3cU9XUUs?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-15T01:31:00.000Z"
-    },
-    {
-      "title": "Global shares fall as Treasury yields scale fresh peaks",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-15T01:44:00.000Z"
     }
   ]
 }
