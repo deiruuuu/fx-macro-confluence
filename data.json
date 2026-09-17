@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:41:16.941Z",
+  "updated": "2026-09-17T00:48:58.738Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7585.73,
-      "display": "7,586",
-      "change": -34.25,
-      "changePct": -0.449,
-      "date": "2026-09-15",
+      "value": 7551.81,
+      "display": "7,552",
+      "change": -33.91999999999916,
+      "changePct": -0.447,
+      "date": "2026-09-16",
       "spark": [
-        7736.52,
         7723.55,
         7709.96,
         7757.64,
@@ -82,7 +81,8 @@
         7591.7,
         7656.98,
         7619.98,
-        7585.73
+        7585.73,
+        7551.81
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 75656.09,
-      "display": "75,656",
-      "change": -2544.290000000008,
-      "changePct": -3.254,
-      "date": "2026-09-15",
+      "value": 76208.64,
+      "display": "76,209",
+      "change": 552.5500000000029,
+      "changePct": 0.73,
+      "date": "2026-09-16",
       "spark": [
-        64423.92,
         64625.4,
         69487.6,
         73086.97,
@@ -254,7 +253,8 @@
         77270.73,
         76804.92,
         78200.38,
-        75656.09
+        75656.09,
+        76208.64
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.65,
-      "display": "4.65",
-      "change": 0.020000000000000462,
-      "changePct": 0.432,
-      "date": "2026-09-14",
+      "value": 4.67,
+      "display": "4.67",
+      "change": 0.019999999999999574,
+      "changePct": 0.43,
+      "date": "2026-09-15",
       "spark": [
-        4.25,
         4.2,
         4.18,
         4.25,
@@ -1400,7 +1399,8 @@
         4.43,
         4.56,
         4.63,
-        4.65
+        4.65,
+        4.67
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.97,
-      "display": "4.97",
-      "change": 0.009999999999999787,
-      "changePct": 0.202,
-      "date": "2026-09-14",
+      "value": 5,
+      "display": "5.00",
+      "change": 0.03000000000000025,
+      "changePct": 0.604,
+      "date": "2026-09-15",
       "spark": [
-        4.7,
         4.63,
         4.63,
         4.69,
@@ -1443,7 +1442,8 @@
         4.83,
         4.95,
         4.96,
-        4.97
+        4.97,
+        5
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Warsh's words may matter more than the anticipated Fed rate hike",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
+      "title": "Trump lashes out at Fed after Warsh backs rate hike",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-16T13:24:20.000Z"
+      "publishedAt": "2026-09-16T22:55:01.000Z"
     },
     {
-      "title": "Robust US retail sales underscore economy's resilience; inflation pressures building",
+      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-16T20:10:10.000Z"
+    },
+    {
+      "title": "Fed policymakers forecast one more rate hike this year",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQm5zRF9jbzFRTVF1RkwxbTBpNGJmeHhRR3RNZU9DMHk5c1pndDJveEhwd2RrZHhRMXBFMGV3cHR4OXlJZUJBdWtjRXhFVkUyYUpRd0F5QWs2Y1NtTllTQzJGdkM4UFBVSzRfa01FQjFuS1Ixc2E0NGJ6Q3Z3a2owYUowN21RM0QwWDBuQzJsZW13bVJzTkJqNGE5aklZWWwzbHBERGNBdWUxZE1BT1M4?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-16T23:04:13.000Z"
+    },
+    {
+      "title": "What do higher rates mean for borrowers and savers?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2o3aURpZERkdnhlVFVIUE0xdHlycUNDaXFJV2pib1ZRa3FabTY3QUxOUi1yY1RFYmtLTEZxcXN4ZVV3SUhNX1F4U2lRanpuUnhJVEVzVXBmdlF0Q1FUNkd6WFI0WEdIMXdQdTdVUFZDTFhFTERUeTJ5NG5PVE9Oa0NFMWZ4WmxKeVVuQ3VSRXlpTmxTZURJNVhENW5jYkU4X0hPYlJB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-16T18:55:56.000Z"
+    },
+    {
+      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-16T16:18:10.000Z"
+      "publishedAt": "2026-09-16T18:40:37.000Z"
     },
     {
-      "title": "Nasdaq, S&P 500 climb as oil retreat tempers pre-Fed jitters",
+      "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-16T22:38:52.000Z"
+    },
+    {
+      "title": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-16T16:11:02.000Z"
+      "publishedAt": "2026-09-16T22:55:29.000Z"
     },
     {
       "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHQzSC11Z3EtOUFVMG9sQnYwOHhnZkJGM2VoVWtFNWp1Y0ZlM2lIMEhoSnkzaExSQlZ4SzVFRkk0aHR3S0NUWC1ZdWQ0MXdJNmxoYWdxdGJJcmtDWENDa0JvNE9fQjFCTFhqTVZZR0NuQmNDNE03dHVEcUVmZDdpaUhXUTFWdzdmeXJUVkxGdThDaG8wNGRWSXl3V09DZVNDN1BzbllrN0tSZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-16T15:19:50.000Z"
-    },
-    {
-      "title": "Gold gains over 1% as oil, yields slip ahead of Fed rate decision",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVwMWpILUF1dnhqajU0di1FMVRLWGNScTJKdTR2NUl2VWZSUXpWNF9UQ3h2M0ZuMUYxZzJab09IcUMwN0RQSlRtcC1HSGdQM2poNXptR1BCeklERXdjcmE5N2tzNmdHczY1SkdnSXE0Q3dJNV9TYkNjVDdNUFZjLUhDMkRWcHlsNVF5V19sS1MwX3lnNG13?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-16T02:07:00.000Z"
-    },
-    {
-      "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2gzTmlOM3dwbmZReUZFbk5zM09VcUc2Vk1URnFMeDI4QXVFc1Vtb0RBUnNQaU9GbGlMc2pPcklWSVk2ME41M3NCV1pTZ0stbVpBS3ZZdnNQWEIyMlA4bUZMU2k2WGFrazFVVUF2RHg4T3J2Rk0wbHJkVldNMmpJUDhEbG9hUG0wZl9fNDFjdHJocTc3RUlRZWhhWkZndEFiTmFiTTI3LWV6UjJiNEFHWmpXWGNSTy1r?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-16T02:31:00.000Z"
-    },
-    {
-      "title": "Dollar holds near two-week high ahead of Fed decision",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWFHQ1hoSVRaSzc4anZCS1Rpekx5UTA2d2d2VmRfeXRGaWpGS2tTNi1YaDBRRlhKZmNjcldfdVhOVU9sRG9yMlg4TVB5SkhzTHIzaGFLZFVRWlkwOFg0QVROVnVIcGlCMkM2YVNTUlc4WU9sMkhnSF9mUVd3S0lUS210by1uSWlaUE9iRjQ3ZkVQMDhOWmhN?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-16T14:52:07.000Z"
-    },
-    {
-      "title": "Stocks gain as yields retreat ahead of Fed rate decision",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-16T01:23:00.000Z"
+      "publishedAt": "2026-09-16T18:23:33.000Z"
     }
   ]
 }
