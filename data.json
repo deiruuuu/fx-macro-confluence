@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T17:42:04.132Z",
+  "updated": "2026-09-18T00:40:23.144Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7551.81,
-      "display": "7,552",
-      "change": -33.91999999999916,
-      "changePct": -0.447,
-      "date": "2026-09-16",
+      "value": 7637.76,
+      "display": "7,638",
+      "change": 85.94999999999982,
+      "changePct": 1.138,
+      "date": "2026-09-17",
       "spark": [
-        7723.55,
         7709.96,
         7757.64,
         7753.11,
@@ -82,7 +81,8 @@
         7656.98,
         7619.98,
         7585.73,
-        7551.81
+        7551.81,
+        7637.76
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 76208.64,
-      "display": "76,209",
-      "change": 552.5500000000029,
-      "changePct": 0.73,
-      "date": "2026-09-16",
+      "value": 76366.4,
+      "display": "76,366",
+      "change": 157.75999999999476,
+      "changePct": 0.207,
+      "date": "2026-09-17",
       "spark": [
-        64625.4,
         69487.6,
         73086.97,
         78126.63,
@@ -254,7 +253,8 @@
         76804.92,
         78200.38,
         75656.09,
-        76208.64
+        76208.64,
+        76366.4
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.67,
-      "display": "4.67",
-      "change": 0.019999999999999574,
-      "changePct": 0.43,
-      "date": "2026-09-15",
+      "value": 4.74,
+      "display": "4.74",
+      "change": 0.07000000000000028,
+      "changePct": 1.499,
+      "date": "2026-09-16",
       "spark": [
-        4.2,
         4.18,
         4.25,
         4.19,
@@ -1400,7 +1399,8 @@
         4.56,
         4.63,
         4.65,
-        4.67
+        4.67,
+        4.74
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5,
-      "display": "5.00",
-      "change": 0.03000000000000025,
-      "changePct": 0.604,
-      "date": "2026-09-15",
+      "value": 5.01,
+      "display": "5.01",
+      "change": 0.009999999999999787,
+      "changePct": 0.2,
+      "date": "2026-09-16",
       "spark": [
-        4.63,
         4.63,
         4.69,
         4.65,
@@ -1443,7 +1442,8 @@
         4.95,
         4.96,
         4.97,
-        5
+        5,
+        5.01
       ],
       "unit": "",
       "suffix": ""
@@ -1454,13 +1454,25 @@
       "title": "Rising oil, rates and yields brew up stagflation cocktail for markets",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmhlTzlKbEFSMGdBRGhpNGxzWDVGZzFsWHR5cXZXLVZwTjRZX0xtVjN4UW1LU3BVNW4wSGlod0VLSEhBbWRJNS0za2NIWWkxVlJqSzBsVU1rWHlIcXNUVmRDemNnbFBrV2J3eEhRSjM4NG9xaHl2ZXR0ZzAySFpOT0tFeWxnZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-17T16:59:07.000Z"
+      "publishedAt": "2026-09-17T23:30:06.000Z"
     },
     {
-      "title": "Wall St rises as oil slide offers respite after Fed rate hike",
+      "title": "Turkey steps in to support markets after fund liquidity crunch sparks selloff",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-17T15:25:44.000Z"
+    },
+    {
+      "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-17T16:29:04.000Z"
+    },
+    {
+      "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-17T16:12:50.000Z"
+      "publishedAt": "2026-09-17T22:43:46.000Z"
     },
     {
       "title": "Fed builds credibility, but hawkish turn leaves investors edgy",
@@ -1469,34 +1481,22 @@
       "publishedAt": "2026-09-17T05:02:00.000Z"
     },
     {
+      "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZORXFNbWloZzlOZkdRWQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-17T02:05:00.000Z"
+    },
+    {
       "title": "Gold gains over 2% on weaker dollar, easing oil prices",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-17T02:27:00.000Z"
     },
     {
-      "title": "Shares climb, bonds hold ground and short-term yields edge up after Fed hikes, BoE stays on",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZORXFNbWloZzlOZkdRWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-17T02:05:00.000Z"
-    },
-    {
       "title": "Goldman's October hike call underscores renewed Fed tightening risks",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-17T01:26:00.000Z"
-    },
-    {
-      "title": "Dollar eases after Fed-driven jump as Treasury yields and oil prices retreat",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-17T02:08:00.000Z"
-    },
-    {
-      "title": "Indian shares muted as Fed, oil and IPO rush dent risk appetite",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkdJa0oyTlF5UEN1Z1F0ZUhhN1dfOHpyZmwwUFJVUnNyZUYyT0xiUDNaRmNGNUViX0UxZ3NralBWd1dHd0VZeFlDeTBoYXFMb1k4eWZvNU16c0M4Q20xM0VDUWYzbFZVWjlFTUF5b0h4VFptTUNETC05OVdWM0lHSE9La2kxUUozMFFnUEYxN1lXR01sZEdpcXR1cHlGYzcyUWpaVHpSS0NhVHFTM0o1clhKcVMtdkM4VTYzY0RINA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-17T02:32:00.000Z"
+      "publishedAt": "2026-09-17T23:08:14.000Z"
     }
   ]
 }
