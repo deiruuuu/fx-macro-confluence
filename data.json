@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:09:05.214Z",
+  "updated": "2026-09-19T00:30:38.688Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 76366.4,
-      "display": "76,366",
-      "change": 157.75999999999476,
-      "changePct": 0.207,
-      "date": "2026-09-17",
+      "value": 80844,
+      "display": "80,844",
+      "change": 4477.600000000006,
+      "changePct": 5.863,
+      "date": "2026-09-18",
       "spark": [
-        69487.6,
         73086.97,
         78126.63,
         77117.73,
@@ -254,7 +253,8 @@
         78200.38,
         75656.09,
         76208.64,
-        76366.4
+        76366.4,
+        80844
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.74,
-      "display": "4.74",
-      "change": 0.07000000000000028,
-      "changePct": 1.499,
-      "date": "2026-09-16",
+      "value": 4.67,
+      "display": "4.67",
+      "change": -0.07000000000000028,
+      "changePct": -1.477,
+      "date": "2026-09-17",
       "spark": [
-        4.18,
         4.25,
         4.19,
         4.25,
@@ -1400,7 +1399,8 @@
         4.63,
         4.65,
         4.67,
-        4.74
+        4.74,
+        4.67
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.01,
-      "display": "5.01",
-      "change": 0.009999999999999787,
-      "changePct": 0.2,
-      "date": "2026-09-16",
+      "value": 4.94,
+      "display": "4.94",
+      "change": -0.0699999999999994,
+      "changePct": -1.397,
+      "date": "2026-09-17",
       "spark": [
-        4.63,
         4.69,
         4.65,
         4.72,
@@ -1443,7 +1442,8 @@
         4.96,
         4.97,
         5,
-        5.01
+        5.01,
+        4.94
       ],
       "unit": "",
       "suffix": ""
@@ -1455,12 +1455,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDdHMkRvSFM5SktjY0E1SGZhVk1nMDc3Zm41eTdvT3MxVjRkRVRVc2YtRGV3OGNlVE0yei1rMUs2UGRwOTVtVllQTVlDdXp0akY1cGJfby1XR3lLQnpYRW53Q0NoTWc5UUlySEtJSGhCRlBtZVhERnZudlN1YTBScUZZdmdJSy04UkxvVVozWmFDUlJWUFlWVkIwZ3FkM1k?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-18T05:31:00.000Z"
-    },
-    {
-      "title": "Investors react to BOJ raising interest rates to 31-year high",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzRGSGpsQnAxamJQZ3FIQ3liMTVXRjJQU0ZPTi16VmhpaXBpWTRldlR1U29id1BnR3ZjLU1HS2IzVFpnd0dJVjFXcVphc0FmQ1J4U3lLSlVmdHJOZ19wdElsVGZWa05XU1lfT1U5RndzOElxVDM2N1lkWnhfaXN5MUZXSGI3MV9tWFJnUWNuYmZNTXpKeWtxanJRcXFsWXZzOHU1Qm51b2dMcThMV3lzaDBmclZWdw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-18T03:23:00.000Z"
     },
     {
       "title": "BOJ raises interest rates to 31-year high in widely expected move",
@@ -1475,22 +1469,28 @@
       "publishedAt": "2026-09-18T01:39:00.000Z"
     },
     {
-      "title": "Stocks and bonds dip as central banks jack up rates to tame inflation",
+      "title": "What commodity markets can expect from the Trump-Xi summit",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-18T02:55:00.000Z"
+    },
+    {
+      "title": "Global shares edge higher as central banks double down on inflation fight",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-18T01:32:00.000Z"
     },
     {
-      "title": "Dollar jumps against yen as BOJ dissent clouds rate-hike outlook",
+      "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-18T00:59:00.000Z"
     },
     {
-      "title": "What commodity markets can expect from the Trump-Xi summit",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
+      "title": "US equity funds post fourth weekly outflow on inflation worries, rate concerns",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczctZHg5MWQtVFk2X193WFFwT0g5UkZQYUw5TVpQR1JRZ1RnU2UtRTdyMGQwVTR0ZUtGbkU3WGR4YTFJMXUyM0xGX3piSnBtWjlsT1Bra2xIdVhhMzZvbU5PUEdjX0NLN0JTaVpYQUhnT3hEbUllSmh5dGVvaDR1ekFFZXdaU1p0cVFaajUtYVYtaUlwWHNudFlZRk1rLVJIbnNrQUNqWVVlLURtUDZMTWVkNnRJdG1LcExR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T02:55:00.000Z"
+      "publishedAt": "2026-09-18T11:17:43.000Z"
     },
     {
       "title": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
