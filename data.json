@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T00:30:38.688Z",
+  "updated": "2026-09-21T18:51:56.177Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7637.76,
-      "display": "7,638",
-      "change": 85.94999999999982,
-      "changePct": 1.138,
-      "date": "2026-09-17",
+      "value": 7650.5,
+      "display": "7,651",
+      "change": 12.739999999999782,
+      "changePct": 0.167,
+      "date": "2026-09-18",
       "spark": [
-        7709.96,
         7757.64,
         7753.11,
         7728.2,
@@ -82,7 +81,8 @@
         7619.98,
         7585.73,
         7551.81,
-        7637.76
+        7637.76,
+        7650.5
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2629.28,
-      "display": "2,629.28",
-      "change": 37.66000000000031,
-      "changePct": 1.453,
-      "date": "2026-09-17",
+      "value": 2648.08,
+      "display": "2,648.08",
+      "change": 18.799999999999727,
+      "changePct": 0.715,
+      "date": "2026-09-18",
       "spark": [
-        2641.25,
         2671.27,
         2678.71,
         2681.37,
@@ -125,7 +124,8 @@
         2593.49,
         2601.28,
         2591.62,
-        2629.28
+        2629.28,
+        2648.08
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.44,
-      "display": "15.44",
-      "change": -2.2700000000000014,
-      "changePct": -12.818,
-      "date": "2026-09-17",
+      "value": 14.81,
+      "display": "14.81",
+      "change": -0.629999999999999,
+      "changePct": -4.08,
+      "date": "2026-09-18",
       "spark": [
-        14.9,
         15.46,
         15.28,
         14.55,
@@ -211,7 +210,8 @@
         17.1,
         17.2,
         17.71,
-        15.44
+        15.44,
+        14.81
       ],
       "unit": "",
       "suffix": ""
@@ -219,14 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 80844,
-      "display": "80,844",
-      "change": 4477.600000000006,
-      "changePct": 5.863,
-      "date": "2026-09-18",
+      "value": 81253.37,
+      "display": "81,253",
+      "change": 67.36999999999534,
+      "changePct": 0.083,
+      "date": "2026-09-20",
       "spark": [
-        73086.97,
-        78126.63,
         77117.73,
         77637.69,
         78981.39,
@@ -254,7 +252,9 @@
         75656.09,
         76208.64,
         76366.4,
-        80844
+        80844,
+        81186,
+        81253.37
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "spark": [
         2.25,
         2.25,
@@ -1221,9 +1221,9 @@
         2.25,
         2.25,
         2.25,
-        2.25,
-        2.25,
-        2.25,
+        2.5,
+        2.5,
+        2.5,
         2.5,
         2.5,
         2.5
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.44,
-      "display": "15.44",
-      "change": -2.2700000000000014,
-      "changePct": -12.818,
-      "date": "2026-09-17",
+      "value": 14.81,
+      "display": "14.81",
+      "change": -0.629999999999999,
+      "changePct": -4.08,
+      "date": "2026-09-18",
       "spark": [
-        14.9,
         15.46,
         15.28,
         14.55,
@@ -1355,7 +1354,8 @@
         17.1,
         17.2,
         17.71,
-        15.44
+        15.44,
+        14.81
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDdHMkRvSFM5SktjY0E1SGZhVk1nMDc3Zm41eTdvT3MxVjRkRVRVc2YtRGV3OGNlVE0yei1rMUs2UGRwOTVtVllQTVlDdXp0akY1cGJfby1XR3lLQnpYRW53Q0NoTWc5UUlySEtJSGhCRlBtZVhERnZudlN1YTBScUZZdmdJSy04UkxvVVozWmFDUlJWUFlWVkIwZ3FkM1k?oc=5",
+      "title": "Gold falls on rising odds of Fed rate hike, stronger dollar",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T05:31:00.000Z"
+      "publishedAt": "2026-09-21T16:11:25.000Z"
     },
     {
-      "title": "BOJ raises interest rates to 31-year high in widely expected move",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5",
+      "title": "Fed's Goolsbee says strong demand may be adding to US inflation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T03:01:00.000Z"
+      "publishedAt": "2026-09-21T14:14:26.000Z"
     },
     {
-      "title": "Australia's central bank chief warns inflation risks materialising",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHhuZnFhVHljSmNHN3c4YkhrUlBQNDlucUZ6a2R5UEJaZTJYU1dWTDFyZGxzVGhjZDVlektoVFpoOXZSVjRSaTRmYjRCbzJyZDlGYW1yenJBTEMtdndaMGRQcXJhRU1qeEU4X09Wbk9BSzlqWWIxWi1SMDN1VzY0ZGkwd0RTQTM0QlBxOHNUcG5ZWUVjd1U0UDdQR0JlOWJtclZHRmxYcEhRYkFVR3ZlU24tNFV3LXpGNWVCZw?oc=5",
+      "title": "ECB opens blockchain link to financial markets",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUplN3d1UkJIeE40bnNjTHZjNk5qcThPM3JXSW8wNU9QSnhWLXRGTFpsZnVvV1dpZ0h5WFA2Qlk1MndSLXExVlBDeHN2eUxIV0szTFN0bUlGM3FOa09pek92S1haR2lRRHRYd0NJQXRlUXhLQ3NnTWJ2Tks1TEhyaGhvSEU4UVVkOXJmZ3pnNUhvR1FFVnBvSmRkcVc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T01:39:00.000Z"
+      "publishedAt": "2026-09-21T10:26:51.000Z"
     },
     {
-      "title": "What commodity markets can expect from the Trump-Xi summit",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
+      "title": "Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VXY2VHUTI3azdKbTBoSlhXcmFJZjhmMzVpVnVReEFwdlpUTlZFSElhSVNURlpSRFcyZVczOTRZaWFSRS11NDhwZXVhdVZFSXBTckpxc3JjclBkRTl1T1VEQXQ1R09mZGpWRFNGdnRmM1BJcmMwOHhBbHhCeklTY0ZKZ1o5Ni1ucWdFekhHYUVRa0JpbUxqWGxnQlJ6ZVdqbnNqNFhFTklrYzRKNktNWk9jU2lVc2NKYjdnUGdNS19iZkZDQ2tsalJ3VQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T02:55:00.000Z"
+      "publishedAt": "2026-09-21T05:08:00.000Z"
     },
     {
-      "title": "Global shares edge higher as central banks double down on inflation fight",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5",
+      "title": "Australia warns of risks from ageing population, falling birth rates",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3hOSzIxR1hfa3RsSlg3UUFMWGwzakM0V3BLSUlHQjFYX1d1anY5dEdTWlZXU2ViWXVqXzBHUXN0Z1puV2ZRQ2t0T3RER2FTb25QUklHekk1amNfMTZaNXZUejk3LW9kQ2JLMEthNHp3TEM0QjZBbkZyeWdadXZrRzhLdzYwMlJoN0U1TFdNTGlvaGpqLTlocF9ES2ZCNnNkSE1SSlk4TEg2c2UydENScXpOeVZBcTJLZlE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T01:32:00.000Z"
+      "publishedAt": "2026-09-21T02:32:00.000Z"
     },
     {
-      "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5",
+      "title": "Yen weaker as focus on possible intervention increases",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEFyOHhrcWVmUjJqdnBjS2NLMUtvajJaU1ZBNHdFNDhobTd6d2VKbEl1cThLOTJOSVdHN3lMUmZXNGluMTJTVW9lckdWSUVKdERCaVFxU1U5ZVowMVE5c2ZxcXE0RDMwLXpfWUtvbDZOajI0N3ZNbG1PUU8yenhDbW5ybG1zbDRjWDRNQXRFVlMwWnZFTnRZbkZVRncxdWlLN0FMX29obHIwOFJyX2gxa0c2Y0E3cTlS?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T00:59:00.000Z"
+      "publishedAt": "2026-09-21T01:34:00.000Z"
     },
     {
-      "title": "US equity funds post fourth weekly outflow on inflation worries, rate concerns",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczctZHg5MWQtVFk2X193WFFwT0g5UkZQYUw5TVpQR1JRZ1RnU2UtRTdyMGQwVTR0ZUtGbkU3WGR4YTFJMXUyM0xGX3piSnBtWjlsT1Bra2xIdVhhMzZvbU5PUEdjX0NLN0JTaVpYQUhnT3hEbUllSmh5dGVvaDR1ekFFZXdaU1p0cVFaajUtYVYtaUlwWHNudFlZRk1rLVJIbnNrQUNqWVVlLURtUDZMTWVkNnRJdG1LcExR?oc=5",
+      "title": "Europe's gas price surge may feed into inflation more quickly, ECB finds",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYlZORjIxVTNxX0RoX2h1WS1idFNvSGFRN09nZ0dmRGtfbm9wR0thb01MbnNpUkZWU0lNSFdNU28tQWp3UndBMFNBQ0tQQm9KaGwzYjVkSmVselNOb3EwQ1U2MU1yUFhSTC1HM0FadE5NV2UwWi1Ya1BjYkFZUnFyZmRlYU43bTN1Z1JPT1pjcGtMZWY2b1I0SEp3eVE4aHpZMmNHRFFsZTVmRlVDeU5OWnpNWU80ZDNhWVZmaF9PVQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-18T11:17:43.000Z"
+      "publishedAt": "2026-09-21T08:08:17.000Z"
     },
     {
-      "title": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
+      "title": "Chipmakers fuel global stock gains as oil retreats",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-17T22:04:00.000Z"
+      "publishedAt": "2026-09-21T00:39:00.000Z"
     }
   ]
 }
