@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:02:36.915Z",
+  "updated": "2026-09-22T17:42:12.772Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2648.08,
-      "display": "2,648.08",
-      "change": 18.799999999999727,
-      "changePct": 0.715,
-      "date": "2026-09-18",
+      "value": 2637.23,
+      "display": "2,637.23",
+      "change": -10.849999999999909,
+      "changePct": -0.41,
+      "date": "2026-09-21",
       "spark": [
-        2671.27,
         2678.71,
         2681.37,
         2695.49,
@@ -125,7 +124,8 @@
         2601.28,
         2591.62,
         2629.28,
-        2648.08
+        2648.08,
+        2637.23
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.81,
-      "display": "14.81",
-      "change": -0.629999999999999,
-      "changePct": -4.08,
-      "date": "2026-09-18",
+      "value": 14.87,
+      "display": "14.87",
+      "change": 0.05999999999999872,
+      "changePct": 0.405,
+      "date": "2026-09-21",
       "spark": [
-        15.46,
         15.28,
         14.55,
         14.63,
@@ -211,7 +210,8 @@
         17.2,
         17.71,
         15.44,
-        14.81
+        14.81,
+        14.87
       ],
       "unit": "",
       "suffix": ""
@@ -1062,42 +1062,42 @@
     "m2": {
       "label": "M2 MONEY",
       "series": "M2SL",
-      "value": 23218,
-      "display": "23,218",
-      "change": 102.79999999999927,
-      "changePct": 0.445,
-      "date": "2026-07-01",
+      "value": 23342.8,
+      "display": "23,343",
+      "change": 124.89999999999782,
+      "changePct": 0.538,
+      "date": "2026-08-01",
       "spark": [
-        20921.7,
         20965.9,
-        20955.5,
-        21021.7,
+        20955.4,
+        21021.6,
         21070.7,
-        21098.8,
-        21191.9,
-        21275.5,
-        21336.7,
-        21454.8,
+        21098.9,
+        21192,
+        21275.6,
+        21336.6,
+        21454.7,
         21487.6,
         21539.3,
-        21607.3,
+        21607.2,
         21684.1,
         21770.8,
         21836.1,
         21942.6,
-        22025.5,
+        22025.6,
         22092.6,
         22176.1,
         22249.8,
         22279.8,
         22355.3,
         22413.4,
-        22598.9,
-        22640.4,
-        22756.7,
-        23013.9,
-        23115.2,
-        23218
+        22598.7,
+        22640.3,
+        22756.6,
+        23013.7,
+        23114.9,
+        23217.9,
+        23342.8
       ],
       "unit": "B",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "spark": [
         2.25,
         2.25,
@@ -1220,7 +1220,7 @@
         2.25,
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.81,
-      "display": "14.81",
-      "change": -0.629999999999999,
-      "changePct": -4.08,
-      "date": "2026-09-18",
+      "value": 14.87,
+      "display": "14.87",
+      "change": 0.05999999999999872,
+      "changePct": 0.405,
+      "date": "2026-09-21",
       "spark": [
-        15.46,
         15.28,
         14.55,
         14.63,
@@ -1355,7 +1354,8 @@
         17.2,
         17.71,
         15.44,
-        14.81
+        14.81,
+        14.87
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,40 @@
   },
   "news": [
     {
+      "title": "ECB, EU central banks suggest dropping stablecoin deposits rule",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T12:30:23.000Z"
+    },
+    {
+      "title": "China's industrial rise hits German manufacturers hard, ECB finds",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkY2a3hKZkdQTS15OFBlTFlFUTJKcWJuTldQeVBOc2ltLTZ3WkN1MTRrWUhLMEtoMWt3ZnROQk50MW9xczVUTVFXTEdPZGNZM2VsX01Pc2xmeXVKb1FzbTJIQmI0RFM5MHh4dlRKT1NTSXpiejR0MTR3WVVJRUo3RFFRX1lsRmNCeU5pVFFITEFZcXliNTFYVFU5WUhac29aNFptOUQ3dmZONXdzZXZ2ag?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T12:10:47.000Z"
+    },
+    {
+      "title": "Dollar choppy as investors weigh oil drop against Fed rate path",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T00:53:00.000Z"
+    },
+    {
+      "title": "Fed's discount window supports market liquidity, Jefferson says",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjYybDFyWWptTVNObC1pLXFtVXBDdTdPcWdQbjVURUduYlJnS3ZVZUVybnRMcUdoYU8zOHNCZkpsOE1FRGFrN0ltbkM3WTd0NGpnX0xBQ2RFM24zcG1KWnFWeXNqYXNSR0pkOS1NRXhkYVkxWWFqeF9PT0J5VzFER3V2YnJCSEQ2bkh1Ylg0TjBZTGY5N2dJWWFjN3k2TFJsYjFmUzRVQS1WQWtjeFA0SERoWF9UQVEz?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T14:28:29.000Z"
+    },
+    {
+      "title": "Gold eases as traders cement bets for higher for longer interest rates",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T02:19:00.000Z"
+    },
+    {
       "title": "EXCLUSIVE: Fed's Musalem says more rate hikes likely needed to quell inflation",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-21T18:54:06.000Z"
+      "publishedAt": "2026-09-21T18:23:00.000Z"
     },
     {
       "title": "Gold falls on rising odds of Fed rate hike, stronger dollar",
@@ -1467,36 +1497,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-21T14:14:26.000Z"
-    },
-    {
-      "title": "ECB opens blockchain link to financial markets",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUplN3d1UkJIeE40bnNjTHZjNk5qcThPM3JXSW8wNU9QSnhWLXRGTFpsZnVvV1dpZ0h5WFA2Qlk1MndSLXExVlBDeHN2eUxIV0szTFN0bUlGM3FOa09pek92S1haR2lRRHRYd0NJQXRlUXhLQ3NnTWJ2Tks1TEhyaGhvSEU4UVVkOXJmZ3pnNUhvR1FFVnBvSmRkcVc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-21T10:26:51.000Z"
-    },
-    {
-      "title": "Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VXY2VHUTI3azdKbTBoSlhXcmFJZjhmMzVpVnVReEFwdlpUTlZFSElhSVNURlpSRFcyZVczOTRZaWFSRS11NDhwZXVhdVZFSXBTckpxc3JjclBkRTl1T1VEQXQ1R09mZGpWRFNGdnRmM1BJcmMwOHhBbHhCeklTY0ZKZ1o5Ni1ucWdFekhHYUVRa0JpbUxqWGxnQlJ6ZVdqbnNqNFhFTklrYzRKNktNWk9jU2lVc2NKYjdnUGdNS19iZkZDQ2tsalJ3VQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-21T05:08:00.000Z"
-    },
-    {
-      "title": "Australia warns of risks from ageing population, falling birth rates",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3hOSzIxR1hfa3RsSlg3UUFMWGwzakM0V3BLSUlHQjFYX1d1anY5dEdTWlZXU2ViWXVqXzBHUXN0Z1puV2ZRQ2t0T3RER2FTb25QUklHekk1amNfMTZaNXZUejk3LW9kQ2JLMEthNHp3TEM0QjZBbkZyeWdadXZrRzhLdzYwMlJoN0U1TFdNTGlvaGpqLTlocF9ES2ZCNnNkSE1SSlk4TEg2c2UydENScXpOeVZBcTJLZlE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-21T02:32:00.000Z"
-    },
-    {
-      "title": "Yen eases as potential for intervention eyed",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEFyOHhrcWVmUjJqdnBjS2NLMUtvajJaU1ZBNHdFNDhobTd6d2VKbEl1cThLOTJOSVdHN3lMUmZXNGluMTJTVW9lckdWSUVKdERCaVFxU1U5ZVowMVE5c2ZxcXE0RDMwLXpfWUtvbDZOajI0N3ZNbG1PUU8yenhDbW5ybG1zbDRjWDRNQXRFVlMwWnZFTnRZbkZVRncxdWlLN0FMX29obHIwOFJyX2gxa0c2Y0E3cTlS?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-21T01:34:00.000Z"
-    },
-    {
-      "title": "Nasdaq hits record high as chipmakers fuel stock gains",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-21T00:39:00.000Z"
     }
   ]
 }
