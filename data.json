@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:42:12.772Z",
+  "updated": "2026-09-23T00:51:18.371Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7764.7,
+      "value": 7764.64,
       "display": "7,765",
-      "change": 114.19999999999982,
-      "changePct": 1.493,
-      "date": "2026-09-21",
+      "change": -0.05999999999949068,
+      "changePct": -0.001,
+      "date": "2026-09-22",
       "spark": [
-        7753.11,
         7728.2,
         7748.5,
         7798.99,
@@ -82,7 +81,8 @@
         7551.81,
         7637.76,
         7650.5,
-        7764.7
+        7764.7,
+        7764.64
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 86396.74,
-      "display": "86,397",
-      "change": 5143.37000000001,
-      "changePct": 6.33,
-      "date": "2026-09-21",
+      "value": 86249.98,
+      "display": "86,250",
+      "change": -146.7600000000093,
+      "changePct": -0.17,
+      "date": "2026-09-22",
       "spark": [
-        77637.69,
         78981.39,
         78510.95,
         78961.93,
@@ -254,7 +253,8 @@
         80844,
         81186,
         81253.37,
-        86396.74
+        86396.74,
+        86249.98
       ],
       "unit": "",
       "suffix": ""
@@ -1367,11 +1367,10 @@
       "series": "DGS2",
       "value": 4.76,
       "display": "4.76",
-      "change": 0.08999999999999986,
-      "changePct": 1.927,
-      "date": "2026-09-18",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-09-21",
       "spark": [
-        4.19,
         4.25,
         4.22,
         4.2,
@@ -1400,6 +1399,7 @@
         4.67,
         4.74,
         4.67,
+        4.76,
         4.76
       ],
       "unit": "",
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.01,
-      "display": "5.01",
-      "change": 0.0699999999999994,
-      "changePct": 1.417,
-      "date": "2026-09-18",
+      "value": 4.96,
+      "display": "4.96",
+      "change": -0.04999999999999982,
+      "changePct": -0.998,
+      "date": "2026-09-21",
       "spark": [
-        4.65,
         4.72,
         4.7,
         4.68,
@@ -1443,7 +1442,8 @@
         5,
         5.01,
         4.94,
-        5.01
+        5.01,
+        4.96
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,16 @@
   },
   "news": [
     {
-      "title": "ECB, EU central banks suggest dropping stablecoin deposits rule",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
+      "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGR3T2ZLcVk2ZkdRdDBJLWZkVlRlUXBONm9UVmoyX1lmVU1CcE1KM2ViNDhrWllDVTdJdnYtYVlsQnBDMzRGU0JoczNhSlV3UGdnMTl4M3o2NDBVcVhDZDZZQUhHUlFZN0tDVWNGUDFMQkJmSWhtNjhKM2E4LTVtZThna01tSTdGekdrQVVmUGthTEpRLXBVTEtqRDBkNmVJbnQ4MURybndmMkwtMmVVU01CWkxIZG9ISUoycg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-22T12:30:23.000Z"
+      "publishedAt": "2026-09-22T16:56:55.000Z"
+    },
+    {
+      "title": "Canadian dollar hits nearly seven-week low on wider yield spreads",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3dyRHAxY2RkNGtMMXJsc2lBb0tPUlo5SXNRdEVLalItVXAtUlk0bDZ6dHpfcFZhOFJHRm1XUVNMc0tNY0dkQ19sUThFUUFWTmxBb2plSVpoU1Y3eGlldTNzVC1CT2gyVl9sdFliSS0ydEp3QkQ2eVppY0hwLV9xS3R5VmRLVlFmMkNrUkVQUzlJQ0tTRXJCWHB4c0tkVk0tMTFlQ2RRaFVXM1U?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T17:02:48.000Z"
     },
     {
       "title": "China's industrial rise hits German manufacturers hard, ECB finds",
@@ -1463,16 +1469,16 @@
       "publishedAt": "2026-09-22T12:10:47.000Z"
     },
     {
-      "title": "Dollar choppy as investors weigh oil drop against Fed rate path",
+      "title": "ECB, EU central banks suggest dropping stablecoin deposits rule",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-22T12:30:23.000Z"
+    },
+    {
+      "title": "Dollar rises in choppy trading as investors weigh inflation prospects",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-22T00:53:00.000Z"
-    },
-    {
-      "title": "Fed's discount window supports market liquidity, Jefferson says",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjYybDFyWWptTVNObC1pLXFtVXBDdTdPcWdQbjVURUduYlJnS3ZVZUVybnRMcUdoYU8zOHNCZkpsOE1FRGFrN0ltbkM3WTd0NGpnX0xBQ2RFM24zcG1KWnFWeXNqYXNSR0pkOS1NRXhkYVkxWWFqeF9PT0J5VzFER3V2YnJCSEQ2bkh1Ylg0TjBZTGY5N2dJWWFjN3k2TFJsYjFmUzRVQS1WQWtjeFA0SERoWF9UQVEz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-22T14:28:29.000Z"
     },
     {
       "title": "Gold eases as traders cement bets for higher for longer interest rates",
@@ -1487,16 +1493,10 @@
       "publishedAt": "2026-09-21T18:23:00.000Z"
     },
     {
-      "title": "Gold falls on rising odds of Fed rate hike, stronger dollar",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
+      "title": "Fed's discount window supports market liquidity, Jefferson says",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjYybDFyWWptTVNObC1pLXFtVXBDdTdPcWdQbjVURUduYlJnS3ZVZUVybnRMcUdoYU8zOHNCZkpsOE1FRGFrN0ltbkM3WTd0NGpnX0xBQ2RFM24zcG1KWnFWeXNqYXNSR0pkOS1NRXhkYVkxWWFqeF9PT0J5VzFER3V2YnJCSEQ2bkh1Ylg0TjBZTGY5N2dJWWFjN3k2TFJsYjFmUzRVQS1WQWtjeFA0SERoWF9UQVEz?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-21T18:45:41.000Z"
-    },
-    {
-      "title": "Fed's Goolsbee says strong demand may be adding to US inflation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-21T14:14:26.000Z"
+      "publishedAt": "2026-09-22T14:28:29.000Z"
     }
   ]
 }
