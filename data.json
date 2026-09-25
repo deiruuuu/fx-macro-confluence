@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:42:30.215Z",
+  "updated": "2026-09-25T18:03:44.791Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2609.13,
-      "display": "2,609.13",
-      "change": -36.88000000000011,
-      "changePct": -1.394,
-      "date": "2026-09-23",
+      "value": 2603.22,
+      "display": "2,603.22",
+      "change": -5.910000000000309,
+      "changePct": -0.227,
+      "date": "2026-09-24",
       "spark": [
-        2695.49,
         2680.98,
         2692.28,
         2673.11,
@@ -125,7 +124,8 @@
         2648.08,
         2637.23,
         2646.01,
-        2609.13
+        2609.13,
+        2603.22
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "spark": [
         2.25,
         2.25,
@@ -1217,7 +1217,7 @@
         2.25,
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1451,49 +1451,49 @@
   },
   "news": [
     {
-      "title": "New York lawsuit says Polymarket's prediction markets are illegal gambling - reuters.com",
+      "title": "US Fed plans to raise bank oversight thresholds, sources say",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWp2cWtUeTRqUnMtdGU0NElzbE9lV2N5QllabnBYYlhyRVk5TnU4ckJhSUc3aVZmRmxadmVoRTBsM2xfSWdpR19JMlVLMlg4eG1SdDdaSXRvT1RKNE5kS3d6NjgwS2l3ZGxqSW5Tc2x3RFJQYm1nV3RTN3NpZVBPbzhjekxzdlp0djdiNHVFckt5UDFCY2Ixajc0bVhaSkNDUEJvYm9iUWprUkFINVpGWGdR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T17:19:23.000Z"
+    },
+    {
+      "title": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpWaDBIbTVNdXdEbkZOanBGSHNtdXM5WmdtcjNiNVNLVnFlM1VHWlJSM0duSmJhbVVldGZZWlB3RUhYUS1iOFliNWxwU0t5Vkt3T2tnVjJjUlZscWdtZkhWVGE0bkhYcEprMmhlYmxNLVl6RUc4eHlDT2FDX1lyakE0TXZDMEhFUElUSFA1ODhCYjBfYXdQTWdVVG1ITFpkS0ZWT1ZwaXNQUE1DSHAyRUZ4NEJLQzlM?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T15:46:34.000Z"
+    },
+    {
+      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T02:23:00.000Z"
+    },
+    {
+      "title": "Dollar falls as oil eases, yen rallies on Japan remarks",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEliX2ZMV1UwSDZPa3liWjlRUk4tT192UjJmelY5OEpFcmVSWHlBRHVuUXNHSW5jTEI1TGlxT1kxS2gyZ2RtVGRJampmMndMMjVERnl0WVZ1ZDdhZndLd0htM1BpZlJmM1o0dU1sSDRqRWp0NkVTUTJkVU9fNGw0QndUYlJqV2plRXpySGpOeXBHdTRtcUYxOXlmVDE4MU9Eanc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T02:11:00.000Z"
+    },
+    {
+      "title": "New York, Polymarket sue each other over whether prediction markets are illegal gambling",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-24T20:32:17.000Z"
+      "publishedAt": "2026-09-24T14:28:00.000Z"
     },
     {
-      "title": "Fed rate hike cycles have a history of denting US stock prices - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
+      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-24T05:03:00.000Z"
+      "publishedAt": "2026-09-25T13:05:44.000Z"
     },
     {
-      "title": "Yields elevated as inflation fears keep markets on edge - reuters.com",
+      "title": "Oil jump sends 30-year yields to two-decade high",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T01:48:00.000Z"
     },
     {
-      "title": "Costco tops estimates as discount gas, bulk deals draw inflation-weary shoppers - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1c5ckIwRlVFTHZUekg2TXRjNlZlYTVwSFBBeVhGMnBXTjhGQTRXZ0M2S3FCdWFPcHU5VGk1Tmhub19tTGJwZVdpa0FDd192Z21TVFFMZkJueVVKcEs5WktRS0JUaER4YVp1YkNGWUZFdGltdGltVmtwbVFsYkxCX25KOHdTRHVQbUlxQkNQUU9qMlpaY1JtWUoyZy13QnhJdnZlSzVUencxbXpZYkNSVkNxYmROVlhQTDhDdVlCdDVVd3pISkE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T23:03:16.000Z"
-    },
-    {
-      "title": "Gold at one week-low as higher oil, hawkish Fed weigh - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T02:23:00.000Z"
-    },
-    {
-      "title": "COMMENTARY: Morning Bid: Bonds bomb - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUM5dy01UnR2WGU0YXZ4QW1OWE5KX1dWblJQNWhtMGpiY19JRmhWVXlwSEphZ0t2OFl3OGtuak9DQUtDazJ2QXdwZkxCR250UXF1SVRhbEhMM2lCLWstdTdfZkZ2QXluZFZIbjJMZzgtQ2Yxbi02YWRhN0dkZXNBeGNOR1FsRFR5SzdoVFlya2F1NHJWdWMw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T10:43:27.000Z"
-    },
-    {
-      "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-23T20:24:49.000Z"
-    },
-    {
-      "title": "COMMENTARY: Trading Day: Rout of control - reuters.com",
+      "title": "COMMENTARY: Trading Day: Rout of control",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWxIVkRkSV84N1AySnJXQ0hCdlNRQWVvckdleWJRNjVYZEIzdkozbzhwVmc2Q2dIZkx1N0hLNXNsUW9mbmxYNkZpSl9DQWFjOFhzd2djY2RzQjNkNFB2dE9aY3ViSGtrSE45Wm5ieHFNOXhhMzJCMzROcXZkak5LZDBoa24td01RQXM3WGs2Q2pJV2piMXJLWlYwVFg4M1lvV1RrR0d3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T21:14:49.000Z"
