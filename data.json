@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:54:41.487Z",
+  "updated": "2026-09-25T00:42:30.215Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7706.03,
-      "display": "7,706",
-      "change": -58.61000000000058,
-      "changePct": -0.755,
-      "date": "2026-09-23",
+      "value": 7704.13,
+      "display": "7,704",
+      "change": -1.8999999999996362,
+      "changePct": -0.025,
+      "date": "2026-09-24",
       "spark": [
-        7748.5,
         7798.99,
         7785.76,
         7745.06,
@@ -82,7 +81,8 @@
         7650.5,
         7764.7,
         7764.64,
-        7706.03
+        7706.03,
+        7704.13
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 84452.97,
-      "display": "84,453",
-      "change": -1797.0099999999948,
-      "changePct": -2.083,
-      "date": "2026-09-23",
+      "value": 84470.76,
+      "display": "84,471",
+      "change": 17.789999999993597,
+      "changePct": 0.021,
+      "date": "2026-09-24",
       "spark": [
-        78510.95,
         78961.93,
         80209.61,
         77838.65,
@@ -254,7 +253,8 @@
         81253.37,
         86396.74,
         86249.98,
-        84452.97
+        84452.97,
+        84470.76
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.71,
-      "display": "4.71",
-      "change": -0.04999999999999982,
-      "changePct": -1.05,
-      "date": "2026-09-22",
+      "value": 4.85,
+      "display": "4.85",
+      "change": 0.13999999999999968,
+      "changePct": 2.972,
+      "date": "2026-09-23",
       "spark": [
-        4.22,
         4.2,
         4.15,
         4.17,
@@ -1400,7 +1399,8 @@
         4.67,
         4.76,
         4.76,
-        4.71
+        4.71,
+        4.85
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.96,
-      "display": "4.96",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-09-22",
+      "value": 5.11,
+      "display": "5.11",
+      "change": 0.15000000000000036,
+      "changePct": 3.024,
+      "date": "2026-09-23",
       "spark": [
-        4.7,
         4.68,
         4.63,
         4.68,
@@ -1443,7 +1442,8 @@
         4.94,
         5.01,
         4.96,
-        4.96
+        4.96,
+        5.11
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "New York lawsuit says Polymarket's prediction markets are illegal gambling",
+      "title": "New York lawsuit says Polymarket's prediction markets are illegal gambling - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-24T16:58:11.000Z"
+      "publishedAt": "2026-09-24T20:32:17.000Z"
     },
     {
-      "title": "Fed rate hike cycles have a history of denting US stock prices",
+      "title": "Fed rate hike cycles have a history of denting US stock prices - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T05:03:00.000Z"
     },
     {
-      "title": "Fed's Williams says it is reasonable to see another US rate hike this year",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkdqZ3lLWVItQUduVDZkZW45dEhCcmIwUEM4QlZFSVoxN0QxVEl0NTk4MmtqYVktY3JjNGFGOGZSaVRNMDJFX1QzTXRjYnVkWm0yQUFlU1hWRTNsbXRlY0pIa3RGWEtkamtjdUhERE1qLVlsQTgyNjBGSzA0ZXFLS29pQXM3QTBOTHZuYXRZT2paWlBPWk90eFM3NzFBRnBTZFZaVGF3cFA0V3lCY1I5T09FQWVhdw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T14:17:57.000Z"
-    },
-    {
-      "title": "Yields elevated as inflation fears keep markets on edge",
+      "title": "Yields elevated as inflation fears keep markets on edge - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T01:48:00.000Z"
     },
     {
-      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmQ0RTlyNTJnNVVWaUx1Uk1pbTl0UWVTOXFORWhmM3dqdHJXZDdWZFlHRmNQdS1zSHhYWG1RTDVBeFlWdFhxT0N5WTBnNFQ4VFBQdFNvUk01YUFRUmZGQUZUa0h1ZUJqdkNnaWRXXzl2cWRlRE5vM1FuR1hfdnFNcnFRaVJYdGtPX081cXN5dTFSR0JwbzhYYnhHclN4UEVmU3g4X2lNWlJGMkd5S1lSZFlhUFdWMVpYUlc0?oc=5",
+      "title": "Costco tops estimates as discount gas, bulk deals draw inflation-weary shoppers - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1c5ckIwRlVFTHZUekg2TXRjNlZlYTVwSFBBeVhGMnBXTjhGQTRXZ0M2S3FCdWFPcHU5VGk1Tmhub19tTGJwZVdpa0FDd192Z21TVFFMZkJueVVKcEs5WktRS0JUaER4YVp1YkNGWUZFdGltdGltVmtwbVFsYkxCX25KOHdTRHVQbUlxQkNQUU9qMlpaY1JtWUoyZy13QnhJdnZlSzVUencxbXpZYkNSVkNxYmROVlhQTDhDdVlCdDVVd3pISkE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-24T02:02:00.000Z"
+      "publishedAt": "2026-09-24T23:03:16.000Z"
     },
     {
-      "title": "Gold at one week-low as higher oil, hawkish Fed weigh",
+      "title": "Gold at one week-low as higher oil, hawkish Fed weigh - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T02:23:00.000Z"
     },
     {
-      "title": "Sterling hits near 3-month low against the dollar",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjJuSGVFaXl5dWRCWEVYRGwxTTZYZVpTYkk1NWdHd20tSTI3WFRTSUItWnN1eDhITGJlWHVsam1qdUZMVlNrTDdUSkdyc242QnFZeWl2MVhmbHlLTlcya09jdmkyOGZDbHIwSDZUMFBRTmMyV0ZNX2dNSmtGZ1dVV0Z0ekhvcXpmX2NocXlOc0RBYXlh?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T10:43:45.000Z"
-    },
-    {
-      "title": "COMMENTARY: Morning Bid: Bonds bomb",
+      "title": "COMMENTARY: Morning Bid: Bonds bomb - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUM5dy01UnR2WGU0YXZ4QW1OWE5KX1dWblJQNWhtMGpiY19JRmhWVXlwSEphZ0t2OFl3OGtuak9DQUtDazJ2QXdwZkxCR250UXF1SVRhbEhMM2lCLWstdTdfZkZ2QXluZFZIbjJMZzgtQ2Yxbi02YWRhN0dkZXNBeGNOR1FsRFR5SzdoVFlya2F1NHJWdWMw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T10:43:27.000Z"
+    },
+    {
+      "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-23T20:24:49.000Z"
+    },
+    {
+      "title": "COMMENTARY: Trading Day: Rout of control - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWxIVkRkSV84N1AySnJXQ0hCdlNRQWVvckdleWJRNjVYZEIzdkozbzhwVmc2Q2dIZkx1N0hLNXNsUW9mbmxYNkZpSl9DQWFjOFhzd2djY2RzQjNkNFB2dE9aY3ViSGtrSE45Wm5ieHFNOXhhMzJCMzROcXZkak5LZDBoa24td01RQXM3WGs2Q2pJV2piMXJLWlYwVFg4M1lvV1RrR0d3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-24T21:14:49.000Z"
     }
   ]
 }
