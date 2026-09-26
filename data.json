@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:03:44.791Z",
+  "updated": "2026-09-26T00:46:58.436Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7704.13,
-      "display": "7,704",
-      "change": -1.8999999999996362,
-      "changePct": -0.025,
-      "date": "2026-09-24",
+      "value": 7743.41,
+      "display": "7,743",
+      "change": 39.279999999999745,
+      "changePct": 0.51,
+      "date": "2026-09-25",
       "spark": [
-        7798.99,
         7785.76,
         7745.06,
         7691.76,
@@ -82,7 +81,8 @@
         7764.7,
         7764.64,
         7706.03,
-        7704.13
+        7704.13,
+        7743.41
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 84470.76,
-      "display": "84,471",
-      "change": 17.789999999993597,
-      "changePct": 0.021,
-      "date": "2026-09-24",
+      "value": 84048.07,
+      "display": "84,048",
+      "change": -422.6899999999878,
+      "changePct": -0.5,
+      "date": "2026-09-25",
       "spark": [
-        78961.93,
         80209.61,
         77838.65,
         78215,
@@ -254,7 +253,8 @@
         86396.74,
         86249.98,
         84452.97,
-        84470.76
+        84470.76,
+        84048.07
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.85,
-      "display": "4.85",
-      "change": 0.13999999999999968,
-      "changePct": 2.972,
-      "date": "2026-09-23",
+      "value": 4.87,
+      "display": "4.87",
+      "change": 0.020000000000000462,
+      "changePct": 0.412,
+      "date": "2026-09-24",
       "spark": [
-        4.2,
         4.15,
         4.17,
         4.19,
@@ -1400,7 +1399,8 @@
         4.76,
         4.76,
         4.71,
-        4.85
+        4.85,
+        4.87
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.11,
-      "display": "5.11",
-      "change": 0.15000000000000036,
-      "changePct": 3.024,
-      "date": "2026-09-23",
+      "value": 5.18,
+      "display": "5.18",
+      "change": 0.0699999999999994,
+      "changePct": 1.37,
+      "date": "2026-09-24",
       "spark": [
-        4.68,
         4.63,
         4.68,
         4.72,
@@ -1443,13 +1442,20 @@
         5.01,
         4.96,
         4.96,
-        5.11
+        5.11,
+        5.18
       ],
       "unit": "",
       "suffix": ""
     }
   },
   "news": [
+    {
+      "title": "US appeals court rules against Kalshi, says states can regulate prediction markets",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T23:31:55.000Z"
+    },
     {
       "title": "US Fed plans to raise bank oversight thresholds, sources say",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWp2cWtUeTRqUnMtdGU0NElzbE9lV2N5QllabnBYYlhyRVk5TnU4ckJhSUc3aVZmRmxadmVoRTBsM2xfSWdpR19JMlVLMlg4eG1SdDdaSXRvT1RKNE5kS3d6NjgwS2l3ZGxqSW5Tc2x3RFJQYm1nV3RTN3NpZVBPbzhjekxzdlp0djdiNHVFckt5UDFCY2Ixajc0bVhaSkNDUEJvYm9iUWprUkFINVpGWGdR?oc=5",
@@ -1460,43 +1466,37 @@
       "title": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpWaDBIbTVNdXdEbkZOanBGSHNtdXM5WmdtcjNiNVNLVnFlM1VHWlJSM0duSmJhbVVldGZZWlB3RUhYUS1iOFliNWxwU0t5Vkt3T2tnVjJjUlZscWdtZkhWVGE0bkhYcEprMmhlYmxNLVl6RUc4eHlDT2FDX1lyakE0TXZDMEhFUElUSFA1ODhCYjBfYXdQTWdVVG1ITFpkS0ZWT1ZwaXNQUE1DSHAyRUZ4NEJLQzlM?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T15:46:34.000Z"
+      "publishedAt": "2026-09-25T20:54:35.000Z"
+    },
+    {
+      "title": "Corporate debt maturities set to test US borrowers as rates rise",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHVIMEQ3dmJLZTdRVXVQblJxSzBCMjJlVmVVYkJsR0hvX0NoY3draFFYRkNTS19HRGJwUE4zT3RGS1JCc1hkU2Yza0tDTjRLSWxpVC1qbmtCaUgzYU5JLUFON1F4M0NhZ3RJak1qT1VqS1d1TTg1U3o1WWhwel8zWTMyZkJwVHg3d3RLQUp5T2FDM0V1SzNrNWt0MTA1Y1AwZ2J1X04yRVE2N2hYQU9CR0RQMmM?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T20:57:03.000Z"
     },
     {
       "title": "Mounting rate hike bets keep weekly loss in sight for gold",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T02:23:00.000Z"
+      "publishedAt": "2026-09-25T18:28:19.000Z"
     },
     {
-      "title": "Dollar falls as oil eases, yen rallies on Japan remarks",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEliX2ZMV1UwSDZPa3liWjlRUk4tT192UjJmelY5OEpFcmVSWHlBRHVuUXNHSW5jTEI1TGlxT1kxS2gyZ2RtVGRJampmMndMMjVERnl0WVZ1ZDdhZndLd0htM1BpZlJmM1o0dU1sSDRqRWp0NkVTUTJkVU9fNGw0QndUYlJqV2plRXpySGpOeXBHdTRtcUYxOXlmVDE4MU9Eanc?oc=5",
+      "title": "Battered bonds draw support from falling oil prices",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T02:11:00.000Z"
-    },
-    {
-      "title": "New York, Polymarket sue each other over whether prediction markets are illegal gambling",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T14:28:00.000Z"
-    },
-    {
-      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-25T13:05:44.000Z"
-    },
-    {
-      "title": "Oil jump sends 30-year yields to two-decade high",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-24T01:48:00.000Z"
+      "publishedAt": "2026-09-25T02:19:00.000Z"
     },
     {
       "title": "COMMENTARY: Trading Day: Rout of control",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWxIVkRkSV84N1AySnJXQ0hCdlNRQWVvckdleWJRNjVYZEIzdkozbzhwVmc2Q2dIZkx1N0hLNXNsUW9mbmxYNkZpSl9DQWFjOFhzd2djY2RzQjNkNFB2dE9aY3ViSGtrSE45Wm5ieHFNOXhhMzJCMzROcXZkak5LZDBoa24td01RQXM3WGs2Q2pJV2piMXJLWlYwVFg4M1lvV1RrR0d3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-24T21:14:49.000Z"
+    },
+    {
+      "title": "Dollar dips as oil eases, yen jumps on Japan remarks",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEliX2ZMV1UwSDZPa3liWjlRUk4tT192UjJmelY5OEpFcmVSWHlBRHVuUXNHSW5jTEI1TGlxT1kxS2gyZ2RtVGRJampmMndMMjVERnl0WVZ1ZDdhZndLd0htM1BpZlJmM1o0dU1sSDRqRWp0NkVTUTJkVU9fNGw0QndUYlJqV2plRXpySGpOeXBHdTRtcUYxOXlmVDE4MU9Eanc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-25T02:11:00.000Z"
     }
   ]
 }
