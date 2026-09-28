@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T00:46:58.436Z",
+  "updated": "2026-09-28T20:12:08.428Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2603.22,
-      "display": "2,603.22",
-      "change": -5.910000000000309,
-      "changePct": -0.227,
-      "date": "2026-09-24",
+      "value": 2614.49,
+      "display": "2,614.49",
+      "change": 11.269999999999982,
+      "changePct": 0.433,
+      "date": "2026-09-25",
       "spark": [
-        2680.98,
         2692.28,
         2673.11,
         2646.75,
@@ -125,7 +124,8 @@
         2637.23,
         2646.01,
         2609.13,
-        2603.22
+        2603.22,
+        2614.49
       ],
       "unit": "",
       "suffix": ""
@@ -219,14 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 84048.07,
-      "display": "84,048",
-      "change": -422.6899999999878,
-      "changePct": -0.5,
-      "date": "2026-09-25",
+      "value": 84553.91,
+      "display": "84,554",
+      "change": 216.5500000000029,
+      "changePct": 0.257,
+      "date": "2026-09-27",
       "spark": [
-        80209.61,
-        77838.65,
         78215,
         77757.98,
         78603.02,
@@ -254,7 +252,9 @@
         86249.98,
         84452.97,
         84470.76,
-        84048.07
+        84048.07,
+        84337.36,
+        84553.91
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "spark": [
         2.25,
         2.25,
@@ -1214,9 +1214,9 @@
         2.25,
         2.25,
         2.25,
-        2.25,
-        2.25,
-        2.25,
+        2.5,
+        2.5,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "US appeals court rules against Kalshi, says states can regulate prediction markets",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5",
+      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUd1ZVlldFI3cUtuSXFZd0FkcDdGc0JmZUdxU2o1cU5JWEZyWnNvWkwxV3NaLXY0ZjZzd1N3MklWSl9RemdkWFZhWGY0Ni1yVVc2SXJ3eHg3ckZCTVhUTE5XeUx3dVVSekZxMnhWQWt1REhlZDdNbFo2RU1DdTZVMVh0N0c2YnFiaDRwTXQ0dzN4QWRQMElQaG5hNC1IVzgwLWdEYUtTcnlQckNIUXVmWA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T23:31:55.000Z"
+      "publishedAt": "2026-09-28T17:02:16.000Z"
     },
     {
-      "title": "US Fed plans to raise bank oversight thresholds, sources say",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWp2cWtUeTRqUnMtdGU0NElzbE9lV2N5QllabnBYYlhyRVk5TnU4ckJhSUc3aVZmRmxadmVoRTBsM2xfSWdpR19JMlVLMlg4eG1SdDdaSXRvT1RKNE5kS3d6NjgwS2l3ZGxqSW5Tc2x3RFJQYm1nV3RTN3NpZVBPbzhjekxzdlp0djdiNHVFckt5UDFCY2Ixajc0bVhaSkNDUEJvYm9iUWprUkFINVpGWGdR?oc=5",
+      "title": "Prediction markets' push into US stocks raises regulatory alarm bells",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0pOYnNmdEpnbENUb0xvWldjT19MWmZiMmNFSXJsMDgxTEM2d1ZaNXdKeVJ0X21ZaDc2TElGX3BGdlJJV1liclo0Y1RfRUM5LWRPd3h5NE5naHd1WWhzV3UzamdtSVUzWFVBOXBRN2JLQlk4a2Fkd2REZkJ5WWdqbF9LRkIyU3JaVDB1RzhPd3JuWGh0WkhtdHAtZnZueUptMDJ4Z1drMzZjZjFmTGNHd0N1amhLUWl5cUFnUnJn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T17:19:23.000Z"
+      "publishedAt": "2026-09-28T16:53:31.000Z"
     },
     {
-      "title": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpWaDBIbTVNdXdEbkZOanBGSHNtdXM5WmdtcjNiNVNLVnFlM1VHWlJSM0duSmJhbVVldGZZWlB3RUhYUS1iOFliNWxwU0t5Vkt3T2tnVjJjUlZscWdtZkhWVGE0bkhYcEprMmhlYmxNLVl6RUc4eHlDT2FDX1lyakE0TXZDMEhFUElUSFA1ODhCYjBfYXdQTWdVVG1ITFpkS0ZWT1ZwaXNQUE1DSHAyRUZ4NEJLQzlM?oc=5",
+      "title": "EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T20:54:35.000Z"
+      "publishedAt": "2026-09-28T09:10:27.000Z"
     },
     {
-      "title": "Corporate debt maturities set to test US borrowers as rates rise",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHVIMEQ3dmJLZTdRVXVQblJxSzBCMjJlVmVVYkJsR0hvX0NoY3draFFYRkNTS19HRGJwUE4zT3RGS1JCc1hkU2Yza0tDTjRLSWxpVC1qbmtCaUgzYU5JLUFON1F4M0NhZ3RJak1qT1VqS1d1TTg1U3o1WWhwel8zWTMyZkJwVHg3d3RLQUp5T2FDM0V1SzNrNWt0MTA1Y1AwZ2J1X04yRVE2N2hYQU9CR0RQMmM?oc=5",
+      "title": "ECB's Lagarde sticking to measured steps to quell inflation",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUhNMnRyWjFqSWNtUHFUaG1UU1REVnNmdDNOUUVPZ3hhRGFMYUNNRW5RLVA3N0pkV3RURGhJckVmdm9sa1BEblo5T1RFNF9zYnoxOEVoVkk5aTVIQnhWY0V4XzRkODJ0OGctcnRGNjhzRkVlaFNDOExmSGV5QW03NHdsRWRYUjNOeldQcjNsVWx6Y0JJcVEzbW1kemYtd1ppcFJtR1hQLXZyVjJQbFZQS2VOZmNURHJQVktj?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T20:57:03.000Z"
+      "publishedAt": "2026-09-28T15:25:42.000Z"
     },
     {
-      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
+      "title": "Dollar flat as US-Iran stand-off lifts oil, yields",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN6Yy1FQUFsN3Z3US1YZWg2amxMczRubW9XaV9vWHJTc0JYbGN6YjhiX1hlWG5CZUdJbEVpcmwwTmdMT3EtTTNqRENIM25PSWY2RUhFVnBkTFBhY3d5VnlJY3NqWHhTSm8xN1FXY0lsVjBjN0JfQXI2Zml5WTNEcW9wMExxT21BbDVETDJZOFFrY0RXMGkwTUJHaTgzS2k1SHBQTVNhTlN5VVJVTllz?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T18:28:19.000Z"
+      "publishedAt": "2026-09-28T01:35:00.000Z"
     },
     {
-      "title": "Battered bonds draw support from falling oil prices",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
+      "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T02:19:00.000Z"
+      "publishedAt": "2026-09-28T01:41:00.000Z"
     },
     {
-      "title": "COMMENTARY: Trading Day: Rout of control",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWxIVkRkSV84N1AySnJXQ0hCdlNRQWVvckdleWJRNjVYZEIzdkozbzhwVmc2Q2dIZkx1N0hLNXNsUW9mbmxYNkZpSl9DQWFjOFhzd2djY2RzQjNkNFB2dE9aY3ViSGtrSE45Wm5ieHFNOXhhMzJCMzROcXZkak5LZDBoa24td01RQXM3WGs2Q2pJV2piMXJLWlYwVFg4M1lvV1RrR0d3?oc=5",
+      "title": "Bank of Japan debated need for faster rate hikes, July minutes show",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0Rid1RQcVo2QlNMTTZDOGEyYmRtQnFYVVJDN1pBMGpwNGxzS19vN1VBMHVXbDFtWkZHOVJhZTNxaWptMGsxbkxDQ2ZSNjZkNFdMTUQwZEhuaW1FUGhHUnJhWGU1eU5NQ1QwRWpDUURJQS1HUUdNYmFZbldSdFk4VGRXSGhUTkVPbk1QSUxzMV9ZckpvMWJYaTNPaWswYnpCTkpEUk9xNUhFMjEyVDRJek93?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-24T21:14:49.000Z"
+      "publishedAt": "2026-09-28T00:58:00.000Z"
     },
     {
-      "title": "Dollar dips as oil eases, yen jumps on Japan remarks",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEliX2ZMV1UwSDZPa3liWjlRUk4tT192UjJmelY5OEpFcmVSWHlBRHVuUXNHSW5jTEI1TGlxT1kxS2gyZ2RtVGRJampmMndMMjVERnl0WVZ1ZDdhZndLd0htM1BpZlJmM1o0dU1sSDRqRWp0NkVTUTJkVU9fNGw0QndUYlJqV2plRXpySGpOeXBHdTRtcUYxOXlmVDE4MU9Eanc?oc=5",
+      "title": "Stocks fall, squeezed by rising oil prices and Treasury yields",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-25T02:11:00.000Z"
+      "publishedAt": "2026-09-28T00:50:00.000Z"
     }
   ]
 }
