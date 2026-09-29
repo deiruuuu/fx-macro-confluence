@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T02:12:14.945Z",
+  "updated": "2026-09-29T18:48:12.640Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2614.49,
-      "display": "2,614.49",
-      "change": 11.269999999999982,
-      "changePct": 0.433,
-      "date": "2026-09-25",
+      "value": 2517.44,
+      "display": "2,517.44",
+      "change": -97.04999999999973,
+      "changePct": -3.712,
+      "date": "2026-09-28",
       "spark": [
-        2692.28,
         2673.11,
         2646.75,
         2701.18,
@@ -125,7 +124,8 @@
         2646.01,
         2609.13,
         2603.22,
-        2614.49
+        2614.49,
+        2517.44
       ],
       "unit": "",
       "suffix": ""
@@ -176,16 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.21,
-      "display": "14.21",
-      "change": -0.6599999999999984,
-      "changePct": -4.438,
-      "date": "2026-09-22",
+      "value": 16.07,
+      "display": "16.07",
+      "change": 1.200000000000001,
+      "changePct": 8.07,
+      "date": "2026-09-28",
       "spark": [
-        14.55,
-        14.63,
-        14.25,
-        15.19,
         15.84,
         14.89,
         16.01,
@@ -211,7 +207,11 @@
         15.44,
         14.81,
         14.87,
-        14.21
+        14.21,
+        15.18,
+        15.67,
+        14.87,
+        16.07
       ],
       "unit": "",
       "suffix": ""
@@ -1148,42 +1148,42 @@
     "retail": {
       "label": "RETAIL SALES",
       "series": "RSAFS",
-      "value": 773947,
-      "display": "773,947",
-      "change": 9485,
-      "changePct": 1.241,
+      "value": 737763,
+      "display": "737,763",
+      "change": 8225,
+      "changePct": 1.127,
       "date": "2026-08-01",
       "spark": [
-        687641,
-        687602,
-        692774,
-        692449,
-        698835,
-        697039,
-        703055,
-        708290,
-        711853,
-        717265,
-        711260,
-        711575,
-        723339,
-        722442,
-        714513,
-        719484,
-        727837,
-        730037,
-        732192,
-        731051,
-        734718,
-        734717,
-        734503,
-        741278,
-        754013,
-        759097,
-        766192,
-        768587,
-        764462,
-        773947
+        664328,
+        664858,
+        667659,
+        666040,
+        673662,
+        670668,
+        676005,
+        681808,
+        685709,
+        691794,
+        687058,
+        683772,
+        694750,
+        695464,
+        685488,
+        691883,
+        698280,
+        700218,
+        701453,
+        700790,
+        705453,
+        706264,
+        701860,
+        707959,
+        719700,
+        723921,
+        731415,
+        732898,
+        729538,
+        737763
       ],
       "unit": "M",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "spark": [
         2.25,
         2.25,
@@ -1213,7 +1213,7 @@
         2.25,
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,16 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.21,
-      "display": "14.21",
-      "change": -0.6599999999999984,
-      "changePct": -4.438,
-      "date": "2026-09-22",
+      "value": 16.07,
+      "display": "16.07",
+      "change": 1.200000000000001,
+      "changePct": 8.07,
+      "date": "2026-09-28",
       "spark": [
-        14.55,
-        14.63,
-        14.25,
-        15.19,
         15.84,
         14.89,
         16.01,
@@ -1355,7 +1351,11 @@
         15.44,
         14.81,
         14.87,
-        14.21
+        14.21,
+        15.18,
+        15.67,
+        14.87,
+        16.07
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,40 @@
   },
   "news": [
     {
-      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUd1ZVlldFI3cUtuSXFZd0FkcDdGc0JmZUdxU2o1cU5JWEZyWnNvWkwxV3NaLXY0ZjZzd1N3MklWSl9RemdkWFZhWGY0Ni1yVVc2SXJ3eHg3ckZCTVhUTE5XeUx3dVVSekZxMnhWQWt1REhlZDdNbFo2RU1DdTZVMVh0N0c2YnFiaDRwTXQ0dzN4QWRQMElQaG5hNC1IVzgwLWdEYUtTcnlQckNIUXVmWA?oc=5",
+      "title": "Soaring cancer rates in Iowa emerge as a key US midterms issue",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-28T17:02:16.000Z"
+      "publishedAt": "2026-09-29T13:59:09.000Z"
+    },
+    {
+      "title": "Battered bond market braces for a new era of interest rates",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T04:47:00.000Z"
+    },
+    {
+      "title": "Oura joins wave of IPO delays as markets turn shaky",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDctV240eEZCRDJqSGJ5ZTRPSm1uaDNIalFqY19ZdjVjY2ZTZXU3Zi00NkNpM3haSVZkU3dDNzNvYzVkcUxRWkNlOG91OUVMbGJHc0xwU0FmaE5RdEtsNXl2NXlOTFQtMHRLWHM0WWFtLVJGZXZDRG1zV0tMU0tVWnotdUpMNFZSZW03b3pwYktDVmZz?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T11:35:43.000Z"
+    },
+    {
+      "title": "Euro's dollar resilience faces energy price, political risk tests",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0U4dHpHSkRBSUQ4VnFlY2RNb3U5OGVINGNleGNyTWwyN1NVeEVBR0xZV295T3RmeTI3V3N6WnJvakxYV3pBbVdDcGFWOFBEVDc4dzZKb1hTU3otNFpBNzBwU05kXy1IM09hSHJQa0ZZWVBhRVpUWk9yb2RsUmZfRG5ZQWRuenBsYklPSVhWTjRyMHJ3NHZ2YW1YSzBXNVNhdmRkcnBrNU94MGlwNnBIMkVR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T05:02:00.000Z"
+    },
+    {
+      "title": "Dollar gains as Treasury yields top 5%, Aussie slides after RBA hike",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm1xMjE3YTBSdTBJRVI5blBWcFFOS1ZSQWZlcVhMZU1iWU1kZTkyaElQUXhyRzZ4My1UcmdUVW1MZldrdjMzblF5eEh5amIwb2tlWmozYjloa29GaEhoT2dMbFFteHRwLV9pem9OYkowV3RUaGhnTUhDUjcwLXozSG1rT0dOMmdsdERFUlVwM1p4TjBZQlFZZWx2aTc4VC03QURrOWM1c1IwVXc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T01:57:00.000Z"
+    },
+    {
+      "title": "Gold rises but strong Fed hike bets keep it near seven week-low",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T02:59:00.000Z"
     },
     {
       "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
@@ -1463,40 +1493,10 @@
       "publishedAt": "2026-09-28T17:44:41.000Z"
     },
     {
-      "title": "Prediction markets' push into US stocks raises regulatory alarm bells",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0pOYnNmdEpnbENUb0xvWldjT19MWmZiMmNFSXJsMDgxTEM2d1ZaNXdKeVJ0X21ZaDc2TElGX3BGdlJJV1liclo0Y1RfRUM5LWRPd3h5NE5naHd1WWhzV3UzamdtSVUzWFVBOXBRN2JLQlk4a2Fkd2REZkJ5WWdqbF9LRkIyU3JaVDB1RzhPd3JuWGh0WkhtdHAtZnZueUptMDJ4Z1drMzZjZjFmTGNHd0N1amhLUWl5cUFnUnJn?oc=5",
+      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUd1ZVlldFI3cUtuSXFZd0FkcDdGc0JmZUdxU2o1cU5JWEZyWnNvWkwxV3NaLXY0ZjZzd1N3MklWSl9RemdkWFZhWGY0Ni1yVVc2SXJ3eHg3ckZCTVhUTE5XeUx3dVVSekZxMnhWQWt1REhlZDdNbFo2RU1DdTZVMVh0N0c2YnFiaDRwTXQ0dzN4QWRQMElQaG5hNC1IVzgwLWdEYUtTcnlQckNIUXVmWA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-28T16:53:31.000Z"
-    },
-    {
-      "title": "EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T09:10:27.000Z"
-    },
-    {
-      "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T01:41:00.000Z"
-    },
-    {
-      "title": "Fed's Cook sees further inflationary pressures ahead",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hBTjdyQzBjNTJoTkhvQV9YVk9rWnRMWjhhR0Jkd2ZQcDBoRU5UQUZZTElmX1pYZzFhUXdsSF9Cc1otTVZGR1BOQmtBcXU2eS1hNC1EWE45V2lWWmdFSU8xS0RPSDdfR3k2NjRwSjdwYzhMelNsOU5CSzhzZ1Y4U0t2ZDlDZGo3OVBuSW9lcWxjU1lNWUkwSS1QV0I?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T17:26:00.000Z"
-    },
-    {
-      "title": "Dollar flat as US-Iran stand-off lifts oil, yields",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN6Yy1FQUFsN3Z3US1YZWg2amxMczRubW9XaV9vWHJTc0JYbGN6YjhiX1hlWG5CZUdJbEVpcmwwTmdMT3EtTTNqRENIM25PSWY2RUhFVnBkTFBhY3d5VnlJY3NqWHhTSm8xN1FXY0lsVjBjN0JfQXI2Zml5WTNEcW9wMExxT21BbDVETDJZOFFrY0RXMGkwTUJHaTgzS2k1SHBQTVNhTlN5VVJVTllz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T01:35:00.000Z"
-    },
-    {
-      "title": "ECB eyes new currency safety nets to boost euro's global role",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXV0ZlVtOXNhdnBPeENoRFpyTk5kX3ZzaTM5ZG5aSHl3VTFRbGhYdTdmOW54REc2b2ZSNHhzcS02ZzhPUExlT3ZJdUdTaW13aUJIVXdycFNZRkZvNkNYU2FHLVNfSjE1UjZnTl9iS05SM0VCYllEbTI3Z1dxeHdYU3ZTZWUxcm15SURQaDltMjdFWlpYTjZJMnBhaDZBZXhVbTlsbVlvN3hDWWZFSE5F?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T21:50:33.000Z"
+      "publishedAt": "2026-09-28T17:02:16.000Z"
     }
   ]
 }
