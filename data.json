@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T18:48:12.640Z",
+  "updated": "2026-09-30T01:26:15.950Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7683.69,
-      "display": "7,684",
-      "change": -59.720000000000255,
-      "changePct": -0.771,
-      "date": "2026-09-28",
+      "value": 7670.84,
+      "display": "7,671",
+      "change": -12.849999999999454,
+      "changePct": -0.167,
+      "date": "2026-09-29",
       "spark": [
-        7745.06,
         7691.76,
         7707.98,
         7641.16,
@@ -82,7 +81,8 @@
         7706.03,
         7704.13,
         7743.41,
-        7683.69
+        7683.69,
+        7670.84
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 83487.03,
-      "display": "83,487",
-      "change": -1066.8800000000047,
-      "changePct": -1.262,
-      "date": "2026-09-28",
+      "value": 83636.7,
+      "display": "83,637",
+      "change": 149.66999999999825,
+      "changePct": 0.179,
+      "date": "2026-09-29",
       "spark": [
-        77757.98,
         78603.02,
         77392.65,
         77330.23,
@@ -254,7 +253,8 @@
         84048.07,
         84337.36,
         84553.91,
-        83487.03
+        83487.03,
+        83636.7
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.81,
-      "display": "4.81",
-      "change": -0.0600000000000005,
-      "changePct": -1.232,
-      "date": "2026-09-25",
+      "value": 4.92,
+      "display": "4.92",
+      "change": 0.11000000000000032,
+      "changePct": 2.287,
+      "date": "2026-09-28",
       "spark": [
-        4.17,
         4.19,
         4.19,
         4.19,
@@ -1400,7 +1399,8 @@
         4.71,
         4.85,
         4.87,
-        4.81
+        4.81,
+        4.92
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.17,
-      "display": "5.17",
-      "change": -0.009999999999999787,
-      "changePct": -0.193,
-      "date": "2026-09-25",
+      "value": 5.24,
+      "display": "5.24",
+      "change": 0.07000000000000028,
+      "changePct": 1.354,
+      "date": "2026-09-28",
       "spark": [
-        4.68,
         4.72,
         4.71,
         4.65,
@@ -1443,7 +1442,8 @@
         4.96,
         5.11,
         5.18,
-        5.17
+        5.17,
+        5.24
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Soaring cancer rates in Iowa emerge as a key US midterms issue",
+      "title": "Fed's Williams sees no urgency for next rate hike - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW15c0ZrS2lrMUlHZDZjZlpxRG5GazRlendBenpXeWZSR3NCaXBFLXA5LVBlbWNEeDNsWnRnS25CYWwxc3AzRDhrTjhUZTNZcl8xN2VDT3JtZHk1eVpHUzFaaXpVVy1HbUk1Y3hKOEtoTmxpNTVwWkJHZXVvTWl1cm5QdWVpWXhFQkxBdmt4enRJRkF3NUlxTQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T18:01:00.000Z"
+    },
+    {
+      "title": "Soaring cancer rates in Iowa emerge as a key US midterms issue - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-29T13:59:09.000Z"
     },
     {
-      "title": "Battered bond market braces for a new era of interest rates",
+      "title": "Battered bond market braces for a new era of interest rates - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-29T04:47:00.000Z"
     },
     {
-      "title": "Oura joins wave of IPO delays as markets turn shaky",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDctV240eEZCRDJqSGJ5ZTRPSm1uaDNIalFqY19ZdjVjY2ZTZXU3Zi00NkNpM3haSVZkU3dDNzNvYzVkcUxRWkNlOG91OUVMbGJHc0xwU0FmaE5RdEtsNXl2NXlOTFQtMHRLWHM0WWFtLVJGZXZDRG1zV0tMU0tVWnotdUpMNFZSZW03b3pwYktDVmZz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-29T11:35:43.000Z"
-    },
-    {
-      "title": "Euro's dollar resilience faces energy price, political risk tests",
+      "title": "Euro's dollar resilience faces energy price, political risk tests - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0U4dHpHSkRBSUQ4VnFlY2RNb3U5OGVINGNleGNyTWwyN1NVeEVBR0xZV295T3RmeTI3V3N6WnJvakxYV3pBbVdDcGFWOFBEVDc4dzZKb1hTU3otNFpBNzBwU05kXy1IM09hSHJQa0ZZWVBhRVpUWk9yb2RsUmZfRG5ZQWRuenBsYklPSVhWTjRyMHJ3NHZ2YW1YSzBXNVNhdmRkcnBrNU94MGlwNnBIMkVR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-29T05:02:00.000Z"
     },
     {
-      "title": "Dollar gains as Treasury yields top 5%, Aussie slides after RBA hike",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm1xMjE3YTBSdTBJRVI5blBWcFFOS1ZSQWZlcVhMZU1iWU1kZTkyaElQUXhyRzZ4My1UcmdUVW1MZldrdjMzblF5eEh5amIwb2tlWmozYjloa29GaEhoT2dMbFFteHRwLV9pem9OYkowV3RUaGhnTUhDUjcwLXozSG1rT0dOMmdsdERFUlVwM1p4TjBZQlFZZWx2aTc4VC03QURrOWM1c1IwVXc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-29T01:57:00.000Z"
-    },
-    {
-      "title": "Gold rises but strong Fed hike bets keep it near seven week-low",
+      "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-29T02:59:00.000Z"
     },
     {
-      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
+      "title": "Dollar hits 16-month high on euro and Swiss franc as US yields top 5% - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm1xMjE3YTBSdTBJRVI5blBWcFFOS1ZSQWZlcVhMZU1iWU1kZTkyaElQUXhyRzZ4My1UcmdUVW1MZldrdjMzblF5eEh5amIwb2tlWmozYjloa29GaEhoT2dMbFFteHRwLV9pem9OYkowV3RUaGhnTUhDUjcwLXozSG1rT0dOMmdsdERFUlVwM1p4TjBZQlFZZWx2aTc4VC03QURrOWM1c1IwVXc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T01:57:00.000Z"
+    },
+    {
+      "title": "Stocks dip, 2-year US yield falls after Fed's Williams cools rate hike bets - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVdQU2VNMWNudXUwMjk0YnFXekg0R3B3d1gxcHUtcmx1UU9pSEtXNGRZTjMwR29Qa0JhSFJmdmRIZUdpdzFJVXVrcEFyYWwzZ0xsV0J2QmlaLTZXb0FzY0Fpa2JqdGJrWG53Sk0zX3RYc1ZZYmZkWFZ4bHJkM0gtRWpkYw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-09-29T02:08:00.000Z"
+    },
+    {
+      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-09-28T17:44:41.000Z"
-    },
-    {
-      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUd1ZVlldFI3cUtuSXFZd0FkcDdGc0JmZUdxU2o1cU5JWEZyWnNvWkwxV3NaLXY0ZjZzd1N3MklWSl9RemdkWFZhWGY0Ni1yVVc2SXJ3eHg3ckZCTVhUTE5XeUx3dVVSekZxMnhWQWt1REhlZDdNbFo2RU1DdTZVMVh0N0c2YnFiaDRwTXQ0dzN4QWRQMElQaG5hNC1IVzgwLWdEYUtTcnlQckNIUXVmWA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T17:02:16.000Z"
     }
   ]
 }
