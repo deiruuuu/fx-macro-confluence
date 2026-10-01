@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T01:26:02.245Z",
+  "updated": "2026-10-01T18:58:39.222Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2549.94,
-      "display": "2,549.94",
-      "change": 32.5,
-      "changePct": 1.291,
-      "date": "2026-09-29",
+      "value": 2537.42,
+      "display": "2,537.42",
+      "change": -12.519999999999982,
+      "changePct": -0.491,
+      "date": "2026-09-30",
       "spark": [
-        2646.75,
         2701.18,
         2705.44,
         2727.89,
@@ -125,7 +124,8 @@
         2603.22,
         2614.49,
         2517.44,
-        2549.94
+        2549.94,
+        2537.42
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.04,
-      "display": "16.04",
-      "change": -0.030000000000001137,
-      "changePct": -0.187,
-      "date": "2026-09-29",
+      "value": 16.34,
+      "display": "16.34",
+      "change": 0.3000000000000007,
+      "changePct": 1.87,
+      "date": "2026-09-30",
       "spark": [
-        14.89,
         16.01,
         15.13,
         15.85,
@@ -211,7 +210,8 @@
         15.67,
         14.87,
         16.07,
-        16.04
+        16.04,
+        16.34
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "spark": [
         2.25,
         2.25,
@@ -1211,7 +1211,7 @@
         2.25,
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.04,
-      "display": "16.04",
-      "change": -0.030000000000001137,
-      "changePct": -0.187,
-      "date": "2026-09-29",
+      "value": 16.34,
+      "display": "16.34",
+      "change": 0.3000000000000007,
+      "changePct": 1.87,
+      "date": "2026-09-30",
       "spark": [
-        14.89,
         16.01,
         15.13,
         15.85,
@@ -1355,7 +1354,8 @@
         15.67,
         14.87,
         16.07,
-        16.04
+        16.04,
+        16.34
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Watchdog finds no Fed misconduct in renovation; Trump calls for Powell's resignation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnN2cDczYmlxZHdIZlAxeWVkVWZPVlA4SmJ2eHB2UTVjZzhHbTRuUy1uazQyblA1UDBFbDVXOFNyUXdJUFZUVHVwR2pHR3dqSkhNbGdmQ1Iyb3k3R3A5MlZuYnhkd2ROX0xLaHVFeGVSUG0tTHhneWxJdmFTeUVPalBQQTN4elgzME1GejM5dUJ2WG5sbG1heGlCZjIxd1NtOGtTMDhoM21ZNVpOSVMwZEIxSjM3cjRYQkhzTA?oc=5",
+      "title": "ECB focuses on inflation, not bond spreads, Nagel says",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHZQZHNWRjJnT0JEQ0pvTE5pR0hzdDNyZlNfLUJ3cV90ekxuTzVJdWZ4NjJjSXMxUlF0N0JlSTV2aGRIX0RYZ2NpVHJnWkg1S0x0N2xpZnhrUjYxUFVPUlE1Z1g4MGowQ21ZcGxaV0VmUmtqSEMtVkR6MEtuVVBMRjhqY3RmT25hdXRINE42UXdCdFd5N1dVUzJvV3FjOUtiazBnUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T23:15:21.000Z"
+      "publishedAt": "2026-10-01T13:51:59.000Z"
     },
     {
-      "title": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThZWmxxSzE4Q3hOazJLT29OcExPMnFWcGRpTFhGWlkxV2xkbV9qTlB1WDRpWGJKYXJRdk9QR1pKZzlSeENqMnlXbGo0TFI5dERyQlZsVEZubnFLdFNzLVhRQ1ZrdWs3RlZwbC1wYTdlNzhpdjBhdUduTnYyMVJuWjNfTE1FeFZ2Q0ZCaUx0eF9LMUxNWjNFXzIwNA?oc=5",
+      "title": "Why are world bond markets selling off again?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHlJS0dDUGUxQWFaeWpJX21IdEZqSmw1UFRBcmcxajlsZW1yNlVVRm1ZQUVHQ0huUGdIdnBRTU1id0k3dVl1SlJ0UkxmNFUwNy1nWTNDcWtZdVpqOHp3czVja1hNWnZfQ2RxZnNUNDJYdXlSdVluME5vTjlhNVlYOEhUVVZRNVd1RzU3NWJyb0Q5R1hxZ2NOVGdZSFBnQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T21:05:35.000Z"
+      "publishedAt": "2026-10-01T13:17:34.000Z"
     },
     {
-      "title": "US inflation rises below expectations in August, gives the Fed breathing space",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktrS2JqeGdwTmowTVBNV2lPbnZwcVdwSzJPVi1aRzZuVDVQU3RtRGZ1UExTOVJnWm9CcTNYbnFneF9wOWlCMU5MNXEwMDN4UmhVVkx2MFVWOC1EYVdyb3Y3WXNYYXhNUzZSUExKQzNZOWk4U1dRaVBMMUZBeklyT0VqNFVhbUV3RjJmbThsM3FOejFUV2lBV0ZtZjNTZjVqRFYwcGZqZWdKdjBRa3FvcmdKRTRWak0?oc=5",
+      "title": "Canada to fast track oil pipeline designed to diversify economy away from US",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWtEU1lqY1h5V3phT1R1RG5tQkNJeVJYS2xPYzh4Mkh4WTNZY0F2MHVwMzVGaUpfMWFvMmVXR3RYaC11WkZkV0xpOGVZWXRVbUZPOFRubE0zSWxiX3g5Mk5IajJpQ3d0Rlc1aFRlWHZLeGJaR3ctWlR6NGIyLW56TXBvd29lNHEyWWxyVThKZEFnT05LTDBwRTRZQlQ2c2VweFpqNjZEYWU0UXJFdTZmdk8zVEtnY2pu?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T12:49:00.000Z"
+      "publishedAt": "2026-10-01T17:45:13.000Z"
     },
     {
-      "title": "Fed's Cook: inflation has been too high for too long",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXN4NGRrZm1tSmhnMzJSelJvQkFYUmgtZy1fSDdoYmNzZXJ4MTV4azhUQ19KU2JfM19wLW5haXA2WjlBQm10aWxBTF9BVUY1THI0clpyYzZOalRsTk5XeEFyV3lVbjhYUkJwOElqU3NvazI0ZlpTSTFqeGZnUEhJS05hRTVUa2dhOVUwYl9aM3NlVldmRGc?oc=5",
+      "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T19:28:23.000Z"
+      "publishedAt": "2026-10-01T17:43:29.000Z"
     },
     {
-      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
+      "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T23:40:02.000Z"
+      "publishedAt": "2026-10-01T04:48:00.000Z"
     },
     {
-      "title": "German inflation hits highest level in almost 3 years",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazk0TXpBNWs4Tnc3V21JZFhFQkJFWk5TcmVBcnRyekFjYWtrTWx5MmpmcWdsb1hCaERvUjU2bkpoTWhpMWQtQ0ctRndEdk1lUmc2bXVvcHpFUC1BNy1ONDBieHZWcUE1bmxtX2x0bVZMdW5ueUZvSDNlUy1wZ2RmUlA3am5hb0x5TnZBZ2s0Vm0tTUtRdHktQXVwMXhoR0hxOWtuV0hoYw?oc=5",
+      "title": "Dollar hits 17-month high versus euro as bond selloff lifts yields",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlN4RHI0V0tISVZ4QVQ5RDhyaWFvOG9XT3ptSFJ5TlNseGZjZUVJM0hjcHFjbUZKUHhPZ3hLNEZRdXV6UUJZWU9ralAxSnJBVldmVkp6R0swZ0haWjhOeE1wZnhtVWtNUXJSWkZ0V2I0dEk2Rkx1cU5BUnAyR3ZMeUFYOTVvUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T14:45:54.000Z"
+      "publishedAt": "2026-10-01T01:04:00.000Z"
     },
     {
-      "title": "China's Xi talks economy, Taiwan at reception marking National Day",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkxBSTMzbVJTOWh4QzJ1MFhHTzNCUFRlazZwU1F4aURwUXp2ZnNtejRBMXk0YWFGeVVld0FPQ29Xa0hGVGJHcmVvbjZYR2lyN0tlZmFSTjM0SlJqOEVsSXVsNU1kRV9BYk1HSzRQcFR2Z1FoZTBZTXNkbzB3eTlqWHZLcUpLSEQ1MllZSmlhT3NjblFpb2pIZldnUF9FeDZDV3ZlS1BSczRoc285M1E?oc=5",
+      "title": "Morning Bid: Inflation relief gives bonds little reprieve",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0Etd0dqZDdmOElyWmt1UmRTQUpyZlNEckx1Ti1rclc0V1g1QjdzaUxhckRyVTZtX2l0UWRaV2pmdW9RX01rQzhTQzdydUxYdEUtTjFVVUtGcGpLUXFHdFdSd010RTkxc29tZ0t6dDhfWDJLZHFQX1FSTHRSU2V5WEh1QQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T11:23:43.000Z"
+      "publishedAt": "2026-10-01T04:33:00.000Z"
     },
     {
-      "title": "Gold falls despite cooler inflation data, monthly loss in sight",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTld2SXpINElrMTRxSGliajBqR3dqcC1fQkJZNTVJb3JLVEI2aWxRVXRzclZBbGtoclctUVkxZ0t2VjdtRmpjRlhHMUp2Q1c2Nm9qb01HX1ZKZnRuNk5ETWVoaHU0VFVuU3JZMUZIZXVKT1ozMTc0VHM0emdJOVJJTHZrRGZPUkJhbFRZTGFhZUlNTlFqbGhhSENMRDhJcUxxUHlGR29ocWdjeGFo?oc=5",
+      "title": "VIEW Bond markets take a drubbing again, 10-year Treasury yields highest since 2002.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmFGbFF2aHRBRzZrcjZKTVN5clpFRHM3ekNTNnlSQjl0M0R0dmJpdzVjYlRHeC1IN3FnTGcxSWg0ZVFyZy1IcU83LXhmLW5idk00R1JJc281ZzUwSDhRY01PSVdoY21JNHByRmtpclFKMVdsVFZ5NkpPc0RONjl1Tk5vek1KMTFSb1k1dTNZOWt4R2h1eUF1WUhRX0NIOWZHc3VVc2xVaHdoRGNoYXpmdzNEdlJlZHhZdEVjaDhwTWd5YkEtOFFqaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-09-30T17:58:29.000Z"
+      "publishedAt": "2026-10-01T09:15:44.000Z"
     }
   ]
 }
