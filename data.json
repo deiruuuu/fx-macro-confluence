@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:58:39.222Z",
+  "updated": "2026-10-02T01:46:18.882Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7651.54,
-      "display": "7,652",
-      "change": -19.300000000000182,
-      "changePct": -0.252,
-      "date": "2026-09-30",
+      "value": 7666.45,
+      "display": "7,666",
+      "change": 14.909999999999854,
+      "changePct": 0.195,
+      "date": "2026-10-01",
       "spark": [
-        7707.98,
         7641.16,
         7674.37,
         7652.86,
@@ -82,7 +81,8 @@
         7743.41,
         7683.69,
         7670.84,
-        7651.54
+        7651.54,
+        7666.45
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 83482.51,
-      "display": "83,483",
-      "change": -154.19000000000233,
-      "changePct": -0.184,
-      "date": "2026-09-30",
+      "value": 84759.64,
+      "display": "84,760",
+      "change": 1277.1300000000047,
+      "changePct": 1.53,
+      "date": "2026-10-01",
       "spark": [
-        77392.65,
         77330.23,
         81129.19,
         79658.55,
@@ -254,7 +253,8 @@
         84553.91,
         83487.03,
         83636.7,
-        83482.51
+        83482.51,
+        84759.64
       ],
       "unit": "",
       "suffix": ""
@@ -847,13 +847,12 @@
     "fed_rate": {
       "label": "FED RATE",
       "series": "FEDFUNDS",
-      "value": 3.63,
-      "display": "3.63",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-08-01",
+      "value": 3.75,
+      "display": "3.75",
+      "change": 0.1200000000000001,
+      "changePct": 3.306,
+      "date": "2026-09-01",
       "spark": [
-        5.33,
         5.33,
         5.33,
         5.33,
@@ -882,7 +881,8 @@
         3.63,
         3.63,
         3.63,
-        3.63
+        3.63,
+        3.75
       ],
       "unit": "",
       "suffix": "%"
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.89,
-      "display": "4.89",
-      "change": -0.03000000000000025,
-      "changePct": -0.61,
-      "date": "2026-09-29",
+      "value": 4.88,
+      "display": "4.88",
+      "change": -0.009999999999999787,
+      "changePct": -0.204,
+      "date": "2026-09-30",
       "spark": [
-        4.19,
         4.19,
         4.19,
         4.24,
@@ -1400,7 +1399,8 @@
         4.87,
         4.81,
         4.92,
-        4.89
+        4.89,
+        4.88
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.26,
-      "display": "5.26",
-      "change": 0.019999999999999574,
-      "changePct": 0.382,
-      "date": "2026-09-29",
+      "value": 5.29,
+      "display": "5.29",
+      "change": 0.03000000000000025,
+      "changePct": 0.57,
+      "date": "2026-09-30",
       "spark": [
-        4.71,
         4.65,
         4.69,
         4.74,
@@ -1443,13 +1442,38 @@
         5.18,
         5.17,
         5.24,
-        5.26
+        5.26,
+        5.29
       ],
       "unit": "",
       "suffix": ""
     }
   },
   "news": [
+    {
+      "title": "Fed policymakers lean against October rate hike",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-01T17:32:00.000Z"
+    },
+    {
+      "title": "Canada to fast track oil pipeline designed to diversify economy away from US",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWtEU1lqY1h5V3phT1R1RG5tQkNJeVJYS2xPYzh4Mkh4WTNZY0F2MHVwMzVGaUpfMWFvMmVXR3RYaC11WkZkV0xpOGVZWXRVbUZPOFRubE0zSWxiX3g5Mk5IajJpQ3d0Rlc1aFRlWHZLeGJaR3ctWlR6NGIyLW56TXBvd29lNHEyWWxyVThKZEFnT05LTDBwRTRZQlQ2c2VweFpqNjZEYWU0UXJFdTZmdk8zVEtnY2pu?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-01T22:46:25.000Z"
+    },
+    {
+      "title": "US mortgage rates jump by most in 4 years in latest week",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWlhBcmpBS2FHRFJJWk5QenJlWnQxWGI2a1FDNmxRa1ZXLW1yMkwzdVg4QVNDUnBzc0RNaGdid0lmV0JWZEdQZlhJQmx6X0tPbXJ2aHBDM1JpUU40dExEN1Rud0JCMVEtOFRBQ01qSWg0MThJRkpNTm1LN0FmaU1UcW5HWFJXVnFCMGVBbklmNVNxdVdYY1NVQjVXbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-01T18:52:09.000Z"
+    },
+    {
+      "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-01T17:43:29.000Z"
+    },
     {
       "title": "ECB focuses on inflation, not bond spreads, Nagel says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHZQZHNWRjJnT0JEQ0pvTE5pR0hzdDNyZlNfLUJ3cV90ekxuTzVJdWZ4NjJjSXMxUlF0N0JlSTV2aGRIX0RYZ2NpVHJnWkg1S0x0N2xpZnhrUjYxUFVPUlE1Z1g4MGowQ21ZcGxaV0VmUmtqSEMtVkR6MEtuVVBMRjhqY3RmT25hdXRINE42UXdCdFd5N1dVUzJvV3FjOUtiazBnUQ?oc=5",
@@ -1463,40 +1487,16 @@
       "publishedAt": "2026-10-01T13:17:34.000Z"
     },
     {
-      "title": "Canada to fast track oil pipeline designed to diversify economy away from US",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWtEU1lqY1h5V3phT1R1RG5tQkNJeVJYS2xPYzh4Mkh4WTNZY0F2MHVwMzVGaUpfMWFvMmVXR3RYaC11WkZkV0xpOGVZWXRVbUZPOFRubE0zSWxiX3g5Mk5IajJpQ3d0Rlc1aFRlWHZLeGJaR3ctWlR6NGIyLW56TXBvd29lNHEyWWxyVThKZEFnT05LTDBwRTRZQlQ2c2VweFpqNjZEYWU0UXJFdTZmdk8zVEtnY2pu?oc=5",
+      "title": "Venezuela's oil exports down in September amid high freight rates, data show",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-01T17:45:13.000Z"
+      "publishedAt": "2026-10-01T18:33:58.000Z"
     },
     {
-      "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-01T17:43:29.000Z"
-    },
-    {
-      "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
+      "title": "Gold edges up as softer inflation data dents Fed rate-hike bets",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-01T04:48:00.000Z"
-    },
-    {
-      "title": "Dollar hits 17-month high versus euro as bond selloff lifts yields",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlN4RHI0V0tISVZ4QVQ5RDhyaWFvOG9XT3ptSFJ5TlNseGZjZUVJM0hjcHFjbUZKUHhPZ3hLNEZRdXV6UUJZWU9ralAxSnJBVldmVkp6R0swZ0haWjhOeE1wZnhtVWtNUXJSWkZ0V2I0dEk2Rkx1cU5BUnAyR3ZMeUFYOTVvUQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-01T01:04:00.000Z"
-    },
-    {
-      "title": "Morning Bid: Inflation relief gives bonds little reprieve",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0Etd0dqZDdmOElyWmt1UmRTQUpyZlNEckx1Ti1rclc0V1g1QjdzaUxhckRyVTZtX2l0UWRaV2pmdW9RX01rQzhTQzdydUxYdEUtTjFVVUtGcGpLUXFHdFdSd010RTkxc29tZ0t6dDhfWDJLZHFQX1FSTHRSU2V5WEh1QQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-01T04:33:00.000Z"
-    },
-    {
-      "title": "VIEW Bond markets take a drubbing again, 10-year Treasury yields highest since 2002.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmFGbFF2aHRBRzZrcjZKTVN5clpFRHM3ekNTNnlSQjl0M0R0dmJpdzVjYlRHeC1IN3FnTGcxSWg0ZVFyZy1IcU83LXhmLW5idk00R1JJc281ZzUwSDhRY01PSVdoY21JNHByRmtpclFKMVdsVFZ5NkpPc0RONjl1Tk5vek1KMTFSb1k1dTNZOWt4R2h1eUF1WUhRX0NIOWZHc3VVc2xVaHdoRGNoYXpmdzNEdlJlZHhZdEVjaDhwTWd5YkEtOFFqaw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-01T09:15:44.000Z"
     }
   ]
 }
