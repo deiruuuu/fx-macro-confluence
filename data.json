@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:36:28.780Z",
+  "updated": "2026-10-03T01:19:08.934Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7666.45,
-      "display": "7,666",
-      "change": 14.909999999999854,
-      "changePct": 0.195,
-      "date": "2026-10-01",
+      "value": 7722.72,
+      "display": "7,723",
+      "change": 56.27000000000044,
+      "changePct": 0.734,
+      "date": "2026-10-02",
       "spark": [
-        7641.16,
         7674.37,
         7652.86,
         7677.28,
@@ -82,7 +81,8 @@
         7683.69,
         7670.84,
         7651.54,
-        7666.45
+        7666.45,
+        7722.72
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 84759.64,
-      "display": "84,760",
-      "change": 1277.1300000000047,
-      "changePct": 1.53,
-      "date": "2026-10-01",
+      "value": 84478.54,
+      "display": "84,479",
+      "change": -281.1000000000058,
+      "changePct": -0.332,
+      "date": "2026-10-02",
       "spark": [
-        77330.23,
         81129.19,
         79658.55,
         79879.24,
@@ -254,7 +253,8 @@
         83487.03,
         83636.7,
         83482.51,
-        84759.64
+        84759.64,
+        84478.54
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.88,
-      "display": "4.88",
-      "change": -0.009999999999999787,
-      "changePct": -0.204,
-      "date": "2026-09-30",
+      "value": 4.78,
+      "display": "4.78",
+      "change": -0.09999999999999964,
+      "changePct": -2.049,
+      "date": "2026-10-01",
       "spark": [
-        4.19,
         4.19,
         4.24,
         4.24,
@@ -1400,7 +1399,8 @@
         4.81,
         4.92,
         4.89,
-        4.88
+        4.88,
+        4.78
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.29,
-      "display": "5.29",
-      "change": 0.03000000000000025,
-      "changePct": 0.57,
-      "date": "2026-09-30",
+      "value": 5.24,
+      "display": "5.24",
+      "change": -0.04999999999999982,
+      "changePct": -0.945,
+      "date": "2026-10-01",
       "spark": [
-        4.65,
         4.69,
         4.74,
         4.7,
@@ -1443,7 +1442,8 @@
         5.17,
         5.24,
         5.26,
-        5.29
+        5.29,
+        5.24
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,16 @@
   },
   "news": [
     {
-      "title": "Fed seen skipping October rate hike as job market cools",
+      "title": "Fed may skip October but pull rate hike trigger in December",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-02T14:21:19.000Z"
+      "publishedAt": "2026-10-02T21:22:37.000Z"
     },
     {
-      "title": "VIEW Soft September jobs report sends markets higher",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5",
+      "title": "States, cities sue US agencies over weaker vehicle fuel economy rules",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzFoSDVMWVRwb2x6N2wzZ0xKVnZhZ05vR0pGWFM3ckY1OFpIQjRtdmxESG1EMlQ3Z1R1REpUZVQ0VU96dnE0dkRYRDlrTmlPNW9abnB4aWhObXJGS2Vhd0Mxd0FUbGRWaXFPdEV0eE5aYlNORk01OW9qSFhFX0U0bW5VUmhYRkZDZER0VmNxSm5jOEgxUG1TdFFMR0ZHVndlazRNY3AwUVN5cHM3TTBJ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-02T13:33:10.000Z"
+      "publishedAt": "2026-10-02T18:12:24.000Z"
     },
     {
       "title": "Euro zone inflation surges more than expected, keeping pressure on ECB to hike rates",
@@ -1469,16 +1469,10 @@
       "publishedAt": "2026-10-02T09:57:23.000Z"
     },
     {
-      "title": "Dollar heads for fourth straight weekly gain versus euro",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDJ0MVcydW5OMDJ6dmo1YlhfXzBFN3d2Z3RsV0x2TGdJanNiX2xmejRaRnRybkdNOXNqTkw0RlhrRkxmbXAzUS1wc3JfVENRRHViZHVYbnp3TU5OVFFVQU5NY1lBaU1aVHlfMXVlZTBsWmRuNDFpZVN0SGN3cXdwWDdCYVBuVXNnT2FzNEdKMC1JX2dORE5QQURlRGZ1T01tSkpQTA?oc=5",
+      "title": "VIEW Soft September jobs report sends markets higher",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-02T01:46:00.000Z"
-    },
-    {
-      "title": "Stocks gain, dollar falls after US jobs data; bond yields higher",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-02T02:10:00.000Z"
+      "publishedAt": "2026-10-02T13:33:10.000Z"
     },
     {
       "title": "Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh",
@@ -1487,10 +1481,16 @@
       "publishedAt": "2026-10-02T02:24:00.000Z"
     },
     {
-      "title": "Fed policymakers lean against October rate hike",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
+      "title": "Dollar set for fourth weekly gain versus euro",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDJ0MVcydW5OMDJ6dmo1YlhfXzBFN3d2Z3RsV0x2TGdJanNiX2xmejRaRnRybkdNOXNqTkw0RlhrRkxmbXAzUS1wc3JfVENRRHViZHVYbnp3TU5OVFFVQU5NY1lBaU1aVHlfMXVlZTBsWmRuNDFpZVN0SGN3cXdwWDdCYVBuVXNnT2FzNEdKMC1JX2dORE5QQURlRGZ1T01tSkpQTA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-01T17:32:00.000Z"
+      "publishedAt": "2026-10-02T01:46:00.000Z"
+    },
+    {
+      "title": "Stocks rise after weak US jobs data but bonds resume selling",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-02T02:10:00.000Z"
     },
     {
       "title": "Canada to fast track oil pipeline designed to diversify economy away from US",
