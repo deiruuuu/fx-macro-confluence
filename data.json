@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:11:48.953Z",
+  "updated": "2026-10-06T02:26:07.932Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7722.72,
-      "display": "7,723",
-      "change": 56.27000000000044,
-      "changePct": 0.734,
-      "date": "2026-10-02",
+      "value": 7773.95,
+      "display": "7,774",
+      "change": 51.22999999999956,
+      "changePct": 0.663,
+      "date": "2026-10-05",
       "spark": [
-        7674.37,
         7652.86,
         7677.28,
         7675.7,
@@ -82,7 +81,8 @@
         7670.84,
         7651.54,
         7666.45,
-        7722.72
+        7722.72,
+        7773.95
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 86423.68,
-      "display": "86,424",
-      "change": 1609.9699999999866,
-      "changePct": 1.898,
-      "date": "2026-10-04",
+      "value": 85820.65,
+      "display": "85,821",
+      "change": -603.0299999999988,
+      "changePct": -0.698,
+      "date": "2026-10-05",
       "spark": [
-        79879.24,
         80309.06,
         79067.23,
         78548.91,
@@ -254,7 +253,8 @@
         84759.64,
         84478.54,
         84813.71,
-        86423.68
+        86423.68,
+        85820.65
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,12 @@
   },
   "news": [
     {
+      "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-05T21:34:19.000Z"
+    },
+    {
       "title": "EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNkZnRTSmgzdlNhUVVQUU4yV3J6S3E1Y1FtSEV1UHVkZW9VeldUbURyaXQ4MHplQWl3SlM5QlF0TXdPU3lwWmZSbDdJRXJGS29QNU9ib1lEMS05QUgzNVV2VFU0RUZzc216X2FKSDlzX2p5V3o4QnJLU3JpNEw5QjFKLXVBSXEyeUwtWXRlMDB3X0RRa3dTVWNyRmhqNFV6N1ZuSFBDNjVSM1RTaHVDUVhuWHE?oc=5",
       "source": "Reuters",
@@ -1461,12 +1467,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHVNTExwWGlTS2Z3LVVrWi1nS1FxSV9KeXdQSlhLd1V6d1BLX1JJbmxkU3prQ1BjdGVDTVAzZXRienlRbExib3ZKRjJUS0J6cjdJUmpIR3RfeDdGaGRaalc4b3llUnRfMEpDRzI1SmJrV1pjUFlDSFo4T1REekhudXVnYTdobHptdkI4QjZXU0RNTWh5Qk9kX0h0N0pYTFM4TWpjVXVhVGN1SUc1aGt1NlppTQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-05T06:02:00.000Z"
-    },
-    {
-      "title": "Brazil's currency, stocks soar after Bolsonaro scores first-round election upset",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T19:02:14.000Z"
     },
     {
       "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
