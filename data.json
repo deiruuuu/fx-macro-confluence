@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T02:26:07.932Z",
+  "updated": "2026-10-06T18:59:37.326Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2533.51,
-      "display": "2,533.51",
-      "change": -16.729999999999563,
-      "changePct": -0.656,
-      "date": "2026-10-02",
+      "value": 2529.93,
+      "display": "2,529.93",
+      "change": -3.580000000000382,
+      "changePct": -0.141,
+      "date": "2026-10-05",
       "spark": [
-        2727.89,
         2737.83,
         2743.97,
         2732.25,
@@ -125,7 +124,8 @@
         2549.94,
         2537.42,
         2550.24,
-        2533.51
+        2533.51,
+        2529.93
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.31,
-      "display": "15.31",
-      "change": -1.08,
-      "changePct": -6.589,
-      "date": "2026-10-02",
+      "value": 15.52,
+      "display": "15.52",
+      "change": 0.20999999999999908,
+      "changePct": 1.372,
+      "date": "2026-10-05",
       "spark": [
-        15.85,
         15.45,
         15.21,
         14.51,
@@ -211,7 +210,8 @@
         16.04,
         16.34,
         16.39,
-        15.31
+        15.31,
+        15.52
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "spark": [
         2.25,
         2.25,
@@ -1206,7 +1206,7 @@
         2.25,
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.31,
-      "display": "15.31",
-      "change": -1.08,
-      "changePct": -6.589,
-      "date": "2026-10-02",
+      "value": 15.52,
+      "display": "15.52",
+      "change": 0.20999999999999908,
+      "changePct": 1.372,
+      "date": "2026-10-05",
       "spark": [
-        15.85,
         15.45,
         15.21,
         14.51,
@@ -1355,7 +1354,8 @@
         16.04,
         16.34,
         16.39,
-        15.31
+        15.31,
+        15.52
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,42 @@
   },
   "news": [
     {
+      "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T18:15:37.000Z"
+    },
+    {
+      "title": "Cost-of-living crises have lasting impact on inflation expectations, poverty, IMF says",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNW9nbmdmVzFNOXVhRE81N3NZWGRIV0R5TDNpS2l4bmFTSzBPTHlTU1Job19jbXJHZm5zSFMyWXA4bGIwZWZTQnFuaFNFUVQ3MzI4NTdTbnJMNC1GeW9HMi03emwwTjdvV2hBd1dqcFJrazhicEVMNWE3dmc4TzBJcHRHVWFOVDF4RVU0OVRnM3RXbHBBdHI3NktqWlBCSWtONVlCVWI0cGxNdkZXZXkxc3pEbTg0eUhDOFlGTXhEazZ5Njg5QWp0UkQtNA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T13:12:23.000Z"
+    },
+    {
+      "title": "BOJ may signal underlying inflation has hit 2% goal, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T04:28:00.000Z"
+    },
+    {
+      "title": "Gold edges up as dollar, Treasury yields slip",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T02:15:00.000Z"
+    },
+    {
+      "title": "Le Pen eyes bond markets with promise of bigger spending cuts if far right wins presidency",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T04:06:00.000Z"
+    },
+    {
+      "title": "Euro bounces as falling French bond yields temper debt concerns",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T01:14:00.000Z"
+    },
+    {
       "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
       "source": "Reuters",
@@ -1461,42 +1497,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNkZnRTSmgzdlNhUVVQUU4yV3J6S3E1Y1FtSEV1UHVkZW9VeldUbURyaXQ4MHplQWl3SlM5QlF0TXdPU3lwWmZSbDdJRXJGS29QNU9ib1lEMS05QUgzNVV2VFU0RUZzc216X2FKSDlzX2p5V3o4QnJLU3JpNEw5QjFKLXVBSXEyeUwtWXRlMDB3X0RRa3dTVWNyRmhqNFV6N1ZuSFBDNjVSM1RTaHVDUVhuWHE?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-05T15:33:41.000Z"
-    },
-    {
-      "title": "Ukraine scrambles for money to fight war as Russian strikes batter economy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHVNTExwWGlTS2Z3LVVrWi1nS1FxSV9KeXdQSlhLd1V6d1BLX1JJbmxkU3prQ1BjdGVDTVAzZXRienlRbExib3ZKRjJUS0J6cjdJUmpIR3RfeDdGaGRaalc4b3llUnRfMEpDRzI1SmJrV1pjUFlDSFo4T1REekhudXVnYTdobHptdkI4QjZXU0RNTWh5Qk9kX0h0N0pYTFM4TWpjVXVhVGN1SUc1aGt1NlppTQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T06:02:00.000Z"
-    },
-    {
-      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T02:12:00.000Z"
-    },
-    {
-      "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T01:22:00.000Z"
-    },
-    {
-      "title": "Euro drops to 17-month low on France debt concerns",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGxIREdRUUNadXowQXZKbi1McVN1X2toZXZEdGNFMnR1QVZvSk5DMTcteEVlQjhVR3hhbFFfNGNGa1BmcE5DUFRETThCMVVOMDNLa2ZsZkVpY1lxWm9GeUVZNGpnYVRoV1ZIdkZKNC11bzJMUlV2V3JJTUhiQnV5akg1YmNuVFljclA4VW1vRnF1OWJOYmdXLVBPMU1fVkxOb1FKWnZjVTBNQ2FRblMzbQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T01:53:00.000Z"
-    },
-    {
-      "title": "India seen kicking off rate hike cycle as inflation broadens, peers turn hawkish",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2ZLWG5udy12czJna0lwTVJkMDRYRktHekNjMmFyTlN3OXI2SVBFNXMyc2VTTUJ5SDU3QzUzOWVVamVYTjBmc3E4UUtCMHhMM18wTVJFak8xMG1fMUJfaDlBbVAycXMtd0xjbFB5YTltMUNKQ1BjY0pnR0lab2ZteHFTaVlqOHpBSmstZVpxWjdlS1F3UG1RTHI3ZEtvNmZG?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T00:35:00.000Z"
-    },
-    {
-      "title": "Indian shares rise as oil, Fed fears ease; financials gain on Q2 updates",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T02:37:00.000Z"
     }
   ]
 }
