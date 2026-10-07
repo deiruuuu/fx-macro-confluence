@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:59:37.326Z",
+  "updated": "2026-10-07T01:44:17.695Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7773.95,
-      "display": "7,774",
-      "change": 51.22999999999956,
-      "changePct": 0.663,
-      "date": "2026-10-05",
+      "value": 7818.93,
+      "display": "7,819",
+      "change": 44.98000000000047,
+      "changePct": 0.579,
+      "date": "2026-10-06",
       "spark": [
-        7652.86,
         7677.28,
         7675.7,
         7730.99,
@@ -82,7 +81,8 @@
         7651.54,
         7666.45,
         7722.72,
-        7773.95
+        7773.95,
+        7818.93
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 85820.65,
-      "display": "85,821",
-      "change": -603.0299999999988,
-      "changePct": -0.698,
-      "date": "2026-10-05",
+      "value": 85499.09,
+      "display": "85,499",
+      "change": -321.5599999999977,
+      "changePct": -0.375,
+      "date": "2026-10-06",
       "spark": [
-        80309.06,
         79067.23,
         78548.91,
         78303.59,
@@ -254,7 +253,8 @@
         84478.54,
         84813.71,
         86423.68,
-        85820.65
+        85820.65,
+        85499.09
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.83,
-      "display": "4.83",
-      "change": 0.04999999999999982,
-      "changePct": 1.046,
-      "date": "2026-10-02",
+      "value": 4.84,
+      "display": "4.84",
+      "change": 0.009999999999999787,
+      "changePct": 0.207,
+      "date": "2026-10-05",
       "spark": [
-        4.24,
         4.24,
         4.17,
         4.19,
@@ -1400,7 +1399,8 @@
         4.89,
         4.88,
         4.78,
-        4.83
+        4.83,
+        4.84
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.28,
-      "display": "5.28",
-      "change": 0.040000000000000036,
-      "changePct": 0.763,
-      "date": "2026-10-02",
+      "value": 5.31,
+      "display": "5.31",
+      "change": 0.02999999999999936,
+      "changePct": 0.568,
+      "date": "2026-10-05",
       "spark": [
-        4.74,
         4.7,
         4.64,
         4.66,
@@ -1443,7 +1442,8 @@
         5.26,
         5.29,
         5.24,
-        5.28
+        5.28,
+        5.31
       ],
       "unit": "",
       "suffix": ""
@@ -1455,6 +1455,12 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-06T18:15:37.000Z"
+    },
+    {
+      "title": "'I'm getting fed up': early US midterm voters line up before dawn in Ohio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NBVWtIOEhDaDlKenA1S0x2NUh3dDFfa1c5REw3OThWbjVzQnpwWVhQd09nYnBJU2dwMFJfZWxhcU1nb1JTR1JETm85R1lRV0RVZEViRmR0UGZJdmpSQUdNLXZhTWRleFRaMndmX283c29UY3FvZE9KSVBsRVM0ZW5rMXZYam9FeklWUTZoU3FKQ2pDcFBzc21LVFF6QndO?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T23:13:09.000Z"
     },
     {
       "title": "Cost-of-living crises have lasting impact on inflation expectations, poverty, IMF says",
@@ -1469,10 +1475,16 @@
       "publishedAt": "2026-10-06T04:28:00.000Z"
     },
     {
-      "title": "Gold edges up as dollar, Treasury yields slip",
+      "title": "Gold climbs as dollar, Treasury yields slip",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-06T02:15:00.000Z"
+    },
+    {
+      "title": "Canadian dollar rallies as trade surplus widens more than expected",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmRDNUZVUE5uQjBZVWtjV2JsNmR5NXQxaS1DcnBramJGSmNpcE5FWjU5aGZlNWsyU0RfXzV2LTFnZmwyNmkxWnNhMlEtSmNDUGJob1ZsaHNTN054NUpaTk5xZGh3YzZ0RzRWOTQ5VWZXTDRLZ0VTZC14STVJTWNJS0lDMnpCNnZqRDhDSThBdUtRX3Byb0lhbWU1TzFCbUhiVVVUM3BUZGpuMW9u?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-06T16:44:09.000Z"
     },
     {
       "title": "Le Pen eyes bond markets with promise of bigger spending cuts if far right wins presidency",
@@ -1481,22 +1493,10 @@
       "publishedAt": "2026-10-06T04:06:00.000Z"
     },
     {
-      "title": "Euro bounces as falling French bond yields temper debt concerns",
+      "title": "Euro bounces as decline in French bond yields cools debt jitters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-06T01:14:00.000Z"
-    },
-    {
-      "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T21:34:19.000Z"
-    },
-    {
-      "title": "EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNkZnRTSmgzdlNhUVVQUU4yV3J6S3E1Y1FtSEV1UHVkZW9VeldUbURyaXQ4MHplQWl3SlM5QlF0TXdPU3lwWmZSbDdJRXJGS29QNU9ib1lEMS05QUgzNVV2VFU0RUZzc216X2FKSDlzX2p5V3o4QnJLU3JpNEw5QjFKLXVBSXEyeUwtWXRlMDB3X0RRa3dTVWNyRmhqNFV6N1ZuSFBDNjVSM1RTaHVDUVhuWHE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-05T15:33:41.000Z"
     }
   ]
 }
