@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T02:26:22.457Z",
+  "updated": "2026-10-09T18:55:39.894Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2508.06,
-      "display": "2,508.06",
-      "change": -39.20000000000027,
-      "changePct": -1.539,
-      "date": "2026-10-07",
+      "value": 2524.7,
+      "display": "2,524.70",
+      "change": 16.639999999999873,
+      "changePct": 0.663,
+      "date": "2026-10-08",
       "spark": [
-        2732.25,
         2739.22,
         2702.33,
         2706.33,
@@ -125,7 +124,8 @@
         2533.51,
         2529.93,
         2547.26,
-        2508.06
+        2508.06,
+        2524.7
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.08,
-      "display": "15.08",
-      "change": 0.07000000000000028,
-      "changePct": 0.466,
-      "date": "2026-10-07",
+      "value": 15.41,
+      "display": "15.41",
+      "change": 0.33000000000000007,
+      "changePct": 2.188,
+      "date": "2026-10-08",
       "spark": [
-        14.51,
         14.43,
         14.92,
         16.34,
@@ -211,7 +210,8 @@
         15.31,
         15.52,
         15.01,
-        15.08
+        15.08,
+        15.41
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "spark": [
         2.25,
         2.25,
@@ -1203,7 +1203,7 @@
         2.25,
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.08,
-      "display": "15.08",
-      "change": 0.07000000000000028,
-      "changePct": 0.466,
-      "date": "2026-10-07",
+      "value": 15.41,
+      "display": "15.41",
+      "change": 0.33000000000000007,
+      "changePct": 2.188,
+      "date": "2026-10-08",
       "spark": [
-        14.51,
         14.43,
         14.92,
         16.34,
@@ -1355,7 +1354,8 @@
         15.31,
         15.52,
         15.01,
-        15.08
+        15.08,
+        15.41
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever",
+      "title": "Trump renews bid to fire Fed's Cook with fresh White House inquiry",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVtLWhNMGgxZlptWEduZTB6WUc3REtCMlEwV0VTeUotdUpVMDJqZHphZHJxeUtFSU41a19MWm9sTmZjWWVuS25YS20wWDh1MGFMYXNWMThMLWowaW1JbVFESzVDWVNhY0U0S2FUNE0wVGpxWFN6MDdWTVE3RVFWZ3Q3N1hHVFE1UHFnY3NGQWJXT2hOeG9PSE5Lb29XR3NMWXNTZkNTYmdHV1RBWGxmc2VB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T17:51:59.000Z"
+    },
+    {
+      "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpCcDBIZElDdktNOUtwQ2NHVVh0WHZkYkJhV0t1T0sxWS1ON0Frb1pqUFFEbWtnWWI0d0IzYVBqck1MSExMc0ExNHozUEdUMHV2MDV5YjE0U0FVbnVFd01tdXFZakpxYnZ2MFZjTEdGWENyNkxaRlZNVWUtUEFhRmM1OFcwblktYVdzTTFpYjQ2bFhybGMyNlpLUndSdkZod2VoX3Ryc0stNVBRQnhpeERR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T16:31:38.000Z"
+    },
+    {
+      "title": "US consumer sentiment near record low as frustration over economy mounts",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T17:20:11.000Z"
+    },
+    {
+      "title": "Soaring freight rates threaten Asia's appetite for US crude",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHB5MmVsckd4NE1GOUViUGJseU5BaUhrTmlTbWZTRnZNaEh6OTc4X2RBTmFhNks1dzlRN29GZ2trS0h5S1dVb3VKcmNwVUZLR1FEWVU1c04wOGJsQTU0YnBUS3pTUnVkX2VSSEp5eDNhOVc5SDZwVk1Oa3NTNk5SNVNKQzdwLWNJYjZyX3RlVEo4Wnd2RU5vNTlMZjNPS3ZQWThPUUxKb3VXUQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T05:25:00.000Z"
+    },
+    {
+      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T01:58:00.000Z"
+    },
+    {
+      "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-08T23:30:27.000Z"
+      "publishedAt": "2026-10-08T13:00:00.000Z"
     },
     {
-      "title": "US bonds rally after 30-year auction finds solid demand",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5",
+      "title": "Japan PM vows to keep watching yen, inflation moves carefully",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQS1EUGVuWGlkTDBsY3pYcXZKOER0c25xbUFQbklLemN1S1ZGaVY3bVNYTDQtYURmX01JZXdUVzdEdmZOcnhvWEloUFBjR0ZqSER6S3QwUE9oZVJoZGpjS3NKMmRYanI0ZHdNNE5wb1BTUFg1czd2Zjl0YlZaZ3RId1hFQWxpNkVCc0g1TkVRUnA1ZUlDQklZRGoyeUVkdGtDWjBELTEyelV2QjZtREczQkVR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-08T20:50:13.000Z"
+      "publishedAt": "2026-10-09T03:18:00.000Z"
     },
     {
-      "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+      "title": "Four signs it is about to get uglier in the bond market as yields rise",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-08T01:21:00.000Z"
-    },
-    {
-      "title": "Dollar eases as European yields pull back from highs",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEthRFNTdnR3aGRScTNFSW1KYVdtdVRBRU9EQjBqSVpTWDhaaDdiMGRSZGtKT3ZHU1VuOFRmSDgxOVFkeGRqazdPbWd4SXJ5RFZLenpVWEhCQ3FoU2JvaEtEbDE0VVQySXNqckF3ckE5cHpZVDNaYlptMXdyX1UwTVdvVU1PLTZJUFM2SXZXdzE2TWl5elctQmtMU1NtZFBC?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-08T00:43:00.000Z"
-    },
-    {
-      "title": "Euro zone finance ministers start steps to replace ECB's Schnabel",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekJZN1lhLW9ocnpXM09pa0FxeVd4X05yQXdoQmJYallwN1FDbmRaT01NN1ByOEYtNFpkbkY0ODlzXzBTQjV2SlZ5Zi1NdlA5R0dFWTlrWnY3Wk4wV0lBV0toOFRTR3NMZlZqQmV0LU9hNWJkRi02U0lsdHpoWENIN2NPaGxzZmE2WnJ4SnRhM01COWY1STFCUFhzSy02TG5neXJEdTR3d3QtZDFDT19sYkpFMng5QQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-08T17:17:36.000Z"
-    },
-    {
-      "title": "Fed's Waller: More hikes needed, but there is 'flexibility' about the pace",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlJjTS1oeE1aRmVEcC05dTZkd25ONVRidzJkTlozaEE3Q0tvQ2hPd0dYemMxNWUzTUZORnFfb0FWZUdDOVp3QUVwelQ5cjJzcV9oMl9mZmpCTnJOaGh6XzZXLXlxOWJBUVhTX05oOVhwS2hhZG1WbmppWlRRRGNDOGZneGNneTRiLXBhVHd1Z3FGc1JaZC14Qm14SVRlYi1Cd3MxSjVR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-08T15:33:03.000Z"
-    },
-    {
-      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JMSXB2aERESElBa2JCX0tZUDZJQ2NhWTFacEM3NTE5QmtjcjNlM2RoMHppNVpyc0VfYWFCQVQ2Qml2ZU9mS0RvVDRfY1BmSnEzbHotaXV6MFVBblVkTjVqQ0JIRC03UDgyd1RLd3BtdWZmODg5cTFVNWswQ3k5WnR1ZUR3TWY5VjJiem9memp6VXFpNFQzOHcyNjNTaE9nUERUSUZ1akh3WGZXQTRQN3RMTHA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-08T18:57:49.000Z"
-    },
-    {
-      "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVl1b0t4RWF0WnFRODUzeHAydHMzOFl1U0lKbEhOa3ZSbG1GdDdubllBRG9raTZ0VllPeWJsUEFmOUlLaGZKYkd1QXo0dEFyUzZCUjdKM0NQeHdCeUZWU1hBcTBNaGJIaVJwVkluZ3Y0elloSXRyRHJkek1VdUxJdkV0NV8xSXJxUFdOVjBJVmFRcm5Na3M2ZGlodGdtcEk2NFlnWnZXVUNQSlJBUUFUSmJiOA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-07T21:33:30.000Z"
+      "publishedAt": "2026-10-09T16:18:35.000Z"
     }
   ]
 }
