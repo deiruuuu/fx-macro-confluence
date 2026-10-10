@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T18:55:39.894Z",
+  "updated": "2026-10-10T01:52:11.338Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7765.36,
-      "display": "7,765",
-      "change": -36.410000000000764,
-      "changePct": -0.467,
-      "date": "2026-10-08",
+      "value": 7811.54,
+      "display": "7,812",
+      "change": 46.18000000000029,
+      "changePct": 0.595,
+      "date": "2026-10-09",
       "spark": [
-        7730.99,
         7711.76,
         7686.14,
         7631.47,
@@ -82,7 +81,8 @@
         7773.95,
         7818.93,
         7801.77,
-        7765.36
+        7765.36,
+        7811.54
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81657.19,
-      "display": "81,657",
-      "change": -1582.300000000003,
-      "changePct": -1.901,
-      "date": "2026-10-08",
+      "value": 82543.3,
+      "display": "82,543",
+      "change": 886.1100000000006,
+      "changePct": 1.085,
+      "date": "2026-10-09",
       "spark": [
-        78303.59,
         76664.89,
         77276.5,
         77270.73,
@@ -254,7 +253,8 @@
         85820.65,
         85499.09,
         83239.49,
-        81657.19
+        81657.19,
+        82543.3
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.77,
-      "display": "4.77",
-      "change": -0.020000000000000462,
-      "changePct": -0.418,
-      "date": "2026-10-07",
+      "value": 4.75,
+      "display": "4.75",
+      "change": -0.019999999999999574,
+      "changePct": -0.419,
+      "date": "2026-10-08",
       "spark": [
-        4.19,
         4.2,
         4.34,
         4.34,
@@ -1400,7 +1399,8 @@
         4.83,
         4.84,
         4.79,
-        4.77
+        4.77,
+        4.75
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.28,
-      "display": "5.28",
-      "change": 0.010000000000000675,
-      "changePct": 0.19,
-      "date": "2026-10-07",
+      "value": 5.22,
+      "display": "5.22",
+      "change": -0.0600000000000005,
+      "changePct": -1.136,
+      "date": "2026-10-08",
       "spark": [
-        4.66,
         4.67,
         4.73,
         4.75,
@@ -1443,7 +1442,8 @@
         5.28,
         5.31,
         5.27,
-        5.28
+        5.28,
+        5.22
       ],
       "unit": "",
       "suffix": ""
@@ -1457,22 +1457,28 @@
       "publishedAt": "2026-10-09T17:51:59.000Z"
     },
     {
-      "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpCcDBIZElDdktNOUtwQ2NHVVh0WHZkYkJhV0t1T0sxWS1ON0Frb1pqUFFEbWtnWWI0d0IzYVBqck1MSExMc0ExNHozUEdUMHV2MDV5YjE0U0FVbnVFd01tdXFZakpxYnZ2MFZjTEdGWENyNkxaRlZNVWUtUEFhRmM1OFcwblktYVdzTTFpYjQ2bFhybGMyNlpLUndSdkZod2VoX3Ryc0stNVBRQnhpeERR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-09T16:31:38.000Z"
-    },
-    {
       "title": "US consumer sentiment near record low as frustration over economy mounts",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-09T17:20:11.000Z"
     },
     {
-      "title": "Soaring freight rates threaten Asia's appetite for US crude",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHB5MmVsckd4NE1GOUViUGJseU5BaUhrTmlTbWZTRnZNaEh6OTc4X2RBTmFhNks1dzlRN29GZ2trS0h5S1dVb3VKcmNwVUZLR1FEWVU1c04wOGJsQTU0YnBUS3pTUnVkX2VSSEp5eDNhOVc5SDZwVk1Oa3NTNk5SNVNKQzdwLWNJYjZyX3RlVEo4Wnd2RU5vNTlMZjNPS3ZQWThPUUxKb3VXUQ?oc=5",
+      "title": "Trump says Russia to supply diesel to US and global markets",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T05:25:00.000Z"
+      "publishedAt": "2026-10-09T15:43:00.000Z"
+    },
+    {
+      "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpCcDBIZElDdktNOUtwQ2NHVVh0WHZkYkJhV0t1T0sxWS1ON0Frb1pqUFFEbWtnWWI0d0IzYVBqck1MSExMc0ExNHozUEdUMHV2MDV5YjE0U0FVbnVFd01tdXFZakpxYnZ2MFZjTEdGWENyNkxaRlZNVWUtUEFhRmM1OFcwblktYVdzTTFpYjQ2bFhybGMyNlpLUndSdkZod2VoX3Ryc0stNVBRQnhpeERR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T16:31:38.000Z"
+    },
+    {
+      "title": "Wall Street posts weekly gains with earnings, inflation data on tap",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-09T23:33:00.000Z"
     },
     {
       "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
@@ -1481,22 +1487,16 @@
       "publishedAt": "2026-10-09T01:58:00.000Z"
     },
     {
-      "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-08T13:00:00.000Z"
-    },
-    {
-      "title": "Japan PM vows to keep watching yen, inflation moves carefully",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQS1EUGVuWGlkTDBsY3pYcXZKOER0c25xbUFQbklLemN1S1ZGaVY3bVNYTDQtYURmX01JZXdUVzdEdmZOcnhvWEloUFBjR0ZqSER6S3QwUE9oZVJoZGpjS3NKMmRYanI0ZHdNNE5wb1BTUFg1czd2Zjl0YlZaZ3RId1hFQWxpNkVCc0g1TkVRUnA1ZUlDQklZRGoyeUVkdGtDWjBELTEyelV2QjZtREczQkVR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-09T03:18:00.000Z"
-    },
-    {
       "title": "Four signs it is about to get uglier in the bond market as yields rise",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-09T16:18:35.000Z"
+    },
+    {
+      "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-08T13:00:00.000Z"
     }
   ]
 }
