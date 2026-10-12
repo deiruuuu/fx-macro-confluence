@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:52:11.338Z",
+  "updated": "2026-10-12T21:49:11.899Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2524.7,
-      "display": "2,524.70",
-      "change": 16.639999999999873,
-      "changePct": 0.663,
-      "date": "2026-10-08",
+      "value": 2554.51,
+      "display": "2,554.51",
+      "change": 29.8100000000004,
+      "changePct": 1.181,
+      "date": "2026-10-09",
       "spark": [
-        2739.22,
         2702.33,
         2706.33,
         2649.3,
@@ -125,7 +124,8 @@
         2529.93,
         2547.26,
         2508.06,
-        2524.7
+        2524.7,
+        2554.51
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.41,
-      "display": "15.41",
-      "change": 0.33000000000000007,
-      "changePct": 2.188,
-      "date": "2026-10-08",
+      "value": 14.84,
+      "display": "14.84",
+      "change": -0.5700000000000003,
+      "changePct": -3.699,
+      "date": "2026-10-09",
       "spark": [
-        14.43,
         14.92,
         16.34,
         15.2,
@@ -211,7 +210,8 @@
         15.52,
         15.01,
         15.08,
-        15.41
+        15.41,
+        14.84
       ],
       "unit": "",
       "suffix": ""
@@ -219,14 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 82543.3,
-      "display": "82,543",
-      "change": 886.1100000000006,
-      "changePct": 1.085,
-      "date": "2026-10-09",
+      "value": 83683.56,
+      "display": "83,684",
+      "change": 757.2899999999936,
+      "changePct": 0.913,
+      "date": "2026-10-11",
       "spark": [
-        76664.89,
-        77276.5,
         77270.73,
         76804.92,
         78200.38,
@@ -254,7 +252,9 @@
         85499.09,
         83239.49,
         81657.19,
-        82543.3
+        82543.3,
+        82926.27,
+        83683.56
       ],
       "unit": "",
       "suffix": ""
@@ -1195,14 +1195,14 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-09",
+      "date": "2026-10-12",
       "spark": [
         2.25,
         2.25,
         2.25,
-        2.25,
-        2.25,
-        2.25,
+        2.5,
+        2.5,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.41,
-      "display": "15.41",
-      "change": 0.33000000000000007,
-      "changePct": 2.188,
-      "date": "2026-10-08",
+      "value": 14.84,
+      "display": "14.84",
+      "change": -0.5700000000000003,
+      "changePct": -3.699,
+      "date": "2026-10-09",
       "spark": [
-        14.43,
         14.92,
         16.34,
         15.2,
@@ -1355,7 +1354,8 @@
         15.52,
         15.01,
         15.08,
-        15.41
+        15.41,
+        14.84
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Trump renews bid to fire Fed's Cook with fresh White House inquiry",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVtLWhNMGgxZlptWEduZTB6WUc3REtCMlEwV0VTeUotdUpVMDJqZHphZHJxeUtFSU41a19MWm9sTmZjWWVuS25YS20wWDh1MGFMYXNWMThMLWowaW1JbVFESzVDWVNhY0U0S2FUNE0wVGpxWFN6MDdWTVE3RVFWZ3Q3N1hHVFE1UHFnY3NGQWJXT2hOeG9PSE5Lb29XR3NMWXNTZkNTYmdHV1RBWGxmc2VB?oc=5",
+      "title": "Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3JSQmJSVHVtZDBjMUV0VUlYb0xQaGJvUUkyZG12VVQzVWJYc0pIcjZjQ2R5VUR5Nm1MaTV4SVpLOTB2Rno0b0lRak5ORWFKX21GdGVrTm51b2VKYU9DQWdBUk1TNWlUZkt4WjQ2dEx1OEt0N2hKNjYtVUh1elVZSFJMNG80WUxVUTdqVTdMaU43VUE5SzVGd1FsWnlGSU95VElLNk92VzlMU0NIU1VkZW5nc0xrak11STE1MTl4X19kRUpHZ1E?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T17:51:59.000Z"
+      "publishedAt": "2026-10-12T20:54:20.000Z"
     },
     {
-      "title": "US consumer sentiment near record low as frustration over economy mounts",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5",
+      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T17:20:11.000Z"
+      "publishedAt": "2026-10-12T03:13:00.000Z"
     },
     {
-      "title": "Trump says Russia to supply diesel to US and global markets",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+      "title": "Dollar holds 18-month high as Gulf tension, US inflation keep investors on edge",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnNEOHo2NzVEYW5MOEcybTVjN2xsbXBOSkdScUFqckU4R0VES0JjaGNnSE1RbkJWWEI5SnpuOWxBNTNUVHhqUEtGdjRPdmtHZ0hYOWl1VkZYQXJoWDI5WFJ6MER1OWlvVVVVWFdXb3JFZklJQUNQNjJ5NUpObkVSMkh3ZTZ1NWpRXzcwbFBwb1lFSkYzYktRd3FtTjIwRW9wZElFU0lRNkZvTnZlWk5fb2VuNGFlaXFxd0dxSkN1OTE0Zw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T15:43:00.000Z"
+      "publishedAt": "2026-10-12T01:51:00.000Z"
     },
     {
-      "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpCcDBIZElDdktNOUtwQ2NHVVh0WHZkYkJhV0t1T0sxWS1ON0Frb1pqUFFEbWtnWWI0d0IzYVBqck1MSExMc0ExNHozUEdUMHV2MDV5YjE0U0FVbnVFd01tdXFZakpxYnZ2MFZjTEdGWENyNkxaRlZNVWUtUEFhRmM1OFcwblktYVdzTTFpYjQ2bFhybGMyNlpLUndSdkZod2VoX3Ryc0stNVBRQnhpeERR?oc=5",
+      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3Q4Z3VQUzhKYUZNaXdCaXk2YWRvbFA5dVRuYVc4ZGx0YWo1UzlaM2Q5SkxPQXRsR0ZJNFFZT0huXzhEa29iNEd0ajM5cXVoM0ZfaVJ1bjFfcTRqM3NRRGJtSXo2Q1hiZ0NQVk1oZmtkbVJZbFpZWFhobnBhendjaEVIMTBLOHJ1ZUtOcExpaHJwUWVQRVdRN3NuWi1QVDllbGo2Y2xZa2VTYWhWNDN3SEY3Mi1ZRWxxTFB0RnkybkxxMVFq?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T16:31:38.000Z"
+      "publishedAt": "2026-10-12T03:54:00.000Z"
     },
     {
-      "title": "Wall Street posts weekly gains with earnings, inflation data on tap",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+      "title": "Equities little changed as oil rallies while earnings, inflation loom",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T23:33:00.000Z"
+      "publishedAt": "2026-10-12T00:42:00.000Z"
     },
     {
-      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
+      "title": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T01:58:00.000Z"
+      "publishedAt": "2026-10-12T12:21:58.000Z"
     },
     {
-      "title": "Four signs it is about to get uglier in the bond market as yields rise",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
+      "title": "India benchmark shares fall as inflation woes overshadow RBI support measures",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenFsbDRhbVJGa21YRV9MV1BuQkhlUGNYVzlhUU5nMmR6NWdnd19ZaU1IWkYwVExZbVVJUWNoR3RNNnlodEpiTUJVelRKQ1I0SUJRQzFlNjl3cUszd0lpbW5KR3BFNnJDUkU5ZGpaRHdUdFFxODJOYmJ3TGp4S2NPMV8tRHdLVk8zTzktaS1Sa1kyUS1EZlNuaDQtN1Rwdmo4dGhIbVM0NUM3ZElSNExNZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-09T16:18:35.000Z"
+      "publishedAt": "2026-10-12T02:29:00.000Z"
     },
     {
-      "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
+      "title": "Dangote IPO fever could deepen Africa's capital markets, Citi says",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUJyaTgwbGtnMC1UOVZIRVlac3c1Y1ZFLUt4ekFBMHk3aHlZcDMxczFDTHE2SGVmSkVNelNGcFltM05tRnpBcmtNdklMNF9yYV9UdXUxdHZfTlRIeDBXcTY5elJIXzN0cFFYV1dFNjhVYUtWTFpRWW4zQzMzWkc2Q19uRERHajZITzRtTldGcFpVZ3JFSGIxb0oyS2xFeU9CN3UwdmNENnZhc2JTQzZUVkM1aw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-08T13:00:00.000Z"
+      "publishedAt": "2026-10-12T13:30:43.000Z"
     }
   ]
 }
