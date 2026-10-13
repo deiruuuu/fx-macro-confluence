@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T03:07:37.887Z",
+  "updated": "2026-10-13T19:55:48.159Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2554.51,
-      "display": "2,554.51",
-      "change": 29.8100000000004,
-      "changePct": 1.181,
-      "date": "2026-10-09",
+      "value": 2510.16,
+      "display": "2,510.16",
+      "change": -44.350000000000364,
+      "changePct": -1.736,
+      "date": "2026-10-12",
       "spark": [
-        2702.33,
         2706.33,
         2649.3,
         2678.82,
@@ -125,7 +124,8 @@
         2547.26,
         2508.06,
         2524.7,
-        2554.51
+        2554.51,
+        2510.16
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 14.84,
-      "display": "14.84",
-      "change": -0.5700000000000003,
-      "changePct": -3.699,
-      "date": "2026-10-09",
+      "value": 15.21,
+      "display": "15.21",
+      "change": 0.370000000000001,
+      "changePct": 2.493,
+      "date": "2026-10-12",
       "spark": [
-        14.92,
         16.34,
         15.2,
         14.32,
@@ -211,7 +210,8 @@
         15.01,
         15.08,
         15.41,
-        14.84
+        14.84,
+        15.21
       ],
       "unit": "",
       "suffix": ""
@@ -1195,11 +1195,11 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "spark": [
         2.25,
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 14.84,
-      "display": "14.84",
-      "change": -0.5700000000000003,
-      "changePct": -3.699,
-      "date": "2026-10-09",
+      "value": 15.21,
+      "display": "15.21",
+      "change": 0.370000000000001,
+      "changePct": 2.493,
+      "date": "2026-10-12",
       "spark": [
-        14.92,
         16.34,
         15.2,
         14.32,
@@ -1355,7 +1354,8 @@
         15.01,
         15.08,
         15.41,
-        14.84
+        14.84,
+        15.21
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Fed's Hammack: Hope to cool demand, and inflation, without job market pain",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5",
+      "title": "US existing home sales rise in September; higher mortgage rates dim outlook",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTd6ZlFyT3BzT2ZINW5WY1c2X3E4cGF0YlZWT3JVWVh1ZjUzNHpNNHVwbDliOXk0V2J0a0x1VXo4dGdZOTBaTlZ5Z0JTLUJrVEk2SjMtX1pzUU1odjZMODV3SnZUTjZlVV9mM1NiNWxEX1BmZ0Jlc0MwTW9PZHcwNkFBZlJEWDNIWE1jVk9CMlN2cmdtY193Rzcyd1NtSk9IMnJIT2tWZ1FTcnlVdmhfUTZqcEVXTmc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T21:37:00.000Z"
+      "publishedAt": "2026-10-13T16:15:14.000Z"
     },
     {
-      "title": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3hkUE0tV0pBM20wbEUtQTFuM011aHFUTWVPRDI3VEJ3d2lPaTRzNW1iYl9UeGRMaVE4VjhkWEV2OF9rVkxmMFZBd0FXMElhYVNoYkN3UFBBdnJ1b0RlRmliQ1ZZYzBpcDN0ZFhnYVl3dThzRHp6aXBSdGp3M0J2bW9wa3RELWQ0RTBmeXhDVkNjV0NVMUwyYlNjUWRrdkc4YjczQVRBYXVZMmhCZEFSdFMzZmdHZFFxaS1NbTBGaXF4Z2NJcjB6Zw?oc=5",
+      "title": "IMF flags risks to global economy from AI market correction, war and debt",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T00:07:00.000Z"
+      "publishedAt": "2026-10-13T16:15:03.000Z"
     },
     {
-      "title": "Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3JSQmJSVHVtZDBjMUV0VUlYb0xQaGJvUUkyZG12VVQzVWJYc0pIcjZjQ2R5VUR5Nm1MaTV4SVpLOTB2Rno0b0lRak5ORWFKX21GdGVrTm51b2VKYU9DQWdBUk1TNWlUZkt4WjQ2dEx1OEt0N2hKNjYtVUh1elVZSFJMNG80WUxVUTdqVTdMaU43VUE5SzVGd1FsWnlGSU95VElLNk92VzlMU0NIU1VkZW5nc0xrak11STE1MTl4X19kRUpHZ1E?oc=5",
+      "title": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVpHcU5oOWl3WUt1NFlQNi1Ld3JVQWI5Z0l3Z3p4UTFGSDdsMk5Yak5zdy16Z1NCcl9NMzBqbkgxaEdSLUtBSWVJWXQ5MnBiTzlDMXUyZE5iemFmQlJ2b3JlRWgxTlRMdnhHMVptZXhvMUtwMHZpb3IwM0VOZEUyLXpVenhqb2toWmJUdU9kQ25odHY2enA2a2xvd19mQ2U0WTVIVUlYa0kzYUdWYUVIaGtQSVdZY2pGVC15b2pEZlZhRDVteFVlOGFCOA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T20:54:20.000Z"
+      "publishedAt": "2026-10-13T11:35:43.000Z"
     },
     {
-      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
+      "title": "Goolsbee says AI-induced inflation is 'jumping out of its lane,' Semafor reports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHM0clpOMnFqajYyN2FLbEZGZ0FyRUxDc1B1WGI4Nnd1ZDV0dUtEQ3BOa2lEbHBUN3JmWklkNGhuZDZ2dHJmTTZ0STRseE1KU1JHSlkySXhXbHRzMGdZbkh0OUM2NGdtbVhwUU9UbkRIeFhNWjUtbEJ3aDN6RjhzMXgwMUdtSXpaQmF0ajBCSTdzNnZIZENIMTRXMlhEc1NXeUdNczRxdm1CMnBsYmJETk5ibGV5Z19jMzNn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T03:13:00.000Z"
+      "publishedAt": "2026-10-13T14:39:22.000Z"
     },
     {
-      "title": "Dollar holds 18-month high as Gulf tension, US inflation keep investors on edge",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnNEOHo2NzVEYW5MOEcybTVjN2xsbXBOSkdScUFqckU4R0VES0JjaGNnSE1RbkJWWEI5SnpuOWxBNTNUVHhqUEtGdjRPdmtHZ0hYOWl1VkZYQXJoWDI5WFJ6MER1OWlvVVVVWFdXb3JFZklJQUNQNjJ5NUpObkVSMkh3ZTZ1NWpRXzcwbFBwb1lFSkYzYktRd3FtTjIwRW9wZElFU0lRNkZvTnZlWk5fb2VuNGFlaXFxd0dxSkN1OTE0Zw?oc=5",
+      "title": "Gold holds steady ahead of US inflation data, Warsh remarks",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T01:51:00.000Z"
+      "publishedAt": "2026-10-13T02:23:00.000Z"
     },
     {
-      "title": "Oil rallies, sending dollar higher on expectations of higher US rates",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
+      "title": "World stocks slip as AI spending worries hit chipmakers",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T00:42:00.000Z"
+      "publishedAt": "2026-10-13T01:41:00.000Z"
     },
     {
-      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3Q4Z3VQUzhKYUZNaXdCaXk2YWRvbFA5dVRuYVc4ZGx0YWo1UzlaM2Q5SkxPQXRsR0ZJNFFZT0huXzhEa29iNEd0ajM5cXVoM0ZfaVJ1bjFfcTRqM3NRRGJtSXo2Q1hiZ0NQVk1oZmtkbVJZbFpZWFhobnBhendjaEVIMTBLOHJ1ZUtOcExpaHJwUWVQRVdRN3NuWi1QVDllbGo2Y2xZa2VTYWhWNDN3SEY3Mi1ZRWxxTFB0RnkybkxxMVFq?oc=5",
+      "title": "Dollar slips from 18-month high as oil prices fall, inflation data in focus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2lxTVVOV3pTUEkySWJNak9DU3lNdXR5bmRWWmxicmY0UVlFTFl3SmlERjl4LVFmTG1pSFAteVRpU2lPaXFhTTNROFlTWUgtaVRFdlliT3VYSkc1Z3REVEctSEZkSV9Sc3dabEFDb0pIcmNXdDR0MDJJMXNtNy1IUUNKS1BVWnNYd0xfM24yUFJmMkRXNUlYTmFnV2g3Z0VJWEE5Zk5MZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T03:54:00.000Z"
+      "publishedAt": "2026-10-13T01:44:00.000Z"
     },
     {
-      "title": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
+      "title": "US inflation expectations are well anchored, Fed's Waller says",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFBFRTZLXzRkVnlnU0FveXV5eHd5NHpLdGZ6VjY5NFBJYVUzUWJCMnAzUTJjbTVNN19yYldxQUM0M1BEQUVPRUZscFB4dTJRNUo4UlJBVzF6VE9JTDdVU1NBYVBkYlpLNE0yU2QwRkVCR21YZW5wd3ZUejdyMUhmNW82OFdlZ0RaQVlSRl9ZengxNkU0YS1WMjR6cHhGcnJjZUk0RERFSlBtT0FKLUE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-12T12:21:58.000Z"
+      "publishedAt": "2026-10-13T11:21:33.000Z"
     }
   ]
 }
