@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:49:11.899Z",
+  "updated": "2026-10-13T03:07:37.887Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7811.54,
-      "display": "7,812",
-      "change": 46.18000000000029,
-      "changePct": 0.595,
-      "date": "2026-10-09",
+      "value": 7807.24,
+      "display": "7,807",
+      "change": -4.300000000000182,
+      "changePct": -0.055,
+      "date": "2026-10-12",
       "spark": [
-        7711.76,
         7686.14,
         7631.47,
         7666.6,
@@ -82,7 +81,8 @@
         7818.93,
         7801.77,
         7765.36,
-        7811.54
+        7811.54,
+        7807.24
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 83683.56,
-      "display": "83,684",
-      "change": 757.2899999999936,
-      "changePct": 0.913,
-      "date": "2026-10-11",
+      "value": 81782.78,
+      "display": "81,783",
+      "change": -1900.7799999999988,
+      "changePct": -2.271,
+      "date": "2026-10-12",
       "spark": [
-        77270.73,
         76804.92,
         78200.38,
         75656.09,
@@ -254,7 +253,8 @@
         81657.19,
         82543.3,
         82926.27,
-        83683.56
+        83683.56,
+        81782.78
       ],
       "unit": "",
       "suffix": ""
@@ -1451,6 +1451,18 @@
   },
   "news": [
     {
+      "title": "Fed's Hammack: Hope to cool demand, and inflation, without job market pain",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-12T21:37:00.000Z"
+    },
+    {
+      "title": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3hkUE0tV0pBM20wbEUtQTFuM011aHFUTWVPRDI3VEJ3d2lPaTRzNW1iYl9UeGRMaVE4VjhkWEV2OF9rVkxmMFZBd0FXMElhYVNoYkN3UFBBdnJ1b0RlRmliQ1ZZYzBpcDN0ZFhnYVl3dThzRHp6aXBSdGp3M0J2bW9wa3RELWQ0RTBmeXhDVkNjV0NVMUwyYlNjUWRrdkc4YjczQVRBYXVZMmhCZEFSdFMzZmdHZFFxaS1NbTBGaXF4Z2NJcjB6Zw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-13T00:07:00.000Z"
+    },
+    {
       "title": "Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3JSQmJSVHVtZDBjMUV0VUlYb0xQaGJvUUkyZG12VVQzVWJYc0pIcjZjQ2R5VUR5Nm1MaTV4SVpLOTB2Rno0b0lRak5ORWFKX21GdGVrTm51b2VKYU9DQWdBUk1TNWlUZkt4WjQ2dEx1OEt0N2hKNjYtVUh1elVZSFJMNG80WUxVUTdqVTdMaU43VUE5SzVGd1FsWnlGSU95VElLNk92VzlMU0NIU1VkZW5nc0xrak11STE1MTl4X19kRUpHZ1E?oc=5",
       "source": "Reuters",
@@ -1469,34 +1481,22 @@
       "publishedAt": "2026-10-12T01:51:00.000Z"
     },
     {
+      "title": "Oil rallies, sending dollar higher on expectations of higher US rates",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-12T00:42:00.000Z"
+    },
+    {
       "title": "Central bank measures, intervention spark rupee's sharpest rally in six months",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3Q4Z3VQUzhKYUZNaXdCaXk2YWRvbFA5dVRuYVc4ZGx0YWo1UzlaM2Q5SkxPQXRsR0ZJNFFZT0huXzhEa29iNEd0ajM5cXVoM0ZfaVJ1bjFfcTRqM3NRRGJtSXo2Q1hiZ0NQVk1oZmtkbVJZbFpZWFhobnBhendjaEVIMTBLOHJ1ZUtOcExpaHJwUWVQRVdRN3NuWi1QVDllbGo2Y2xZa2VTYWhWNDN3SEY3Mi1ZRWxxTFB0RnkybkxxMVFq?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-12T03:54:00.000Z"
     },
     {
-      "title": "Equities little changed as oil rallies while earnings, inflation loom",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-12T00:42:00.000Z"
-    },
-    {
       "title": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-12T12:21:58.000Z"
-    },
-    {
-      "title": "India benchmark shares fall as inflation woes overshadow RBI support measures",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenFsbDRhbVJGa21YRV9MV1BuQkhlUGNYVzlhUU5nMmR6NWdnd19ZaU1IWkYwVExZbVVJUWNoR3RNNnlodEpiTUJVelRKQ1I0SUJRQzFlNjl3cUszd0lpbW5KR3BFNnJDUkU5ZGpaRHdUdFFxODJOYmJ3TGp4S2NPMV8tRHdLVk8zTzktaS1Sa1kyUS1EZlNuaDQtN1Rwdmo4dGhIbVM0NUM3ZElSNExNZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-12T02:29:00.000Z"
-    },
-    {
-      "title": "Dangote IPO fever could deepen Africa's capital markets, Citi says",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUJyaTgwbGtnMC1UOVZIRVlac3c1Y1ZFLUt4ekFBMHk3aHlZcDMxczFDTHE2SGVmSkVNelNGcFltM05tRnpBcmtNdklMNF9yYV9UdXUxdHZfTlRIeDBXcTY5elJIXzN0cFFYV1dFNjhVYUtWTFpRWW4zQzMzWkc2Q19uRERHajZITzRtTldGcFpVZ3JFSGIxb0oyS2xFeU9CN3UwdmNENnZhc2JTQzZUVkM1aw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-12T13:30:43.000Z"
     }
   ]
 }
