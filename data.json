@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:20:30.004Z",
+  "updated": "2026-10-14T18:07:36.250Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2510.16,
-      "display": "2,510.16",
-      "change": -44.350000000000364,
-      "changePct": -1.736,
-      "date": "2026-10-12",
+      "value": 2510.79,
+      "display": "2,510.79",
+      "change": 0.6300000000001091,
+      "changePct": 0.025,
+      "date": "2026-10-13",
       "spark": [
-        2706.33,
         2649.3,
         2678.82,
         2710.95,
@@ -125,7 +124,8 @@
         2508.06,
         2524.7,
         2554.51,
-        2510.16
+        2510.16,
+        2510.79
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 15.21,
-      "display": "15.21",
-      "change": 0.370000000000001,
-      "changePct": 2.493,
-      "date": "2026-10-12",
+      "value": 15.27,
+      "display": "15.27",
+      "change": 0.05999999999999872,
+      "changePct": 0.394,
+      "date": "2026-10-13",
       "spark": [
-        16.34,
         15.2,
         14.32,
         14.53,
@@ -211,7 +210,8 @@
         15.08,
         15.41,
         14.84,
-        15.21
+        15.21,
+        15.27
       ],
       "unit": "",
       "suffix": ""
@@ -890,13 +890,12 @@
     "cpi": {
       "label": "CPI",
       "series": "CPIAUCSL",
-      "value": 334.131,
-      "display": "334.1",
-      "change": 1.3179999999999836,
-      "changePct": 0.396,
-      "date": "2026-08-01",
+      "value": 336.298,
+      "display": "336.3",
+      "change": 2.16700000000003,
+      "changePct": 0.649,
+      "date": "2026-09-01",
       "spark": [
-        310.967,
         312.345,
         313.023,
         313.175,
@@ -925,7 +924,8 @@
         333.979,
         332.568,
         332.813,
-        334.131
+        334.131,
+        336.298
       ],
       "unit": "",
       "suffix": ""
@@ -1195,10 +1195,10 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "spark": [
         2.25,
-        2.25,
+        2.5,
         2.5,
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 15.21,
-      "display": "15.21",
-      "change": 0.370000000000001,
-      "changePct": 2.493,
-      "date": "2026-10-12",
+      "value": 15.27,
+      "display": "15.27",
+      "change": 0.05999999999999872,
+      "changePct": 0.394,
+      "date": "2026-10-13",
       "spark": [
-        16.34,
         15.2,
         14.32,
         14.53,
@@ -1355,7 +1354,8 @@
         15.08,
         15.41,
         14.84,
-        15.21
+        15.21,
+        15.27
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Fed Governor Cook's lawyer denounces Trump's latest attempt to remove her",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2FUcXdjUFlhbzVNRWFtNXpFWnhJbkhXQXFqakhHUFlTUFZKcHVvMlNxb0RzZ2oyQTVBNUVTY1NQRUdkbUxvQlprZlhQclJxYS1pakFmakttb1VSUzlXTThNQ0sxZWJ0SEFrZmNQVHNzNW1PbDh2ejFqS1dfOS0xd2hlUTVEYXVmWEpBUlIwbTg4RzRvdnNFZzlNTktpS3ZTS0h4bGEtRQ?oc=5",
+      "title": "Fed rate hike call seen tight as inflation heats up",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T22:34:56.000Z"
+      "publishedAt": "2026-10-14T14:22:26.000Z"
     },
     {
-      "title": "Fed's Collins sees another rate hike on the table before end of 2026",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
+      "title": "US inflation heats up in September; Fed rate hike this month back on table",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T20:08:52.000Z"
+      "publishedAt": "2026-10-14T17:03:11.000Z"
     },
     {
-      "title": "US Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckVkLTFFNXNKUmlRWTVjWE1tOWZ5OXYxU3NFSWU3V0w0dkk3WEVsamFRVWY5Y0FlNVgzV1dZQlJtNWoyY1ByVlVWT0dBNEp6QnlRVG9HTXpKTENiMXlNT0gtYXRnbHFHRk5TUFREaWZmUEk2WElGUDJfY3d3dHc2ZEh5QUdoQlMzZVBKcUlXamtqTmlsQ1kxZXI2MTV6dGVDU1p3QXQwWVJjN1dkVTc3NXlBRm96SVRkQVE?oc=5",
+      "title": "Citi turns hawkish on Fed after inflation surprise, expects December rate hike",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTlWWnFXTFVrM3lHcHBOZF9YMzFUQkx5WmJXNE5ieXJoY29tVkZKZGRGT3JoX3NBNGNPSERqeW5CTnlDdWh0SWZDZ3gtcGQyOTBFSW90dmgwOEJTdV85SVJxV2dQUmtETDc1RlR4RFNXSzRDZTY2ZFNQTk4tajdmNWZST0FRd1BmaG5kSjhrbWdnVHY2MFNrcFNiaHF6aU1BOEZCSkNCOFZHTGV4TFNmS2czNWg1RHZnOHZN?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T16:28:58.000Z"
+      "publishedAt": "2026-10-14T14:42:53.000Z"
     },
     {
-      "title": "Goolsbee says AI-induced inflation is 'jumping out of its lane,' Semafor reports",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHM0clpOMnFqajYyN2FLbEZGZ0FyRUxDc1B1WGI4Nnd1ZDV0dUtEQ3BOa2lEbHBUN3JmWklkNGhuZDZ2dHJmTTZ0STRseE1KU1JHSlkySXhXbHRzMGdZbkh0OUM2NGdtbVhwUU9UbkRIeFhNWjUtbEJ3aDN6RjhzMXgwMUdtSXpaQmF0ajBCSTdzNnZIZENIMTRXMlhEc1NXeUdNczRxdm1CMnBsYmJETk5ibGV5Z19jMzNn?oc=5",
+      "title": "Fed's Bowman says there's time to 'wait and see' before any more action",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkUzM2NCLVljQkh5Nmlsd0FjZ2NYSWhFWUI2QUhxUjJpbXU0RFdtOEdYYUlkdnJZUldNcmVIRUFhMnhsVUtPR0tUUEdsYXNaZXlENDF2NlpDQnVOcHRJcnhMV1IxcmtxZHdtYTFDTnlEVEoyNU94cHMwbDAzcWJYeVJzYllzeVlhbk9tZ29lYVRBQXFrc09WNTlyMVV3RTY3VVpwSE9mVHg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T14:39:22.000Z"
+      "publishedAt": "2026-10-14T11:39:43.000Z"
     },
     {
-      "title": "IMF flags risks to global economy from AI market correction, war and debt",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
+      "title": "COMMENTARY: Morning Bid: Trillion dollar trade",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFlqNjNrTG5OZE9CcDdqQlhfMXV6UUF0MXRmbUM3QVJhLUtlN1ZVUVAwT2RfTllVZ1M1MktmMkV4ZldVc1NZYVdlWUR0cXZpVEJLY1VCQTNtYU9oaUJRVGN6b2hoTnJxWGR4SWV2d2pkWkJSdkY4Ym9JTmVueXp5QThtVnYxNW8wTVg5T0tEUU1TYnJIX1lz?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T16:15:03.000Z"
+      "publishedAt": "2026-10-14T10:46:07.000Z"
     },
     {
-      "title": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVpHcU5oOWl3WUt1NFlQNi1Ld3JVQWI5Z0l3Z3p4UTFGSDdsMk5Yak5zdy16Z1NCcl9NMzBqbkgxaEdSLUtBSWVJWXQ5MnBiTzlDMXUyZE5iemFmQlJ2b3JlRWgxTlRMdnhHMVptZXhvMUtwMHZpb3IwM0VOZEUyLXpVenhqb2toWmJUdU9kQ25odHY2enA2a2xvd19mQ2U0WTVIVUlYa0kzYUdWYUVIaGtQSVdZY2pGVC15b2pEZlZhRDVteFVlOGFCOA?oc=5",
+      "title": "Spain's inflation rises at fastest pace in more than three years",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDhaREIyYllJX0htTGZZa1ByMUJOTTFqcTdOMnNoWkRHMS1IWGZ5d29hUUFsd2xHMHpRZy1tQnZ5czZrcHhGVTNBeGZtWXVuQ3dEVDBjU2ctMzdIRkRIMzFSU3NzWVljRHBhRk0wZlJ4dEJ5UUdMdTVLMHl5UWpVSU56eW9kQ1lFSEh6QlE1TGJnSjVGcFVuS2trMjlXMEtsMFpzRQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T11:35:43.000Z"
+      "publishedAt": "2026-10-14T07:34:48.000Z"
     },
     {
-      "title": "US existing home sales rise in September; higher mortgage rates dim outlook",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTd6ZlFyT3BzT2ZINW5WY1c2X3E4cGF0YlZWT3JVWVh1ZjUzNHpNNHVwbDliOXk0V2J0a0x1VXo4dGdZOTBaTlZ5Z0JTLUJrVEk2SjMtX1pzUU1odjZMODV3SnZUTjZlVV9mM1NiNWxEX1BmZ0Jlc0MwTW9PZHcwNkFBZlJEWDNIWE1jVk9CMlN2cmdtY193Rzcyd1NtSk9IMnJIT2tWZ1FTcnlVdmhfUTZqcEVXTmc?oc=5",
+      "title": "BlackRock draws $205 billion in client funds as quarterly profit beats estimates",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXRxc0NHX2ZoaXFielU1NXphNWFLMzFkd0syNVViQ0dwNGo5ZE8zaUlsNkVHOEtfZnpsVjl0SElocVhlUEJoaF9lYTdNaU05QWg3cmR0SjhLZHVWS3ROaU55VHlrTHpKS1dNVjBXUGxVLWlRTm1fZGNaQXE4dHV5Y2dhdHdKWVBaRl9nSXJLbGpfYjFIemt4UkR5OHQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T16:15:14.000Z"
+      "publishedAt": "2026-10-14T15:08:02.000Z"
     },
     {
-      "title": "Gold subdued ahead of US inflation data, Warsh remarks",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "title": "High gasoline prices expected to boost US consumer inflation in September",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-13T02:23:00.000Z"
+      "publishedAt": "2026-10-14T04:01:00.000Z"
     }
   ]
 }
