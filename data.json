@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T18:07:36.250Z",
+  "updated": "2026-10-15T00:44:53.352Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7805.45,
-      "display": "7,805",
-      "change": -1.7899999999999636,
-      "changePct": -0.023,
-      "date": "2026-10-13",
+      "value": 7718.94,
+      "display": "7,719",
+      "change": -86.51000000000022,
+      "changePct": -1.108,
+      "date": "2026-10-14",
       "spark": [
-        7631.47,
         7666.6,
         7747.71,
         7718.6,
@@ -82,7 +81,8 @@
         7765.36,
         7811.54,
         7807.24,
-        7805.45
+        7805.45,
+        7718.94
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 83159.9,
-      "display": "83,160",
-      "change": 1377.1199999999953,
-      "changePct": 1.684,
-      "date": "2026-10-13",
+      "value": 81694.05,
+      "display": "81,694",
+      "change": -1465.8499999999913,
+      "changePct": -1.763,
+      "date": "2026-10-14",
       "spark": [
-        78200.38,
         75656.09,
         76208.64,
         76366.4,
@@ -254,7 +253,8 @@
         82926.27,
         83683.56,
         81782.78,
-        83159.9
+        83159.9,
+        81694.05
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.8,
-      "display": "4.80",
-      "change": 0.04999999999999982,
-      "changePct": 1.053,
-      "date": "2026-10-09",
+      "value": 4.79,
+      "display": "4.79",
+      "change": -0.009999999999999787,
+      "changePct": -0.208,
+      "date": "2026-10-13",
       "spark": [
-        4.34,
         4.34,
         4.39,
         4.39,
@@ -1400,7 +1399,8 @@
         4.79,
         4.77,
         4.75,
-        4.8
+        4.8,
+        4.79
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.24,
-      "display": "5.24",
-      "change": 0.020000000000000462,
-      "changePct": 0.383,
-      "date": "2026-10-09",
+      "value": 5.21,
+      "display": "5.21",
+      "change": -0.03000000000000025,
+      "changePct": -0.573,
+      "date": "2026-10-13",
       "spark": [
-        4.73,
         4.75,
         4.79,
         4.79,
@@ -1443,7 +1442,8 @@
         5.27,
         5.28,
         5.22,
-        5.24
+        5.24,
+        5.21
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,34 @@
   },
   "news": [
     {
-      "title": "Fed rate hike call seen tight as inflation heats up",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5",
+      "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-14T14:22:26.000Z"
+      "publishedAt": "2026-10-14T22:09:09.000Z"
+    },
+    {
+      "title": "US Supreme Court again backs Republicans in clash over political ad rates",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnVDaGxsZC1pZHJuS1pPQWxERVRHWEdBQlBUTGVRb3dpdlFOM2R6cjIybFZXaFNxdXMxOGhNOW9tLWl1bThJYUF0b3huZC1KYXVkVnpXbi1jYUVwVU1yWTN4QU9rWHlqanUxLXV2N2lpbU8tdDNYbTItTHNfYXRWN1FHM0RJajlIN1B0UmlJT0hMaDJ2MFFGOERoWTZ3YmwtZHdrQ21nNjFMZWIxQktDRmZ3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-14T21:23:39.000Z"
+    },
+    {
+      "title": "Fed survey shows price pressures intensifying as fuel costs rise",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEdOeFlfWGYxQkFEMFV0MXNoZm5NdXpHRVRCUko5Mi1ONURfc0l6dXJSV253QzN4NFF2cjNmbFRvZ3NzaGt2MHV1MnZkTjMySDRJa2hyOTRyN0RHbjduT3FMWjhpQjBjZmdvTHQ3VVdqZUNTbzhKak0yTHd0Ymx4U00zcnlqNE9MQjdLUU5UejNIR2cxLVczQTh1SWdyLUY2SlZRUmhYMVBkR0NMc21PeA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-14T19:34:17.000Z"
     },
     {
       "title": "US inflation heats up in September; Fed rate hike this month back on table",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-14T17:03:11.000Z"
+      "publishedAt": "2026-10-14T21:45:35.000Z"
+    },
+    {
+      "title": "Fed rate hike call seen tight as inflation heats up",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-14T14:22:26.000Z"
     },
     {
       "title": "Citi turns hawkish on Fed after inflation surprise, expects December rate hike",
@@ -1469,34 +1487,16 @@
       "publishedAt": "2026-10-14T14:42:53.000Z"
     },
     {
-      "title": "Fed's Bowman says there's time to 'wait and see' before any more action",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkUzM2NCLVljQkh5Nmlsd0FjZ2NYSWhFWUI2QUhxUjJpbXU0RFdtOEdYYUlkdnJZUldNcmVIRUFhMnhsVUtPR0tUUEdsYXNaZXlENDF2NlpDQnVOcHRJcnhMV1IxcmtxZHdtYTFDTnlEVEoyNU94cHMwbDAzcWJYeVJzYllzeVlhbk9tZ29lYVRBQXFrc09WNTlyMVV3RTY3VVpwSE9mVHg?oc=5",
+      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-14T11:39:43.000Z"
-    },
-    {
-      "title": "COMMENTARY: Morning Bid: Trillion dollar trade",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFlqNjNrTG5OZE9CcDdqQlhfMXV6UUF0MXRmbUM3QVJhLUtlN1ZVUVAwT2RfTllVZ1M1MktmMkV4ZldVc1NZYVdlWUR0cXZpVEJLY1VCQTNtYU9oaUJRVGN6b2hoTnJxWGR4SWV2d2pkWkJSdkY4Ym9JTmVueXp5QThtVnYxNW8wTVg5T0tEUU1TYnJIX1lz?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-14T10:46:07.000Z"
-    },
-    {
-      "title": "Spain's inflation rises at fastest pace in more than three years",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDhaREIyYllJX0htTGZZa1ByMUJOTTFqcTdOMnNoWkRHMS1IWGZ5d29hUUFsd2xHMHpRZy1tQnZ5czZrcHhGVTNBeGZtWXVuQ3dEVDBjU2ctMzdIRkRIMzFSU3NzWVljRHBhRk0wZlJ4dEJ5UUdMdTVLMHl5UWpVSU56eW9kQ1lFSEh6QlE1TGJnSjVGcFVuS2trMjlXMEtsMFpzRQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-14T07:34:48.000Z"
+      "publishedAt": "2026-10-14T23:33:39.000Z"
     },
     {
       "title": "BlackRock draws $205 billion in client funds as quarterly profit beats estimates",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXRxc0NHX2ZoaXFielU1NXphNWFLMzFkd0syNVViQ0dwNGo5ZE8zaUlsNkVHOEtfZnpsVjl0SElocVhlUEJoaF9lYTdNaU05QWg3cmR0SjhLZHVWS3ROaU55VHlrTHpKS1dNVjBXUGxVLWlRTm1fZGNaQXE4dHV5Y2dhdHdKWVBaRl9nSXJLbGpfYjFIemt4UkR5OHQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-14T15:08:02.000Z"
-    },
-    {
-      "title": "High gasoline prices expected to boost US consumer inflation in September",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-14T04:01:00.000Z"
     }
   ]
 }
