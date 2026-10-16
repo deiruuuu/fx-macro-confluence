@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:50:53.444Z",
+  "updated": "2026-10-16T00:37:00.396Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7718.94,
-      "display": "7,719",
-      "change": -86.51000000000022,
-      "changePct": -1.108,
-      "date": "2026-10-14",
+      "value": 7744.06,
+      "display": "7,744",
+      "change": 25.1200000000008,
+      "changePct": 0.325,
+      "date": "2026-10-15",
       "spark": [
-        7666.6,
         7747.71,
         7718.6,
         7673.52,
@@ -82,7 +81,8 @@
         7811.54,
         7807.24,
         7805.45,
-        7718.94
+        7718.94,
+        7744.06
       ],
       "unit": "",
       "suffix": ""
@@ -133,18 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 96.24,
-      "display": "96.24",
-      "change": 0.10999999999999943,
-      "changePct": 0.114,
-      "date": "2026-10-06",
+      "value": 101.91,
+      "display": "101.91",
+      "change": 1.0499999999999972,
+      "changePct": 1.041,
+      "date": "2026-10-14",
       "spark": [
-        83.9,
-        83.46,
-        84.81,
-        84.57,
-        87.03,
-        91.48,
         92.15,
         92.55,
         92.69,
@@ -168,7 +162,13 @@
         99.77,
         97.89,
         96.13,
-        96.24
+        96.24,
+        95.02,
+        98.26,
+        98.73,
+        98.73,
+        100.86,
+        101.91
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81694.05,
-      "display": "81,694",
-      "change": -1465.8499999999913,
-      "changePct": -1.763,
-      "date": "2026-10-14",
+      "value": 82140.24,
+      "display": "82,140",
+      "change": 446.1900000000023,
+      "changePct": 0.546,
+      "date": "2026-10-15",
       "spark": [
-        75656.09,
         76208.64,
         76366.4,
         80844,
@@ -254,7 +253,8 @@
         83683.56,
         81782.78,
         83159.9,
-        81694.05
+        81694.05,
+        82140.24
       ],
       "unit": "",
       "suffix": ""
@@ -1234,13 +1234,12 @@
     "boj_rate": {
       "label": "BOJ RATE",
       "series": "IRSTCI01JPM156N",
-      "value": 0.977,
-      "display": "0.98",
-      "change": -0.0010000000000000009,
-      "changePct": -0.102,
-      "date": "2026-08-01",
+      "value": 1.043,
+      "display": "1.04",
+      "change": 0.06599999999999995,
+      "changePct": 6.755,
+      "date": "2026-09-01",
       "spark": [
-        0.022,
         0.077,
         0.077,
         0.077,
@@ -1269,7 +1268,8 @@
         0.727,
         0.841,
         0.978,
-        0.977
+        0.977,
+        1.043
       ],
       "unit": "",
       "suffix": "%"
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.79,
-      "display": "4.79",
-      "change": -0.009999999999999787,
-      "changePct": -0.208,
-      "date": "2026-10-13",
+      "value": 4.82,
+      "display": "4.82",
+      "change": 0.03000000000000025,
+      "changePct": 0.626,
+      "date": "2026-10-14",
       "spark": [
-        4.34,
         4.39,
         4.39,
         4.34,
@@ -1400,7 +1399,8 @@
         4.77,
         4.75,
         4.8,
-        4.79
+        4.79,
+        4.82
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.21,
-      "display": "5.21",
-      "change": -0.03000000000000025,
-      "changePct": -0.573,
-      "date": "2026-10-13",
+      "value": 5.19,
+      "display": "5.19",
+      "change": -0.019999999999999574,
+      "changePct": -0.384,
+      "date": "2026-10-14",
       "spark": [
-        4.75,
         4.79,
         4.79,
         4.77,
@@ -1443,7 +1442,8 @@
         5.28,
         5.22,
         5.24,
-        5.21
+        5.21,
+        5.19
       ],
       "unit": "",
       "suffix": ""
@@ -1463,40 +1463,40 @@
       "publishedAt": "2026-10-15T12:01:34.000Z"
     },
     {
-      "title": "POLL BoE to raise rates to 4% in November, but economists narrowly expect hold from there",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3lHU1dNb1J1ZmNRREt2THh1OVNpdms2TDU2UFVrRndzN2ltSEZJYUR5d25wd1ZBdGxCQno0OEVXbl9abDhaemo4TFo4RlpXSXV1WkRrSlM0MThwbmZ0OTUzTmdvN3V4VUFZYkhoakdObzlTbmlneGJOUlB0ZGVwaDhEdHlUNUtQeVp2dkw2Q1l3eTdzZjBSMGR3dFBYa1VxLUVoOEREMlFQc2RFd3c?oc=5",
+      "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-15T12:12:12.000Z"
+      "publishedAt": "2026-10-15T03:18:00.000Z"
+    },
+    {
+      "title": "Dollar recedes from 18-month high as bond rally tempers impact of hot inflation data",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-15T01:49:00.000Z"
+    },
+    {
+      "title": "US producer prices post largest gain in 4-1/2 years; expensive gasoline boosts retail sales",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmQ2aEh5YkdMWGR6cGNVdU5TZ1k0NmpFX3BNcDRCM3B2cEJmX1BhYktBbkprQk12WDVGSXpKalhFTkVyS1hmWHNnVVJLYU80Q3dLcWVLVTN3YWVTS3BjVjZpTFM0SkloWUF0clFLbE5aR3dFR1ZVSWpxNjUwWUFyVjMta2E5X2YxRVhQTmpHSk5KRXRqT2UyTTlqdG1lOXFXUkVJTmxMLU1Kdw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-15T17:28:43.000Z"
+    },
+    {
+      "title": "Global stocks flat as AI and rate fears hit tech",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-15T00:51:00.000Z"
+    },
+    {
+      "title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-15T00:06:00.000Z"
     },
     {
       "title": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclVJOWlaQURzRjZZVzhibFpUTnpjc2F3enRTT1NKZUotUjF2WUpCWjhFT0lzSlY0SXpoZ3ZlZDhMYkMtN1Vfa3Y1UGtZemFmV3N6WVVPQ3p2dld0N3ZubDUzVndDRE52dWdVbmpwOEFYY0UxbzYwR3dGcTNxSG9UcmNxd2ZhSzJVT2FRUTRrbnNldjg?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-15T06:06:00.000Z"
-    },
-    {
-      "title": "Gold rebounds on weaker dollar, yields; October Fed hike bets subdued",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-15T03:18:00.000Z"
-    },
-    {
-      "title": "Governments globally to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbURrVzdKbi1YZzdaMUh1Si0tYm5qTGlWNDlDNUR0SnY5ejB3MmlYYi1MUXE0RzBuS0pyTDZtODNzU3JPeDU5Qy1md083MW5BVGpNODFxVk1Rd2dCbDA2bHdHMnd2ZFE4RXpPU1l5Ql9sZW1ibHZkcGhxeXhjQmFWQnBOb01KZ0w5dDNPZlZlbGoyODM4dGZ6NEVDTzhFcmRwdVNCenA3emozdS10Q2ZGaDlBSkh3emJyNzZqQjhFQ0E2SnI5WHc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-15T06:21:00.000Z"
-    },
-    {
-      "title": "Dollar eases from 18-month high as Treasury yields fall; Fed hike bets ease",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-15T01:49:00.000Z"
-    },
-    {
-      "title": "Global stocks edge lower as AI and rate fears hit tech",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-15T00:51:00.000Z"
     }
   ]
 }
