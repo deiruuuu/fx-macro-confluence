@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:37:35.096Z",
+  "updated": "2026-10-17T00:41:45.114Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7744.06,
-      "display": "7,744",
-      "change": 25.1200000000008,
-      "changePct": 0.325,
-      "date": "2026-10-15",
+      "value": 7659.44,
+      "display": "7,659",
+      "change": -84.6200000000008,
+      "changePct": -1.093,
+      "date": "2026-10-16",
       "spark": [
-        7747.71,
         7718.6,
         7673.52,
         7636.36,
@@ -82,7 +81,8 @@
         7807.24,
         7805.45,
         7718.94,
-        7744.06
+        7744.06,
+        7659.44
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 82140.24,
-      "display": "82,140",
-      "change": 446.1900000000023,
-      "changePct": 0.546,
-      "date": "2026-10-15",
+      "value": 81475.05,
+      "display": "81,475",
+      "change": -665.1900000000023,
+      "changePct": -0.81,
+      "date": "2026-10-16",
       "spark": [
-        76208.64,
         76366.4,
         80844,
         81186,
@@ -254,7 +253,8 @@
         81782.78,
         83159.9,
         81694.05,
-        82140.24
+        82140.24,
+        81475.05
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.82,
-      "display": "4.82",
-      "change": 0.03000000000000025,
-      "changePct": 0.626,
-      "date": "2026-10-14",
+      "value": 4.77,
+      "display": "4.77",
+      "change": -0.05000000000000071,
+      "changePct": -1.037,
+      "date": "2026-10-15",
       "spark": [
-        4.39,
         4.39,
         4.34,
         4.37,
@@ -1400,7 +1399,8 @@
         4.75,
         4.8,
         4.79,
-        4.82
+        4.82,
+        4.77
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.19,
-      "display": "5.19",
-      "change": -0.019999999999999574,
-      "changePct": -0.384,
-      "date": "2026-10-14",
+      "value": 5.1,
+      "display": "5.10",
+      "change": -0.09000000000000075,
+      "changePct": -1.734,
+      "date": "2026-10-15",
       "spark": [
-        4.79,
         4.79,
         4.77,
         4.78,
@@ -1443,7 +1442,8 @@
         5.22,
         5.24,
         5.21,
-        5.19
+        5.19,
+        5.1
       ],
       "unit": "",
       "suffix": ""
@@ -1463,19 +1463,19 @@
       "publishedAt": "2026-10-16T16:38:28.000Z"
     },
     {
-      "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFVPNGdFX1B5eHM3eFl1WG1sV0FWUVlqcDVEMFRURDYzOWdXYl9OVTZ3TC1YT2VjUlRIOEFEVjhPbk5GaG1HZGExcm1zbExBa2VSNlpoakxpdjJ2V3NrWlZkaDg3VlhHZjgwN2lnNEgyU2RXbnBSWnpFaU9FWktOaThkb3hVQjNwSm83YnRUanhoWTFydUJ5dUEtdjFEaG85ekhISHI3VEw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-16T09:26:24.000Z"
-    },
-    {
       "title": "Fed's Warsh sees US resilience, mum on rate-path view",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-16T03:57:00.000Z"
     },
     {
-      "title": "European stocks rise, dollar set for weekly loss after yields drop",
+      "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFVPNGdFX1B5eHM3eFl1WG1sV0FWUVlqcDVEMFRURDYzOWdXYl9OVTZ3TC1YT2VjUlRIOEFEVjhPbk5GaG1HZGExcm1zbExBa2VSNlpoakxpdjJ2V3NrWlZkaDg3VlhHZjgwN2lnNEgyU2RXbnBSWnpFaU9FWktOaThkb3hVQjNwSm83YnRUanhoWTFydUJ5dUEtdjFEaG85ekhISHI3VEw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-16T09:26:24.000Z"
+    },
+    {
+      "title": "Stocks slip as dollar heads for weekly loss",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUpLRUNwWEpRNVpNVWJPOWQyQXdKRjkzdTU5RjFiOUxpUFZGU1ZBa1VaS3ctN0xlc0lSMkptbUVMRlprcFFtZ3B6Z2ZFTG5XX2FBUHBoSk4xRTdiQm1ucERORXE4ZzNFZ09ySlpvUDlzb0tGUjFQZ3c0UmotdEstMEZCUQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-16T02:52:00.000Z"
@@ -1487,16 +1487,16 @@
       "publishedAt": "2026-10-16T05:15:00.000Z"
     },
     {
-      "title": "Dollar heads for weekly fall as investors gauge AI selloff impact",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUNHeGZVcnQxblFnbDJNaGNUNHBQRGotcHVucUxBWDgtRjI3cFl0a2tVdTBpaGJaR1FUOTZGVm1sT0o1R0pqUjVTVHo3M1RnY1dKU1hFOFVKeVE0NlY0SnBTUFBjNFJMRU5rLWVtY0NhWnREUFpCLWI2MnQ0Y3h6ZllaTGk1LVNXNXRlSDlJcjJfRzZlN2J4cWFmT2prMDh4WFoxN0pSdGQ3Sy1G?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-16T01:20:00.000Z"
-    },
-    {
       "title": "Market selloff, rising rates test AI data centre deal boom",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-15T12:43:00.000Z"
+    },
+    {
+      "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-15T08:39:43.000Z"
     }
   ]
 }
