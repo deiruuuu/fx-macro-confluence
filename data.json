@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T00:41:45.114Z",
+  "updated": "2026-10-19T19:25:40.631Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.46,
-      "display": "16.46",
-      "change": -0.41000000000000014,
-      "changePct": -2.43,
-      "date": "2026-10-15",
+      "value": 19.99,
+      "display": "19.99",
+      "change": 3.5299999999999976,
+      "changePct": 21.446,
+      "date": "2026-10-16",
       "spark": [
-        14.53,
         15.3,
         15.72,
         16.46,
@@ -211,7 +210,8 @@
         15.21,
         15.27,
         16.87,
-        16.46
+        16.46,
+        19.99
       ],
       "unit": "",
       "suffix": ""
@@ -219,14 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81475.05,
-      "display": "81,475",
-      "change": -665.1900000000023,
-      "changePct": -0.81,
-      "date": "2026-10-16",
+      "value": 81977.73,
+      "display": "81,978",
+      "change": 667.2399999999907,
+      "changePct": 0.821,
+      "date": "2026-10-18",
       "spark": [
-        76366.4,
-        80844,
         81186,
         81253.37,
         86396.74,
@@ -254,7 +252,9 @@
         83159.9,
         81694.05,
         82140.24,
-        81475.05
+        81475.05,
+        81310.49,
+        81977.73
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.46,
-      "display": "16.46",
-      "change": -0.41000000000000014,
-      "changePct": -2.43,
-      "date": "2026-10-15",
+      "value": 19.99,
+      "display": "19.99",
+      "change": 3.5299999999999976,
+      "changePct": 21.446,
+      "date": "2026-10-16",
       "spark": [
-        14.53,
         15.3,
         15.72,
         16.46,
@@ -1355,7 +1354,8 @@
         15.21,
         15.27,
         16.87,
-        16.46
+        16.46,
+        19.99
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Supertanker rates fall from record highs",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkk0WDVQcnY0THRwaTVSenJQTEQ0U1VuVHdEY2xKTl9CdEw2NjlFN0FvTnBGbldlREpWRGZ6YV9kWnRjNjVuTlJqTWVBR0U3VXAwbXgwRjlSY1pfSVd3SjRKYU5KMVJwVm56blVQMnFFbV9EejlRNlZuSWo2OGd1TVl4ZlVwOXlvVGttb0ZLVkk?oc=5",
+      "title": "Canada's annual inflation rate rose to 3.1% in September",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3VaLWlSejhHR19OQW1GMmZqTzFTZEktcUVDQXpLOW1GcjdiLUNqN3VUOHB1b0FaZFBhaUtzOVhqMWRLVkhmZl9HbHVtbXA2aVJ3bHRGR0pUdkt6b0JwQndsR01IMWdoVlZhV0hqSGpxS0pLY1NsLVh3ZVRQTmJMRzVPSmEwM0RtRUZSNkY3ajE2MGVWQWRkYkV0UHVtUDg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-16T14:25:41.000Z"
+      "publishedAt": "2026-10-19T13:41:06.000Z"
     },
     {
-      "title": "Central bankers eye higher rates as AI boom fuels scramble for cash",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
+      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-16T16:38:28.000Z"
+      "publishedAt": "2026-10-19T18:39:36.000Z"
     },
     {
-      "title": "Fed's Warsh sees US resilience, mum on rate-path view",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
+      "title": "French markets tumble as riots add to political crisis",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa3dENVpSdjlaYWJ6dmVsNlJoS2hqR3dqWVczcHhGMlJpeVpoeGNuWUlacWJSVGN2UmhHbENLS2tjWW5vcmZyeUUyUDNwS25uLVI3bGJDbmdZR05pRDY3THVPa1dmNTVuQXphWWxNZzFHN1ZqMjF4N3hjVVZUUGdEQ1BEeXlRcmdPblBYcUh1WTVBLWN4ZkYwX2FLd1NfWEpoRXQ4?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-16T03:57:00.000Z"
+      "publishedAt": "2026-10-19T15:13:43.000Z"
     },
     {
-      "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFVPNGdFX1B5eHM3eFl1WG1sV0FWUVlqcDVEMFRURDYzOWdXYl9OVTZ3TC1YT2VjUlRIOEFEVjhPbk5GaG1HZGExcm1zbExBa2VSNlpoakxpdjJ2V3NrWlZkaDg3VlhHZjgwN2lnNEgyU2RXbnBSWnpFaU9FWktOaThkb3hVQjNwSm83YnRUanhoWTFydUJ5dUEtdjFEaG85ekhISHI3VEw?oc=5",
+      "title": "Global food inflation is expected to intensify as supply shocks pile up",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-16T09:26:24.000Z"
+      "publishedAt": "2026-10-19T04:04:00.000Z"
     },
     {
-      "title": "Stocks slip as dollar heads for weekly loss",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUpLRUNwWEpRNVpNVWJPOWQyQXdKRjkzdTU5RjFiOUxpUFZGU1ZBa1VaS3ctN0xlc0lSMkptbUVMRlprcFFtZ3B6Z2ZFTG5XX2FBUHBoSk4xRTdiQm1ucERORXE4ZzNFZ09ySlpvUDlzb0tGUjFQZ3c0UmotdEstMEZCUQ?oc=5",
+      "title": "Gold edges lower as firm dollar, elevated yields weigh",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-16T02:52:00.000Z"
+      "publishedAt": "2026-10-19T03:11:00.000Z"
     },
     {
-      "title": "India widens rupee defence to rates, but cautiously",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
+      "title": "China's economic growth picks up as exports boom, consumers balk",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-16T05:15:00.000Z"
+      "publishedAt": "2026-10-19T02:22:00.000Z"
     },
     {
-      "title": "Market selloff, rising rates test AI data centre deal boom",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
+      "title": "Euro dips on French turmoil, Aussie lifted by China growth",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-15T12:43:00.000Z"
+      "publishedAt": "2026-10-19T01:35:00.000Z"
     },
     {
-      "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5",
+      "title": "US stocks rebound with AI earnings test ahead; French markets tumble",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-15T08:39:43.000Z"
+      "publishedAt": "2026-10-19T00:38:00.000Z"
     }
   ]
 }
