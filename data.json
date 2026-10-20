@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T01:09:50.312Z",
+  "updated": "2026-10-20T18:04:52.979Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,14 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2516.8,
-      "display": "2,516.80",
-      "change": 30.0300000000002,
-      "changePct": 1.208,
-      "date": "2026-10-15",
+      "value": 2509.28,
+      "display": "2,509.28",
+      "change": -5.549999999999727,
+      "changePct": -0.221,
+      "date": "2026-10-19",
       "spark": [
-        2710.95,
-        2700.71,
         2667.82,
         2685.25,
         2650.76,
@@ -125,7 +123,9 @@
         2510.16,
         2510.79,
         2486.77,
-        2516.8
+        2516.8,
+        2514.83,
+        2509.28
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 19.99,
-      "display": "19.99",
-      "change": 3.5299999999999976,
-      "changePct": 21.446,
-      "date": "2026-10-16",
+      "value": 18.44,
+      "display": "18.44",
+      "change": -1.5499999999999972,
+      "changePct": -7.754,
+      "date": "2026-10-19",
       "spark": [
-        15.3,
         15.72,
         16.46,
         17.84,
@@ -211,7 +210,8 @@
         15.27,
         16.87,
         16.46,
-        19.99
+        19.99,
+        18.44
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 19.99,
-      "display": "19.99",
-      "change": 3.5299999999999976,
-      "changePct": 21.446,
-      "date": "2026-10-16",
+      "value": 18.44,
+      "display": "18.44",
+      "change": -1.5499999999999972,
+      "changePct": -7.754,
+      "date": "2026-10-19",
       "spark": [
-        15.3,
         15.72,
         16.46,
         17.84,
@@ -1355,7 +1354,8 @@
         15.27,
         16.87,
         16.46,
-        19.99
+        19.99,
+        18.44
       ],
       "unit": "",
       "suffix": ""
@@ -1449,5 +1449,54 @@
       "suffix": ""
     }
   },
-  "news": []
+  "news": [
+    {
+      "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T13:27:27.000Z"
+    },
+    {
+      "title": "Gold steady as investors await fed rate signals",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T01:33:00.000Z"
+    },
+    {
+      "title": "Asian refiners use smaller tankers, buy delivered crude as freight rates soar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2ZqUG1VeDQwZ1U1Vmc2NDFHWU1KUEdiMmhXVFhjX0FleHIwdnJyRHliLTJWb0FaWDAwbFBMaEdMdHdfemljUEdFX3lpcUdYSmdKcjRUZHhiNjNTMUhobzNFWkpTSEhtZUN1RUxMeHY5b0RJaFJuc2wwRDFJT3hkYUxLS1BycXZMeFVWVExXcGpqMUxVdE1qWUxyRVN1emZ3UGhONmZ1NWJYVWUyMmJRLUZSN29Ib0J5WmNsQ2Vrb1VmOEk?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T07:09:44.000Z"
+    },
+    {
+      "title": "How safe havens stack up as tech, energy and France fears grip markets",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T04:06:00.000Z"
+    },
+    {
+      "title": "Dollar dips on AI worries, euro edges up despite French unrest",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T01:14:00.000Z"
+    },
+    {
+      "title": "China leaves loan rates steady for 17th consecutive month",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVB0amh2R1lRc3VyUHZUMS1fcHZQeklxdjVOekRHRy0tUTBEa1U2aFlWRXdiNk0xamxUc1hrU0hmbEZBRVptMEIxRS11N1lvZk05Nkh1MDF1bUtONzlIZkFRSlpWcTNaRGxPcVZka2FrbXBSVEU0VUs5eC1qSVp4TnRianA1QWNwbWFzck1aWGFZeW5kcElaWElFTl94X2gwUV80bmpzSkI2UQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T01:31:00.000Z"
+    },
+    {
+      "title": "Stocks mostly rise as oil, US yields ease; euro edges up",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T02:09:00.000Z"
+    },
+    {
+      "title": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T13:05:00.000Z"
+    }
+  ]
 }
