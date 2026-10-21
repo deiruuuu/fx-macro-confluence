@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:04:52.979Z",
+  "updated": "2026-10-21T00:47:45.252Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81804.35,
-      "display": "81,804",
-      "change": -173.3799999999901,
-      "changePct": -0.211,
-      "date": "2026-10-19",
+      "value": 82850.31,
+      "display": "82,850",
+      "change": 1045.9599999999919,
+      "changePct": 1.279,
+      "date": "2026-10-20",
       "spark": [
-        81253.37,
         86396.74,
         86249.98,
         84452.97,
@@ -254,7 +253,8 @@
         81475.05,
         81310.49,
         81977.73,
-        81804.35
+        81804.35,
+        82850.31
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.74,
-      "display": "4.74",
-      "change": -0.02999999999999936,
-      "changePct": -0.629,
-      "date": "2026-10-16",
+      "value": 4.77,
+      "display": "4.77",
+      "change": 0.02999999999999936,
+      "changePct": 0.633,
+      "date": "2026-10-19",
       "spark": [
-        4.34,
         4.37,
         4.39,
         4.43,
@@ -1400,7 +1399,8 @@
         4.79,
         4.82,
         4.77,
-        4.74
+        4.74,
+        4.77
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.09,
-      "display": "5.09",
-      "change": -0.009999999999999787,
-      "changePct": -0.196,
-      "date": "2026-10-16",
+      "value": 5.15,
+      "display": "5.15",
+      "change": 0.0600000000000005,
+      "changePct": 1.179,
+      "date": "2026-10-19",
       "spark": [
-        4.77,
         4.78,
         4.8,
         4.83,
@@ -1443,7 +1442,8 @@
         5.21,
         5.19,
         5.1,
-        5.09
+        5.09,
+        5.15
       ],
       "unit": "",
       "suffix": ""
@@ -1457,16 +1457,16 @@
       "publishedAt": "2026-10-20T13:27:27.000Z"
     },
     {
-      "title": "Gold steady as investors await fed rate signals",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-20T01:33:00.000Z"
-    },
-    {
       "title": "Asian refiners use smaller tankers, buy delivered crude as freight rates soar",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2ZqUG1VeDQwZ1U1Vmc2NDFHWU1KUEdiMmhXVFhjX0FleHIwdnJyRHliLTJWb0FaWDAwbFBMaEdMdHdfemljUEdFX3lpcUdYSmdKcjRUZHhiNjNTMUhobzNFWkpTSEhtZUN1RUxMeHY5b0RJaFJuc2wwRDFJT3hkYUxLS1BycXZMeFVWVExXcGpqMUxVdE1qWUxyRVN1emZ3UGhONmZ1NWJYVWUyMmJRLUZSN29Ib0J5WmNsQ2Vrb1VmOEk?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-20T07:09:44.000Z"
+    },
+    {
+      "title": "Gold edges lower as investors weigh Fed rate signals",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T01:33:00.000Z"
     },
     {
       "title": "How safe havens stack up as tech, energy and France fears grip markets",
@@ -1475,28 +1475,28 @@
       "publishedAt": "2026-10-20T04:06:00.000Z"
     },
     {
-      "title": "Dollar dips on AI worries, euro edges up despite French unrest",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-20T01:14:00.000Z"
-    },
-    {
-      "title": "China leaves loan rates steady for 17th consecutive month",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVB0amh2R1lRc3VyUHZUMS1fcHZQeklxdjVOekRHRy0tUTBEa1U2aFlWRXdiNk0xamxUc1hrU0hmbEZBRVptMEIxRS11N1lvZk05Nkh1MDF1bUtONzlIZkFRSlpWcTNaRGxPcVZka2FrbXBSVEU0VUs5eC1qSVp4TnRianA1QWNwbWFzck1aWGFZeW5kcElaWElFTl94X2gwUV80bmpzSkI2UQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-20T01:31:00.000Z"
-    },
-    {
-      "title": "Stocks mostly rise as oil, US yields ease; euro edges up",
+      "title": "Stocks mostly rise as oil, US yields ease; French stocks fall",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-20T02:09:00.000Z"
     },
     {
-      "title": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
+      "title": "Dollar dips as traders weigh Iran, AI risks",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-20T13:05:00.000Z"
+      "publishedAt": "2026-10-20T01:14:00.000Z"
+    },
+    {
+      "title": "Indonesia battles to stabilise market after MSCI expulsion threat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWs3WmMyWFdwWmZpeTY4RTJudHB3TEpoNWxCT2RuZENNdWhiZU5YVkxuel9zOFhXQ3VlQWswWEdfY3J0Q3RNeC0tMFBYaEgzN185eC1BS0YzS3RmbWg5Yk9LclY3YURMQ2VfdFg1ZFRRendBRi1QRk5BWFBHdl9Uc25HNHJjVTBraHJhRHlwLXdYVWg4VHpnck9RTkR6RFpHWUlPaXZjcFFlczRBNERiaUd3YmhOSGZiSjBfdkU0ZTBad2U0eEJ4cnRmTmtKNEFl?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-20T03:36:00.000Z"
+    },
+    {
+      "title": "Global food inflation is expected to intensify as supply shocks pile up",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-19T04:04:00.000Z"
     }
   ]
 }
