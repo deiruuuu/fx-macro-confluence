@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:11:20.949Z",
+  "updated": "2026-10-22T00:51:11.734Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -347,25 +347,19 @@
   },
   "news": [
     {
-      "title": "Brookings paper offers broad plan to shrink Fed balance sheet",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-21T17:20:10.000Z"
-    },
-    {
       "title": "Pound gains against dollar, euro as inflation data cements future rate hike bets",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONEtnY2tIVF9OZTdBSTNUOHpQWjFKYzlBd1JYdEx6eXBBTGV3M0U1RGVQT08tT1o2NEdXTzUzZ3d4eGV4OVN2Ukc3c0h1RjRMNy02VHNpd3hiSl9fcFNnV2tyUjNyaVpzeWc0akVmVk94Z3VTU3VFZi1TMlp6S2xUR2habU5BYkVhWWtoMVhCNGlDMmFCa245OUJPWlFvRl9PcFdFdWo4VGEwVFNPalVITEkzYWZtT3pBMUNrT0hR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-21T09:54:38.000Z"
     },
     {
-      "title": "ECB says AI, greener economy help euro zone weather energy shock",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVE1WFlPV043OWhlQ0E3TXFCSnNmQmhLaVBsS0l5TTlRSFNGNlUwY3pqZllBVDQ1alFzdXFuTEowN0RlRU5jMkdmNjFzU3hRM01XdGc4TVVvQWhOdWp5aGQtNm9sdUhzWWUzWkN6VTUzeHFtWjk4aFlTdzllSGZtZTFYX0gzb2k0TkFyRUZrYnRJTmF4d2JJZWwtN0s5RzVaRDhLYmgxS3pqRERvSTFzM2VxVVZubDQ?oc=5",
+      "title": "Brookings paper offers broad plan to shrink Fed balance sheet",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-21T09:02:41.000Z"
+      "publishedAt": "2026-10-21T17:20:10.000Z"
     },
     {
-      "title": "Gold steadies near one-week low as oil-driven inflation fears grow",
+      "title": "Gold edges higher as yields retreat, Fed decision in focus",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-21T03:45:00.000Z"
@@ -377,22 +371,28 @@
       "publishedAt": "2026-10-21T06:04:00.000Z"
     },
     {
-      "title": "Dollar mixed as traders wait on Fed, Aussie gains",
+      "title": "In China, ECB makes case for euro liquidity lines",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NOb19uSnBzc0sxX3ZDZjdhVDNlNTVHR0tYZnFCT1NPc0wwSE9oSkp0SjA2WXJzMmJnNnY5NEVKN3ZBdlE3aTJBNmRpaC10YmFjekVvWS1fQW83RWE3NDBRVDRXdmVVS2NFRFBWelRZQ3lIakk5RUhSdExqM0F4NktQOHdkVkFnQ2pGaDhIaFNsTmpRWnhYSWVR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-21T04:17:00.000Z"
+    },
+    {
+      "title": "ECB says AI, greener economy help euro zone weather energy shock",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVE1WFlPV043OWhlQ0E3TXFCSnNmQmhLaVBsS0l5TTlRSFNGNlUwY3pqZllBVDQ1alFzdXFuTEowN0RlRU5jMkdmNjFzU3hRM01XdGc4TVVvQWhOdWp5aGQtNm9sdUhzWWUzWkN6VTUzeHFtWjk4aFlTdzllSGZtZTFYX0gzb2k0TkFyRUZrYnRJTmF4d2JJZWwtN0s5RzVaRDhLYmgxS3pqRERvSTFzM2VxVVZubDQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-21T09:02:41.000Z"
+    },
+    {
+      "title": "Dollar dips as traders wait on Fed; Aussie gains",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-21T01:20:00.000Z"
     },
     {
-      "title": "Australian central banker says inflation outlook worse, unsure about November rate hike",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkpNZ19yZ05Hem9Oa0NPdGV1aUhGZzc3emJnVFFWVmZ3TUFBZkdXZlJqZmVCRHF6anpfSTdIODc0anNLa1VQbHpiN0VRejFRejZqck1RdkF0bXpVUzJCdmUwVVM2dHB2cmVxS2d6c3pUSl9WWTZWdHBBV0dDVzhCM0ZIQ015VUg2ZVlyQkRubU9OcWdHNm1tSHplbE9CbVR1eFdEU0wxcWM4eXg2TVBaSjRmWTdRaGkzdl9wcHc1QUM?oc=5",
+      "title": "Bond selloff revives debate about euro zone banks' 'doom loop'",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSE45YzVMT3FwR1hwcF9lMDBYS3pEYkozajNuaFFteWx0TlZIaVZjdzRQMkstbnhiUEhXVjlLU0lha011VmNwYmZWeTdVb1pUSHNKY3hOVkZXTzZJWndTakUyZVo3ejJNcXlJbldSMTBQTURvcDBvU2ZnYU1Tc202dXJ1VHlzZnlncTVCX284Nlg5ZE50b3hMNlBTZEl2TC13Q2FvOWFyYmZETDdDRjlSczZFbjZXZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-20T22:14:00.000Z"
-    },
-    {
-      "title": "In China, ECB makes case for euro liquidity lines",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NOb19uSnBzc0sxX3ZDZjdhVDNlNTVHR0tYZnFCT1NPc0wwSE9oSkp0SjA2WXJzMmJnNnY5NEVKN3ZBdlE3aTJBNmRpaC10YmFjekVvWS1fQW83RWE3NDBRVDRXdmVVS2NFRFBWelRZQ3lIakk5RUhSdExqM0F4NktQOHdkVkFnQ2pGaDhIaFNsTmpRWnhYSWVR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-21T04:17:00.000Z"
+      "publishedAt": "2026-10-21T05:04:00.000Z"
     }
   ]
 }
