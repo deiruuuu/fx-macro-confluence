@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:07:04.158Z",
+  "updated": "2026-10-23T00:50:32.748Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 84133.56,
-      "display": "84,134",
-      "change": 1283.25,
-      "changePct": 1.549,
-      "date": "2026-10-21",
+      "value": 81225.62,
+      "display": "81,226",
+      "change": -2907.9400000000023,
+      "changePct": -3.456,
+      "date": "2026-10-22",
       "spark": [
-        86249.98,
         84452.97,
         84470.76,
         84048.07,
@@ -254,7 +253,8 @@
         81977.73,
         81804.35,
         82850.31,
-        84133.56
+        84133.56,
+        81225.62
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.79,
-      "display": "4.79",
-      "change": 0.020000000000000462,
-      "changePct": 0.419,
-      "date": "2026-10-20",
+      "value": 4.81,
+      "display": "4.81",
+      "change": 0.019999999999999574,
+      "changePct": 0.418,
+      "date": "2026-10-21",
       "spark": [
-        4.39,
         4.43,
         4.56,
         4.63,
@@ -1400,7 +1399,8 @@
         4.77,
         4.74,
         4.77,
-        4.79
+        4.79,
+        4.81
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.12,
-      "display": "5.12",
-      "change": -0.03000000000000025,
-      "changePct": -0.583,
-      "date": "2026-10-20",
+      "value": 5.13,
+      "display": "5.13",
+      "change": 0.009999999999999787,
+      "changePct": 0.195,
+      "date": "2026-10-21",
       "spark": [
-        4.8,
         4.83,
         4.95,
         4.96,
@@ -1443,7 +1442,8 @@
         5.1,
         5.09,
         5.15,
-        5.12
+        5.12,
+        5.13
       ],
       "unit": "",
       "suffix": ""
@@ -1475,28 +1475,28 @@
       "publishedAt": "2026-10-22T15:51:41.000Z"
     },
     {
+      "title": "Stocks drop as Meta fans AI worries, Treasuries gain",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-22T02:15:00.000Z"
+    },
+    {
       "title": "India's markets regulator proposes easing approval rules for some exchange investments",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPandGLVdqR1pHdFN6dlJ4V2RMUGdWV3hycXM2VGhZY01YN19IeFVjOEgweE1mN0lZeU5VVWt6QVJhU3JjN3l5SS1jUlZiTW4tMERHSFhDMHpiRXZMNjl5YUQ5ZmhVUFNvZnVvejBoc2RrUm41dWliRHBHNUhYYjJkTHRPSHhSQkpFZnFBNE5jYmxFbl9Ld0tOTEZEVGFFUUxkRjFTSUk0ZTk3ZU5kdVlfeFZILTZDd2l1b2xZdDc2aw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-22T15:32:28.000Z"
     },
     {
-      "title": "Stocks drop as Meta dampens AI optimism; Treasury yields fall",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-22T02:15:00.000Z"
-    },
-    {
-      "title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjNoMVJaTEVIbGhjVlBPOVdQN1FYS1JDV1RCSFBUNFlFYzRpNmpCblMxMXNqYXk2WHRBSENOcUdHU21NdllLazl3Q0tWY2QzNXRrdS0zR0IyNThDam0wXzhSb0RhMEp0aUprRVRRbVZhY25yMUp2eU9lalpJYTBDNlBzSVBfQm1RdzJETllUbHhfbnMxSGlRT2hMUXAtTHVIZG1zTUl1ams0eVVWN1hFd0VzSGdTSlVJdWc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-22T09:48:09.000Z"
-    },
-    {
       "title": "In China, ECB makes case for euro liquidity lines",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NOb19uSnBzc0sxX3ZDZjdhVDNlNTVHR0tYZnFCT1NPc0wwSE9oSkp0SjA2WXJzMmJnNnY5NEVKN3ZBdlE3aTJBNmRpaC10YmFjekVvWS1fQW83RWE3NDBRVDRXdmVVS2NFRFBWelRZQ3lIakk5RUhSdExqM0F4NktQOHdkVkFnQ2pGaDhIaFNsTmpRWnhYSWVR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-21T04:17:00.000Z"
+    },
+    {
+      "title": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQS1ESU5ra242UzdCbkxuVkNzUkV2NWZVTGlRcDZnSzJBeE5KTkFyMEZvaTd0ZEl4LWduc0lmbGZkRnV6REF1dV9VUkRESHpVM3lLUkt0SmtfQzJDLXdnZ0l6akwwOWZpS1lza2tSbHczcnlpU2JPSXo5eHNrY0c4aWNpWjNJSlFYa2M2UEhDNnVsUnQySGF6MVJSY1FPam1LSlliSkJUTzFKck9tZ2J6S2xlUnVSam1TTllJbUxQWmtTcjQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-22T13:44:22.000Z"
     }
   ]
 }
