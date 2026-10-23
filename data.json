@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:50:32.748Z",
+  "updated": "2026-10-23T17:55:56.823Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2509.34,
-      "display": "2,509.34",
-      "change": 8.050000000000182,
-      "changePct": 0.322,
-      "date": "2026-10-21",
+      "value": 2456.88,
+      "display": "2,456.88",
+      "change": -52.460000000000036,
+      "changePct": -2.091,
+      "date": "2026-10-22",
       "spark": [
-        2650.76,
         2670.31,
         2593.49,
         2601.28,
@@ -125,7 +124,8 @@
         2514.83,
         2509.28,
         2501.29,
-        2509.34
+        2509.34,
+        2456.88
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.68,
-      "display": "16.68",
-      "change": -0.629999999999999,
-      "changePct": -3.64,
-      "date": "2026-10-21",
+      "value": 19.03,
+      "display": "19.03",
+      "change": 2.3500000000000014,
+      "changePct": 14.089,
+      "date": "2026-10-22",
       "spark": [
-        17.84,
         15.84,
         17.1,
         17.2,
@@ -211,7 +210,8 @@
         19.99,
         18.44,
         17.31,
-        16.68
+        16.68,
+        19.03
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.68,
-      "display": "16.68",
-      "change": -0.629999999999999,
-      "changePct": -3.64,
-      "date": "2026-10-21",
+      "value": 19.03,
+      "display": "19.03",
+      "change": 2.3500000000000014,
+      "changePct": 14.089,
+      "date": "2026-10-22",
       "spark": [
-        17.84,
         15.84,
         17.1,
         17.2,
@@ -1355,7 +1354,8 @@
         19.99,
         18.44,
         17.31,
-        16.68
+        16.68,
+        19.03
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "AI trade meets the Fed",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T12:11:56.000Z"
+    },
+    {
+      "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T04:14:00.000Z"
+    },
+    {
+      "title": "Wall St Week Ahead Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T10:07:44.000Z"
+    },
+    {
+      "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG5Pak5NSEdtSQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-22T23:48:00.000Z"
+    },
+    {
+      "title": "Japan government, BOJ gap on inflation laid bare ahead of key policy meeting",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQW0xZWdsSEphWEdwUkZxa2VYX0hwOXRaMzFpcHJ5X1VaVzZ2UlQtajVvSnBYQkFnOS1vTUs0RHBkZXBPa2I4T1hVZWV1cjZBNHY3cy1kN2I2RmIzMHprVE1nMTZwUVNjcVY0NDBxdWRkdUlRekd4U21BXzdqLWRMMjEtXzJyVkJVN29SdGRNNm16a3dUa2s1MGNINEZubXJKb1pxNkhIOU05Y2JYZlZvYndTeFdNcldsc3c?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T00:06:00.000Z"
+    },
+    {
       "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-22T06:13:00.000Z"
     },
     {
-      "title": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
+      "title": "Hedge fund returns worsen this week as tech selloff deepens",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0h2UUh0dUpTb1VWWGJYWm1KOXM4eXZQc1dyTlJMSWNnQ2tOVS1JRmdTMmJMaGpJSEo1c05kLUpXamZVTWVPWUppREI5OWFPUmZVV3hnektWdlRmWXVHNHpkQldJUk1PVEN0QUQ5NE0zczdSc0RMRGhOV28yYkZqeHFEMTFXUElRTDVCMXUybHRGSFhXcUFBS0hoS3V1NWVSREJGa2FCT1ludVU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-22T04:03:00.000Z"
+      "publishedAt": "2026-10-23T09:16:53.000Z"
     },
     {
-      "title": "Yen jumps as oil, AI and France worries rattle markets",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
+      "title": "Morning Bid: Wake up! The long bond's up two points!",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPbWpxYWRaeEZMMmxqeERaQ1Y3TGpaNHFBMFFoR3hydFNvQnFRVzV4UXNUZTFxb0hwU2ktVTRtUjVoX2Fqc2dSMGR4VnRtdEJibFdMU1NoOC1jOUdRbTZkcHU5YmRWSFU5R2pVUkozQS1mc0R0UURmRm1GOGRGNkU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-22T02:10:00.000Z"
-    },
-    {
-      "title": "French debt risk premium reaches euro zone sovereign crisis levels",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZG1tbk1Ea3kzamhBdWdPRmV3S3JKYkFUYVlaTmdWMDNZZk41WDVFU3FGM3JJSkpxanYxaUFsbjdWWDVnZHlaZWlBYVctc3ZtWklsZndxelk4NWU0aWpIVnhGOXFTbTRYX0R4VXBGUElvaXNGaWU3Z3hNWVpVVjlHZVN6Zm1xSEVPekdnb2VmVXlqeThrV0ZQU1E2c2V4QXdfSFQydjVlaW1vYTRXV2Y4bHNocW4tdw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-22T15:51:41.000Z"
-    },
-    {
-      "title": "Stocks drop as Meta fans AI worries, Treasuries gain",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-22T02:15:00.000Z"
-    },
-    {
-      "title": "India's markets regulator proposes easing approval rules for some exchange investments",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPandGLVdqR1pHdFN6dlJ4V2RMUGdWV3hycXM2VGhZY01YN19IeFVjOEgweE1mN0lZeU5VVWt6QVJhU3JjN3l5SS1jUlZiTW4tMERHSFhDMHpiRXZMNjl5YUQ5ZmhVUFNvZnVvejBoc2RrUm41dWliRHBHNUhYYjJkTHRPSHhSQkpFZnFBNE5jYmxFbl9Ld0tOTEZEVGFFUUxkRjFTSUk0ZTk3ZU5kdVlfeFZILTZDd2l1b2xZdDc2aw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-22T15:32:28.000Z"
-    },
-    {
-      "title": "In China, ECB makes case for euro liquidity lines",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NOb19uSnBzc0sxX3ZDZjdhVDNlNTVHR0tYZnFCT1NPc0wwSE9oSkp0SjA2WXJzMmJnNnY5NEVKN3ZBdlE3aTJBNmRpaC10YmFjekVvWS1fQW83RWE3NDBRVDRXdmVVS2NFRFBWelRZQ3lIakk5RUhSdExqM0F4NktQOHdkVkFnQ2pGaDhIaFNsTmpRWnhYSWVR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-21T04:17:00.000Z"
-    },
-    {
-      "title": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQS1ESU5ra242UzdCbkxuVkNzUkV2NWZVTGlRcDZnSzJBeE5KTkFyMEZvaTd0ZEl4LWduc0lmbGZkRnV6REF1dV9VUkRESHpVM3lLUkt0SmtfQzJDLXdnZ0l6akwwOWZpS1lza2tSbHczcnlpU2JPSXo5eHNrY0c4aWNpWjNJSlFYa2M2UEhDNnVsUnQySGF6MVJSY1FPam1LSlliSkJUTzFKck9tZ2J6S2xlUnVSam1TTllJbUxQWmtTcjQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-22T13:44:22.000Z"
+      "publishedAt": "2026-10-23T04:31:00.000Z"
     }
   ]
 }
