@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:55:56.823Z",
+  "updated": "2026-10-24T00:57:23.513Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81225.62,
-      "display": "81,226",
-      "change": -2907.9400000000023,
-      "changePct": -3.456,
-      "date": "2026-10-22",
+      "value": 81026.7,
+      "display": "81,027",
+      "change": -198.91999999999825,
+      "changePct": -0.245,
+      "date": "2026-10-23",
       "spark": [
-        84452.97,
         84470.76,
         84048.07,
         84337.36,
@@ -254,7 +253,8 @@
         81804.35,
         82850.31,
         84133.56,
-        81225.62
+        81225.62,
+        81026.7
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.81,
-      "display": "4.81",
-      "change": 0.019999999999999574,
-      "changePct": 0.418,
-      "date": "2026-10-21",
+      "value": 4.65,
+      "display": "4.65",
+      "change": -0.15999999999999925,
+      "changePct": -3.326,
+      "date": "2026-10-22",
       "spark": [
-        4.43,
         4.56,
         4.63,
         4.65,
@@ -1400,7 +1399,8 @@
         4.74,
         4.77,
         4.79,
-        4.81
+        4.81,
+        4.65
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.13,
-      "display": "5.13",
-      "change": 0.009999999999999787,
-      "changePct": 0.195,
-      "date": "2026-10-21",
+      "value": 4.96,
+      "display": "4.96",
+      "change": -0.16999999999999993,
+      "changePct": -3.314,
+      "date": "2026-10-22",
       "spark": [
-        4.83,
         4.95,
         4.96,
         4.97,
@@ -1443,7 +1442,8 @@
         5.09,
         5.15,
         5.12,
-        5.13
+        5.13,
+        4.96
       ],
       "unit": "",
       "suffix": ""
@@ -1451,22 +1451,16 @@
   },
   "news": [
     {
-      "title": "AI trade meets the Fed",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXBVcldURXc1c3hRcmpNWXdhcWRVR1hibkVqNF9YM1V4NzIzdmlDUzlGZHpjaVJWQlp3M1N2ckpRMzlSdlZZRTRJcVloUTNnR0l4UE1fSXlhTXpZWFlqVGdYWEljWG9DdWpXRGQyaUlvVkdyNUlhZjF0TS1iRWNLYTZjZjNZZXc0Zi1fUzdvWm0xYWk4VmNiaU9WdHhVUno5WTBxMGhkNWpkZWVJUXA4bVdtYw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-23T12:11:56.000Z"
+      "publishedAt": "2026-10-23T22:21:31.000Z"
     },
     {
       "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-23T04:14:00.000Z"
-    },
-    {
-      "title": "Wall St Week Ahead Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-23T10:07:44.000Z"
     },
     {
       "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
@@ -1481,10 +1475,16 @@
       "publishedAt": "2026-10-23T00:06:00.000Z"
     },
     {
-      "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
+      "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-22T06:13:00.000Z"
+      "publishedAt": "2026-10-23T21:21:32.000Z"
+    },
+    {
+      "title": "Canadian dollar hits five-week high as data supports rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHNLSXpMVmtYQ3JMZDE5UW81bFo4cG5VT04zWFBSUm1XeWhnWURVZlpMdmZ2b0F3RWo4RUxZekt2ZUFMbkwwN1E5R1M3TXhaeU5SdXltUlJEYk5oY21TU1lUMWota1BFZ19yVVNFSWt6WUxsa00zVXpmTDB1Sm83X2E3VkhOVFVnY1ZDRVZhTU9jY3EtbzR0MG5RZTNBZmtrVWdmamluektNOGFFdlE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T19:17:47.000Z"
     },
     {
       "title": "Hedge fund returns worsen this week as tech selloff deepens",
@@ -1493,10 +1493,10 @@
       "publishedAt": "2026-10-23T09:16:53.000Z"
     },
     {
-      "title": "Morning Bid: Wake up! The long bond's up two points!",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPbWpxYWRaeEZMMmxqeERaQ1Y3TGpaNHFBMFFoR3hydFNvQnFRVzV4UXNUZTFxb0hwU2ktVTRtUjVoX2Fqc2dSMGR4VnRtdEJibFdMU1NoOC1jOUdRbTZkcHU5YmRWSFU5R2pVUkozQS1mc0R0UURmRm1GOGRGNkU?oc=5",
+      "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-23T04:31:00.000Z"
+      "publishedAt": "2026-10-22T06:13:00.000Z"
     }
   ]
 }
