@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T01:34:55.390Z",
+  "updated": "2026-10-27T18:51:24.984Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7623.68,
-      "display": "7,624",
-      "change": -39.75,
-      "changePct": -0.519,
-      "date": "2026-10-23",
+      "value": 7676.77,
+      "display": "7,677",
+      "change": 53.090000000000146,
+      "changePct": 0.696,
+      "date": "2026-10-26",
       "spark": [
-        7619.98,
         7585.73,
         7551.81,
         7637.76,
@@ -82,7 +81,8 @@
         7712.57,
         7757.17,
         7663.43,
-        7623.68
+        7623.68,
+        7676.77
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2444.37,
-      "display": "2,444.37",
-      "change": -12.510000000000218,
-      "changePct": -0.509,
-      "date": "2026-10-23",
+      "value": 2453.37,
+      "display": "2,453.37",
+      "change": 9,
+      "changePct": 0.368,
+      "date": "2026-10-26",
       "spark": [
-        2593.49,
         2601.28,
         2591.62,
         2629.28,
@@ -125,7 +124,8 @@
         2501.29,
         2509.34,
         2456.88,
-        2444.37
+        2444.37,
+        2453.37
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 19.45,
-      "display": "19.45",
-      "change": 0.41999999999999815,
-      "changePct": 2.207,
-      "date": "2026-10-23",
+      "value": 18.39,
+      "display": "18.39",
+      "change": -1.0599999999999987,
+      "changePct": -5.45,
+      "date": "2026-10-26",
       "spark": [
-        17.1,
         17.2,
         17.71,
         15.44,
@@ -211,7 +210,8 @@
         17.31,
         16.68,
         19.03,
-        19.45
+        19.45,
+        18.39
       ],
       "unit": "",
       "suffix": ""
@@ -1062,42 +1062,42 @@
     "m2": {
       "label": "M2 MONEY",
       "series": "M2SL",
-      "value": 23342.8,
-      "display": "23,343",
-      "change": 124.89999999999782,
-      "changePct": 0.538,
-      "date": "2026-08-01",
+      "value": 23413.9,
+      "display": "23,414",
+      "change": 113,
+      "changePct": 0.485,
+      "date": "2026-09-01",
       "spark": [
-        20965.9,
-        20955.4,
-        21021.6,
-        21070.7,
-        21098.9,
-        21192,
-        21275.6,
-        21336.6,
-        21454.7,
-        21487.6,
-        21539.3,
-        21607.2,
-        21684.1,
-        21770.8,
-        21836.1,
-        21942.6,
-        22025.6,
-        22092.6,
-        22176.1,
-        22249.8,
-        22279.8,
-        22355.3,
-        22413.4,
-        22598.7,
-        22640.3,
-        22756.6,
-        23013.7,
-        23114.9,
-        23217.9,
-        23342.8
+        20929.9,
+        20995.3,
+        21045,
+        21072.7,
+        21165.8,
+        21249.9,
+        21311.1,
+        21429.3,
+        21462,
+        21513.6,
+        21581.1,
+        21657.4,
+        21743.3,
+        21808.8,
+        21916.1,
+        21998.1,
+        22065.9,
+        22149.2,
+        22223.1,
+        22253.2,
+        22328.8,
+        22386.6,
+        22572.3,
+        22613.9,
+        22728,
+        22980.9,
+        23077.7,
+        23177.4,
+        23300.9,
+        23413.9
       ],
       "unit": "B",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 19.45,
-      "display": "19.45",
-      "change": 0.41999999999999815,
-      "changePct": 2.207,
-      "date": "2026-10-23",
+      "value": 18.39,
+      "display": "18.39",
+      "change": -1.0599999999999987,
+      "changePct": -5.45,
+      "date": "2026-10-26",
       "spark": [
-        17.1,
         17.2,
         17.71,
         15.44,
@@ -1355,7 +1354,8 @@
         17.31,
         16.68,
         19.03,
-        19.45
+        19.45,
+        18.39
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "High inflation to persist globally into next year, Reuters poll shows",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T15:47:16.000Z"
+    },
+    {
+      "title": "Bond investors are thinking less about the Fed and more about AI, deficits",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T10:15:01.000Z"
+    },
+    {
+      "title": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T16:35:18.000Z"
+    },
+    {
+      "title": "Gold gains on softer oil prices ahead of Fed meeting",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T05:46:00.000Z"
+    },
+    {
+      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T13:30:00.000Z"
+    },
+    {
+      "title": "Stocks rise as oil slips with tech earnings, Fed ahead",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T01:46:00.000Z"
+    },
+    {
+      "title": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3VRRFNCaDlHTDliTGZNZ0RPWldLbXpjeWljeVducGNXVTd4VVBoRy1VaVVNX0RlLUM2UFpJQW5wUlMyMmxLZHhiSXkwZXlXU25NekNoMmx3b0hlVjF1RDNSck9GU3VHaFdCYU13OV8xaVVmRWJFbWpsX211VkkwLXBISG9XVG9UdVlCdXVQSlp0OEdpbVc2aENGdXFoQkp4R1dLU0gyc1ZGcGNCeXJabkF6bWpFZkloaU1tZXhheHB6dmVC?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T02:43:00.000Z"
+    },
+    {
       "title": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTURwVDZtLUFyMFhzVm04T1ZOamQ2aHhCRUpZUXNyRUQ5NmZ5QmNDTEF3ZEJCRmkyT1BvQUtUUk1fTHVhdnplYU1oNWZqM0RsZ2VqODdGQ0xyRXhkbXFERENzaVdZd0JvbjA5VTh1MDhxa2NUbC1VN2Q1QjN0dnNGZ1FFTDVyOFdzd1FQUFZYZEloeUtPcGI1Mw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-26T18:51:57.000Z"
-    },
-    {
-      "title": "Fed to hit pause on rate hikes, but maybe not for long",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T10:22:43.000Z"
-    },
-    {
-      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T05:56:00.000Z"
-    },
-    {
-      "title": "Brazil stocks, real tumble as Lula win shifts investor focus",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T04:09:00.000Z"
-    },
-    {
-      "title": "Israel markets see upside in potential Netanyahu defeat after three-year rally",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXJIajdRV1c5bHF6T191cVFwTWxIUjhibThXYWJUQ3J4LWctRFR3THZpQ09OcG9adG93MTJPdHdxb1psaVpvU2RhMzNwR00wNm91RlozRW9QRHFLYXg4aW8ybzRDUWc3c1pXRng2RU02bmp1bVhld3hBMmViUW9CRy1MS0x3TUJCTm4yZUVERVVQcXhmandmTVVabzExTnRwQmowZmQwa2cxRktqWWF5UTNIY282QWFXOXZZ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T03:01:00.000Z"
-    },
-    {
-      "title": "Japanese companies compensate users as cyberattacks buffet economy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalROR3UtSUJWekNjMEJyV1lUVHZqZ19BaU44dFQ3cEE2NnBHQXBEMmE0NVgyaDZtYlhqZk5ULXZvYUl5eVFaZUQ3T0t1eFdYYUZPQXJhM3Brby1xZGJic1Y4bFJ6YmIwVnNXS1ZoLWlvS0N2S1NUUHFadVJKLTJSZk9lZFF4bDBzdTMteVdKb281dHpOMHZuMTk1T2Q0eXhjcUM1ODJPUnVqR1NnQkJJSy1wdw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T01:48:00.000Z"
-    },
-    {
-      "title": "Analysts forecast Brazil market plunge after Lula turnaround win",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUg5MG54d2NUSzFuSUtIODRNeVdrczFnOXZhMmhfem1Fc1lzdjlGNThiMXBoWkFJYzhQVWdSZDJjQlZEb0RWWFNaNVZGcU8xbVNsbm5KZXl5cnhiNFFoZ1A5ZTdrQkkwMW9lN2Mwc3hlTmx6Q0N4aHhSbUM2eUpZMTJITFI2cjgwR3hicDBhenlJWDlEbEhqSlEwNzNIamdoSUJTajlWcU4zSmVI?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T15:36:36.000Z"
-    },
-    {
-      "title": "Euro slips ahead of central bank meetings, real tumbles",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-26T02:02:00.000Z"
+      "publishedAt": "2026-10-26T17:14:00.000Z"
     }
   ]
 }
