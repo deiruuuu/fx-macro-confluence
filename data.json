@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:51:24.984Z",
+  "updated": "2026-10-28T01:33:07.128Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7676.77,
-      "display": "7,677",
-      "change": 53.090000000000146,
-      "changePct": 0.696,
-      "date": "2026-10-26",
+      "value": 7722.6,
+      "display": "7,723",
+      "change": 45.82999999999993,
+      "changePct": 0.597,
+      "date": "2026-10-27",
       "spark": [
-        7585.73,
         7551.81,
         7637.76,
         7650.5,
@@ -82,7 +81,8 @@
         7757.17,
         7663.43,
         7623.68,
-        7676.77
+        7676.77,
+        7722.6
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 80056.43,
-      "display": "80,056",
-      "change": 142.0399999999936,
-      "changePct": 0.178,
-      "date": "2026-10-26",
+      "value": 80728.47,
+      "display": "80,728",
+      "change": 672.0400000000081,
+      "changePct": 0.839,
+      "date": "2026-10-27",
       "spark": [
-        84553.91,
         83487.03,
         83636.7,
         83482.51,
@@ -254,7 +253,8 @@
         81026.7,
         80681.44,
         79914.39,
-        80056.43
+        80056.43,
+        80728.47
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.69,
-      "display": "4.69",
-      "change": 0.040000000000000036,
-      "changePct": 0.86,
-      "date": "2026-10-23",
+      "value": 4.68,
+      "display": "4.68",
+      "change": -0.010000000000000675,
+      "changePct": -0.213,
+      "date": "2026-10-26",
       "spark": [
-        4.63,
         4.65,
         4.67,
         4.74,
@@ -1400,7 +1399,8 @@
         4.79,
         4.81,
         4.65,
-        4.69
+        4.69,
+        4.68
       ],
       "unit": "",
       "suffix": ""
@@ -1410,11 +1410,10 @@
       "series": "DGS10",
       "value": 5,
       "display": "5.00",
-      "change": 0.040000000000000036,
-      "changePct": 0.806,
-      "date": "2026-10-23",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-10-26",
       "spark": [
-        4.96,
         4.97,
         5,
         5.01,
@@ -1443,6 +1442,7 @@
         5.12,
         5.13,
         4.96,
+        5,
         5
       ],
       "unit": "",
@@ -1450,6 +1450,12 @@
     }
   },
   "news": [
+    {
+      "title": "Brazil's markets recover some ground after selloff; minister vows fiscal discipline",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXExT19UeVJNZFFadkVlQ3A1WXBnSnFqR1RfVEF4N3VqcmNUdUMtMF9SRS1DWUlFSEFDZnBJNzVMNUltbmVaQVg1NkJWWWJvTDdSVW1JZzhybGJiX0xGbklmSTZnUTFESmNoRXc1VGJELXRYNi1tc092eE4xYlA3QXF5VmRmdWNzdU9ROWs2dU1ZNjcycnR0LTNvNzZ4TzIwOTUyWC1BYnZVMTFDdC1wUFpRd0xPYVc2ODM3UHVR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T15:16:54.000Z"
+    },
     {
       "title": "High inflation to persist globally into next year, Reuters poll shows",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
@@ -1460,13 +1466,7 @@
       "title": "Bond investors are thinking less about the Fed and more about AI, deficits",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-27T10:15:01.000Z"
-    },
-    {
-      "title": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-27T16:35:18.000Z"
+      "publishedAt": "2026-10-27T19:55:40.000Z"
     },
     {
       "title": "Gold gains on softer oil prices ahead of Fed meeting",
@@ -1475,28 +1475,28 @@
       "publishedAt": "2026-10-27T05:46:00.000Z"
     },
     {
-      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-27T13:30:00.000Z"
-    },
-    {
-      "title": "Stocks rise as oil slips with tech earnings, Fed ahead",
+      "title": "Stocks rise ahead of tech earnings, Fed decision",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-27T01:46:00.000Z"
-    },
-    {
-      "title": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3VRRFNCaDlHTDliTGZNZ0RPWldLbXpjeWljeVducGNXVTd4VVBoRy1VaVVNX0RlLUM2UFpJQW5wUlMyMmxLZHhiSXkwZXlXU25NekNoMmx3b0hlVjF1RDNSck9GU3VHaFdCYU13OV8xaVVmRWJFbWpsX211VkkwLXBISG9XVG9UdVlCdXVQSlp0OEdpbVc2aENGdXFoQkp4R1dLU0gyc1ZGcGNCeXJabkF6bWpFZkloaU1tZXhheHB6dmVC?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-27T02:43:00.000Z"
     },
     {
       "title": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTURwVDZtLUFyMFhzVm04T1ZOamQ2aHhCRUpZUXNyRUQ5NmZ5QmNDTEF3ZEJCRmkyT1BvQUtUUk1fTHVhdnplYU1oNWZqM0RsZ2VqODdGQ0xyRXhkbXFERENzaVdZd0JvbjA5VTh1MDhxa2NUbC1VN2Q1QjN0dnNGZ1FFTDVyOFdzd1FQUFZYZEloeUtPcGI1Mw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-26T17:14:00.000Z"
+    },
+    {
+      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-27T13:30:00.000Z"
+    },
+    {
+      "title": "Trump, ignoring polls, predicts economy to help Republicans in midterms",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU5yTlVhUTJFTW5ST0QtN0RZenRnQ2ZpSjd1MF9PSVNBbjZ5Q3E4UnhCeGJzckcxYWxyd1U2aHhzeUxEWDRIb0RwZUVPbWphbmVXcXZIRldHODFCU3VXYmpiOWJXczJjRGR1NGNXRF9xWjllQkNzYWhndTE5bHpjVWwwTDJldEJYSXdTNGtzc2ZLdkVrb2wyRzd5WlpyQQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-26T21:28:00.000Z"
     }
   ]
 }
