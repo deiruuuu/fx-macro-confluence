@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:59:20.010Z",
+  "updated": "2026-10-29T01:54:32.456Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7722.6,
-      "display": "7,723",
-      "change": 45.82999999999993,
-      "changePct": 0.597,
-      "date": "2026-10-27",
+      "value": 7743.98,
+      "display": "7,744",
+      "change": 21.3799999999992,
+      "changePct": 0.277,
+      "date": "2026-10-28",
       "spark": [
-        7551.81,
         7637.76,
         7650.5,
         7764.7,
@@ -82,7 +81,8 @@
         7663.43,
         7623.68,
         7676.77,
-        7722.6
+        7722.6,
+        7743.98
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 80728.47,
-      "display": "80,728",
-      "change": 672.0400000000081,
-      "changePct": 0.839,
-      "date": "2026-10-27",
+      "value": 81224.64,
+      "display": "81,225",
+      "change": 496.16999999999825,
+      "changePct": 0.615,
+      "date": "2026-10-28",
       "spark": [
-        83487.03,
         83636.7,
         83482.51,
         84759.64,
@@ -254,7 +253,8 @@
         80681.44,
         79914.39,
         80056.43,
-        80728.47
+        80728.47,
+        81224.64
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.68,
-      "display": "4.68",
-      "change": -0.010000000000000675,
-      "changePct": -0.213,
-      "date": "2026-10-26",
+      "value": 4.7,
+      "display": "4.70",
+      "change": 0.020000000000000462,
+      "changePct": 0.427,
+      "date": "2026-10-27",
       "spark": [
-        4.65,
         4.67,
         4.74,
         4.67,
@@ -1400,7 +1399,8 @@
         4.81,
         4.65,
         4.69,
-        4.68
+        4.68,
+        4.7
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5,
-      "display": "5.00",
-      "change": 0,
-      "changePct": 0,
-      "date": "2026-10-26",
+      "value": 4.99,
+      "display": "4.99",
+      "change": -0.009999999999999787,
+      "changePct": -0.2,
+      "date": "2026-10-27",
       "spark": [
-        4.97,
         5,
         5.01,
         4.94,
@@ -1443,7 +1442,8 @@
         5.13,
         4.96,
         5,
-        5
+        5,
+        4.99
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,40 @@
   },
   "news": [
     {
+      "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-28T23:32:40.000Z"
+    },
+    {
+      "title": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDZHdmRFaXBHQzZvWXZjZU8xOFRrT0Q1WGx2ekJuQ1hCTV9EbHdTOElZTERXemZwY1o0ZzRZUXR6aDNkM0tOejh1N201SmxqR29NSFE2Q0c5TlJMQ29pZGhvM0E5TVc0UjkyTFVNY1VONjl3WG5WOXJaRElkNEktODF4LXhkaF9YTW5kN01DYUFtcy1hclBQbXFSdk5aSGFJMG8yTWtLd2ZlTnY5Ylp4MmJmWldCNXVZekg5T3FwMEpmSVBCWDFV?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-28T23:33:51.000Z"
+    },
+    {
+      "title": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2picUVQd3dYWDhKUnVJWUlEbmFULTE2RUF5NlBYemZiSHQzejU3OS05d3FrbHJXRXI2clNabXhwQ1RMSkJxU0VVTy1GT3VBbDFWSmozLWl1V3dybzVBZFd2bGdnWUVQelNhQ3psMmpVQXlEOFNHZURtaDZQLTR2aHY1T2FkSk9KbklCQTV6eXA2Z3h3V05xQVVTRVo3ZkNua25RTEotVi1JR0U4MXNodExiUFBBTmZFOTBJd1h3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-28T23:32:08.000Z"
+    },
+    {
+      "title": "Instant View: FOMC holds rates steady, markets rise modestly",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3M1cWh6azZyTHVTWV9qanQ0LXVsVHVNRzdLeUlSbEx3aVYta0xwa3VPODBoc1JvUEZMRVNGQ045ZkZZajVCTmhzZGdPcmFOaHhJelg0OHRIMjQyZnlXemdNbU42cWFhS3dQaExlT3RtLWpiTmxlVUMtYzZ4dHhYNGdFc1FtRlJ4SUtZQlFjWUE3N2JqNUtHdHctdUFtWWZBd1E?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-28T19:41:16.000Z"
+    },
+    {
       "title": "Iranians cut essentials and put dreams on hold as war-hit economy bites",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjd4SVdyN0hZcml3UmdlZW1qOW11WFNjUVJxTjhiNHF1N2tCanBqd1ctbzNtOFhOQURONzhNZFRyckdnVVloZ05VNFVaTm9EbFpUUm16MmFrNlFNSC16N1lMb1h4cUdCS29DalBFcEptZkpVLWVUbFhpQ2lwdkV1SS1RYU9ReDU1czFNNHB0dlFTM1BOWnhudzd1VUViVWg3WWViWnlaWnVlZm9uTDN0LXlEVF9VNDVUcnc?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-28T12:49:43.000Z"
     },
     {
-      "title": "Fed likely to go into wait-and-see mode on rates",
+      "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-28T12:28:25.000Z"
+      "publishedAt": "2026-10-28T23:31:38.000Z"
     },
     {
       "title": "Bank of Canada raises key interest rate, says another hike possible",
@@ -1469,34 +1493,10 @@
       "publishedAt": "2026-10-28T15:33:08.000Z"
     },
     {
-      "title": "Gold edges lower ahead of Fed rate decision, Warsh comments",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-28T06:16:00.000Z"
-    },
-    {
-      "title": "Bank of Canada poised to hike key rate for first time in three years",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkxiNlN6Z0ZGZHlEdXc2R09fa1ZTZGxBTTl4WUVUcFN1MTdYeEVfVE0xcFpOcUxaZ0U2VVdOVXRsdE0tSzdQcDFuOElWeE1IRjcyM1ZUd0VqcnJVdHIyaUdObEptUkQwT3NPTXBQWkx4VE5QbF9XRzBkWWhEVzFDM2lDQnpmVlhCcV9DQ3FxZVE0Qmd0bVlUS1A2azQ4Z0lUd0w2VnVWYjJzZw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-28T11:29:19.000Z"
-    },
-    {
-      "title": "AI worries expose dollar's hot-money problem",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0NWaVVKX3pobnFkV1YzZUZicHYzOEU2M0R3NHdqZTQ0emFvQl9pQzhMZGV3dzNHckp6MldEd1Q3WjZlRnpfeUdMQTc4YnRCMldzTWJscGpYRnpPQ25JZDhoQ0VzSnlDMndZZTFuNGRlb2R3LUVGU3AxS0NkX1ozbmlhbS1ia2pFRU5hQzlra1FPLVlhU1FjQS1zRHZwUnM?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-28T04:03:00.000Z"
-    },
-    {
-      "title": "Wall Street wavers as Federal Reserve holds key rate steady, pending more data",
+      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-28T18:27:02.000Z"
-    },
-    {
-      "title": "Global stocks hold steady ahead of Fed decision, earnings from AI stalwarts",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-28T01:40:00.000Z"
+      "publishedAt": "2026-10-28T23:53:34.000Z"
     }
   ]
 }
