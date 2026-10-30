@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:05:35.782Z",
+  "updated": "2026-10-30T18:45:23.856Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2486.58,
-      "display": "2,486.58",
-      "change": 7.130000000000109,
-      "changePct": 0.288,
-      "date": "2026-10-28",
+      "value": 2460.63,
+      "display": "2,460.63",
+      "change": -25.949999999999818,
+      "changePct": -1.044,
+      "date": "2026-10-29",
       "spark": [
-        2629.28,
         2648.08,
         2637.23,
         2646.01,
@@ -125,7 +124,8 @@
         2444.37,
         2453.37,
         2479.45,
-        2486.58
+        2486.58,
+        2460.63
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.91,
-      "display": "16.91",
-      "change": -0.6099999999999994,
-      "changePct": -3.482,
-      "date": "2026-10-28",
+      "value": 17.2,
+      "display": "17.20",
+      "change": 0.28999999999999915,
+      "changePct": 1.715,
+      "date": "2026-10-29",
       "spark": [
-        15.44,
         14.81,
         14.87,
         14.21,
@@ -211,7 +210,8 @@
         19.45,
         18.39,
         17.52,
-        16.91
+        16.91,
+        17.2
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.91,
-      "display": "16.91",
-      "change": -0.6099999999999994,
-      "changePct": -3.482,
-      "date": "2026-10-28",
+      "value": 17.2,
+      "display": "17.20",
+      "change": 0.28999999999999915,
+      "changePct": 1.715,
+      "date": "2026-10-29",
       "spark": [
-        15.44,
         14.81,
         14.87,
         14.21,
@@ -1355,7 +1354,8 @@
         19.45,
         18.39,
         17.52,
-        16.91
+        16.91,
+        17.2
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,40 @@
   },
   "news": [
     {
-      "title": "US inflation heats up in September; consumer spending rises",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc?oc=5",
+      "title": "Canada's economy stalls again in August, likely lost ground in September",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWh2UG80VGRucFJSRy0yaFkwVGdzY1o2aThCVk9xM19ySVJVLTZCNl9ZN2ptQmkzanV4ZHBMTG01cXo5akliQlJSUzZkREtkSG9PcWhndnJGTEpjSk5TYU92bFJ0SWZjdWlGUmdPbUxsUXRaaXVvQ2dta1poalU0UUxkaGhFcDZiWGdxb09KOWFPbWtDX3pLQlduWFBqWDZuY2VMbGVuc2g0QndHR21QOGxfYjdfc3FvdXRN?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-29T13:15:50.000Z"
+      "publishedAt": "2026-10-30T13:27:08.000Z"
     },
     {
-      "title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllkUEVGQXlMa0V6QjM3WE1sOWlmclZ1SXdBWWxJSkw3ZmRzdi1nN216aDFtRjhTQzhXRmZURnp0UkRXcEQ5WDRlVW1kcEk4ZVJtR2pla3RtbldMaHVlODdVMy13cFZia21zbmFhNTZnSFlLVlhJNzY0eDE2Zm1UREhfNFBiS3hVclc5aXc1eFFNbEpJbkNQVXJOWkJCTkEwXzhiUVNMZmNESWN6UHVvSEpDaWlwdURLQjdWcFZBUjBMaWM?oc=5",
+      "title": "New economic data challenges Fed chief's not-too-hot perspective",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-29T16:46:50.000Z"
+      "publishedAt": "2026-10-30T10:12:09.000Z"
+    },
+    {
+      "title": "French output shrinks and inflation accelerates, leaving economy at standstill, minister says",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTdoamxfRUk4YjdHU3NHR3lXY2VZUDFKUEVLdnZnQ1dMeGJSelBQc01rZDZVV0tWblZtX2EzNnRMTGNSUkJZcWRiUGEyWHFOUkVrWlIteFVWUjJXS3ZpbTl6SHdnVktDYTJIWEppdFhUVWRrS1oxbm5DSkd1QmtvM0pMcFpuUWFoMzlDT3JtYll2NTc5dzFySWNGMnBsOTlNYU02TnlBN1U1NlF5SG5J?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T09:59:04.000Z"
+    },
+    {
+      "title": "Gold hits one-year low, silver drops below $50 as higher-for-longer rate view firms",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T03:24:00.000Z"
+    },
+    {
+      "title": "Fed needs at least two more rate hikes, Logan says",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l1dXR6NGI2OV9OZGVkZHRFdzNqcVBnSGRFamxWZlNaZTNsQmdIbXRHVXc5VE9FZzcyWUI4YU5hai1VZlVtY2ZsQTh0VDgxYmtJT1V3X0NvUEZvRjBDT2VaQUdaeDdIWkZ5MlhraUdTVHJYSlM3RFVzU3lVNjctTzU2eFMzNk5kbDBIWlR2RWJ0NkQ2Znc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T17:35:43.000Z"
+    },
+    {
+      "title": "BOJ keeps interest rates steady, signals further rate hikes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckM0NUFNY0hHSVN5Y3Z2OWR6Zk9yLTVIdEtxX1JIMkR2Sjd2c2VCY01BT3QzOWQ5WmF5QmNyTC03X1VsV2V1SVZRbk9mc2lxZG9FNnBaVm1fSWVpeFdJRUxnTXJTbFdxZnFNUEtBMjRxc2FpTFJVdk0yTkxmSFM2a3Njek9JcExYRldGRFVXSEpTY1hRam1CMVBpZ3Vrc1h1MGQ2UXdScnR4dUNlUzBOamEzcw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T03:15:00.000Z"
     },
     {
       "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
@@ -1469,34 +1493,10 @@
       "publishedAt": "2026-10-29T20:29:42.000Z"
     },
     {
-      "title": "ECB flags December hike but sees yield rise hitting growth",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+      "title": "Morning Bid: One last central bank surprise",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnh1c0RRbEdjWjNFbmduTzhBOVl2ZmpkUzFjaFZZajVLdjdDN1kyek0yTW5pY092QmRNbmVWNFdrazNZR0dnZE5HR05sT1RBVkRxTEZkV3UzYXB1YXJaMi1VYS1oR1NJc2czSGd5VHVLaE5abmxHLVdzcWgwZE5lMjlxQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-29T19:25:22.000Z"
-    },
-    {
-      "title": "Christine Lagarde: The outsider who led the ECB her way",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2MyZ1h3TUV5QmVNTDR5bHl3c1RQYVFEbzZXWTlwM2Y5QXV3ejhKcHp1WTdhSFlHeDMxYk5OdmVWQUt5TTF5cE84cVBjX0x0YjJwYkc5MUM3YVlTRDRURnQwaE14WE40NTNrNFdCU0dVNDcwVG85VkFDZHFqeGV4WlVXblBfbThUNU02NW9VeHlNR1dfejZ3SmV1Z3pQVGEx?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-29T16:46:09.000Z"
-    },
-    {
-      "title": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NEMWpacHpNTnMzTXowX0ROTHgzNEVXYk82b2U4cmNWVW9IT293RzNCaU5aNTBib0pwNXJSc0RCeWhtdEtRRm96VDNlbWxYSjFSeTFfc0tzaDJ4OFdUaVViOVJrVnNiU0VTUnlxQ1doby1KOWFmY1NpOFhwanlkNC00UjVXOERjWXVJQ2V6bDNveDRpUE1RSlRheXZ4SnllWFFxa0wwbkJMUUE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-29T11:23:55.000Z"
-    },
-    {
-      "title": "ECB President Lagarde resigns effective Feb 7",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-29T10:25:44.000Z"
-    },
-    {
-      "title": "Fed highlights economic strength but muddies outlook for Treasuries",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-29T05:04:00.000Z"
+      "publishedAt": "2026-10-30T05:36:00.000Z"
     }
   ]
 }
