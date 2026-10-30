@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:06:55.199Z",
+  "updated": "2026-10-30T02:05:35.782Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 81224.64,
-      "display": "81,225",
-      "change": 496.16999999999825,
-      "changePct": 0.615,
-      "date": "2026-10-28",
+      "value": 77938.86,
+      "display": "77,939",
+      "change": -3285.779999999999,
+      "changePct": -4.045,
+      "date": "2026-10-29",
       "spark": [
-        83636.7,
         83482.51,
         84759.64,
         84478.54,
@@ -254,7 +253,8 @@
         79914.39,
         80056.43,
         80728.47,
-        81224.64
+        81224.64,
+        77938.86
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.7,
-      "display": "4.70",
-      "change": 0.020000000000000462,
-      "changePct": 0.427,
-      "date": "2026-10-27",
+      "value": 4.67,
+      "display": "4.67",
+      "change": -0.03000000000000025,
+      "changePct": -0.638,
+      "date": "2026-10-28",
       "spark": [
-        4.67,
         4.74,
         4.67,
         4.76,
@@ -1400,7 +1399,8 @@
         4.65,
         4.69,
         4.68,
-        4.7
+        4.7,
+        4.67
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.99,
-      "display": "4.99",
-      "change": -0.009999999999999787,
-      "changePct": -0.2,
-      "date": "2026-10-27",
+      "value": 5.05,
+      "display": "5.05",
+      "change": 0.05999999999999961,
+      "changePct": 1.202,
+      "date": "2026-10-28",
       "spark": [
-        5,
         5.01,
         4.94,
         5.01,
@@ -1443,7 +1442,8 @@
         4.96,
         5,
         5,
-        4.99
+        4.99,
+        5.05
       ],
       "unit": "",
       "suffix": ""
@@ -1457,12 +1457,6 @@
       "publishedAt": "2026-10-29T13:15:50.000Z"
     },
     {
-      "title": "ECB flags December hike but sees yield rise hitting growth",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-29T17:31:08.000Z"
-    },
-    {
       "title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllkUEVGQXlMa0V6QjM3WE1sOWlmclZ1SXdBWWxJSkw3ZmRzdi1nN216aDFtRjhTQzhXRmZURnp0UkRXcEQ5WDRlVW1kcEk4ZVJtR2pla3RtbldMaHVlODdVMy13cFZia21zbmFhNTZnSFlLVlhJNzY0eDE2Zm1UREhfNFBiS3hVclc5aXc1eFFNbEpJbkNQVXJOWkJCTkEwXzhiUVNMZmNESWN6UHVvSEpDaWlwdURLQjdWcFZBUjBMaWM?oc=5",
       "source": "Reuters",
@@ -1472,7 +1466,13 @@
       "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-10-29T17:42:58.000Z"
+      "publishedAt": "2026-10-29T20:29:42.000Z"
+    },
+    {
+      "title": "ECB flags December hike but sees yield rise hitting growth",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-29T19:25:22.000Z"
     },
     {
       "title": "Christine Lagarde: The outsider who led the ECB her way",
