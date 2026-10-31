@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:45:23.856Z",
+  "updated": "2026-10-31T01:44:12.884Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7743.98,
-      "display": "7,744",
-      "change": 21.3799999999992,
-      "changePct": 0.277,
-      "date": "2026-10-28",
+      "value": 7720.39,
+      "display": "7,720",
+      "change": -23.589999999999236,
+      "changePct": -0.305,
+      "date": "2026-10-29",
       "spark": [
-        7637.76,
         7650.5,
         7764.7,
         7764.64,
@@ -82,7 +81,8 @@
         7623.68,
         7676.77,
         7722.6,
-        7743.98
+        7743.98,
+        7720.39
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77938.86,
-      "display": "77,939",
-      "change": -3285.779999999999,
-      "changePct": -4.045,
-      "date": "2026-10-29",
+      "value": 77191.25,
+      "display": "77,191",
+      "change": -747.6100000000006,
+      "changePct": -0.959,
+      "date": "2026-10-30",
       "spark": [
-        83482.51,
         84759.64,
         84478.54,
         84813.71,
@@ -254,7 +253,8 @@
         80056.43,
         80728.47,
         81224.64,
-        77938.86
+        77938.86,
+        77191.25
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.67,
-      "display": "4.67",
-      "change": -0.03000000000000025,
-      "changePct": -0.638,
-      "date": "2026-10-28",
+      "value": 4.61,
+      "display": "4.61",
+      "change": -0.05999999999999961,
+      "changePct": -1.285,
+      "date": "2026-10-29",
       "spark": [
-        4.74,
         4.67,
         4.76,
         4.76,
@@ -1400,7 +1399,8 @@
         4.69,
         4.68,
         4.7,
-        4.67
+        4.67,
+        4.61
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 5.05,
-      "display": "5.05",
-      "change": 0.05999999999999961,
-      "changePct": 1.202,
-      "date": "2026-10-28",
+      "value": 4.98,
+      "display": "4.98",
+      "change": -0.0699999999999994,
+      "changePct": -1.386,
+      "date": "2026-10-29",
       "spark": [
-        5.01,
         4.94,
         5.01,
         4.96,
@@ -1443,13 +1442,20 @@
         5,
         5,
         4.99,
-        5.05
+        5.05,
+        4.98
       ],
       "unit": "",
       "suffix": ""
     }
   },
   "news": [
+    {
+      "title": "Fed needs at least two more rate hikes, Logan says",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l1dXR6NGI2OV9OZGVkZHRFdzNqcVBnSGRFamxWZlNaZTNsQmdIbXRHVXc5VE9FZzcyWUI4YU5hai1VZlVtY2ZsQTh0VDgxYmtJT1V3X0NvUEZvRjBDT2VaQUdaeDdIWkZ5MlhraUdTVHJYSlM3RFVzU3lVNjctTzU2eFMzNk5kbDBIWlR2RWJ0NkQ2Znc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T17:35:43.000Z"
+    },
     {
       "title": "Canada's economy stalls again in August, likely lost ground in September",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWh2UG80VGRucFJSRy0yaFkwVGdzY1o2aThCVk9xM19ySVJVLTZCNl9ZN2ptQmkzanV4ZHBMTG01cXo5akliQlJSUzZkREtkSG9PcWhndnJGTEpjSk5TYU92bFJ0SWZjdWlGUmdPbUxsUXRaaXVvQ2dta1poalU0UUxkaGhFcDZiWGdxb09KOWFPbWtDX3pLQlduWFBqWDZuY2VMbGVuc2g0QndHR21QOGxfYjdfc3FvdXRN?oc=5",
@@ -1463,40 +1469,34 @@
       "publishedAt": "2026-10-30T10:12:09.000Z"
     },
     {
+      "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T20:03:43.000Z"
+    },
+    {
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T03:24:00.000Z"
+    },
+    {
       "title": "French output shrinks and inflation accelerates, leaving economy at standstill, minister says",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTdoamxfRUk4YjdHU3NHR3lXY2VZUDFKUEVLdnZnQ1dMeGJSelBQc01rZDZVV0tWblZtX2EzNnRMTGNSUkJZcWRiUGEyWHFOUkVrWlIteFVWUjJXS3ZpbTl6SHdnVktDYTJIWEppdFhUVWRrS1oxbm5DSkd1QmtvM0pMcFpuUWFoMzlDT3JtYll2NTc5dzFySWNGMnBsOTlNYU02TnlBN1U1NlF5SG5J?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-30T09:59:04.000Z"
     },
     {
-      "title": "Gold hits one-year low, silver drops below $50 as higher-for-longer rate view firms",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-30T03:24:00.000Z"
-    },
-    {
-      "title": "Fed needs at least two more rate hikes, Logan says",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l1dXR6NGI2OV9OZGVkZHRFdzNqcVBnSGRFamxWZlNaZTNsQmdIbXRHVXc5VE9FZzcyWUI4YU5hai1VZlVtY2ZsQTh0VDgxYmtJT1V3X0NvUEZvRjBDT2VaQUdaeDdIWkZ5MlhraUdTVHJYSlM3RFVzU3lVNjctTzU2eFMzNk5kbDBIWlR2RWJ0NkQ2Znc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-30T17:35:43.000Z"
-    },
-    {
-      "title": "BOJ keeps interest rates steady, signals further rate hikes",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckM0NUFNY0hHSVN5Y3Z2OWR6Zk9yLTVIdEtxX1JIMkR2Sjd2c2VCY01BT3QzOWQ5WmF5QmNyTC03X1VsV2V1SVZRbk9mc2lxZG9FNnBaVm1fSWVpeFdJRUxnTXJTbFdxZnFNUEtBMjRxc2FpTFJVdk0yTkxmSFM2a3Njek9JcExYRldGRFVXSEpTY1hRam1CMVBpZ3Vrc1h1MGQ2UXdScnR4dUNlUzBOamEzcw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-30T03:15:00.000Z"
-    },
-    {
-      "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-29T20:29:42.000Z"
-    },
-    {
       "title": "Morning Bid: One last central bank surprise",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnh1c0RRbEdjWjNFbmduTzhBOVl2ZmpkUzFjaFZZajVLdjdDN1kyek0yTW5pY092QmRNbmVWNFdrazNZR0dnZE5HR05sT1RBVkRxTEZkV3UzYXB1YXJaMi1VYS1oR1NJc2czSGd5VHVLaE5abmxHLVdzcWgwZE5lMjlxQQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-10-30T05:36:00.000Z"
+    },
+    {
+      "title": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NEMWpacHpNTnMzTXowX0ROTHgzNEVXYk82b2U4cmNWVW9IT293RzNCaU5aNTBib0pwNXJSc0RCeWhtdEtRRm96VDNlbWxYSjFSeTFfc0tzaDJ4OFdUaVViOVJrVnNiU0VTUnlxQ1doby1KOWFmY1NpOFhwanlkNC00UjVXOERjWXVJQ2V6bDNveDRpUE1RSlRheXZ4SnllWFFxa0wwbkJMUUE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-29T11:23:55.000Z"
     }
   ]
 }
