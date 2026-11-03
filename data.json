@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:25:50.219Z",
+  "updated": "2026-11-03T03:38:35.452Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 78110.97,
-      "display": "78,111",
-      "change": 707.0500000000029,
-      "changePct": 0.913,
-      "date": "2026-11-01",
+      "value": 77061.57,
+      "display": "77,062",
+      "change": -1049.3999999999942,
+      "changePct": -1.343,
+      "date": "2026-11-02",
       "spark": [
-        84813.71,
         86423.68,
         85820.65,
         85499.09,
@@ -254,7 +253,8 @@
         77938.86,
         77191.25,
         77403.92,
-        78110.97
+        78110.97,
+        77061.57
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,28 @@
   },
   "news": [
     {
+      "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-03T01:10:00.000Z"
+    },
+    {
+      "title": "Automakers back Trump administration's rollback of US fuel economy rules",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG9Tc1hYaXEwVVJLTmxpc2VWcDN3NldaTDhfMUtlMGdrNThGYmkzTkl3V0pRdmUwYjRiVDdzMUp4T3BJUnZTSXNHWjM4VUtMcGFQRWJocGpiMmo3MG9UVHptalI2SlgzWWVsejV2Y0drenRCS0xMd0pOSW5Bc0pyR2RMeFlReS1NNE0wcnZPNzg4cUV6REMxbFcwOE1fZU1TbGlZUGxXUXlRUDZoRWNvWDNn?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-02T23:15:00.000Z"
+    },
+    {
+      "title": "Lawyer bar exam pass rates plummet in California, other large states",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkFrRHRHdU1BRk5Cel82cVV3N19DWC1wcFVVaV9nTGZKRnhpb1JnMV9UdmVZa0JYdERUVGpHc3N2bGY5akVFSkFDaWJndkJtaG1xUXdrbzh1Nm1WdWlyTUR2b0dhbW9QZ1lyMmw5ZWZJZ1RqMlRybnlQRjBvbGlZbjRoTUNmSmRjdHFCbjJtWUFSVVdBMG5XM0hzSjhXd3ctUDBYNXgzWHh3Z3NVdUpEcXFzTGhUem9rZU5mVA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-02T18:59:23.000Z"
+    },
+    {
       "title": "What the US midterms could mean for markets, AI and the debt ceiling",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T17:10:26.000Z"
+      "publishedAt": "2026-11-02T10:03:00.000Z"
     },
     {
       "title": "Argentina's austerity-hit economy reels towards recession, testing Milei ahead of 2027 vote",
@@ -1473,24 +1491,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-02T05:04:00.000Z"
-    },
-    {
-      "title": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-02T00:57:00.000Z"
-    },
-    {
-      "title": "Bank of England poised to raise rates but may push back on bets for more",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFVxcW9DcnR5S1BVdndGZkhXT1F1SUR0WEZTbkRsSzRLSmtiOXFZdXNneUs4VXVCaV9ldFZQVVdHMnVvWDBrZERDTFo5bHc4NE9GelZKbmloVi1VVTVmN0tiZXFUSW5fMFIzMXZCWE5CWHd5TEdHc2VvRVA3T1VCRV9XampjTDBmd3BpTlkyNjBScTJReVhCanlUX21XX1dhbWc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-02T00:03:00.000Z"
-    },
-    {
-      "title": "Euro zone countries are integrating faster with US than with each other, ECB says",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmVQWHVwb21iejNtYmUyXzktbkxWSFlNWVI2NkI2Sm9RazROUzBLQjJBaW9TeDR2VGlRTk9Jano1UmlONEFQU3diNlBEZVZHck1yT3E1YjBJQUFBZGZmUUNhS1pmTHZRS2JlazFuVWdyUU9CZEZWdWcxVTZoMGZENEg0YTdnV2Z1c1JkU2hMVms1ckVoV3NvV2lBRzlrTzJwMGdCeTNfWEQ2WVNXaVRyNy1vOXdYVm9EVFJTSzM1Z3RMTHlvYWI2d3dnUm1wdw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-02T09:29:46.000Z"
     },
     {
       "title": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say",
