@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T03:38:35.452Z",
+  "updated": "2026-11-03T20:13:53.835Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7580.07,
-      "display": "7,580",
-      "change": -140.32000000000062,
-      "changePct": -1.818,
-      "date": "2026-10-30",
+      "value": 7541.4,
+      "display": "7,541",
+      "change": -38.67000000000007,
+      "changePct": -0.51,
+      "date": "2026-11-02",
       "spark": [
-        7764.7,
         7764.64,
         7706.03,
         7704.13,
@@ -82,7 +81,8 @@
         7722.6,
         7743.98,
         7720.39,
-        7580.07
+        7580.07,
+        7541.4
       ],
       "unit": "",
       "suffix": ""
@@ -90,14 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2460.63,
-      "display": "2,460.63",
-      "change": -25.949999999999818,
-      "changePct": -1.044,
-      "date": "2026-10-29",
+      "value": 2419.14,
+      "display": "2,419.14",
+      "change": 37.31999999999971,
+      "changePct": 1.567,
+      "date": "2026-11-02",
       "spark": [
-        2648.08,
-        2637.23,
         2646.01,
         2609.13,
         2603.22,
@@ -125,7 +123,9 @@
         2453.37,
         2479.45,
         2486.58,
-        2460.63
+        2460.63,
+        2381.82,
+        2419.14
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 19.42,
-      "display": "19.42",
-      "change": 2.2200000000000024,
-      "changePct": 12.907,
-      "date": "2026-10-30",
+      "value": 21.15,
+      "display": "21.15",
+      "change": 1.7299999999999969,
+      "changePct": 8.908,
+      "date": "2026-11-02",
       "spark": [
-        14.87,
         14.21,
         15.18,
         15.67,
@@ -211,7 +210,8 @@
         17.52,
         16.91,
         17.2,
-        19.42
+        19.42,
+        21.15
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 19.42,
-      "display": "19.42",
-      "change": 2.2200000000000024,
-      "changePct": 12.907,
-      "date": "2026-10-30",
+      "value": 21.15,
+      "display": "21.15",
+      "change": 1.7299999999999969,
+      "changePct": 8.908,
+      "date": "2026-11-02",
       "spark": [
-        14.87,
         14.21,
         15.18,
         15.67,
@@ -1355,7 +1354,8 @@
         17.52,
         16.91,
         17.2,
-        19.42
+        19.42,
+        21.15
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5",
+      "title": "Prediction markets face US midterms test as election bets soar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T01:10:00.000Z"
+      "publishedAt": "2026-11-03T18:37:15.000Z"
     },
     {
-      "title": "Automakers back Trump administration's rollback of US fuel economy rules",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG9Tc1hYaXEwVVJLTmxpc2VWcDN3NldaTDhfMUtlMGdrNThGYmkzTkl3V0pRdmUwYjRiVDdzMUp4T3BJUnZTSXNHWjM4VUtMcGFQRWJocGpiMmo3MG9UVHptalI2SlgzWWVsejV2Y0drenRCS0xMd0pOSW5Bc0pyR2RMeFlReS1NNE0wcnZPNzg4cUV6REMxbFcwOE1fZU1TbGlZUGxXUXlRUDZoRWNvWDNn?oc=5",
+      "title": "PODCAST: Markets await midterms",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVE1vZ3dDOV9HTWNqY2VZdGNQR1NqUFd1T2EyQjFmWGJENzZXcG1jMnROVVloME5rOVN4OG1rOXNOVk5Qa3VKYWdNSGVQa2w3WEZEWGRZM2ZMT21SdklnaTdWQWUzUUxPQ1BCMHZBU1VGVWhvMEg2U0FsVU5OdXREN0FDS3IzMHk3TUNRTXVla2k?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T23:15:00.000Z"
+      "publishedAt": "2026-11-03T14:32:02.000Z"
     },
     {
-      "title": "Lawyer bar exam pass rates plummet in California, other large states",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkFrRHRHdU1BRk5Cel82cVV3N19DWC1wcFVVaV9nTGZKRnhpb1JnMV9UdmVZa0JYdERUVGpHc3N2bGY5akVFSkFDaWJndkJtaG1xUXdrbzh1Nm1WdWlyTUR2b0dhbW9QZ1lyMmw5ZWZJZ1RqMlRybnlQRjBvbGlZbjRoTUNmSmRjdHFCbjJtWUFSVVdBMG5XM0hzSjhXd3ctUDBYNXgzWHh3Z3NVdUpEcXFzTGhUem9rZU5mVA?oc=5",
+      "title": "From grains to chicken and milk, India faces prolonged food inflation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T18:59:23.000Z"
+      "publishedAt": "2026-11-03T06:33:00.000Z"
     },
     {
-      "title": "What the US midterms could mean for markets, AI and the debt ceiling",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+      "title": "Global markets were already fragile. Big AI bets could break them",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T10:03:00.000Z"
+      "publishedAt": "2026-11-03T05:08:00.000Z"
     },
     {
-      "title": "Argentina's austerity-hit economy reels towards recession, testing Milei ahead of 2027 vote",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFVsdDIwMFVTSnVyR2Y4ZHh3bkRBdHJqSVowbHRnX2JxaFdIcGVVS0RPTTAxYy1VNWlQVGgwYmNqV2JFYTNvSm1KdmV4U0RsUi1wMnBGenV6c2xDNlc0THJLMzVTdno1ZVlkVDZmOXhIVUphSjNSOEI1QnRqOTBLc2ViUDNFOVdVVFRhUEpwOEhHZVZzUjV5TDExU2Vmc0g3Z0lTVU1JTUszRWZtZFJvdDhOQ3Z2blQ0TjRvMFczWUdpSjBsblE?oc=5",
+      "title": "AI-related debt binge may pressure European bond markets",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblQ0XzlqZzJsa2FDYW5uSVdhTUluMGpBaEY0NV9hSXNZWUMtMGtBX202UnhyWWR3NmJ5VGtMLUtJOGllZjRfVGZVU05aZFBDQldVT29SOTg0a3owVVkwa000ZnktWmlwaUdWRFg4QzhYNXFCVm1oaGlFRXlzQnJtcjN4T01VN0Y5cmhKdVJoOG1FVWg3WXFIbjI0d3Vhd1Fhanhn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T10:09:43.000Z"
+      "publishedAt": "2026-11-03T05:03:00.000Z"
     },
     {
-      "title": "Morning Bid: Markets hope for relief in Apple margins",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrejNZSlQ0dURSRXVLTjBMcjMybUZkek44OHdDal9La2E5SWtTb21SVG80MkkxMFloTDQzTXNpU2V1dHVzek00T2E2Z2FJUDNmRGdrSXRaVnFwRFdxZWtZMWRaWklwc3FEREhEQkNWWFpWcGJIUHNTR1RzMG1GSTA?oc=5",
+      "title": "For many Russians, higher utility bills are latest inflation shock",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0xNREk4Ym4yMm1wdlZjc2JwRUpUaTA5Y2t2ZXF3RGdMMFVFa3d3ZDhtcWxBbXQ1QVpuS1drSWdaVXdHZW1CTnk4RXQ2VV9mdXNYLTdIRHMyUjJkOGtZR3JRSkw4S0R3NW1fX3RSQU5ySVZDNTFTeWJkQmd3TlkwRkx2MTd0UzloWFhDZjVWU21TUlpQMmI5Z0xjei1qWWpoRWdzd0JR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T05:35:00.000Z"
+      "publishedAt": "2026-11-03T07:02:00.000Z"
     },
     {
-      "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
+      "title": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T05:04:00.000Z"
+      "publishedAt": "2026-11-03T04:16:00.000Z"
     },
     {
-      "title": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
+      "title": "Australia's central bank lifts rates to 18-year high, split vote points to pause ahead",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnNfcUQ3dmx0aEd4N1BfaUlBRVFScGc4dDdSTUxSRV9lc3N1TTRYd21tV3A3MkVXY3dWOXhmZnFwU2tMSVk1MkpjX0JCU0hyMzdZNlRwdTJJNlNONTFtemVhTjFaY0ZCXzFyV1I1NENweU9qNnM4TWdXZWlpTGlUN3pIaUwxTWpNT21Zc0ZtX3RrSUlvZXlpWnlMaEl4N3dGR1lXcXZrTW9EMF9VS3h2ZnU1VFlMTkZReXdkLVk1dFpNdFFyVTc2djViU0JHQQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T06:38:00.000Z"
+      "publishedAt": "2026-11-03T04:14:00.000Z"
     }
   ]
 }
