@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:35:00.518Z",
+  "updated": "2026-11-04T20:29:56.010Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7541.4,
-      "display": "7,541",
-      "change": -38.67000000000007,
-      "changePct": -0.51,
-      "date": "2026-11-02",
+      "value": 7568.92,
+      "display": "7,569",
+      "change": 27.520000000000437,
+      "changePct": 0.365,
+      "date": "2026-11-03",
       "spark": [
-        7764.64,
         7706.03,
         7704.13,
         7743.41,
@@ -82,7 +81,8 @@
         7743.98,
         7720.39,
         7580.07,
-        7541.4
+        7541.4,
+        7568.92
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2419.14,
-      "display": "2,419.14",
-      "change": 37.31999999999971,
-      "changePct": 1.567,
-      "date": "2026-11-02",
+      "value": 2404.59,
+      "display": "2,404.59",
+      "change": -14.549999999999727,
+      "changePct": -0.601,
+      "date": "2026-11-03",
       "spark": [
-        2646.01,
         2609.13,
         2603.22,
         2614.49,
@@ -125,7 +124,8 @@
         2486.58,
         2460.63,
         2381.82,
-        2419.14
+        2419.14,
+        2404.59
       ],
       "unit": "",
       "suffix": ""
@@ -133,17 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 103.37,
-      "display": "103.37",
-      "change": -1.8799999999999955,
-      "changePct": -1.786,
-      "date": "2026-10-27",
+      "value": 99.64,
+      "display": "99.64",
+      "change": -0.4200000000000017,
+      "changePct": -0.42,
+      "date": "2026-11-03",
       "spark": [
-        103.62,
-        103.21,
-        101.44,
-        96.97,
-        96.41,
         93.38,
         95.88,
         85.23,
@@ -168,7 +163,12 @@
         104.27,
         109.72,
         105.25,
-        103.37
+        103.37,
+        106.25,
+        105.51,
+        107.56,
+        100.06,
+        99.64
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 21.15,
-      "display": "21.15",
-      "change": 1.7299999999999969,
-      "changePct": 8.908,
-      "date": "2026-11-02",
+      "value": 20.83,
+      "display": "20.83",
+      "change": -0.3200000000000003,
+      "changePct": -1.513,
+      "date": "2026-11-03",
       "spark": [
-        14.21,
         15.18,
         15.67,
         14.87,
@@ -211,7 +210,8 @@
         16.91,
         17.2,
         19.42,
-        21.15
+        21.15,
+        20.83
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 21.15,
-      "display": "21.15",
-      "change": 1.7299999999999969,
-      "changePct": 8.908,
-      "date": "2026-11-02",
+      "value": 20.83,
+      "display": "20.83",
+      "change": -0.3200000000000003,
+      "changePct": -1.513,
+      "date": "2026-11-03",
       "spark": [
-        14.21,
         15.18,
         15.67,
         14.87,
@@ -1355,7 +1354,8 @@
         16.91,
         17.2,
         19.42,
-        21.15
+        21.15,
+        20.83
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Prediction markets face US midterms test as election bets soar",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
+      "title": "Election stiffens the Fed's guardrails, but independence risks remain",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T21:14:45.000Z"
+      "publishedAt": "2026-11-04T18:44:58.000Z"
     },
     {
-      "title": "PODCAST: Markets await midterms",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVE1vZ3dDOV9HTWNqY2VZdGNQR1NqUFd1T2EyQjFmWGJENzZXcG1jMnROVVloME5rOVN4OG1rOXNOVk5Qa3VKYWdNSGVQa2w3WEZEWGRZM2ZMT21SdklnaTdWQWUzUUxPQ1BCMHZBU1VGVWhvMEg2U0FsVU5OdXREN0FDS3IzMHk3TUNRTXVla2k?oc=5",
+      "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T14:32:02.000Z"
+      "publishedAt": "2026-11-04T18:54:46.000Z"
     },
     {
-      "title": "From grains to chicken and milk, India faces prolonged food inflation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
+      "title": "ECB rate hike looks nearly certain after inflation rises to three-year high",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T06:33:00.000Z"
+      "publishedAt": "2026-11-04T11:49:22.000Z"
     },
     {
-      "title": "Global markets were already fragile. Big AI bets could break them",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+      "title": "Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T05:08:00.000Z"
+      "publishedAt": "2026-11-04T10:59:16.000Z"
     },
     {
-      "title": "Venezuela's oil exports unchanged amid stagnant output and high freight rates",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjN5bC1tVFBsXzlMcEpjNTVldzltS0R1TG1CcElERjNval91X1RidFp6TWJCUHAzNXFDS1dPQjd1Y2FYWTFPQ29kN2loS1hGNjEwRzhheHpmR2w4MzJrWWh6cDNOOG5RMVBXOU9zN1NrdHp1YzlRUVJGRTdGVkdabEE1cEFTQm1XUHB5ak8yMDVKZTJDbHlsN0RueEZMTkZfNTduaEJZajU0V1pTN0I1VTh3cXhZdjRrWkRFUk5Fc3lHZw?oc=5",
+      "title": "Prediction markets get Democratic win right, with a few surprises",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTFXcy1MX1RLX1ByaWVCbWRlNUNDak80YlRqbFhFMnh3cGlFQnpJN3dpSjMzenZkNVktR0FMOHdHSmJsbHZWRUV1Z1RRMm9GeWY5b21jaW1XSlZ6NUZibTdRWUFKeWNxSldPX1BRaGFvYXpyRzRjUkN1X3VzMjZRZTh3RmtIcF9ucHcxWENVU2UxSm5NSU4yeEdMVVM1dmpmdVlSWjFicGhxcEJjd1Y4R2M3M3RmVm1adThSbjkyX3o?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T17:59:43.000Z"
+      "publishedAt": "2026-11-04T06:15:00.000Z"
     },
     {
-      "title": "For many Russians, higher utility bills are latest inflation shock",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0xNREk4Ym4yMm1wdlZjc2JwRUpUaTA5Y2t2ZXF3RGdMMFVFa3d3ZDhtcWxBbXQ1QVpuS1drSWdaVXdHZW1CTnk4RXQ2VV9mdXNYLTdIRHMyUjJkOGtZR3JRSkw4S0R3NW1fX3RSQU5ySVZDNTFTeWJkQmd3TlkwRkx2MTd0UzloWFhDZjVWU21TUlpQMmI5Z0xjei1qWWpoRWdzd0JR?oc=5",
+      "title": "Morning Bid: Markets fret blue wave will drown data centres",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OE95c0J3SXVtQndrTy15NzhvLWZJNkxreWFTOVIxOUVfVDZmT2pENjUtdExybTBHS3BwRzl5dXZDYTRnUlo4bklubTFFeU9WVnBOWENEajNkdllacnhwUzlqaHhpd0xsb1R3QU5uYTB0ME0yNnpfUThZQTc1WXc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T07:02:00.000Z"
+      "publishedAt": "2026-11-04T05:41:00.000Z"
     },
     {
-      "title": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
+      "title": "World stocks rally as investors expect more political certainty after Democrats' win",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T04:16:00.000Z"
+      "publishedAt": "2026-11-04T01:06:00.000Z"
     },
     {
-      "title": "Dollar choppy but little changed as Mideast, US midterms weighed",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5",
+      "title": "Gold heads for biggest daily gain since August as dollar weakens",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T01:10:00.000Z"
+      "publishedAt": "2026-11-04T00:58:00.000Z"
     }
   ]
 }
