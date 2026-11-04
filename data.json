@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:13:53.835Z",
+  "updated": "2026-11-04T02:35:00.518Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 77061.57,
-      "display": "77,062",
-      "change": -1049.3999999999942,
-      "changePct": -1.343,
-      "date": "2026-11-02",
+      "value": 76934.21,
+      "display": "76,934",
+      "change": -127.36000000000058,
+      "changePct": -0.165,
+      "date": "2026-11-03",
       "spark": [
-        86423.68,
         85820.65,
         85499.09,
         83239.49,
@@ -254,7 +253,8 @@
         77191.25,
         77403.92,
         78110.97,
-        77061.57
+        77061.57,
+        76934.21
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.56,
-      "display": "4.56",
-      "change": -0.05000000000000071,
-      "changePct": -1.085,
-      "date": "2026-10-30",
+      "value": 4.59,
+      "display": "4.59",
+      "change": 0.03000000000000025,
+      "changePct": 0.658,
+      "date": "2026-11-02",
       "spark": [
-        4.76,
         4.76,
         4.71,
         4.85,
@@ -1400,7 +1399,8 @@
         4.7,
         4.67,
         4.61,
-        4.56
+        4.56,
+        4.59
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.94,
-      "display": "4.94",
-      "change": -0.040000000000000036,
-      "changePct": -0.803,
-      "date": "2026-10-30",
+      "value": 4.91,
+      "display": "4.91",
+      "change": -0.03000000000000025,
+      "changePct": -0.607,
+      "date": "2026-11-02",
       "spark": [
-        5.01,
         4.96,
         4.96,
         5.11,
@@ -1443,7 +1442,8 @@
         4.99,
         5.05,
         4.98,
-        4.94
+        4.94,
+        4.91
       ],
       "unit": "",
       "suffix": ""
@@ -1454,7 +1454,7 @@
       "title": "Prediction markets face US midterms test as election bets soar",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T18:37:15.000Z"
+      "publishedAt": "2026-11-03T21:14:45.000Z"
     },
     {
       "title": "PODCAST: Markets await midterms",
@@ -1475,10 +1475,10 @@
       "publishedAt": "2026-11-03T05:08:00.000Z"
     },
     {
-      "title": "AI-related debt binge may pressure European bond markets",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblQ0XzlqZzJsa2FDYW5uSVdhTUluMGpBaEY0NV9hSXNZWUMtMGtBX202UnhyWWR3NmJ5VGtMLUtJOGllZjRfVGZVU05aZFBDQldVT29SOTg0a3owVVkwa000ZnktWmlwaUdWRFg4QzhYNXFCVm1oaGlFRXlzQnJtcjN4T01VN0Y5cmhKdVJoOG1FVWg3WXFIbjI0d3Vhd1Fhanhn?oc=5",
+      "title": "Venezuela's oil exports unchanged amid stagnant output and high freight rates",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjN5bC1tVFBsXzlMcEpjNTVldzltS0R1TG1CcElERjNval91X1RidFp6TWJCUHAzNXFDS1dPQjd1Y2FYWTFPQ29kN2loS1hGNjEwRzhheHpmR2w4MzJrWWh6cDNOOG5RMVBXOU9zN1NrdHp1YzlRUVJGRTdGVkdabEE1cEFTQm1XUHB5ak8yMDVKZTJDbHlsN0RueEZMTkZfNTduaEJZajU0V1pTN0I1VTh3cXhZdjRrWkRFUk5Fc3lHZw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T05:03:00.000Z"
+      "publishedAt": "2026-11-03T17:59:43.000Z"
     },
     {
       "title": "For many Russians, higher utility bills are latest inflation shock",
@@ -1493,10 +1493,10 @@
       "publishedAt": "2026-11-03T04:16:00.000Z"
     },
     {
-      "title": "Australia's central bank lifts rates to 18-year high, split vote points to pause ahead",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnNfcUQ3dmx0aEd4N1BfaUlBRVFScGc4dDdSTUxSRV9lc3N1TTRYd21tV3A3MkVXY3dWOXhmZnFwU2tMSVk1MkpjX0JCU0hyMzdZNlRwdTJJNlNONTFtemVhTjFaY0ZCXzFyV1I1NENweU9qNnM4TWdXZWlpTGlUN3pIaUwxTWpNT21Zc0ZtX3RrSUlvZXlpWnlMaEl4N3dGR1lXcXZrTW9EMF9VS3h2ZnU1VFlMTkZReXdkLVk1dFpNdFFyVTc2djViU0JHQQ?oc=5",
+      "title": "Dollar choppy but little changed as Mideast, US midterms weighed",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-03T04:14:00.000Z"
+      "publishedAt": "2026-11-03T01:10:00.000Z"
     }
   ]
 }
