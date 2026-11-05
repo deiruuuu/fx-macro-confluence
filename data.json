@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T02:41:13.405Z",
+  "updated": "2026-11-05T20:46:06.715Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7568.92,
-      "display": "7,569",
-      "change": 27.520000000000437,
-      "changePct": 0.365,
-      "date": "2026-11-03",
+      "value": 7688.62,
+      "display": "7,689",
+      "change": 119.69999999999982,
+      "changePct": 1.581,
+      "date": "2026-11-04",
       "spark": [
-        7706.03,
         7704.13,
         7743.41,
         7683.69,
@@ -82,7 +81,8 @@
         7720.39,
         7580.07,
         7541.4,
-        7568.92
+        7568.92,
+        7688.62
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2404.59,
-      "display": "2,404.59",
-      "change": -14.549999999999727,
-      "changePct": -0.601,
-      "date": "2026-11-03",
+      "value": 2485.56,
+      "display": "2,485.56",
+      "change": 80.9699999999998,
+      "changePct": 3.367,
+      "date": "2026-11-04",
       "spark": [
-        2609.13,
         2603.22,
         2614.49,
         2517.44,
@@ -125,7 +124,8 @@
         2460.63,
         2381.82,
         2419.14,
-        2404.59
+        2404.59,
+        2485.56
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 20.83,
-      "display": "20.83",
-      "change": -0.3200000000000003,
-      "changePct": -1.513,
-      "date": "2026-11-03",
+      "value": 16.61,
+      "display": "16.61",
+      "change": -4.219999999999999,
+      "changePct": -20.259,
+      "date": "2026-11-04",
       "spark": [
-        15.18,
         15.67,
         14.87,
         16.07,
@@ -211,7 +210,8 @@
         17.2,
         19.42,
         21.15,
-        20.83
+        20.83,
+        16.61
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 20.83,
-      "display": "20.83",
-      "change": -0.3200000000000003,
-      "changePct": -1.513,
-      "date": "2026-11-03",
+      "value": 16.61,
+      "display": "16.61",
+      "change": -4.219999999999999,
+      "changePct": -20.259,
+      "date": "2026-11-04",
       "spark": [
-        15.18,
         15.67,
         14.87,
         16.07,
@@ -1355,7 +1354,8 @@
         17.2,
         19.42,
         21.15,
-        20.83
+        20.83,
+        16.61
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "Bank of England raises rates for first time since 2023, warns more likely",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEhfdUpzSlRCb2JiYmFYMjdxaEZySFE1cEJFcVlEWG1qajB4V2VGTXNmcGhRNHdBSF9Wa3FKcFpwMUpVVEc5NnQtaEhnQy0xUHpBc1lpZWp3TlZoUEhMQ1NHcFplMndKcmJJNEJrYlg2VnhoZlVJSkxnUDZzRzh2N0FuSlRHcl9JQTZ0LUhVMmxOaS1NWV9uWE15X19TN3pDMHFUeWNIdkRVQlYtemNsTQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T17:11:41.000Z"
+    },
+    {
+      "title": "Bank of England raises rates for first time since 2023, says more may come",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUY3RVZDLURQel9mZWtEbWI5aEp6eEEyTU50ck5TOHhTenFuSUhVaGlxX0Z1UHF4cUxxeE1tdTZpMjEzaVlaaUQ2TENfVHVYVndJNWFLclNVemtIaEF0RFBWcE55anJ2cnJYT29jWEk5aHJId2NFOFdvNFBPcTZYTnV4UjhmdHotdm1ITmFNWEt5MVltUjlmOThrbWJXdjU0WEhsWllZRE5aam5WX0w2dQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T12:52:09.000Z"
+    },
+    {
+      "title": "Ethiopia revises economy up nearly 60% to $201 billion after GDP rebasing",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmZOWTdLSHNVdkVQUmhQRC1vNlRoR1BGM002REN1T1JHamNQWGZLZzhIdzByYlh5VTNvN2VNaDBtQjZSZXNWelllOTZpeFAxTVJtVzFIa3Jjb0tlTnNYNmRpNDBLQkVXT2tIY1dKcWdxME1KMFg0a3dyRTVhYlRGZTRrWWdaNjEwSGhNeTgzV01tRDVUaHZpQmh4RktSM012VV9idFJKVFRMQ2V6REVLUFlkR2hIVEsw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T13:12:09.000Z"
+    },
+    {
+      "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T18:11:08.000Z"
+    },
+    {
+      "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T03:46:00.000Z"
+    },
+    {
+      "title": "Euro edges lower as oil prices rise",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3ZvRzF1aTlTZE9WT0NxYkU4TWFHTi04YnhEVXd1VTJRTXdibGtPdGZtTWkwZEVBLU0xNmtZaEc4R2lWZWVSdGJtY1FSdzhIazR5a2YwdDJoRzFFTHN1Z2FNb2l5b2x5SllyTE9sTTZTNkxFODFJVkhxOGhlblRTXzNiLTZpc3FKcXBqRzZUMjYtY3VXOHlnR0hPOFFYTldZaXpzSGNTbzlPNlhUdHF1amJTcFp1dw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T01:06:00.000Z"
+    },
+    {
+      "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T18:07:06.000Z"
+    },
+    {
       "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-04T20:43:17.000Z"
-    },
-    {
-      "title": "Election stiffens the Fed's guardrails, but independence risks remain",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T20:32:57.000Z"
-    },
-    {
-      "title": "ECB rate hike looks nearly certain after inflation rises to three-year high",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T11:49:22.000Z"
-    },
-    {
-      "title": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T22:11:38.000Z"
-    },
-    {
-      "title": "Prediction markets get Democratic win right, with a few surprises",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTFXcy1MX1RLX1ByaWVCbWRlNUNDak80YlRqbFhFMnh3cGlFQnpJN3dpSjMzenZkNVktR0FMOHdHSmJsbHZWRUV1Z1RRMm9GeWY5b21jaW1XSlZ6NUZibTdRWUFKeWNxSldPX1BRaGFvYXpyRzRjUkN1X3VzMjZRZTh3RmtIcF9ucHcxWENVU2UxSm5NSU4yeEdMVVM1dmpmdVlSWjFicGhxcEJjd1Y4R2M3M3RmVm1adThSbjkyX3o?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T06:15:00.000Z"
-    },
-    {
-      "title": "Morning Bid: Markets fret blue wave will drown data centres",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OE95c0J3SXVtQndrTy15NzhvLWZJNkxreWFTOVIxOUVfVDZmT2pENjUtdExybTBHS3BwRzl5dXZDYTRnUlo4bklubTFFeU9WVnBOWENEajNkdllacnhwUzlqaHhpd0xsb1R3QU5uYTB0ME0yNnpfUThZQTc1WXc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T05:41:00.000Z"
-    },
-    {
-      "title": "World shares advance as Democrats' victory eases political uncertainty",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T01:06:00.000Z"
-    },
-    {
-      "title": "Gold heads for biggest daily gain since August as dollar weakens",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T00:58:00.000Z"
     }
   ]
 }
