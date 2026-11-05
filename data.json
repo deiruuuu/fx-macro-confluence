@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T20:29:56.010Z",
+  "updated": "2026-11-05T02:41:13.405Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 76934.21,
-      "display": "76,934",
-      "change": -127.36000000000058,
-      "changePct": -0.165,
-      "date": "2026-11-03",
+      "value": 80420.06,
+      "display": "80,420",
+      "change": 3485.8499999999913,
+      "changePct": 4.531,
+      "date": "2026-11-04",
       "spark": [
-        85820.65,
         85499.09,
         83239.49,
         81657.19,
@@ -254,7 +253,8 @@
         77403.92,
         78110.97,
         77061.57,
-        76934.21
+        76934.21,
+        80420.06
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.59,
-      "display": "4.59",
-      "change": 0.03000000000000025,
-      "changePct": 0.658,
-      "date": "2026-11-02",
+      "value": 4.61,
+      "display": "4.61",
+      "change": 0.020000000000000462,
+      "changePct": 0.436,
+      "date": "2026-11-03",
       "spark": [
-        4.76,
         4.71,
         4.85,
         4.87,
@@ -1400,7 +1399,8 @@
         4.67,
         4.61,
         4.56,
-        4.59
+        4.59,
+        4.61
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.91,
-      "display": "4.91",
-      "change": -0.03000000000000025,
-      "changePct": -0.607,
-      "date": "2026-11-02",
+      "value": 4.95,
+      "display": "4.95",
+      "change": 0.040000000000000036,
+      "changePct": 0.815,
+      "date": "2026-11-03",
       "spark": [
-        4.96,
         4.96,
         5.11,
         5.18,
@@ -1443,7 +1442,8 @@
         5.05,
         4.98,
         4.94,
-        4.91
+        4.91,
+        4.95
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,16 @@
   },
   "news": [
     {
-      "title": "Election stiffens the Fed's guardrails, but independence risks remain",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T18:44:58.000Z"
-    },
-    {
       "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-04T18:54:46.000Z"
+      "publishedAt": "2026-11-04T20:43:17.000Z"
+    },
+    {
+      "title": "Election stiffens the Fed's guardrails, but independence risks remain",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-04T20:32:57.000Z"
     },
     {
       "title": "ECB rate hike looks nearly certain after inflation rises to three-year high",
@@ -1469,10 +1469,10 @@
       "publishedAt": "2026-11-04T11:49:22.000Z"
     },
     {
-      "title": "Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+      "title": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-04T10:59:16.000Z"
+      "publishedAt": "2026-11-04T22:11:38.000Z"
     },
     {
       "title": "Prediction markets get Democratic win right, with a few surprises",
@@ -1487,7 +1487,7 @@
       "publishedAt": "2026-11-04T05:41:00.000Z"
     },
     {
-      "title": "World stocks rally as investors expect more political certainty after Democrats' win",
+      "title": "World shares advance as Democrats' victory eases political uncertainty",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-04T01:06:00.000Z"
