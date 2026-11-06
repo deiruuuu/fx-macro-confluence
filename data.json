@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:46:06.715Z",
+  "updated": "2026-11-06T02:44:09.523Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 80420.06,
-      "display": "80,420",
-      "change": 3485.8499999999913,
-      "changePct": 4.531,
-      "date": "2026-11-04",
+      "value": 76152.52,
+      "display": "76,153",
+      "change": -4267.539999999994,
+      "changePct": -5.307,
+      "date": "2026-11-05",
       "spark": [
-        85499.09,
         83239.49,
         81657.19,
         82543.3,
@@ -254,7 +253,8 @@
         78110.97,
         77061.57,
         76934.21,
-        80420.06
+        80420.06,
+        76152.52
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.61,
-      "display": "4.61",
-      "change": 0.020000000000000462,
-      "changePct": 0.436,
-      "date": "2026-11-03",
+      "value": 4.58,
+      "display": "4.58",
+      "change": -0.03000000000000025,
+      "changePct": -0.651,
+      "date": "2026-11-04",
       "spark": [
-        4.71,
         4.85,
         4.87,
         4.81,
@@ -1400,7 +1399,8 @@
         4.61,
         4.56,
         4.59,
-        4.61
+        4.61,
+        4.58
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.95,
-      "display": "4.95",
-      "change": 0.040000000000000036,
-      "changePct": 0.815,
-      "date": "2026-11-03",
+      "value": 4.9,
+      "display": "4.90",
+      "change": -0.04999999999999982,
+      "changePct": -1.01,
+      "date": "2026-11-04",
       "spark": [
-        4.96,
         5.11,
         5.18,
         5.17,
@@ -1443,13 +1442,20 @@
         4.98,
         4.94,
         4.91,
-        4.95
+        4.95,
+        4.9
       ],
       "unit": "",
       "suffix": ""
     }
   },
   "news": [
+    {
+      "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T18:11:08.000Z"
+    },
     {
       "title": "Bank of England raises rates for first time since 2023, warns more likely",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEhfdUpzSlRCb2JiYmFYMjdxaEZySFE1cEJFcVlEWG1qajB4V2VGTXNmcGhRNHdBSF9Wa3FKcFpwMUpVVEc5NnQtaEhnQy0xUHpBc1lpZWp3TlZoUEhMQ1NHcFplMndKcmJJNEJrYlg2VnhoZlVJSkxnUDZzRzh2N0FuSlRHcl9JQTZ0LUhVMmxOaS1NWV9uWE15X19TN3pDMHFUeWNIdkRVQlYtemNsTQ?oc=5",
@@ -1469,10 +1475,10 @@
       "publishedAt": "2026-11-05T13:12:09.000Z"
     },
     {
-      "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
+      "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-05T18:11:08.000Z"
+      "publishedAt": "2026-11-05T20:58:39.000Z"
     },
     {
       "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited",
@@ -1481,22 +1487,16 @@
       "publishedAt": "2026-11-05T03:46:00.000Z"
     },
     {
-      "title": "Euro edges lower as oil prices rise",
+      "title": "Asia stocks crumble after AI rout rocks US markets",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG9ENFo3M0RHNWI0VEdfTlZhWmpjVGR0UjViV3dBQllRVkNha0YzU1FhX2lDaWVUT1U1Ym5DbWRlOFpJZ3JPU3AwZ1Nia3NNWjdKc3Jvd0VXU3otQU83ZjFlQmZwbHcyZmJKZFk4dVJWaXhWQnV6MTF6TUpmaDcxNmdhbFFNaU1N?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-05T02:35:00.000Z"
+    },
+    {
+      "title": "Dollar little changed as oil prices bounce, payrolls eyed",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3ZvRzF1aTlTZE9WT0NxYkU4TWFHTi04YnhEVXd1VTJRTXdibGtPdGZtTWkwZEVBLU0xNmtZaEc4R2lWZWVSdGJtY1FSdzhIazR5a2YwdDJoRzFFTHN1Z2FNb2l5b2x5SllyTE9sTTZTNkxFODFJVkhxOGhlblRTXzNiLTZpc3FKcXBqRzZUMjYtY3VXOHlnR0hPOFFYTldZaXpzSGNTbzlPNlhUdHF1amJTcFp1dw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-05T01:06:00.000Z"
-    },
-    {
-      "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T18:07:06.000Z"
-    },
-    {
-      "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-04T20:43:17.000Z"
     }
   ]
 }
