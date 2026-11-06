@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:44:09.523Z",
+  "updated": "2026-11-06T20:01:47.260Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7688.62,
-      "display": "7,689",
-      "change": 119.69999999999982,
-      "changePct": 1.581,
-      "date": "2026-11-04",
+      "value": 7353.73,
+      "display": "7,354",
+      "change": -334.8900000000003,
+      "changePct": -4.356,
+      "date": "2026-11-05",
       "spark": [
-        7704.13,
         7743.41,
         7683.69,
         7670.84,
@@ -82,7 +81,8 @@
         7580.07,
         7541.4,
         7568.92,
-        7688.62
+        7688.62,
+        7353.73
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2485.56,
-      "display": "2,485.56",
-      "change": 80.9699999999998,
-      "changePct": 3.367,
-      "date": "2026-11-04",
+      "value": 2501.59,
+      "display": "2,501.59",
+      "change": 16.0300000000002,
+      "changePct": 0.645,
+      "date": "2026-11-05",
       "spark": [
-        2603.22,
         2614.49,
         2517.44,
         2549.94,
@@ -125,7 +124,8 @@
         2381.82,
         2419.14,
         2404.59,
-        2485.56
+        2485.56,
+        2501.59
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 16.61,
-      "display": "16.61",
-      "change": -4.219999999999999,
-      "changePct": -20.259,
-      "date": "2026-11-04",
+      "value": 28.18,
+      "display": "28.18",
+      "change": 11.57,
+      "changePct": 69.657,
+      "date": "2026-11-05",
       "spark": [
-        15.67,
         14.87,
         16.07,
         16.04,
@@ -211,7 +210,8 @@
         19.42,
         21.15,
         20.83,
-        16.61
+        16.61,
+        28.18
       ],
       "unit": "",
       "suffix": ""
@@ -933,13 +933,12 @@
     "unemploy": {
       "label": "UNEMPLOY",
       "series": "UNRATE",
-      "value": 4.2,
-      "display": "4.2",
-      "change": 0.10000000000000053,
-      "changePct": 2.439,
-      "date": "2026-09-01",
+      "value": 4.1,
+      "display": "4.1",
+      "change": -0.10000000000000053,
+      "changePct": -2.381,
+      "date": "2026-10-01",
       "spark": [
-        3.9,
         3.9,
         3.9,
         4.1,
@@ -968,7 +967,8 @@
         4.2,
         4.1,
         4.1,
-        4.2
+        4.2,
+        4.1
       ],
       "unit": "",
       "suffix": "%"
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 16.61,
-      "display": "16.61",
-      "change": -4.219999999999999,
-      "changePct": -20.259,
-      "date": "2026-11-04",
+      "value": 28.18,
+      "display": "28.18",
+      "change": 11.57,
+      "changePct": 69.657,
+      "date": "2026-11-05",
       "spark": [
-        15.67,
         14.87,
         16.07,
         16.04,
@@ -1355,7 +1354,8 @@
         19.42,
         21.15,
         20.83,
-        16.61
+        16.61,
+        28.18
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
+      "title": "Trader angst pivots from inflation to growth as tech rout deepens",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm13UzNKRG9XaWdpdHV5SGo2UHJKSFlrRW5NUXVNR21LcnpYM01JaHZvY2dTVnN4aTZIbnYxMjI1RUdDWmN6UjBaZTNOdFVNWnpPOTNtWlQ0c2RCMlFDY0VKX0lUZ0JUZHRtSVlHb2k1VENabjhMWkdncTBBUTQyaHMtWGVpaUlZcEFqVzZaVnJId2pJXzdpcm9QaU93QkRhYlZ5eFZQUFZlYmpnREhMUXU1cnE0Zw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T15:33:52.000Z"
+    },
+    {
+      "title": "Soaring freight rates give US refiners edge as crude discounts widen",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSW1NSjFpQTdNeUIyY2JFVE5yTm1MS3F2NmZSOGk4ZGR1ZzA0dFJROTVHMVc4QzJOYXlBUHBYOEZuMlZlOFBlVkZkLXE1OEplanMtYTIwVkFmXy1pSlhTcHZfQ3Zha3V0R1FqcUNTV2xIT2l6Tk10d1BVNDhPc1JvOVZHMEx6Sk9rcC1ORktnZzNVTW1FM21wc2pPVlFMaVdoVlhlT3pjd0E1cXg1R0VvU2ZfMjMxd2ZY?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T15:35:56.000Z"
+    },
+    {
+      "title": "Fed seen sticking to December rate hike after jobs data",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T16:04:55.000Z"
+    },
+    {
+      "title": "Gold drops as strong US payrolls boost dollar, yields",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T03:46:00.000Z"
+    },
+    {
+      "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T05:09:00.000Z"
+    },
+    {
+      "title": "Wall St Week Ahead As tech swoon roils market, US inflation data on tap",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWlPMS1sdHZxcTUxa3RDeUkwRFNDMFhEeGVNRktDVW9xeTNnMTFXbWMxQjlOTkttTkx5b19EVlVZOThRRGNCX0FrR2dIVTZpUHQzblctejRubG4yTWNyajJVaU8yV3JoYjZ1T19HY1U2dHBlMVE2a2oyUHpBZFZtb2g0T3FtSWRaT0hscHhkdGMwNktlb092R2g4cUFWWE9QS2RCOHh6d1QteW5pcWc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T11:07:45.000Z"
+    },
+    {
       "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-05T18:11:08.000Z"
     },
     {
-      "title": "Bank of England raises rates for first time since 2023, warns more likely",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEhfdUpzSlRCb2JiYmFYMjdxaEZySFE1cEJFcVlEWG1qajB4V2VGTXNmcGhRNHdBSF9Wa3FKcFpwMUpVVEc5NnQtaEhnQy0xUHpBc1lpZWp3TlZoUEhMQ1NHcFplMndKcmJJNEJrYlg2VnhoZlVJSkxnUDZzRzh2N0FuSlRHcl9JQTZ0LUhVMmxOaS1NWV9uWE15X19TN3pDMHFUeWNIdkRVQlYtemNsTQ?oc=5",
+      "title": "Why Gen Z is turning to prediction markets for a financial edge",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlAyNm1YQWdJa3dkeTlZS01IZmJFVUZmYWZnYVN2TFFpTF9mQmh1OGlwMGI1ZWV2Q05tSE5fbjRTWnAzMVVZSkRoZ0VXekF2U2M1TXpnVHByenMtQS1VRF8ycUE2a2FxRFh3WC00VEhmNnUwcTBDWGktaGZVc2M2ZERLdmVUSEQ4RUdIb0RGTThkM28xMUF0UF8wTEhMQ0lxd1BFM1ExcWIxclVuNG1HVw?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-05T17:11:41.000Z"
-    },
-    {
-      "title": "Bank of England raises rates for first time since 2023, says more may come",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUY3RVZDLURQel9mZWtEbWI5aEp6eEEyTU50ck5TOHhTenFuSUhVaGlxX0Z1UHF4cUxxeE1tdTZpMjEzaVlaaUQ2TENfVHVYVndJNWFLclNVemtIaEF0RFBWcE55anJ2cnJYT29jWEk5aHJId2NFOFdvNFBPcTZYTnV4UjhmdHotdm1ITmFNWEt5MVltUjlmOThrbWJXdjU0WEhsWllZRE5aam5WX0w2dQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T12:52:09.000Z"
-    },
-    {
-      "title": "Ethiopia revises economy up nearly 60% to $201 billion after GDP rebasing",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmZOWTdLSHNVdkVQUmhQRC1vNlRoR1BGM002REN1T1JHamNQWGZLZzhIdzByYlh5VTNvN2VNaDBtQjZSZXNWelllOTZpeFAxTVJtVzFIa3Jjb0tlTnNYNmRpNDBLQkVXT2tIY1dKcWdxME1KMFg0a3dyRTVhYlRGZTRrWWdaNjEwSGhNeTgzV01tRDVUaHZpQmh4RktSM012VV9idFJKVFRMQ2V6REVLUFlkR2hIVEsw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T13:12:09.000Z"
-    },
-    {
-      "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T20:58:39.000Z"
-    },
-    {
-      "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T03:46:00.000Z"
-    },
-    {
-      "title": "Asia stocks crumble after AI rout rocks US markets",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG9ENFo3M0RHNWI0VEdfTlZhWmpjVGR0UjViV3dBQllRVkNha0YzU1FhX2lDaWVUT1U1Ym5DbWRlOFpJZ3JPU3AwZ1Nia3NNWjdKc3Jvd0VXU3otQU83ZjFlQmZwbHcyZmJKZFk4dVJWaXhWQnV6MTF6TUpmaDcxNmdhbFFNaU1N?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T02:35:00.000Z"
-    },
-    {
-      "title": "Dollar little changed as oil prices bounce, payrolls eyed",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3ZvRzF1aTlTZE9WT0NxYkU4TWFHTi04YnhEVXd1VTJRTXdibGtPdGZtTWkwZEVBLU0xNmtZaEc4R2lWZWVSdGJtY1FSdzhIazR5a2YwdDJoRzFFTHN1Z2FNb2l5b2x5SllyTE9sTTZTNkxFODFJVkhxOGhlblRTXzNiLTZpc3FKcXBqRzZUMjYtY3VXOHlnR0hPOFFYTldZaXpzSGNTbzlPNlhUdHF1amJTcFp1dw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-05T01:06:00.000Z"
+      "publishedAt": "2026-11-05T11:46:05.000Z"
     }
   ]
 }
