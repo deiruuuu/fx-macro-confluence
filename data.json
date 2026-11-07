@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:01:47.260Z",
+  "updated": "2026-11-07T02:13:39.135Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 76152.52,
-      "display": "76,153",
-      "change": -4267.539999999994,
-      "changePct": -5.307,
-      "date": "2026-11-05",
+      "value": 75860.14,
+      "display": "75,860",
+      "change": -292.38000000000466,
+      "changePct": -0.384,
+      "date": "2026-11-06",
       "spark": [
-        83239.49,
         81657.19,
         82543.3,
         82926.27,
@@ -254,7 +253,8 @@
         77061.57,
         76934.21,
         80420.06,
-        76152.52
+        76152.52,
+        75860.14
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.58,
-      "display": "4.58",
-      "change": -0.03000000000000025,
-      "changePct": -0.651,
-      "date": "2026-11-04",
+      "value": 4.46,
+      "display": "4.46",
+      "change": -0.1200000000000001,
+      "changePct": -2.62,
+      "date": "2026-11-05",
       "spark": [
-        4.85,
         4.87,
         4.81,
         4.92,
@@ -1400,7 +1399,8 @@
         4.56,
         4.59,
         4.61,
-        4.58
+        4.58,
+        4.46
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.9,
-      "display": "4.90",
-      "change": -0.04999999999999982,
-      "changePct": -1.01,
-      "date": "2026-11-04",
+      "value": 4.84,
+      "display": "4.84",
+      "change": -0.0600000000000005,
+      "changePct": -1.224,
+      "date": "2026-11-05",
       "spark": [
-        5.11,
         5.18,
         5.17,
         5.24,
@@ -1443,13 +1442,20 @@
         4.94,
         4.91,
         4.95,
-        4.9
+        4.9,
+        4.84
       ],
       "unit": "",
       "suffix": ""
     }
   },
   "news": [
+    {
+      "title": "Fed policymakers consider rate hike after strong jobs report",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T20:58:34.000Z"
+    },
     {
       "title": "Trader angst pivots from inflation to growth as tech rout deepens",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm13UzNKRG9XaWdpdHV5SGo2UHJKSFlrRW5NUXVNR21LcnpYM01JaHZvY2dTVnN4aTZIbnYxMjI1RUdDWmN6UjBaZTNOdFVNWnpPOTNtWlQ0c2RCMlFDY0VKX0lUZ0JUZHRtSVlHb2k1VENabjhMWkdncTBBUTQyaHMtWGVpaUlZcEFqVzZaVnJId2pJXzdpcm9QaU93QkRhYlZ5eFZQUFZlYmpnREhMUXU1cnE0Zw?oc=5",
@@ -1460,19 +1466,7 @@
       "title": "Soaring freight rates give US refiners edge as crude discounts widen",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSW1NSjFpQTdNeUIyY2JFVE5yTm1MS3F2NmZSOGk4ZGR1ZzA0dFJROTVHMVc4QzJOYXlBUHBYOEZuMlZlOFBlVkZkLXE1OEplanMtYTIwVkFmXy1pSlhTcHZfQ3Zha3V0R1FqcUNTV2xIT2l6Tk10d1BVNDhPc1JvOVZHMEx6Sk9rcC1ORktnZzNVTW1FM21wc2pPVlFMaVdoVlhlT3pjd0E1cXg1R0VvU2ZfMjMxd2ZY?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-06T15:35:56.000Z"
-    },
-    {
-      "title": "Fed seen sticking to December rate hike after jobs data",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T16:04:55.000Z"
-    },
-    {
-      "title": "Gold drops as strong US payrolls boost dollar, yields",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T03:46:00.000Z"
+      "publishedAt": "2026-11-06T21:40:13.000Z"
     },
     {
       "title": "Markets fret over growth and inflation, just as tech rout gains speed",
@@ -1481,10 +1475,10 @@
       "publishedAt": "2026-11-06T05:09:00.000Z"
     },
     {
-      "title": "Wall St Week Ahead As tech swoon roils market, US inflation data on tap",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWlPMS1sdHZxcTUxa3RDeUkwRFNDMFhEeGVNRktDVW9xeTNnMTFXbWMxQjlOTkttTkx5b19EVlVZOThRRGNCX0FrR2dIVTZpUHQzblctejRubG4yTWNyajJVaU8yV3JoYjZ1T19HY1U2dHBlMVE2a2oyUHpBZFZtb2g0T3FtSWRaT0hscHhkdGMwNktlb092R2g4cUFWWE9QS2RCOHh6d1QteW5pcWc?oc=5",
+      "title": "Gold drops as strong US payrolls boost dollar, yields",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-06T11:07:45.000Z"
+      "publishedAt": "2026-11-06T03:46:00.000Z"
     },
     {
       "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
@@ -1497,6 +1491,12 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlAyNm1YQWdJa3dkeTlZS01IZmJFVUZmYWZnYVN2TFFpTF9mQmh1OGlwMGI1ZWV2Q05tSE5fbjRTWnAzMVVZSkRoZ0VXekF2U2M1TXpnVHByenMtQS1VRF8ycUE2a2FxRFh3WC00VEhmNnUwcTBDWGktaGZVc2M2ZERLdmVUSEQ4RUdIb0RGTThkM28xMUF0UF8wTEhMQ0lxd1BFM1ExcWIxclVuNG1HVw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-05T11:46:05.000Z"
+    },
+    {
+      "title": "US inflation too high; essential to get back to 2%: Fed's Williams",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTNvM3BqdWl4SmprODlFb250cjZNZU1FOVdHWEEtdU9QczJHVmVlUFA3dVRGd3BSUmNvN1hYQ0RQZzZ6N0NWLUFJOGhBTGhoUWNKTUE2Zmpqcmt2cWV4V1dQSmgzYW1Yb3VXN3lidjlBdE0zQ2hIc1ZnVlZJM2N0RlZCYlJPemdvcEhndWNnLWtiSVBQeEYxQ1BGbmVYeUdneWFn?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T10:32:09.000Z"
     }
   ]
 }
