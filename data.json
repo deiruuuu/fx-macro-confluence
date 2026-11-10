@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:05:41.739Z",
+  "updated": "2026-11-10T04:15:34.584Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 75239.55,
-      "display": "75,240",
-      "change": -456.0599999999977,
-      "changePct": -0.602,
-      "date": "2026-11-08",
+      "value": 75090.89,
+      "display": "75,091",
+      "change": -148.6600000000035,
+      "changePct": -0.198,
+      "date": "2026-11-09",
       "spark": [
-        82926.27,
         83683.56,
         81782.78,
         83159.9,
@@ -254,7 +253,8 @@
         76152.52,
         75860.14,
         75695.61,
-        75239.55
+        75239.55,
+        75090.89
       ],
       "unit": "",
       "suffix": ""
@@ -1454,7 +1454,7 @@
       "title": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-09T21:26:25.000Z"
+      "publishedAt": "2026-11-09T10:35:00.000Z"
     },
     {
       "title": "EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally",
@@ -1478,13 +1478,7 @@
       "title": "Fed should move policy 'with care' as it responds to inflation, Barkin says",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2pkV1hRTWpneFJMd191WGQtaGRvMTUtR1dHZE9UMzNYZmpocWNLeEx2UDd6RHZEajNibW9NZ3FBUUpsdHBwdjJMUjd4M0ZTNm1ib3huSXpneUpJY25FUFdabFRWZUZOQ3MxQWEwZDZ5SENvMmtfaU1ZQnlPenYxT0tiUFg3RmtzU0prYS1PNFp2X2I3U2phRXBFRGQ5c2kwUlF0Mmg0cUxDM2ZoamxTUQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-09T17:07:43.000Z"
-    },
-    {
-      "title": "Mexico's headline inflation accelerates more than expected in October",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlBiSDE5REJPcEZQU0tPcHZnU2RQN0RnanFIV0tsdUYyVS1xNG12NDZSQ2lTZ1plMzM2dWFOYVlxLWtnSXdUZEttWmJZMGExLXJzR2Q0RjRncDZKU3NUZnBJZEkwdlYySFVOcEN1eWFjM0x2a2ZkZ1dZNmlVY1hEOGw2S3poczNSVTBDSnpGb3RkSHFudUVXaEoyd1pQN1dhcHBOSG9NaVRSXzE3TEFJT3FqcDM0aTQ?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-09T13:35:43.000Z"
+      "publishedAt": "2026-11-09T19:12:26.000Z"
     },
     {
       "title": "NY Fed survey finds Americans more worried over future jobless levels",
@@ -1493,10 +1487,16 @@
       "publishedAt": "2026-11-09T18:23:54.000Z"
     },
     {
-      "title": "Dollar weakens against euro, yen as Iran talks lift risk appetite",
+      "title": "Dollar slips against major currencies as Iran talks lift risk appetite",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3ZtMDBIQ2p3MzI1VUNnS3M2Q1I4T1k1Mk1sU19peE9hOGM5cVh2cXZiY3Q2THgyR3ZnMzlhRExRM0s5ci1WZG5IQk55RUZkb2tITUp2OVRoY1VXWWFDS3pBMnNLSFhhZVplWWVjWmdRRmZ3eDNUNFREZWU2Wml1Y3Nnck9saTB4T3JPSGd2SGl4X1NwNmp2U19iY3BLSmV0ZEloYTRadldmNjJIY0l4NllucjVDT3lkQ0JLakFB?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-09T01:16:00.000Z"
+    },
+    {
+      "title": "Mexico's headline inflation accelerates more than expected in October",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlBiSDE5REJPcEZQU0tPcHZnU2RQN0RnanFIV0tsdUYyVS1xNG12NDZSQ2lTZ1plMzM2dWFOYVlxLWtnSXdUZEttWmJZMGExLXJzR2Q0RjRncDZKU3NUZnBJZEkwdlYySFVOcEN1eWFjM0x2a2ZkZ1dZNmlVY1hEOGw2S3poczNSVTBDSnpGb3RkSHFudUVXaEoyd1pQN1dhcHBOSG9NaVRSXzE3TEFJT3FqcDM0aTQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-09T13:35:43.000Z"
     }
   ]
 }
