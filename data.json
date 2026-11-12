@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:06:21.007Z",
+  "updated": "2026-11-12T03:15:44.408Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2527.05,
-      "display": "2,527.05",
-      "change": 41.23000000000002,
-      "changePct": 1.659,
-      "date": "2026-11-09",
+      "value": 2471.14,
+      "display": "2,471.14",
+      "change": -55.91000000000031,
+      "changePct": -2.212,
+      "date": "2026-11-10",
       "spark": [
-        2549.94,
         2537.42,
         2550.24,
         2533.51,
@@ -125,7 +124,8 @@
         2485.56,
         2501.59,
         2485.82,
-        2527.05
+        2527.05,
+        2471.14
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 19.92,
-      "display": "19.92",
-      "change": -5.719999999999999,
-      "changePct": -22.309,
-      "date": "2026-11-09",
+      "value": 19.46,
+      "display": "19.46",
+      "change": -0.46000000000000085,
+      "changePct": -2.309,
+      "date": "2026-11-10",
       "spark": [
-        16.04,
         16.34,
         16.39,
         15.31,
@@ -211,7 +210,8 @@
         16.61,
         28.18,
         25.64,
-        19.92
+        19.92,
+        19.46
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 73302.84,
-      "display": "73,303",
-      "change": -1788.050000000003,
-      "changePct": -2.381,
-      "date": "2026-11-10",
+      "value": 73777.1,
+      "display": "73,777",
+      "change": 474.2600000000093,
+      "changePct": 0.647,
+      "date": "2026-11-11",
       "spark": [
-        81782.78,
         83159.9,
         81694.05,
         82140.24,
@@ -254,7 +253,8 @@
         75695.61,
         75239.55,
         75090.89,
-        73302.84
+        73302.84,
+        73777.1
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 19.92,
-      "display": "19.92",
-      "change": -5.719999999999999,
-      "changePct": -22.309,
-      "date": "2026-11-09",
+      "value": 19.46,
+      "display": "19.46",
+      "change": -0.46000000000000085,
+      "changePct": -2.309,
+      "date": "2026-11-10",
       "spark": [
-        16.04,
         16.34,
         16.39,
         15.31,
@@ -1355,7 +1354,8 @@
         16.61,
         28.18,
         25.64,
-        19.92
+        19.92,
+        19.46
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+      "title": "COMMENTARY: Morning Bid: Jumbo Fed hike hits radar",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTlFNjVidGtEa2NTMGcyZ0VaUnhIQ003dnFtaHFKZG80bVlpdk91dlZwN0I1VU84ZWF4RXNjY1YyMmE3cHhweUhsNmxkeVluOF9nR3BMcy1Ec2dHckN4aEJlT3kweGd3WEdFZmlhRzJqODlTY28xb1VtUVE1LXhlM0lzcU1RQUtZX3RWS0dVVVlFTEpmZ3hn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T23:07:22.000Z"
+      "publishedAt": "2026-11-11T11:42:18.000Z"
     },
     {
-      "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+      "title": "PODCAST: The trillion-dollar question",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0w3eC1kVlV0d3RqTnNnU1g5QVgtVUY0emFKb0taZVVUS19WOXU0aVFfbFROY1lxaHd2REZZeHVNaDJXX19iVDl6UzlpeVVodkJpMkYxUVVOYUw3Rk11ZDVhZEVmMVVyUTk0OGxfSW8zM2NLbzZkbVBpb1ZKcVdOc2tKZmJNdWlyWXhqRzBMeWl1YVk?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T14:35:08.000Z"
+      "publishedAt": "2026-11-11T14:37:11.000Z"
     },
     {
-      "title": "US consumer prices rise briskly for third straight month",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+      "title": "Gold falls as hot inflation figures, higher dollar weigh",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T20:38:52.000Z"
+      "publishedAt": "2026-11-11T03:39:00.000Z"
     },
     {
-      "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
+      "title": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T10:26:00.000Z"
+      "publishedAt": "2026-11-12T01:52:00.000Z"
     },
     {
-      "title": "Fed's Waller plans to support at least a quarter-point rate hike in December",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3RjbDlfcXFBbHp0SVRSeHIzZHFTTnY5bjBuWGszTTMzUmxLUXNzRTFid29sbXV1emJSZWMwTEo4V2dWYjJ3TGlESmRlRzdFcDdQU3RxWi1QVEZrRlNBU0N3NG50WUNBWVdXbnZFS0RuVDNyRVdGWm1aRjFjWGRlRFRoTFhlbFMwQ1NjbTZMd2x0cnlHR0F4d2JNV3dKcHFOOE5TRFVsSlc5ekxoQ0E?oc=5",
+      "title": "Stocks rise on tech gains; Nvidia falls after hours",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T14:41:30.000Z"
+      "publishedAt": "2026-11-11T02:05:00.000Z"
     },
     {
-      "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
+      "title": "COP31 leaders try out new sales pitch for climate action: do it for the economy",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWdaZGFRbnk4UVFBQlROaVZaVEpnZ1ZheUJEUV9vU0llejhJNjN4OWt2c2FGUmRGZ0VMTnQ5Vi1fdkJEaVk3dEt6ODYzMEN4dThXMFYzOVB4MTlZb2gwaEZGMnN6RWdSb1BmeE8xQl9mMXE0ei1WVGN3MWlPR0VBZVd4aHdZOW5HMS1TWFg4N3JpaFlaRDZBX1VqSkgtUXhZWjlfd1ZLRmRPcW1SY0IwNHNkaFZUVGk2QTViWVVR?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T03:31:00.000Z"
+      "publishedAt": "2026-11-11T17:15:58.000Z"
     },
     {
-      "title": "US yields climb, stocks fall as inflation data boosts chances for larger Fed rate hike",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+      "title": "Dollar climbs as traders raise December Fed hike bets",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUM1V3d2azVfSFlud1E3Z05veEpjMmxwYzhBWkc1NTgxRktLS25sQWVlbWVWUGxCdVBXR3dmbzMxeDNYUzFJVi1aTTZIcWQ0X3kteU55dWdKeEN0ZGhvNlBHc2cwMFY4a1Q3R2VxQS1BdUcwMkRMYlc4VFltaFZxekxGVHg3ZVhhRE92WXNwb3JkMXFKeExZUlppZ2dnaHVmcjJMLTVUM1BXLUVXSlNn?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T02:23:00.000Z"
+      "publishedAt": "2026-11-11T00:54:00.000Z"
     },
     {
-      "title": "US consumer prices expected to have risen at slower pace in October",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWZUaWs1elZ2SUlESnU3ZEM1NE1GcC04WE9raTd2WlpKd0szWEZTTWlPQk56aWs1S0pULTBoMnFUSkpVZ2ZEcXdpRkJpYVdfQUhvU1NfMWxNT2Q0dG5QZ2Zzd2o2dld3WXM2X2dzVGx3QTFmVmwtUmpYV19NNERpYXNvYThCc2xPQ1Vha0t3NFhJTkpQbjJwWXNDMHo1RDlkdmlTY2VB?oc=5",
+      "title": "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmdEZENBbDFmNjBmQ1lkUUdxbTUwZlZCZDF0MUo5cXZCTzMxNmdORWpkWl9WX1RucHdsR0VuSWhLOXhSYjZTYUstRFl6WWJ6V3JYallmel9vc0xhS2VGa0EwVGRkdE95MEVlU3RLb3owb0cweERFQUxXaFRqNXJiYURqN2F0WEVWSVY1SzkxbzVqN2V1NlMyMUxXTG1SQ0VEZUZZQm43SUxlbWpRSG15TVhRdUJDdXF5Q1laUmV1MGg?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-10T05:03:00.000Z"
+      "publishedAt": "2026-11-11T23:30:27.000Z"
     }
   ]
 }
