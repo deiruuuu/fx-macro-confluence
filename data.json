@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:01:09.486Z",
+  "updated": "2026-11-13T02:49:21.630Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -133,18 +133,12 @@
     "wti": {
       "label": "WTI OIL",
       "series": "DCOILWTICO",
-      "value": 99.64,
-      "display": "99.64",
-      "change": -0.4200000000000017,
-      "changePct": -0.42,
-      "date": "2026-11-03",
+      "value": 89.62,
+      "display": "89.62",
+      "change": 0,
+      "changePct": 0,
+      "date": "2026-11-11",
       "spark": [
-        93.38,
-        95.88,
-        85.23,
-        99.37,
-        96.16,
-        97.18,
         99.77,
         97.89,
         96.13,
@@ -168,7 +162,13 @@
         105.51,
         107.56,
         100.06,
-        99.64
+        99.64,
+        91.73,
+        94.05,
+        94.37,
+        90.4,
+        89.62,
+        89.62
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 73777.1,
-      "display": "73,777",
-      "change": 474.2600000000093,
-      "changePct": 0.647,
-      "date": "2026-11-11",
+      "value": 70822.24,
+      "display": "70,822",
+      "change": -2954.8600000000006,
+      "changePct": -4.005,
+      "date": "2026-11-12",
       "spark": [
-        83159.9,
         81694.05,
         82140.24,
         81475.05,
@@ -254,7 +253,8 @@
         75239.55,
         75090.89,
         73302.84,
-        73777.1
+        73777.1,
+        70822.24
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.56,
-      "display": "4.56",
-      "change": 0.04999999999999982,
-      "changePct": 1.109,
-      "date": "2026-11-09",
+      "value": 4.73,
+      "display": "4.73",
+      "change": 0.17000000000000082,
+      "changePct": 3.728,
+      "date": "2026-11-10",
       "spark": [
-        4.92,
         4.89,
         4.88,
         4.78,
@@ -1400,7 +1399,8 @@
         4.58,
         4.46,
         4.51,
-        4.56
+        4.56,
+        4.73
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.88,
-      "display": "4.88",
-      "change": 0.019999999999999574,
-      "changePct": 0.412,
-      "date": "2026-11-09",
+      "value": 4.98,
+      "display": "4.98",
+      "change": 0.10000000000000053,
+      "changePct": 2.049,
+      "date": "2026-11-10",
       "spark": [
-        5.24,
         5.26,
         5.29,
         5.24,
@@ -1443,7 +1442,8 @@
         4.9,
         4.84,
         4.86,
-        4.88
+        4.88,
+        4.98
       ],
       "unit": "",
       "suffix": ""
@@ -1457,16 +1457,16 @@
       "publishedAt": "2026-11-12T12:27:03.000Z"
     },
     {
+      "title": "Family Dollar reaches $63 million settlement with US FTC, states over customer overcharges",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1ZPMHJzOXpxV2l6akRlcDNXeDNtS3hieHRPd3ZpbWRRRUNoUTNKanVNV2RndnBieXVXTlNWQkNKZnJLUDVXRDFwOUVyZUtudFNuaEF4a3c1eUZmRWJWNlNJTElvOThXSlN2TjZ5RDM4MkhYNmZGRG52c3JxemlwY1B2YXRyWWROOFV6cHJzYWNCdzhlc3Fxa0k0bVRNeklpZXZycTZaRVN6WmxsVEp1QzZlSU1pbll3TnRwcndqUERBUlZPQnJrXw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-12T18:42:53.000Z"
+    },
+    {
       "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-12T05:06:00.000Z"
-    },
-    {
-      "title": "ECB's Lagarde would rival centrists in French presidential race, poll shows",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWw2RTZEWFJTak9pcnJoejFBZHNtUl9NTGZlclpiNXZxaS1faHhxSEJEUWU1ZXlOMGFXTGlvR3MyVG9LTmgzalJUd0FESzR2UEFpU3Q5M2dSOVpxYi1UTW1OYkdRelhNNFdFZ2xZbkREaDBNdzhiTWpvTXBsLTdaUmd1eHYwVlpqY2dKMmdRckxEQVUzb2h6TkJWeXdYUHlUc3RNZ3Y2QkIzVWN4eXl4bmNB?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T07:33:00.000Z"
     },
     {
       "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
@@ -1475,28 +1475,28 @@
       "publishedAt": "2026-11-12T03:40:00.000Z"
     },
     {
-      "title": "AI spending helps lift UK growth to fastest since early 2024",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3NrMUYyRGhKcEpUNXZhajh2Y2lfRXF0ekhtdVBBMVI5aGgtSmlqNzdHYzVfdmVlV296QkZzMi1rOGtVVDJsdG5aQ2haSmhnMVE0dXVPcGJnUEV4UHBWbnI4b1JkUjN0WlBHbTBfa2RpME11dV9tSUlBYnF4OFpYcFFCMm5KM1hROVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T07:08:00.000Z"
-    },
-    {
       "title": "Dollar drops slightly from 19-month highs, rate divergence in focus",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmd6aUhaTzk5c0pGbUgyQ2U2clNjX0VCQjZVT1g4dmNVUkFFa05DQTRmWHNLVl9oRGJ5R0tfeVZjbGlsSjhwMHNTVEhUaWtJMzJGUk15dnRGd2d5RGpLbEVtZzZFTGVVOHM0cmtMTFNkMTJDbUNPMm5acjZFbjltWC1URXlPTHdOLUlIUVdJOWxqb0xnMndvUGVwYlEtTGNvQXZ0Vg?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-12T00:05:00.000Z"
     },
     {
-      "title": "Wall Street edges up, Nvidia drops after CEO resigns",
+      "title": "ECB's Lagarde would rival centrists in French presidential race, poll shows",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWw2RTZEWFJTak9pcnJoejFBZHNtUl9NTGZlclpiNXZxaS1faHhxSEJEUWU1ZXlOMGFXTGlvR3MyVG9LTmgzalJUd0FESzR2UEFpU3Q5M2dSOVpxYi1UTW1OYkdRelhNNFdFZ2xZbkREaDBNdzhiTWpvTXBsLTdaUmd1eHYwVlpqY2dKMmdRckxEQVUzb2h6TkJWeXdYUHlUc3RNZ3Y2QkIzVWN4eXl4bmNB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-12T07:33:00.000Z"
+    },
+    {
+      "title": "AI spending helps lift UK growth to fastest since early 2024",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3NrMUYyRGhKcEpUNXZhajh2Y2lfRXF0ekhtdVBBMVI5aGgtSmlqNzdHYzVfdmVlV296QkZzMi1rOGtVVDJsdG5aQ2haSmhnMVE0dXVPcGJnUEV4UHBWbnI4b1JkUjN0WlBHbTBfa2RpME11dV9tSUlBYnF4OFpYcFFCMm5KM1hROVE?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-12T07:08:00.000Z"
+    },
+    {
+      "title": "Wall Street ends lower as Nvidia CEO resigns; US yields up",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-12T01:53:00.000Z"
-    },
-    {
-      "title": "Rupee slips with traders clinging to equity cues, awaiting inflation data",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTVTYW9HV3ByQlFKTUQxUVdya29lb2dGWXlDRTQ2T042UkVMa2F6aDdHMEkwSGduTThwcjRSNE9DM25KbVpqYWx2VWJYUW1wV1hPcG5ZMFVQekhwM3RYVjlXTVcyWVhlYjk0QVNFYjFpUVNHTjlubkFYWlpfNVpESEFSNWVmVWp4UHpiM19vTm5Rb3JaTGxMS2dQUWVtNTJFVlRjMjlQaDJHWVIxTm1oYThYeGU?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T02:30:00.000Z"
     }
   ]
 }
