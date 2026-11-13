@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:49:21.630Z",
+  "updated": "2026-11-13T20:36:26.367Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7619.38,
-      "display": "7,619",
-      "change": 98.44999999999982,
-      "changePct": 1.309,
-      "date": "2026-11-11",
+      "value": 7592.4,
+      "display": "7,592",
+      "change": -26.980000000000473,
+      "changePct": -0.354,
+      "date": "2026-11-12",
       "spark": [
-        7666.45,
         7722.72,
         7773.95,
         7818.93,
@@ -82,7 +81,8 @@
         7376.86,
         7549.94,
         7520.93,
-        7619.38
+        7619.38,
+        7592.4
       ],
       "unit": "",
       "suffix": ""
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2445.86,
-      "display": "2,445.86",
-      "change": -25.279999999999745,
-      "changePct": -1.023,
-      "date": "2026-11-11",
+      "value": 2381.34,
+      "display": "2,381.34",
+      "change": -64.51999999999998,
+      "changePct": -2.638,
+      "date": "2026-11-12",
       "spark": [
-        2550.24,
         2533.51,
         2529.93,
         2547.26,
@@ -125,7 +124,8 @@
         2485.82,
         2527.05,
         2471.14,
-        2445.86
+        2445.86,
+        2381.34
       ],
       "unit": "",
       "suffix": ""
@@ -176,13 +176,12 @@
     "vix": {
       "label": "VIX",
       "series": "VIXCLS",
-      "value": 17.49,
-      "display": "17.49",
-      "change": -1.9700000000000024,
-      "changePct": -10.123,
-      "date": "2026-11-11",
+      "value": 18.7,
+      "display": "18.70",
+      "change": 1.2100000000000009,
+      "changePct": 6.918,
+      "date": "2026-11-12",
       "spark": [
-        16.39,
         15.31,
         15.52,
         15.01,
@@ -211,7 +210,8 @@
         25.64,
         19.92,
         19.46,
-        17.49
+        17.49,
+        18.7
       ],
       "unit": "",
       "suffix": ""
@@ -1105,13 +1105,12 @@
     "ppi": {
       "label": "PPI",
       "series": "PPIACO",
-      "value": 295.708,
-      "display": "295.7",
-      "change": 7.973000000000013,
-      "changePct": 2.771,
-      "date": "2026-09-01",
+      "value": 293.921,
+      "display": "293.9",
+      "change": -0.5520000000000209,
+      "changePct": -0.187,
+      "date": "2026-10-01",
       "spark": [
-        256.978,
         255.313,
         255.914,
         257.321,
@@ -1137,10 +1136,11 @@
         276.109,
         282.722,
         290.281,
-        286.037,
-        284.973,
-        287.735,
-        295.708
+        285.795,
+        284.837,
+        287.522,
+        294.473,
+        293.921
       ],
       "unit": "",
       "suffix": ""
@@ -1195,7 +1195,7 @@
       "display": "2.50",
       "change": 0,
       "changePct": 0,
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "spark": [
         2.5,
         2.5,
@@ -1320,13 +1320,12 @@
     "vix_fred": {
       "label": "VIX (FRED)",
       "series": "VIXCLS",
-      "value": 17.49,
-      "display": "17.49",
-      "change": -1.9700000000000024,
-      "changePct": -10.123,
-      "date": "2026-11-11",
+      "value": 18.7,
+      "display": "18.70",
+      "change": 1.2100000000000009,
+      "changePct": 6.918,
+      "date": "2026-11-12",
       "spark": [
-        16.39,
         15.31,
         15.52,
         15.01,
@@ -1355,7 +1354,8 @@
         25.64,
         19.92,
         19.46,
-        17.49
+        17.49,
+        18.7
       ],
       "unit": "",
       "suffix": ""
@@ -1451,52 +1451,52 @@
   },
   "news": [
     {
-      "title": "India's inflation breaches central bank's 6% limit, bolsters case for rate hikes",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlE4RjR5cTc2cVI3bWZZWHJxcGdTTXA4UjBQNUEtbVdfeXJwdXZ1b21ZejRTaERGWmlXa0JDZ2ZKWHdBaUx3cVFwRnlTSzVzci1FakptNjVUWVZZYXZ2WEEwVy1LMktOWFlUdE5GNHpLbTBMNTR2VFFwRHUtSDFqUkNnUkFNUDBBR2Z0Zm84YjZraTJnaV9uUEU1NVZGN0xnaHVIMWVxRFNiOEsyelNQdWI0R1Y3UVpZ?oc=5",
+      "title": "US producer prices rise moderately in October, but inflation broadens out",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-12T12:27:03.000Z"
+      "publishedAt": "2026-11-13T17:46:45.000Z"
     },
     {
-      "title": "Family Dollar reaches $63 million settlement with US FTC, states over customer overcharges",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1ZPMHJzOXpxV2l6akRlcDNXeDNtS3hieHRPd3ZpbWRRRUNoUTNKanVNV2RndnBieXVXTlNWQkNKZnJLUDVXRDFwOUVyZUtudFNuaEF4a3c1eUZmRWJWNlNJTElvOThXSlN2TjZ5RDM4MkhYNmZGRG52c3JxemlwY1B2YXRyWWROOFV6cHJzYWNCdzhlc3Fxa0k0bVRNeklpZXZycTZaRVN6WmxsVEp1QzZlSU1pbll3TnRwcndqUERBUlZPQnJrXw?oc=5",
+      "title": "How US tech pain is European stock markets' gain",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-12T18:42:53.000Z"
+      "publishedAt": "2026-11-13T17:03:44.000Z"
+    },
+    {
+      "title": "European stocks set for weekly gain, dollar near 19-month high on rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-13T01:55:00.000Z"
+    },
+    {
+      "title": "Dollar set for biggest weekly gain in two months",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-13T01:58:00.000Z"
+    },
+    {
+      "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-13T15:40:04.000Z"
+    },
+    {
+      "title": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpiVnhweGgtUnh2TlMwYzFJalVYZ3NBdklEbjZpdkxaeXZMUzVmUXpPbXpJYXFsYjBfd1puVjFUVmFmUTdOSExEQUMtRS1YLThiMXduclEtM3g4MlY0S1AwVy1xQ1d3V193NzlfTGxwNXJRMkNHcTJiMnVTUTFNNHR0bHhCNFlGbk5PU1NmOHl6aG01emdCNzBVM2lSNG9MMW1sUA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-12T21:55:00.000Z"
+    },
+    {
+      "title": "Rate-hike bets keep gold on track for its worst week in four months",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-13T03:43:00.000Z"
     },
     {
       "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-12T05:06:00.000Z"
-    },
-    {
-      "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T03:40:00.000Z"
-    },
-    {
-      "title": "Dollar drops slightly from 19-month highs, rate divergence in focus",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmd6aUhaTzk5c0pGbUgyQ2U2clNjX0VCQjZVT1g4dmNVUkFFa05DQTRmWHNLVl9oRGJ5R0tfeVZjbGlsSjhwMHNTVEhUaWtJMzJGUk15dnRGd2d5RGpLbEVtZzZFTGVVOHM0cmtMTFNkMTJDbUNPMm5acjZFbjltWC1URXlPTHdOLUlIUVdJOWxqb0xnMndvUGVwYlEtTGNvQXZ0Vg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T00:05:00.000Z"
-    },
-    {
-      "title": "ECB's Lagarde would rival centrists in French presidential race, poll shows",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWw2RTZEWFJTak9pcnJoejFBZHNtUl9NTGZlclpiNXZxaS1faHhxSEJEUWU1ZXlOMGFXTGlvR3MyVG9LTmgzalJUd0FESzR2UEFpU3Q5M2dSOVpxYi1UTW1OYkdRelhNNFdFZ2xZbkREaDBNdzhiTWpvTXBsLTdaUmd1eHYwVlpqY2dKMmdRckxEQVUzb2h6TkJWeXdYUHlUc3RNZ3Y2QkIzVWN4eXl4bmNB?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T07:33:00.000Z"
-    },
-    {
-      "title": "AI spending helps lift UK growth to fastest since early 2024",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3NrMUYyRGhKcEpUNXZhajh2Y2lfRXF0ekhtdVBBMVI5aGgtSmlqNzdHYzVfdmVlV296QkZzMi1rOGtVVDJsdG5aQ2haSmhnMVE0dXVPcGJnUEV4UHBWbnI4b1JkUjN0WlBHbTBfa2RpME11dV9tSUlBYnF4OFpYcFFCMm5KM1hROVE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T07:08:00.000Z"
-    },
-    {
-      "title": "Wall Street ends lower as Nvidia CEO resigns; US yields up",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T01:53:00.000Z"
     }
   ]
 }
