@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:36:26.367Z",
+  "updated": "2026-11-14T02:36:57.631Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -47,13 +47,12 @@
     "sp500": {
       "label": "S&P 500",
       "series": "SP500",
-      "value": 7592.4,
-      "display": "7,592",
-      "change": -26.980000000000473,
-      "changePct": -0.354,
-      "date": "2026-11-12",
+      "value": 7561.67,
+      "display": "7,562",
+      "change": -30.729999999999563,
+      "changePct": -0.405,
+      "date": "2026-11-13",
       "spark": [
-        7722.72,
         7773.95,
         7818.93,
         7801.77,
@@ -82,7 +81,8 @@
         7549.94,
         7520.93,
         7619.38,
-        7592.4
+        7592.4,
+        7561.67
       ],
       "unit": "",
       "suffix": ""
@@ -219,13 +219,12 @@
     "btc": {
       "label": "BTC",
       "series": "CBBTCUSD",
-      "value": 70822.24,
-      "display": "70,822",
-      "change": -2954.8600000000006,
-      "changePct": -4.005,
-      "date": "2026-11-12",
+      "value": 68178.05,
+      "display": "68,178",
+      "change": -2644.1900000000023,
+      "changePct": -3.734,
+      "date": "2026-11-13",
       "spark": [
-        81694.05,
         82140.24,
         81475.05,
         81310.49,
@@ -254,7 +253,8 @@
         75090.89,
         73302.84,
         73777.1,
-        70822.24
+        70822.24,
+        68178.05
       ],
       "unit": "",
       "suffix": ""
@@ -1365,13 +1365,12 @@
     "y2": {
       "label": "2-Yr",
       "series": "DGS2",
-      "value": 4.73,
-      "display": "4.73",
-      "change": 0.17000000000000082,
-      "changePct": 3.728,
-      "date": "2026-11-10",
+      "value": 4.86,
+      "display": "4.86",
+      "change": 0.1299999999999999,
+      "changePct": 2.748,
+      "date": "2026-11-12",
       "spark": [
-        4.89,
         4.88,
         4.78,
         4.83,
@@ -1400,7 +1399,8 @@
         4.46,
         4.51,
         4.56,
-        4.73
+        4.73,
+        4.86
       ],
       "unit": "",
       "suffix": ""
@@ -1408,13 +1408,12 @@
     "y10": {
       "label": "10-Yr",
       "series": "DGS10",
-      "value": 4.98,
-      "display": "4.98",
-      "change": 0.10000000000000053,
-      "changePct": 2.049,
-      "date": "2026-11-10",
+      "value": 5.1,
+      "display": "5.10",
+      "change": 0.11999999999999922,
+      "changePct": 2.41,
+      "date": "2026-11-12",
       "spark": [
-        5.26,
         5.29,
         5.24,
         5.28,
@@ -1443,7 +1442,8 @@
         4.84,
         4.86,
         4.88,
-        4.98
+        4.98,
+        5.1
       ],
       "unit": "",
       "suffix": ""
@@ -1451,10 +1451,28 @@
   },
   "news": [
     {
+      "title": "AI rockets to top of worries about financial system in latest Fed survey",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-13T22:26:58.000Z"
+    },
+    {
+      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-14T00:03:00.000Z"
+    },
+    {
       "title": "US producer prices rise moderately in October, but inflation broadens out",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-13T17:46:45.000Z"
+    },
+    {
+      "title": "Fed likely to need to raise rates amid worsening inflation: Daly",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-13T18:48:40.000Z"
     },
     {
       "title": "How US tech pain is European stock markets' gain",
@@ -1463,16 +1481,10 @@
       "publishedAt": "2026-11-13T17:03:44.000Z"
     },
     {
-      "title": "European stocks set for weekly gain, dollar near 19-month high on rate hike bets",
+      "title": "Stocks fall with tech, Nvidia concerns; US dollar climbs",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-13T01:55:00.000Z"
-    },
-    {
-      "title": "Dollar set for biggest weekly gain in two months",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-13T01:58:00.000Z"
     },
     {
       "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
@@ -1485,18 +1497,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpiVnhweGgtUnh2TlMwYzFJalVYZ3NBdklEbjZpdkxaeXZMUzVmUXpPbXpJYXFsYjBfd1puVjFUVmFmUTdOSExEQUMtRS1YLThiMXduclEtM3g4MlY0S1AwVy1xQ1d3V193NzlfTGxwNXJRMkNHcTJiMnVTUTFNNHR0bHhCNFlGbk5PU1NmOHl6aG01emdCNzBVM2lSNG9MMW1sUA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-12T21:55:00.000Z"
-    },
-    {
-      "title": "Rate-hike bets keep gold on track for its worst week in four months",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-13T03:43:00.000Z"
-    },
-    {
-      "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-12T05:06:00.000Z"
     }
   ]
 }
